@@ -1,0 +1,4 @@
+template.json
+.browser_profile/
+out/
+__pycache__/
