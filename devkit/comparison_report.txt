@@ -1,50 +1,31 @@
 ======================================================================
 COMPARISON REPORT
 ======================================================================
-generated : 2026-08-12 15:26:32
+generated : 2026-08-12 15:56:22
 df1       : 538 rows x 115 columns
 df2       : 538 rows x 115 columns
+mode      : POSITIONAL (row i vs row i)
 
 ----------------------------------------------------------------------
-1. ROW COUNT
+SHAPE
 ----------------------------------------------------------------------
-PASS  both have 538 rows
+rows        : df1=538  df2=538   OK
+columns     : df1=115  df2=115   OK
+column names: identical & same order
 
 ----------------------------------------------------------------------
-2. COLUMN COUNT
+CELL VALUES  (row i vs row i, no key)
 ----------------------------------------------------------------------
-PASS  both have 115 columns
 
-----------------------------------------------------------------------
-3. COLUMN NAMES
-----------------------------------------------------------------------
-PASS  identical names, identical order
-
-----------------------------------------------------------------------
-4. ROW IDENTITY (matched by key)
-----------------------------------------------------------------------
-key columns: ['Player', 'Team', 'Age']
-no duplicate keys — every row is uniquely identified
-
-keys in both      : 538
-only in df1       : 0
-only in df2       : 0
-
-----------------------------------------------------------------------
-5. CELL VALUES (aligned by key)
-----------------------------------------------------------------------
-note: comparing 112 non-key shared columns
-
-PASS  538 matched rows, 60256 cells, 0 different
+PASS  538 rows, 61870 cells, 0 different
 
 ======================================================================
 SUMMARY
 ======================================================================
-  1. row count       PASS
-  2. column count    PASS
-  3. column names    PASS
-  4. row identity    PASS
-  5. cell values     PASS
+  row count      PASS
+  column count   PASS
+  column names   PASS
+  cell values    PASS
 
 RESULT: IDENTICAL
 ======================================================================
