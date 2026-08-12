@@ -16,8 +16,12 @@ from pathlib import Path
 import pandas as pd
 
 # ---- set this ----
-ROOT_FOLDER = "data/2025-2026"
+SEASON = "2025-2026"
 # ------------------
+
+# This script lives in devkit/. The data folder is one level out:
+# devkit/ -> repo root -> data/<SEASON>.
+ROOT_FOLDER = Path(__file__).resolve().parent.parent / "data" / SEASON
 
 SORT_COL = "Market value"
 
@@ -57,7 +61,37 @@ def combine_one(folder):
     print(f"  {folder.name}")
     print(f"      {len(xlsx)} file(s) -> {len(df)} rows "
           f"({removed} duplicate{'s' if removed != 1 else ''} removed) -> {dest.name}")
+
+    # verify against SIZE.txt (the Wyscout result count you recorded)
+    verify(folder, len(df))
     return True
+
+
+def verify(folder, n_rows):
+    """Expected count comes from the NAME of a .txt file, e.g. 538.txt -> 538."""
+    txts = list(folder.glob("*.txt"))
+    numbered = [(t, int(re.search(r"\d+", t.stem).group()))
+                for t in txts if re.search(r"\d+", t.stem)]
+
+    if not numbered:
+        if txts:  # e.g. the placeholder SIZE.txt
+            names = ", ".join(t.name for t in txts)
+            print(f"      no numbered .txt — rename {names} to the count, e.g. 538.txt")
+        else:
+            print("      no .txt with the count — add one named after the row count, e.g. 538.txt")
+        return
+
+    if len(numbered) > 1:
+        print(f"      ! more than one numbered .txt: {', '.join(t.name for t, _ in numbered)} "
+              f"— verification skipped")
+        return
+
+    t, expected = numbered[0]
+    if expected == n_rows:
+        print(f"      VERIFY OK  ({n_rows} rows = {t.name})")
+    else:
+        print(f"      VERIFY FAIL  csv has {n_rows} rows but {t.name} says {expected} "
+              f"(off by {n_rows - expected:+d})")
 
 
 def main():

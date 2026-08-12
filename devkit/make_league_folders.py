@@ -95,6 +95,8 @@ LEAGUE_MAP = [
     ("red", "Venezuela",     "Venezuela",              "VEN", ["Primera División"]),
 ]
 
+SEASON = "2025-2026"     # league folders are created inside data/<SEASON>
+
 ILLEGAL = '<>:"/\\|?*'   # characters Windows won't allow in a folder name
 
 
@@ -104,15 +106,11 @@ def safe(name):
     return name.strip().rstrip(".")   # Windows also dislikes a trailing dot
 
 
-def find_data_dir():
-    """Locate the repo's data/ folder: nearest 'data' walking up from this file,
-    else ./data beside it."""
-    here = Path(__file__).resolve().parent
-    for base in (here, *here.parents):
-        cand = base / "data"
-        if cand.is_dir():
-            return cand
-    return here / "data"
+def season_dir():
+    """This script lives in devkit/. The data folder is one level out:
+    devkit/ -> repo root -> data/<SEASON>. That folder must already exist —
+    this script never creates data/ or the season folder."""
+    return Path(__file__).resolve().parent.parent / "data" / SEASON
 
 
 def main():
@@ -131,16 +129,19 @@ def main():
         else:
             i += 1
 
-    data_dir = out or find_data_dir()
+    data_dir = out or season_dir()
+    if not data_dir.is_dir():
+        print(f"target folder does not exist: {data_dir}")
+        print("Create data/<SEASON> yourself first — this script will not create")
+        print("parent folders (so it can't accidentally make devkit/data).")
+        return
+
     print(f"data folder : {data_dir}")
     print(f"tiers       : {', '.join(tiers)}")
     print(f"mode        : {'DRY RUN (nothing created)' if dry else 'creating folders'}")
     print()
 
     rows = [r for r in LEAGUE_MAP if r[0] in tiers]
-
-    if not dry:
-        data_dir.mkdir(parents=True, exist_ok=True)
 
     n = 0
     codes = {}          # code -> (english, portuguese), first seen order
@@ -154,7 +155,14 @@ def main():
             folder = safe(f"{n} - [{code}] - ({league})")
             print(f"  {folder}")
             if not dry:
-                (data_dir / folder).mkdir(exist_ok=True)
+                fdir = data_dir / folder
+                fdir.mkdir(exist_ok=True)
+                # SIZE.txt holds the expected row count (the Wyscout result
+                # counter). Created empty; you fill in the number. Never
+                # overwritten, so re-running won't wipe counts you've entered.
+                size = fdir / "SIZE.txt"
+                if not size.exists():
+                    size.write_text("", encoding="utf-8")
 
     # reference file
     lines = [
