@@ -34,23 +34,56 @@ BATCH = ["Germany. 2. Bundesliga", "Germany. 3. Liga", "Portugal. Liga 3"]
 
 ## First run
 
-A browser opens. Log in, go to Advanced Search, set the column layout you want,
-press ENTER in the terminal. The script clicks Export once, keeps a copy of that
-request in `template.json`, and closes the browser.
+A browser opens and the script does the rest by itself: opens Advanced Search,
+clicks Export once, saves that request as `template.json`, closes the browser.
 
-Every run after that uses `template.json` and never opens a browser. When the
-token in it expires the script deletes it and reopens the browser by itself.
+The only thing it may ask you for is the login, and only when the saved session
+has expired (weeks, not runs).
 
-The layout you have on screen during that first run is the layout every CSV gets.
-To change it: delete `template.json`, run again, pick a different layout.
+To skip even that, create `C:\Users\<you>\.wyscout\.env` (same folder as the
+token — outside the repo):
 
-## Why it needs that one browser step
+```
+WYSCOUT_EMAIL=you@example.com
+WYSCOUT_PASSWORD=yourpassword
+```
 
-The export request carries a `columns` block built inside the page from your
-display preset. Wyscout's column catalogue has 51 definitions which the server
-expands into your 115 output columns — one "Duels" definition becomes both
-"Duels per 90" and "Duels won, %". Rebuilding that block by hand would not
-reproduce your export. Copying the real one does, exactly.
+That's it. `python fetch_wyscout.py --where` tells you the exact path and whether
+it found them. Real environment variables of the same name override the file.
+
+Leave it out if you'd rather type the password yourself — the session persists
+either way, so it's rare. And if your account uses SSO or 2FA, auto-login won't
+work; log in by hand once and the session carries you.
+
+Every run after the first uses `template.json` and opens no browser at all.
+
+### How it opens Advanced Search without clicking
+
+Advanced Search isn't a URL in the platform — it's an app the shell loads in an
+iframe. The shell's own app registry gives the recipe:
+
+```json
+{"id": "advanced_search",
+ "js_command": "ae.getCmp('app').showAdvancedSearchPopUp(arguments[0])",
+ "root": "https://wyscout-apps.hudl.com/advanced-search/"}
+```
+
+So the script calls that JS, waits for the iframe to appear, reads its `src`
+(which carries `access_token`, `groupId`, `subgroupId`), and then loads that URL
+as an ordinary page. No clicking, no frame juggling.
+
+### Why it clicks Export once
+
+`COMP_SCOPE` and `TIMEFRAME` never go through the UI — they're set on the
+request. The single Export click exists only to capture the `columns` block,
+which the page builds from your display preset. Wyscout's catalogue has 51
+column definitions that the server expands into your 115 output columns (one
+"Duels" definition becomes both "Duels per 90" and "Duels won, %"), so
+rebuilding it by hand would not reproduce your export. Copying the real one
+does, exactly — and it only happens once.
+
+The layout active on that first run is the layout every CSV gets. To change it:
+delete `template.json`, set the layout in Wyscout, run again.
 
 ## How it works
 
@@ -84,6 +117,49 @@ not numbers.
 Auth is `?token=…&groupId=…&subgroupId=…` on the URL, taken from the captured
 request.
 
+## Where your login is stored
+
+Playwright stores nothing itself. No cloud, no Playwright-managed account data.
+The only thing it owns is the Chromium binary (`%LOCALAPPDATA%\ms-playwright`),
+which holds no user data. Your login goes wherever the script tells Chromium to
+put its profile, and that is one setting:
+
+```python
+AUTH_DIR = Path(os.environ.get("WYSCOUT_HOME") or Path.home() / ".wyscout")
+```
+
+Default is `C:\Users\<you>\.wyscout`, outside the repo. Three things land there:
+
+| | what |
+|---|---|
+| `browser_profile/` | Chromium profile. Cookies live in `Default\Network\Cookies`; on Windows their values are encrypted with DPAPI tied to your Windows account, so copying the folder to another machine or user won't decrypt them |
+| `template.json` | the captured export request. **Plaintext session token** — this is the one that actually matters |
+| `.env` | optional, only if you want auto-login. **Plaintext password** |
+
+To put it somewhere else:
+
+```cmd
+set WYSCOUT_HOME=C:\Users\hasht\Desktop\wyscout-auth
+python fetch_wyscout.py
+```
+
+Permanently, so you don't retype it:
+
+```cmd
+setx WYSCOUT_HOME "C:\Users\hasht\Desktop\wyscout-auth"
+```
+
+PowerShell: `$env:WYSCOUT_HOME = "C:\Users\hasht\Desktop\wyscout-auth"`
+
+The script prints the path it's using on every run, and warns if you point it
+back inside the working directory.
+
+One thing about Desktop specifically: on a lot of Windows setups Desktop is
+redirected into OneDrive, which would sync your token to the cloud. Check
+whether yours is (`echo %USERPROFILE%\Desktop` vs where OneDrive claims it) — if
+it is, `C:\Users\hasht\.wyscout` or somewhere under `%LOCALAPPDATA%` is the
+better home.
+
 ## Safeguards
 
 **Row count is checked against the API.** After downloading, the script asks
@@ -108,11 +184,19 @@ misbehaving API cannot spin forever.
 one that trips rate limiting. If you see HTTP 429 the script stops and tells you
 to raise it rather than hammering on.
 
-**No password anywhere.** You log in yourself in the browser window; the session
-lives in `.browser_profile/`. Nothing to leak into git.
+**The password is yours to place.** By default the script never handles one —
+you type it in the browser window, and it attaches its network listener only
+*after* that, so it isn't watching while you type. If you put credentials in
+`AUTH_DIR\.env` it will fill the form for you; that's a real trade (plaintext
+password on disk) and it's opt-in for that reason. Since the session survives
+for weeks, leaving it out costs you a login every so often.
 
-**`template.json` holds your session token.** It is gitignored. Treat it like a
-password. Expiry is handled automatically — 401 deletes it and reopens the
+**Nothing secret is written inside the repo.** Both the profile and the token
+live in `AUTH_DIR` (see above), outside the working directory. The `Cookie`
+header is deliberately not saved into `template.json` — auth here travels in the
+query string, so there was no reason to store both.
+
+**Token expiry is automatic.** A 401 deletes `template.json` and reopens the
 browser.
 
 ## Validity check
@@ -156,8 +240,9 @@ merge path is proven too, not just the single-call path.
 | `fetch_wyscout.py` | the script — settings at the top |
 | `check_vs_sample.py` | offline proof against your own export |
 | `data/sample500_bundesliga2.xlsx` | reference file for that check |
-| `template.json` | created on first run. gitignored, holds your token |
-| `.browser_profile/` | created on first run, keeps you logged in |
+
+Created on first run in `AUTH_DIR` (default `C:\Users\<you>\.wyscout`), not here:
+`template.json` and `browser_profile/`.
 
 ## When something breaks
 

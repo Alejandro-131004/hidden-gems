@@ -1,4 +1,8 @@
-template.json
-.browser_profile/
 out/
 __pycache__/
+
+# auth now lives in WYSCOUT_HOME (default ~/.wyscout), but keep these
+# in case someone points AUTH_DIR back in here
+template.json
+browser_profile/
+.browser_profile/

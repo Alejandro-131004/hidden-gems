@@ -70,8 +70,8 @@ F.TEMPLATE.write_text(json.dumps({
     "url": F.EXPORT_URL,
     "query": {"token": TOKEN, "groupId": "42", "subgroupId": "7"},
     "headers": {"Accept": "*/*"},
-    "body": {"search": {"competition": "senior", "age": {"min": "15", "max": "45"},
-                        "women_mode": False},
+    "body": {"search": {"competition": "senior", "age": {"min": "8", "max": "35"},
+                        "foot": ["left"], "women_mode": False},
              "count": 500, "page": 0, "sort": "market_value_desc",
              "columns": {"0": {"id": "name", "label": "Player"}}, "language": "en"},
 }))
@@ -91,10 +91,11 @@ body = F.build_body(t, cid, season)
 assert body["search"]["competition"] == "635"
 assert body["search"]["time_frame"] == "190685"
 assert body["search"]["youth_stats"] == "false"
-assert body["search"]["age"] == {"min": "15", "max": "45"}, "other filters lost"
+assert body["search"]["foot"] == ["left"], "unrelated filters lost"
+assert "age" not in body["search"], "DROP_FILTERS did not remove the age slider"
 assert body["columns"] == t["body"]["columns"], "columns lost"
 assert t["body"]["search"]["competition"] == "senior", "template mutated"
-print("3. league+season swapped; filters, columns and the template left intact")
+print("3. league+season swapped; age slider dropped; other filters, columns and template intact")
 
 calls.clear()
 assert F.one(t, s, "Germany. 2. Bundesliga", comps)

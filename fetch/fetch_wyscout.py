@@ -11,6 +11,7 @@ with no browser at all.
 """
 
 import json
+import os
 import re
 import sys
 import time
@@ -29,7 +30,25 @@ import requests
 COMP_SCOPE = "Germany. 2. Bundesliga"   # "<Country>. <League>", as Wyscout writes it
 TIMEFRAME = "2025/2026"                 # season name, or "current_season" / "last_season"
 
-OUT_DIR = Path("out")                   # where the CSV goes
+HERE = Path(__file__).resolve().parent
+
+# Where the CSVs go. Relative paths are resolved against THIS FILE's folder, not
+# whatever directory you happen to run python from — so `python fetch\fetch_wyscout.py`
+# from the repo root still writes into fetch\out, not the repo root.
+OUT_DIR = HERE / "out"
+
+# Where your login lives. Nothing secret is ever written inside the repo.
+# Default: C:\Users\<you>\.wyscout   (or ~/.wyscout on mac/linux)
+# Override with the WYSCOUT_HOME environment variable, e.g.
+#     set WYSCOUT_HOME=C:\Users\hasht\Desktop\wyscout-auth
+_WYSCOUT_HOME = os.environ.get("WYSCOUT_HOME")
+AUTH_DIR = Path(_WYSCOUT_HOME or Path.home() / ".wyscout").expanduser().resolve()
+
+# Filters inherited from the capture that get removed before downloading.
+# These are slider positions (age defaults to 8-35 in Wyscout) that would
+# silently narrow every league — your own sample has a 40-year-old in it.
+# Set to [] to keep whatever was on screen during the capture instead.
+DROP_FILTERS = ["age", "height", "weight"]
 
 # Do several leagues in one run: fill this in and COMP_SCOPE is ignored.
 BATCH = [
@@ -48,12 +67,37 @@ COMPS_URL = "https://searchapi.wyscout.com/api/v1/competitions/advanced_search.j
 
 PLATFORM_URL = "https://wyscout.hudl.com/app/?"
 
-TEMPLATE = Path("template.json")        # the captured export request
-PROFILE = Path(".browser_profile")      # keeps you logged in between runs
+TEMPLATE = AUTH_DIR / "template.json"        # captured export request (holds the token)
+PROFILE = AUTH_DIR / "browser_profile"       # Chromium profile (holds the cookies)
+ENV_FILE = AUTH_DIR / ".env"                 # optional: your Wyscout email/password
+
+
+def read_env_file():
+    """Read AUTH_DIR/.env  ->  {KEY: value}. Missing file is fine.
+
+    Lives next to the token, outside the repo, so there is one folder to protect
+    and one folder to delete. Real environment variables win over this file.
+    """
+    values = {}
+    if not ENV_FILE.exists():
+        return values
+    for line in ENV_FILE.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        k, v = line.split("=", 1)
+        values[k.strip()] = v.strip().strip("'\"")
+    return values
+
+
+def secret(name):
+    """Environment variable first, then AUTH_DIR/.env."""
+    return os.environ.get(name) or read_env_file().get(name)
 
 PAGE_SIZE = 500                         # what the server gives per call
 MAX_PAGES = 200                         # runaway guard
 PAUSE = 1.0                             # seconds between calls
+DRY_RUN = False                         # set by --dry-run
 TIMEOUT = 300
 
 
@@ -70,6 +114,20 @@ def slug(s):
 # step 1 — get a template (browser, once)
 # ============================================================
 
+def needs_login(page):
+    """True if the platform is showing a login form rather than the app shell."""
+    try:
+        if page.locator("input[type='password'], #login_password").first.is_visible(timeout=3000):
+            return True
+    except Exception:
+        pass
+    try:
+        # `ae` is the platform shell's global; if it's there, we're inside the app.
+        return not page.evaluate("typeof ae !== 'undefined' && !!ae.getCmp")
+    except Exception:
+        return True
+
+
 def capture_template():
     """Open a browser, let you log in, click Export once, keep the request.
 
@@ -81,8 +139,8 @@ def capture_template():
     """
     from playwright.sync_api import sync_playwright
 
-    say("No template.json yet — opening a browser to capture one.")
-    PROFILE.mkdir(exist_ok=True)
+    say(f"No {TEMPLATE.name} yet — opening a browser to capture one.")
+    PROFILE.mkdir(parents=True, exist_ok=True)
 
     with sync_playwright() as pw:
         ctx = pw.chromium.launch_persistent_context(
@@ -91,16 +149,68 @@ def capture_template():
         )
         page = ctx.pages[0] if ctx.pages else ctx.new_page()
         page.goto(PLATFORM_URL, wait_until="domcontentloaded", timeout=90_000)
+        page.wait_for_timeout(5000)
 
-        say("")
-        say("-" * 60)
-        say("In the browser window:")
-        say("  1. log in if it asks")
-        say("  2. go to Advanced Search")
-        say("  3. pick the column layout you want (this is what gets saved)")
-        say("  4. do NOT click Export — this script clicks it")
-        say("-" * 60)
-        input("press ENTER when Advanced Search is on screen > ")
+        # --- log in, only if the saved session has gone stale ---
+        if needs_login(page):
+            email = secret("WYSCOUT_EMAIL")
+            password = secret("WYSCOUT_PASSWORD")
+            if email and password:
+                say(f"logging in as {email}...")
+                try:
+                    page.fill("input[type='email'], input[name='username'], #login_username", email)
+                    page.fill("input[type='password'], #login_password", password)
+                    page.keyboard.press("Enter")
+                    page.wait_for_timeout(10_000)
+                except Exception as e:
+                    say(f"! auto login failed ({e}) — do it by hand in the window")
+                    input("press ENTER once you're logged in > ")
+            else:
+                say("")
+                say("-" * 58)
+                say("Log in in the browser window (only needed when the saved")
+                say("session expires — weeks, not runs).")
+                say(f"To skip this, put your credentials in {ENV_FILE}")
+                say("-" * 58)
+                input("press ENTER once you're logged in > ")
+            page.wait_for_timeout(3000)
+
+        # --- open Advanced Search without touching the UI ---
+        # The platform shell registers it as an app whose button runs
+        #   ae.getCmp('app').showAdvancedSearchPopUp(...)
+        # and loads it in an iframe from https://wyscout-apps.hudl.com/advanced-search/
+        # with the access token on the query string. We call that directly, read
+        # the iframe's URL, then load the same URL as a normal page — which
+        # avoids frame juggling entirely.
+        say("opening Advanced Search...")
+        for js in ("ae.getCmp('app').showAdvancedSearchPopUp()",
+                   "ae.app().loadApp({appName:'advanced_search',track:false})"):
+            try:
+                page.evaluate(js)
+                break
+            except Exception:
+                continue
+
+        src = None
+        for _ in range(40):
+            page.wait_for_timeout(500)
+            src = page.evaluate(
+                """() => {
+                    const f = [...document.querySelectorAll('iframe')]
+                        .map(i => i.src).find(s => s && s.includes('advanced-search'));
+                    return f || null;
+                }"""
+            )
+            if src:
+                break
+
+        if src:
+            say("got the Advanced Search URL, loading it directly")
+            page.goto(src, wait_until="domcontentloaded", timeout=90_000)
+            page.wait_for_timeout(8000)
+        else:
+            say("! couldn't open it automatically — open Advanced Search yourself")
+            input("press ENTER when it's on screen > ")
 
         captured = {}
 
@@ -115,29 +225,80 @@ def capture_template():
 
         page.on("request", on_request)
 
+        # --- select ALL columns before capturing ---
+        # The captured `columns` block is whatever preset is on screen. The
+        # default "General" preset is only 16 columns; we want all 115. Open the
+        # column editor (the grid icon next to DISPLAY), tick "All columns",
+        # Apply. If any step misses, we fall back to asking you to do it by hand.
+        say("selecting all columns...")
+        picked = False
+        try:
+            # open the column editor — icon sits right of the DISPLAY dropdown
+            for sel in ("[class*='columns'] [class*='edit']",
+                        "button[class*='columnsEditor']",
+                        "[data-qa*='columns']"):
+                try:
+                    page.locator(sel).first.click(timeout=2000)
+                    break
+                except Exception:
+                    continue
+            page.wait_for_timeout(1500)
+            # tick "All columns"
+            page.get_by_text("All columns", exact=True).first.click(timeout=4000)
+            page.wait_for_timeout(500)
+            # apply
+            page.get_by_role("button", name=re.compile(r"^\s*apply\s*$", re.I)) \
+                .first.click(timeout=4000)
+            page.wait_for_timeout(2500)
+            picked = True
+            say("all columns selected")
+        except Exception:
+            pass
+
+        if not picked:
+            say("")
+            say("-" * 58)
+            say("Couldn't tick 'All columns' automatically.")
+            say("In the browser: click the columns icon next to DISPLAY,")
+            say("tick 'All columns' (bottom-left), click APPLY.")
+            say("-" * 58)
+            input("press ENTER once all columns show in the table > ")
+
         say("clicking Export to Excel...")
         try:
             page.get_by_text("Export to Excel", exact=False).first.click(timeout=15_000)
         except Exception:
             say("! couldn't find the Export button — click it yourself now.")
 
-        # >500 results shows a confirm popup first; click through it.
-        for _ in range(30):
+        # Whenever the result set is >= 500 Wyscout interrupts with:
+        #   "You are trying to export a large set of data. Only first 500
+        #    records will be exported."   [Download anyway] [Cancel]
+        # The export POST does not fire until that is confirmed.
+        for _ in range(60):
             if captured:
                 break
-            try:
-                page.get_by_text("Export to Excel", exact=False).nth(1).click(timeout=1000)
-            except Exception:
-                pass
+            for label in ("Download anyway", "Download", "Export", "OK", "Confirm"):
+                try:
+                    page.get_by_role("button", name=re.compile(rf"^\s*{label}\s*$", re.I)) \
+                        .first.click(timeout=600)
+                    say(f"confirmed the warning ('{label}')")
+                    break
+                except Exception:
+                    continue
             page.wait_for_timeout(500)
 
         ctx.close()
 
     if not captured:
-        say("Nothing captured. Re-run and click Export to Excel yourself when asked.")
+        say("")
+        say("Nothing captured — the export request never fired.")
+        say("Usually this means a dialog was in the way. Re-run, and when the")
+        say("browser opens click 'Export to Excel' then 'Download anyway' yourself;")
+        say("the script watches the network and will pick it up either way.")
         sys.exit(1)
 
     url, _, qs = captured["url"].partition("?")
+    TEMPLATE.parent.mkdir(parents=True, exist_ok=True)
     TEMPLATE.write_text(json.dumps({
         "url": url,
         "query": dict(p.split("=", 1) for p in qs.split("&") if "=" in p),
@@ -246,6 +407,8 @@ def build_body(t, comp_id, season):
     s["competition"] = str(comp_id)
     s["youth_stats"] = "false"
     s["time_frame"] = str(season)
+    for key in DROP_FILTERS:
+        s.pop(key, None)
     return b
 
 
@@ -340,8 +503,23 @@ def one(t, session, scope, comps):
     if comp_id is None:
         return False
 
-    say(f"{scope}  (competition={comp_id}, time_frame={season})")
     body = build_body(t, comp_id, season)
+
+    # Show the filters actually going out, before a single row is downloaded.
+    say(scope)
+    dropped = [k for k in DROP_FILTERS if k in t["body"].get("search", {})]
+    say("filters being sent:", 1)
+    for k, v in sorted(body["search"].items()):
+        mark = "  <- from COMP_SCOPE" if k == "competition" else \
+               "  <- from TIMEFRAME" if k == "time_frame" else ""
+        say(f"{k} = {json.dumps(v, ensure_ascii=False)}{mark}", 2)
+
+    if dropped:
+        say(f"dropped from the capture: {', '.join(dropped)}  (see DROP_FILTERS)", 2)
+
+    if DRY_RUN:
+        say("dry run — stopping before download", 1)
+        return False
 
     want = expected_total(t, session, body)
     df = download(t, session, body, scope)
@@ -361,7 +539,43 @@ def one(t, session, scope, comps):
     return True
 
 
+def where():
+    """Print every path this script will touch, and where each came from."""
+    src = f"WYSCOUT_HOME={_WYSCOUT_HOME}" if _WYSCOUT_HOME else "default (WYSCOUT_HOME is not set)"
+    say(f"login folder : {AUTH_DIR}")
+    say(f"               from {src}", 1)
+    say(f"  token      : {TEMPLATE}   {'exists' if TEMPLATE.exists() else 'not created yet'}")
+    say(f"  cookies    : {PROFILE}   {'exists' if PROFILE.exists() else 'not created yet'}")
+    say(f"  login      : {ENV_FILE}   {'exists' if ENV_FILE.exists() else 'not created (optional)'}")
+    have = "yes" if (secret("WYSCOUT_EMAIL") and secret("WYSCOUT_PASSWORD")) else "no"
+    say(f"               auto-login credentials found: {have}", 1)
+    say()
+    say(f"CSVs         : {OUT_DIR}")
+    say(f"               always beside this script, whatever folder you run from", 1)
+    say()
+    say(f"script       : {Path(__file__).resolve()}")
+    say(f"run from     : {Path.cwd()}")
+
+    if not _WYSCOUT_HOME:
+        say()
+        say("To move the login somewhere else:")
+        say('  setx WYSCOUT_HOME "C:\\path\\you\\want"', 1)
+        say("then OPEN A NEW TERMINAL — setx does not affect the one it's typed in.", 1)
+
+
 def main():
+    global DRY_RUN
+    DRY_RUN = "--dry-run" in sys.argv
+
+    if "--where" in sys.argv:
+        where()
+        return
+
+    say(f"login stored in : {AUTH_DIR}"
+        f"{'' if _WYSCOUT_HOME else '   (default — WYSCOUT_HOME not set)'}")
+    say(f"CSVs written to : {OUT_DIR}")
+    say()
+
     t = load_template()
     session = requests.Session()
 
