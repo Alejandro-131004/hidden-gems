@@ -1,0 +1,25 @@
+============================================================
+LEAGUE VERIFICATION
+============================================================
+generated : 2026-08-13 20:56:53
+root      : C:\Users\aleja\OneDrive\Documentos\GitHub\hidden-gems\data\2025-2026
+folders   : 80
+
+EMPTY  (5)
+    36 - [CRO] - (First NL)
+        no .xlsx and no .csv - nothing exported yet
+    41 - [USA] - (Major League Soccer)
+        no .xlsx and no .csv - nothing exported yet
+    42 - [USA] - (USL Championship)
+        no .xlsx and no .csv - nothing exported yet
+    60 - [RSA] - (Premier Division)
+        no .xlsx and no .csv - nothing exported yet
+    63 - [ALG] - (Ligue 1)
+        no .xlsx and no .csv - nothing exported yet
+
+------------------------------------------------------------
+OK      75
+FAIL    0
+NO_CSV  0
+EMPTY   5
+players in verified leagues: 39650
