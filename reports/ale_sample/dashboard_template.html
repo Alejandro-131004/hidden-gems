@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hidden Gems — Índice de Potencial (demo)</title>
+<style>
+:root{
+  --plane:#f9f9f7; --surface:#fcfcfb; --ink:#0b0b0b; --ink2:#52514e; --muted:#898781;
+  --grid:#e1e0d9; --axis:#c3c2b7; --border:rgba(11,11,11,.10);
+  --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a;
+  --good:#0ca30c; --warn:#fab219; --crit:#d03b3b;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){ :root:where(:not([data-theme="light"])){
+  --plane:#0d0d0d; --surface:#1a1a19; --ink:#fff; --ink2:#c3c2b7; --muted:#898781;
+  --grid:#2c2c2a; --axis:#383835; --border:rgba(255,255,255,.10);
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70; color-scheme:dark; } }
+:root[data-theme="dark"]{
+  --plane:#0d0d0d; --surface:#1a1a19; --ink:#fff; --ink2:#c3c2b7; --muted:#898781;
+  --grid:#2c2c2a; --axis:#383835; --border:rgba(255,255,255,.10);
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70; color-scheme:dark; }
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--plane);color:var(--ink);
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif;font-size:14px;line-height:1.55;}
+.wrap{max-width:1180px;margin:0 auto;padding:28px 20px 80px}
+header.top{display:flex;justify-content:space-between;align-items:flex-start;gap:20px;margin-bottom:6px}
+h1{font-size:23px;margin:0 0 4px;letter-spacing:-.01em}
+h2{font-size:17px;margin:0 0 4px;letter-spacing:-.01em}
+h3{font-size:13px;margin:0 0 10px;color:var(--ink2);font-weight:600}
+.sub{color:var(--ink2);font-size:13.5px;margin:0}
+.demo-tag{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--s2);border:1px solid var(--s2);border-radius:4px;padding:1px 6px;vertical-align:3px;margin-left:8px}
+button.theme{background:var(--surface);border:1px solid var(--border);color:var(--ink2);
+  border-radius:7px;padding:6px 11px;cursor:pointer;font-size:12.5px;white-space:nowrap}
+button.theme:hover{color:var(--ink)}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:11px;padding:20px;margin-top:16px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:16px}
+.tile{background:var(--surface);border:1px solid var(--border);border-radius:11px;padding:15px 17px}
+.tile .v{font-size:27px;font-weight:650;letter-spacing:-.02em;line-height:1.15}
+.tile .k{font-size:12px;color:var(--muted);margin-top:3px}
+.tile .n{font-size:11.5px;color:var(--ink2);margin-top:6px}
+.tabs{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0 0}
+.tab{background:transparent;border:1px solid var(--border);color:var(--ink2);border-radius:999px;
+  padding:6px 14px;cursor:pointer;font-size:13px;font-family:inherit}
+.tab:hover{color:var(--ink)}
+.tab[aria-selected="true"]{background:var(--ink);color:var(--surface);border-color:var(--ink);font-weight:600}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;font-weight:600;color:var(--muted);font-size:11px;text-transform:uppercase;
+  letter-spacing:.05em;padding:0 10px 8px;border-bottom:1px solid var(--grid);white-space:nowrap}
+td{padding:9px 10px;border-bottom:1px solid var(--grid);vertical-align:middle}
+tbody tr:last-child td{border-bottom:none}
+tbody tr:hover{background:color-mix(in srgb,var(--ink) 4%,transparent)}
+td.num{text-align:right;font-variant-numeric:tabular-nums;color:var(--ink2)}
+.nm{font-weight:600}
+.meta{color:var(--muted);font-size:11.5px}
+.idxcell{display:flex;align-items:center;gap:9px;justify-content:flex-end}
+.idxbar{height:7px;border-radius:4px;background:var(--s1);flex:none}
+.idxval{font-variant-numeric:tabular-nums;font-weight:650;min-width:38px;text-align:right}
+.pill{display:inline-block;font-size:10.5px;padding:1px 6px;border-radius:4px;
+  border:1px solid var(--border);color:var(--ink2);white-space:nowrap}
+.pill.moved{border-color:var(--s2);color:var(--s2)}
+.legend{display:flex;flex-wrap:wrap;gap:16px;align-items:center;margin:0 0 12px;font-size:12.5px;color:var(--ink2)}
+.legend .it{display:flex;align-items:center;gap:6px}
+.sw{width:11px;height:11px;border-radius:3px;flex:none}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:start}
+@media(max-width:880px){.grid2{grid-template-columns:1fr}}
+.note{font-size:12.5px;color:var(--ink2);margin:12px 0 0}
+.callout{border-left:3px solid var(--s2);padding:2px 0 2px 14px;margin:14px 0 0;font-size:13px;color:var(--ink2)}
+.callout.q{border-left-color:var(--s1)}
+.callout.warn{border-left-color:var(--warn)}
+ul.q{margin:8px 0 0;padding-left:18px}
+ul.q li{margin-bottom:9px;color:var(--ink2)}
+ul.q li b{color:var(--ink);font-weight:600}
+.tip{position:fixed;pointer-events:none;opacity:0;transition:opacity .1s;background:var(--surface);
+  border:1px solid var(--border);border-radius:8px;padding:8px 11px;font-size:12px;z-index:99;
+  box-shadow:0 6px 20px rgba(0,0,0,.16);max-width:250px}
+.tip b{display:block;font-size:12.5px;margin-bottom:2px;color:var(--ink)}
+.tip span{color:var(--ink2)}
+svg{display:block;width:100%;height:auto;overflow:visible}
+.ax{font-size:10.5px;fill:var(--muted)}
+.axt{font-size:11.5px;fill:var(--ink2)}
+.foot{margin-top:34px;padding-top:18px;border-top:1px solid var(--grid);font-size:12px;color:var(--muted)}
+code{background:color-mix(in srgb,var(--ink) 6%,transparent);padding:1px 5px;border-radius:4px;font-size:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div>
+    <h1>Hidden Gems — Índice de Potencial<span class="demo-tag">demo</span></h1>
+    <p class="sub">Época 2025/26 · cinco segundas divisões europeias · jogadores sub-25 com 500+ minutos</p>
+  </div>
+  <button class="theme" id="themeBtn" type="button">Modo escuro</button>
+</header>
+<div class="tiles" id="tiles"></div>
+
+<div class="card">
+  <h2>Ranking por grupo posicional</h2>
+  <p class="sub">O índice compara cada jogador com os outros do mesmo grupo, dentro deste conjunto de cinco ligas. Escala centrada em 50; cada 10 pontos é um desvio-padrão.</p>
+  <div class="tabs" id="tabs" role="tablist"></div>
+  <div style="margin-top:16px" id="tableWrap"></div>
+  <p class="note" id="tableNote"></p>
+  <div class="callout warn">Mesmo entre ligas escolhidas por serem de nível parecido, a <b>Eerste Divisie domina o topo</b> — vale 30% do universo mas chega a 73% dos primeiros lugares no ataque. Dois destes campeonatos, o holandês e o belga, incluem equipas B de clubes grandes (Ajax II, PSV II, AZ II, Anderlecht II, Gent II), cheias de jovens, e a Eerste Divisie é além disso um campeonato mais aberto, o que inflaciona números ofensivos. Serve de aviso: se cinco ligas parecidas já se desequilibram assim, setenta e cinco sem calibração não dão um ranking utilizável.</div>
+</div>
+
+<div class="grid2">
+  <div class="card">
+    <h2>Índice vs minutos jogados</h2>
+    <p class="sub">Quanto menos minutos, menos fiável é a amostra. O índice já desconta isso, mas convém ver quem está no topo com pouco jogo.</p>
+    <div class="legend">
+      <div class="it"><span class="sw" style="background:var(--s1)"></span>Top 10 do grupo</div>
+      <div class="it"><span class="sw" style="background:var(--axis)"></span>Restantes</div>
+    </div>
+    <div id="scatter"></div>
+  </div>
+  <div class="card">
+    <h2>Perfil dos três primeiros</h2>
+    <p class="sub">Percentil dentro do grupo, métrica a métrica. É aqui que se vê que jogadores com índice parecido podem ser jogadores completamente diferentes.</p>
+    <div class="legend" id="radarLegend"></div>
+    <div id="radar"></div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>O índice antecipa o mercado?</h2>
+  <p class="sub">Os dados trazem duas colunas de clube: onde o jogador jogou na época e onde está agora, depois da janela de verão de 2026. Isso permite perguntar se quem o índice destaca acabou por ser procurado no mercado.</p>
+  <div class="grid2" style="margin-top:14px">
+    <div>
+      <h3>% que mudou de clube, por quintil do índice</h3>
+      <div id="movedChart"></div>
+    </div>
+    <div>
+      <h3>Leitura</h3>
+      <p class="note" id="valText"></p>
+      <div class="callout">Resposta honesta: <b>não é conclusivo.</b> A tendência vai no sentido certo mas não é estatisticamente significativa, e mudar de clube não é o mesmo que subir de nível. Serve como sinal de que o índice não é ruído puro — não como validação.</p></div>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>Como foi feito</h2>
+  <div class="grid2" style="margin-top:6px">
+    <div>
+      <h3>O caminho até aqui</h3>
+      <p class="note">Os dados vêm de exportações manuais do Wyscout, organizadas em <b>82 pastas de liga</b> segundo o mapa de prioridades. Estão recolhidas <b>75 ligas</b> e <b>39 650 jogadores</b>, com verificação automática de contagem por liga. Cinco ligas continuam por fechar: duas não têm época definida no Wyscout, duas não existem lá, uma está por confirmar.</p>
+      <p class="note">Esta demo usa apenas cinco dessas ligas, escolhidas por serem de nível comparável. Foi uma decisão deliberada — ver as perguntas em aberto.</p>
+    </div>
+    <div>
+      <h3>O cálculo, em quatro passos</h3>
+      <p class="note">
+      <b>1.</b> Cada jogador entra num de seis grupos posicionais, pela posição principal.<br>
+      <b>2.</b> Seis a sete métricas por grupo são convertidas em z-scores dentro do grupo, limitadas a ±3 para nenhum valor extremo dominar.<br>
+      <b>3.</b> A média é multiplicada por <code>√(minutos/1800)</code>, para que meia época pese menos do que uma época inteira.<br>
+      <b>4.</b> Junta-se a idade com peso de 25% — a mesma produção aos 19 vale mais do que aos 25.</p>
+      <p class="note">Os pesos das métricas são todos iguais. Não foram afinados, de propósito: afinar pesos sem saber o que procuram seria inventar.</p>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>O que precisamos de decidir convosco</h2>
+  <ul class="q">
+    <li><b>Comparar ligas diferentes entre si, ou não?</b> Esta demo foge ao problema usando cinco ligas de nível parecido. Alargar às 75 exige calibrar a força de cada campeonato — caso contrário um extremo de Andorra aparece à frente de um da Serie B. É possível: há 2 533 jogadores que aparecem em mais do que uma liga e ligam as 75 numa única rede. Mas é trabalho, e só faz sentido se quiserem ranking global.</li>
+    <li><b>Um índice ou vários perfis por posição?</b> Nos radares vê-se que jogadores com índice quase igual têm perfis opostos — um número só apaga a especialização. Faz sentido dividir cada posição em perfis, e nesse caso quais são os perfis que vos interessam?</li>
+    <li><b>O que significa "subvalorizado" para vocês?</b> Metade dos jogadores da base não tem valor de mercado no Wyscout, e a falta é maior precisamente nas ligas mais obscuras — no Campeonato de Portugal são 98%. Ou seja: onde é mais provável haver um achado, não há preço para comparar. Ou o critério passa a ser só desempenho, ou é preciso outra fonte de valores.</li>
+    <li><b>Que corte de elegibilidade?</b> Usámos sub-25 com 500+ minutos. Mas a duração das épocas varia bastante entre campeonatos, e 500 minutos representam 32% de uma época em França e 15% na Colômbia. Faz sentido passar a uma percentagem dos minutos possíveis?</li>
+    <li><b>Uma época chega?</b> Só temos 2025/26. Sem duas épocas não se mede evolução — e potencial é, no fundo, uma trajetória. Vale a pena recolher 2024/25 para as ligas prioritárias?</li>
+  </ul>
+</div>
+
+<p class="foot">Demo construída sobre os dados já recolhidos, sem qualquer extração adicional. Os problemas de método identificados foram deixados em aberto de propósito — são o objeto desta conversa.</p>
+</div>
+<div class="tip" id="tip"></div>
+<script>window.__DATA__=/*__DATA__*/null/*__DATA__*/;</script>
+<script>
+const D = window.__DATA__;
+const S = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const tip = document.getElementById('tip');
+const showTip = (e, html) => {
+  tip.innerHTML = html; tip.style.opacity = 1;
+  const r = tip.getBoundingClientRect();
+  let x = e.clientX + 14, y = e.clientY - 10;
+  if (x + r.width > innerWidth - 8) x = e.clientX - r.width - 14;
+  if (y + r.height > innerHeight - 8) y = innerHeight - r.height - 8;
+  tip.style.left = x + 'px'; tip.style.top = Math.max(8, y) + 'px';
+};
+const hideTip = () => tip.style.opacity = 0;
+const esc = s => String(s ?? '').replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+const svgEl = (t, a = {}) => { const e = document.createElementNS('http://www.w3.org/2000/svg', t);
+  for (const k in a) e.setAttribute(k, a[k]); return e; };
+const fmtMv = v => v == null ? '—' : v >= 1e6 ? (v/1e6).toFixed(1).replace('.0','') + ' M€' : Math.round(v/1000) + ' k€';
+
+/* ---------- stat tiles ---------- */
+const m = D.meta;
+document.getElementById('tiles').innerHTML = [
+  ['v', m.totalPool, 'jogadores no ranking', 'sub-25, 500+ minutos'],
+  ['v', m.leagues.length, 'ligas comparadas', m.leagues.map(l => l.code).join(' · ')],
+  ['v', Object.keys(D.groups).length, 'grupos posicionais', 'do guarda-redes ao avançado'],
+  ['v', D.validation.pctNoMv + '%', 'sem valor de mercado', 'limita a leitura de "subvalorizado"'],
+].map(([, v, k, n]) => `<div class="tile"><div class="v">${v}</div><div class="k">${k}</div><div class="n">${n}</div></div>`).join('');
+
+/* ---------- tabs ---------- */
+const GK_ORDER = ['GK','CB','FB','MID','AMW','CF'];
+let current = 'CF';
+const tabs = document.getElementById('tabs');
+tabs.innerHTML = GK_ORDER.map(g =>
+  `<button class="tab" role="tab" data-g="${g}" aria-selected="${g===current}">${D.groups[g].label} <span style="opacity:.6">${D.groups[g].n}</span></button>`).join('');
+tabs.onclick = e => { const b = e.target.closest('.tab'); if (!b) return;
+  current = b.dataset.g; [...tabs.children].forEach(c => c.setAttribute('aria-selected', c.dataset.g === current)); render(); };
+
+const inGroup = g => D.players.filter(p => p.group === g).sort((a, b) => b.idx - a.idx);
+
+/* ---------- ranking table ---------- */
+function table(g) {
+  const rows = inGroup(g).slice(0, 15), max = rows[0].idx;
+  document.getElementById('tableWrap').innerHTML = `<table><thead><tr>
+    <th style="width:34px">#</th><th>Jogador</th><th>Clube na época</th><th>Liga</th>
+    <th class="num">Idade</th><th class="num">Min</th><th class="num">Valor</th>
+    <th style="text-align:right;width:150px">Índice</th></tr></thead><tbody>${
+    rows.map((p, i) => `<tr>
+      <td class="num" style="color:var(--muted)">${i + 1}</td>
+      <td><span class="nm">${esc(p.name)}</span>${p.moved ? ` <span class="pill moved">agora: ${esc(p.clubNow)}</span>` : ''}${p.free ? ' <span class="pill">sem clube</span>' : ''}<div class="meta">${esc(p.pos)}</div></td>
+      <td>${esc(p.team)}</td><td class="meta">${esc(p.country)}</td>
+      <td class="num">${p.age}</td><td class="num">${p.min.toLocaleString('pt-PT')}</td>
+      <td class="num">${fmtMv(p.mv)}</td>
+      <td><div class="idxcell"><div class="idxbar" style="width:${Math.max(4, 96 * p.idx / max)}px"></div><span class="idxval">${p.idx.toFixed(1)}</span></div></td>
+    </tr>`).join('')}</tbody></table>`;
+  const n = D.groups[g].n;
+  const share = {}, poolShare = {};
+  rows.forEach(p => share[p.country] = (share[p.country] || 0) + 1);
+  D.players.forEach(p => poolShare[p.country] = (poolShare[p.country] || 0) + 1);
+  const top1 = Object.entries(share).sort((a, b) => b[1] - a[1])[0];
+  const expect = Math.round(100 * poolShare[top1[0]] / D.players.length);
+  const got = Math.round(100 * top1[1] / rows.length);
+  document.getElementById('tableNote').innerHTML =
+    `Top 15 de ${n} ${D.groups[g].label.toLowerCase()} elegíveis. "Agora" indica o clube atual de quem mudou depois desta época — contexto para o abordar, não um motivo para o excluir.` +
+    (got - expect >= 20 ? ` <b style="color:var(--ink)">Atenção:</b> ${top1[0]} vale ${expect}% do universo mas ${got}% deste top 15.` : '');
+}
+
+/* ---------- scatter: index vs minutes ---------- */
+function scatter(g) {
+  const data = inGroup(g), W = 560, H = 320, P = { t: 14, r: 16, b: 44, l: 46 };
+  const xs = data.map(d => d.min), ys = data.map(d => d.idx);
+  const nice = (lo, hi, n) => { const raw = (hi - lo) / n, mag = Math.pow(10, Math.floor(Math.log10(raw)));
+    const step = [1, 2, 2.5, 5, 10].map(k => k * mag).find(k => k >= raw) || 10 * mag;
+    return { lo: Math.floor(lo / step) * step, hi: Math.ceil(hi / step) * step, step }; };
+  const xN = nice(0, Math.max(...xs), 5), yN = nice(Math.min(...ys) - 2, Math.max(...ys) + 2, 5);
+  const x0 = xN.lo, x1 = xN.hi, y0 = yN.lo, y1 = yN.hi;
+  const X = v => P.l + (v - x0) / (x1 - x0) * (W - P.l - P.r);
+  const Y = v => H - P.b - (v - y0) / (y1 - y0) * (H - P.t - P.b);
+  const svg = svgEl('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img' });
+  for (let v = y0; v <= y1 + 1e-6; v += yN.step) {
+    svg.appendChild(svgEl('line', { x1: P.l, x2: W - P.r, y1: Y(v), y2: Y(v), stroke: S('--grid'), 'stroke-width': 1 }));
+    const t = svgEl('text', { x: P.l - 9, y: Y(v) + 4, class: 'ax', 'text-anchor': 'end' }); t.textContent = v.toFixed(0); svg.appendChild(t); }
+  for (let v = x0; v <= x1 + 1e-6; v += xN.step) {
+    const t = svgEl('text', { x: X(v), y: H - P.b + 17, class: 'ax', 'text-anchor': 'middle' }); t.textContent = Math.round(v).toLocaleString('pt-PT'); svg.appendChild(t); }
+  svg.appendChild(svgEl('line', { x1: P.l, x2: W - P.r, y1: H - P.b, y2: H - P.b, stroke: S('--axis'), 'stroke-width': 1 }));
+  // 1800-minute reference: above this the sample carries full weight
+  svg.appendChild(svgEl('line', { x1: X(1800), x2: X(1800), y1: P.t, y2: H - P.b, stroke: S('--axis'), 'stroke-width': 1 }));
+  const rl = svgEl('text', { x: X(1800) + 6, y: P.t + 11, class: 'ax' }); rl.textContent = 'época completa'; svg.appendChild(rl);
+  const xl = svgEl('text', { x: (P.l + W - P.r) / 2, y: H - 6, class: 'axt', 'text-anchor': 'middle' }); xl.textContent = 'minutos jogados'; svg.appendChild(xl);
+  const yl = svgEl('text', { x: 0, y: 0, class: 'axt', 'text-anchor': 'middle', transform: `translate(11,${(P.t + H - P.b) / 2}) rotate(-90)` }); yl.textContent = 'índice'; svg.appendChild(yl);
+  data.forEach((p, i) => { const top = i < 10;
+    const c = svgEl('circle', { cx: X(p.min), cy: Y(p.idx), r: top ? 5.5 : 4,
+      fill: top ? S('--s1') : 'none', stroke: top ? S('--surface') : S('--axis'),
+      'stroke-width': top ? 2 : 1.5, style: 'cursor:pointer' });
+    c.addEventListener('mousemove', e => showTip(e, `<b>${esc(p.name)}</b><span>${esc(p.team)} · ${p.age} anos<br>${p.min.toLocaleString('pt-PT')} min · índice ${p.idx.toFixed(1)}</span>`));
+    c.addEventListener('mouseleave', hideTip); svg.appendChild(c); });
+  const host = document.getElementById('scatter'); host.innerHTML = ''; host.appendChild(svg);
+}
+
+/* ---------- radar ---------- */
+function radar(hostId, legendId, players, labels) {
+  const W = 470, H = 400, cx = W / 2, cy = H / 2 + 6, R = 128, N = labels.length;
+  const cols = [S('--s1'), S('--s2'), S('--s3')];
+  const ang = i => -Math.PI / 2 + i * 2 * Math.PI / N;
+  const pt = (i, v) => [cx + Math.cos(ang(i)) * R * v / 100, cy + Math.sin(ang(i)) * R * v / 100];
+  const svg = svgEl('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img' });
+  [25, 50, 75, 100].forEach(r => svg.appendChild(svgEl('polygon', {
+    points: labels.map((_, i) => pt(i, r).join(',')).join(' '), fill: 'none', stroke: S('--grid'), 'stroke-width': 1 })));
+  labels.forEach((l, i) => {
+    const [ex, ey] = pt(i, 100);
+    svg.appendChild(svgEl('line', { x1: cx, y1: cy, x2: ex, y2: ey, stroke: S('--grid'), 'stroke-width': 1 }));
+    const [lx, ly] = pt(i, 100 + 25), a = ang(i);
+    const t = svgEl('text', { x: lx, y: ly + 4, class: 'ax',
+      'text-anchor': Math.abs(Math.cos(a)) < 0.25 ? 'middle' : (Math.cos(a) > 0 ? 'start' : 'end') });
+    const words = l.split(' '); let line = '', lines = [];
+    words.forEach(w => { if ((line + ' ' + w).trim().length > 15) { lines.push(line.trim()); line = w; } else line += ' ' + w; });
+    lines.push(line.trim());
+    lines.forEach((ln, k) => { const ts = svgEl('tspan', { x: lx, dy: k ? 12 : 0 }); ts.textContent = ln; t.appendChild(ts); });
+    t.setAttribute('y', ly + 4 - (lines.length - 1) * 5); svg.appendChild(t);
+  });
+  players.forEach((p, pi) => {
+    const vals = p.radar.map(v => v == null ? 0 : v);
+    svg.appendChild(svgEl('polygon', { points: vals.map((v, i) => pt(i, v).join(',')).join(' '),
+      fill: cols[pi], 'fill-opacity': .10, stroke: cols[pi], 'stroke-width': 2, 'stroke-linejoin': 'round' }));
+    vals.forEach((v, i) => { const [px, py] = pt(i, v);
+      const c = svgEl('circle', { cx: px, cy: py, r: 4.5, fill: cols[pi], stroke: S('--surface'), 'stroke-width': 2, style: 'cursor:pointer' });
+      c.addEventListener('mousemove', e => showTip(e, `<b>${esc(p.name)}</b><span>${esc(labels[i])}<br>percentil ${Math.round(v)}</span>`));
+      c.addEventListener('mouseleave', hideTip); svg.appendChild(c); });
+  });
+  const host = document.getElementById(hostId); host.innerHTML = ''; host.appendChild(svg);
+  document.getElementById(legendId).innerHTML = players.map((p, i) =>
+    `<div class="it"><span class="sw" style="background:${cols[i]}"></span>${esc(p.name)} <span class="meta">${esc(p.team)}</span></div>`).join('');
+}
+
+/* ---------- validation bar chart ---------- */
+function movedChart() {
+  const all = D.players.slice().sort((a, b) => a.idx - b.idx), n = all.length;
+  const q = [0, 1, 2, 3, 4].map(i => all.slice(Math.floor(n * i / 5), Math.floor(n * (i + 1) / 5)));
+  const pct = q.map(g => 100 * g.filter(p => p.moved).length / g.length);
+  const names = ['Q1\nbaixo', 'Q2', 'Q3', 'Q4', 'Q5\ntopo'];
+  const W = 470, H = 250, P = { t: 16, r: 12, b: 46, l: 40 }, max = 55;
+  const bw = (W - P.l - P.r) / 5, pad = bw * 0.26;
+  const svg = svgEl('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img' });
+  const Y = v => H - P.b - v / max * (H - P.t - P.b);
+  for (let v = 0; v <= max; v += 10) {
+    svg.appendChild(svgEl('line', { x1: P.l, x2: W - P.r, y1: Y(v), y2: Y(v), stroke: S('--grid'), 'stroke-width': 1 }));
+    const t = svgEl('text', { x: P.l - 8, y: Y(v) + 4, class: 'ax', 'text-anchor': 'end' }); t.textContent = v + '%'; svg.appendChild(t); }
+  pct.forEach((v, i) => {
+    const x = P.l + i * bw + pad / 2, w = bw - pad;
+    const r = svgEl('rect', { x, y: Y(v), width: w, height: H - P.b - Y(v), rx: 4, fill: S('--s1'), style: 'cursor:pointer' });
+    r.addEventListener('mousemove', e => showTip(e, `<b>Quintil ${i + 1}</b><span>${q[i].length} jogadores<br>${v.toFixed(0)}% mudou de clube</span>`));
+    r.addEventListener('mouseleave', hideTip); svg.appendChild(r);
+    const lab = svgEl('text', { x: x + w / 2, y: Y(v) - 7, class: 'axt', 'text-anchor': 'middle', 'font-weight': 600 });
+    lab.textContent = v.toFixed(0) + '%'; svg.appendChild(lab);
+    names[i].split('\n').forEach((ln, k) => { const t = svgEl('text', { x: x + w / 2, y: H - P.b + 17 + k * 12, class: 'ax', 'text-anchor': 'middle' }); t.textContent = ln; svg.appendChild(t); });
+  });
+  svg.appendChild(svgEl('line', { x1: P.l, x2: W - P.r, y1: H - P.b, y2: H - P.b, stroke: S('--axis'), 'stroke-width': 1 }));
+  const host = document.getElementById('movedChart'); host.innerHTML = ''; host.appendChild(svg);
+  document.getElementById('valText').innerHTML =
+    `Os ${D.validation.nTop} jogadores no <b>topo de 10% do índice</b> mudaram de clube em ${D.validation.movedTop}% dos casos, contra ${D.validation.movedRest}% dos restantes — uma diferença que não passa o teste de significância (p = ${String(D.validation.pValue).replace('.', ',')}, com apenas ${D.players.length} jogadores em análise).<br><br>Já a correlação entre o índice e o valor de mercado é de apenas ${String(D.validation.mvCorr).replace('.', ',')}, e só ${D.validation.nWithMv} dos ${m.totalPool} jogadores têm valor registado. O índice e o preço estão a medir coisas diferentes — o que pode ser exatamente o objetivo, ou um aviso.`;
+}
+
+/* ---------- render ---------- */
+function render() {
+  table(current); scatter(current);
+  const top3 = inGroup(current).slice(0, 3);
+  radar('radar', 'radarLegend', top3, D.groups[current].metrics.map(x => x.label));
+}
+function renderAll() { render(); movedChart(); }
+renderAll();
+
+/* ---------- theme ---------- */
+const btn = document.getElementById('themeBtn');
+const sync = () => { const dark = document.documentElement.getAttribute('data-theme') === 'dark'
+    || (!document.documentElement.getAttribute('data-theme') && matchMedia('(prefers-color-scheme:dark)').matches);
+  btn.textContent = dark ? 'Modo claro' : 'Modo escuro'; };
+btn.onclick = () => { const dark = document.documentElement.getAttribute('data-theme') === 'dark'
+    || (!document.documentElement.getAttribute('data-theme') && matchMedia('(prefers-color-scheme:dark)').matches);
+  document.documentElement.setAttribute('data-theme', dark ? 'light' : 'dark'); sync(); renderAll(); };
+sync();
+
+</script>
+</body>
+</html>
