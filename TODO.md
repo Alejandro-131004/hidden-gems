@@ -1,3 +1,10 @@
+# LIST of UNSOLVED
+
+ 1. Underrepresented classes
+ 2. Research can be further improved (for both trustworthy and convincing opinions on relevant indicators)
+ 3. All TODOs inside project/demo_dashboard1
+
+
 # 1. Underrepresentation Issue
 
 Global features should suffice for most cases, but obviously we must separate players who are not usually expected to score goals, which will otherwise be buried under Attacker > Goalkeeper which is counterintuitive.
