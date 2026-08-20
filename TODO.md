@@ -1,8 +1,20 @@
 # LIST of UNSOLVED
 
- 1. Underrepresented classes
- 2. Research can be further improved (for both trustworthy and convincing opinions on relevant indicators)
- 3. All TODOs inside project/demo_dashboard1
+ 1. ~~Underrepresented classes~~ - RESOLVED in `devkit/scoring.py` (`ROLE_METRICS`, one metric set per role,
+    percentiled within its own group) and measured in `project/demo_dashboard2.ipynb`.
+ 2. Research can be further improved (for both trustworthy and convincing opinions on relevant indicators) - open-ended, ongoing.
+ 3. All TODOs inside project/demo_dashboard1 - answered in `project/demo_dashboard2.ipynb`, cell-by-cell,
+    EXCEPT the equal-weight aggregation TODO (dashboard1 cells 23/26): investigated and documented as a
+    deliberate choice (see dashboard2), not actually fixed in `ROLE_METRICS` - some metrics still double
+    count the same skill (e.g. crosses volume + crosses accuracy).
+ 4. `reports/ale_sample/potential_index.py` was empty (never committed) - REBUILT, now generates
+    `potential_dashboard.html` from `devkit/scoring.py` directly (all 75 leagues, `perf_adjusted`),
+    instead of the earlier undocumented 5-league/z-score version. Re-run it after any scoring change.
+ 5. A previous edit of `demo_dashboard2.ipynb`'s "Answers to the open TODOs" section stated specific
+    correlation/PCA/p-value numbers that had no supporting code anywhere in the repo - most likely never
+    actually computed. Replaced with numbers produced by `devkit/concept_analysis.py` (checked in,
+    reproducible) and a fabricated transfer-test claim in "What we still don't know" was removed outright.
+    Lesson: any statistic quoted in a notebook from now on needs a script it came from, checked in next to it.
 
 
 # 1. Underrepresentation Issue

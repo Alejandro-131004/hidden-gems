@@ -90,7 +90,7 @@ code{background:color-mix(in srgb,var(--ink) 6%,transparent);padding:1px 5px;bor
 <header class="top">
   <div>
     <h1>Hidden Gems — Índice de Potencial<span class="demo-tag">demo</span></h1>
-    <p class="sub">Época 2025/26 · cinco segundas divisões europeias · jogadores sub-25 com 500+ minutos</p>
+    <p class="sub">Época 2025-2026 · 75 ligas, força de liga já ajustada · jogadores até 25 anos com 600+ minutos</p>
   </div>
   <button class="theme" id="themeBtn" type="button">Modo escuro</button>
 </header>
@@ -102,7 +102,7 @@ code{background:color-mix(in srgb,var(--ink) 6%,transparent);padding:1px 5px;bor
   <div class="tabs" id="tabs" role="tablist"></div>
   <div style="margin-top:16px" id="tableWrap"></div>
   <p class="note" id="tableNote"></p>
-  <div class="callout warn">Mesmo entre ligas escolhidas por serem de nível parecido, a <b>Eerste Divisie domina o topo</b> — vale 30% do universo mas chega a 73% dos primeiros lugares no ataque. Dois destes campeonatos, o holandês e o belga, incluem equipas B de clubes grandes (Ajax II, PSV II, AZ II, Anderlecht II, Gent II), cheias de jovens, e a Eerste Divisie é além disso um campeonato mais aberto, o que inflaciona números ofensivos. Serve de aviso: se cinco ligas parecidas já se desequilibram assim, setenta e cinco sem calibração não dão um ranking utilizável.</div>
+  <div class="callout warn">O índice já corrige o nível de cada liga (ver "Como foi feito"), por isso um lateral da Andorra e um da Serie B entram na mesma tabela de forma justa — dentro do que essa correção, ainda provisória, consegue captar. Onde não há dados de referência fiáveis para calibrar uma liga, essa liga fica de fora da comparação entre ligas, mas continua a pontuar jogadores dentro dela própria.</div>
 </div>
 
 <div class="grid2">
@@ -145,16 +145,19 @@ code{background:color-mix(in srgb,var(--ink) 6%,transparent);padding:1px 5px;bor
     <div>
       <h3>O caminho até aqui</h3>
       <p class="note">Os dados vêm de exportações manuais do Wyscout, organizadas em <b>82 pastas de liga</b> segundo o mapa de prioridades. Estão recolhidas <b>75 ligas</b> e <b>39 650 jogadores</b>, com verificação automática de contagem por liga. Cinco ligas continuam por fechar: duas não têm época definida no Wyscout, duas não existem lá, uma está por confirmar.</p>
-      <p class="note">Esta demo usa apenas cinco dessas ligas, escolhidas por serem de nível comparável. Foi uma decisão deliberada — ver as perguntas em aberto.</p>
+      <p class="note">Esta versão usa as 75 ligas recolhidas, não apenas um punhado escolhido por serem parecidas — é isso que o passo de força de liga, abaixo, torna possível.</p>
     </div>
     <div>
-      <h3>O cálculo, em quatro passos</h3>
+      <h3>O cálculo, em sete passos</h3>
       <p class="note">
-      <b>1.</b> Cada jogador entra num de seis grupos posicionais, pela posição principal.<br>
-      <b>2.</b> Seis a sete métricas por grupo são convertidas em z-scores dentro do grupo, limitadas a ±3 para nenhum valor extremo dominar.<br>
-      <b>3.</b> A média é multiplicada por <code>√(minutos/1800)</code>, para que meia época pese menos do que uma época inteira.<br>
-      <b>4.</b> Junta-se a idade com peso de 25% — a mesma produção aos 19 vale mais do que aos 25.</p>
-      <p class="note">Os pesos das métricas são todos iguais. Não foram afinados, de propósito: afinar pesos sem saber o que procuram seria inventar.</p>
+      <b>1.</b> Só entram jogadores com pelo menos 600 minutos numa posição conhecida.<br>
+      <b>2.</b> As métricas de cada posição são convertidas em percentil, mas só <b>dentro da mesma liga e posição</b> — a qualidade da liga não entra ainda aqui.<br>
+      <b>3.</b> Ligas com poucos jogadores numa posição são comparadas com um grupo maior de ligas de nível parecido, para o percentil não assentar em 3 ou 4 jogadores.<br>
+      <b>4.</b> Uma percentagem construída sobre poucas tentativas (100% em 1 cruzamento) é puxada para a média até haver tentativas suficientes.<br>
+      <b>5.</b> O resultado é puxado para a média proporcionalmente aos minutos jogados — meia época conta como indício, não como prova.<br>
+      <b>6.</b> <b>Só agora</b> entra a força da liga, como correção final, para tornar ligas diferentes comparáveis entre si.<br>
+      <b>7.</b> A idade nunca entra na pontuação — fica sempre numa coluna à parte, só para consulta.</p>
+      <p class="note">Os pesos das métricas dentro de cada posição são iguais entre si. Não foram afinados, de propósito: afinar pesos sem um alvo de confiança para os validar seria inventar.</p>
     </div>
   </div>
 </div>
@@ -162,11 +165,11 @@ code{background:color-mix(in srgb,var(--ink) 6%,transparent);padding:1px 5px;bor
 <div class="card">
   <h2>O que precisamos de decidir convosco</h2>
   <ul class="q">
-    <li><b>Comparar ligas diferentes entre si, ou não?</b> Esta demo foge ao problema usando cinco ligas de nível parecido. Alargar às 75 exige calibrar a força de cada campeonato — caso contrário um extremo de Andorra aparece à frente de um da Serie B. É possível: há 2 533 jogadores que aparecem em mais do que uma liga e ligam as 75 numa única rede. Mas é trabalho, e só faz sentido se quiserem ranking global.</li>
-    <li><b>Um índice ou vários perfis por posição?</b> Nos radares vê-se que jogadores com índice quase igual têm perfis opostos — um número só apaga a especialização. Faz sentido dividir cada posição em perfis, e nesse caso quais são os perfis que vos interessam?</li>
-    <li><b>O que significa "subvalorizado" para vocês?</b> Metade dos jogadores da base não tem valor de mercado no Wyscout, e a falta é maior precisamente nas ligas mais obscuras — no Campeonato de Portugal são 98%. Ou seja: onde é mais provável haver um achado, não há preço para comparar. Ou o critério passa a ser só desempenho, ou é preciso outra fonte de valores.</li>
-    <li><b>Que corte de elegibilidade?</b> Usámos sub-25 com 500+ minutos. Mas a duração das épocas varia bastante entre campeonatos, e 500 minutos representam 32% de uma época em França e 15% na Colômbia. Faz sentido passar a uma percentagem dos minutos possíveis?</li>
-    <li><b>Uma época chega?</b> Só temos 2025/26. Sem duas épocas não se mede evolução — e potencial é, no fundo, uma trajetória. Vale a pena recolher 2024/25 para as ligas prioritárias?</li>
+    <li><b>A força de cada liga ainda é uma primeira estimativa.</b> Vem do ranking de associações da UEFA para a Europa, e do valor de mercado mediano para o resto do mundo — nenhuma das duas fontes é perfeita. Onde vocês têm conhecimento direto de nível entre ligas, essa correção pode ser afinada à mão.</li>
+    <li><b>Um índice ou vários perfis por posição?</b> Nos radares vê-se que jogadores com índice parecido têm perfis de jogo diferentes — um número só apaga a especialização. Faz sentido dividir cada posição em perfis, e nesse caso quais são os perfis que vos interessam?</li>
+    <li><b>O que significa "subvalorizado" para vocês?</b> Uma fração relevante dos jogadores da base não tem valor de mercado no Wyscout, e a falta é maior precisamente nas ligas mais obscuras. Ou seja: onde é mais provável haver um achado, é também onde há menos preço para comparar. Ou o critério passa a ser só desempenho, ou é preciso outra fonte de valores.</li>
+    <li><b>Que corte de elegibilidade?</b> Usa-se aqui até 25 anos com 600+ minutos, mas o objetivo do filtro em si não tem tecto de idade — jogadores mais velhos com potencial também contam, o corte de idade é só uma escolha desta demo para caber numa tabela. Faz sentido a empresa ver a lista sem esse corte também?</li>
+    <li><b>Uma época chega?</b> Só temos 2025-2026 recolhida em profundidade. Sem duas épocas não se mede evolução — e potencial é, no fundo, uma trajetória. Vale a pena recolher 2024-2025 para as ligas prioritárias, para permitir um teste retrospetivo real?</li>
   </ul>
 </div>
 
@@ -195,14 +198,14 @@ const fmtMv = v => v == null ? '—' : v >= 1e6 ? (v/1e6).toFixed(1).replace('.0
 /* ---------- stat tiles ---------- */
 const m = D.meta;
 document.getElementById('tiles').innerHTML = [
-  ['v', m.totalPool, 'jogadores no ranking', 'sub-25, 500+ minutos'],
+  ['v', m.totalPool, 'jogadores no ranking', `até ${m.maxAge} anos, ${m.minMinutes}+ minutos`],
   ['v', m.leagues.length, 'ligas comparadas', m.leagues.map(l => l.code).join(' · ')],
   ['v', Object.keys(D.groups).length, 'grupos posicionais', 'do guarda-redes ao avançado'],
   ['v', D.validation.pctNoMv + '%', 'sem valor de mercado', 'limita a leitura de "subvalorizado"'],
 ].map(([, v, k, n]) => `<div class="tile"><div class="v">${v}</div><div class="k">${k}</div><div class="n">${n}</div></div>`).join('');
 
 /* ---------- tabs ---------- */
-const GK_ORDER = ['GK','CB','FB','MID','AMW','CF'];
+const GK_ORDER = ['GK','CB','FB','DM','CM','AM','W','CF'];
 let current = 'CF';
 const tabs = document.getElementById('tabs');
 tabs.innerHTML = GK_ORDER.map(g =>
