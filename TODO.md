@@ -1,3 +1,8 @@
+# URGENT
+
+ 1. Meeting
+ 2. Add portuguese dashboard version
+
 # LIST of UNSOLVED
 
  1. ~~Underrepresented classes~~ - RESOLVED in `devkit/scoring.py` (`ROLE_METRICS`, one metric set per role,
