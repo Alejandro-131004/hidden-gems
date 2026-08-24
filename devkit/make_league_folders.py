@@ -95,7 +95,9 @@ LEAGUE_MAP = [
     ("red", "Venezuela",     "Venezuela",              "VEN", ["Primera División"]),
 ]
 
-SEASON = "2025-2026"     # league folders are created inside data/<SEASON>
+# SEASON = "2025-2026"     # league folders are created inside data/<SEASON>
+
+SEASON = str(input("Enter season (e.g. 2025-2026): ").strip())
 
 ILLEGAL = '<>:"/\\|?*'   # characters Windows won't allow in a folder name
 
