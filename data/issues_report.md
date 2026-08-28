@@ -1,5 +1,9 @@
 # Skipped Leagues - Season - Reason
 
+## Disclaimer
+
+**Any player with no `Age` feature (age not disclosed) is automatically ignored by the filter. We apologize for this inconvenience, but it is unavoidable unless we take 2x longer to download, which is already a very slow process.**
+
 ## Issues 
 
  1. **`Interval Size (IS)`**: Not possible to download all without using more filters than age (or different rearrangements of feature order), making these cases more frustrating to download, taking more time and using more files with redundant information
@@ -26,6 +30,8 @@
 ## 2023-2024
 
 ### Green Priority
+
+ 1. 11 - [ESP] - (Segunda Division RFEF): **IS**
 
 
 ## 2022-2023
