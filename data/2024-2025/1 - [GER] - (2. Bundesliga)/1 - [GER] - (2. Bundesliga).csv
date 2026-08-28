@@ -1,0 +1,523 @@
+﻿Player,Team,Position,Age,Market value,Contract expires,Matches played,Minutes played,Goals,xG,Birth country,Passport country,Foot,Height,Weight,On loan
+E. Martel,Mainz 05,"CB, DMF, RCMF",24,7500000,,31,3002,3,4.62,Germany,Germany,right,188,82,no
+M. Finkgräfe,RB Leipzig,"LWB, LB",22,6000000,2030-06-30,14,899,0,0.26,Germany,Germany,left,183,76,no
+T. Hübers,Köln,"RCB, CB",30,5500000,2027-06-30,29,2790,3,2.7,Germany,Germany,right,190,82,no
+P. Klemens,Hertha BSC,"RCMF, RDMF, LDMF",21,5000000,2028-06-30,24,1770,0,0.72,Germany,Germany,right,186,80,no
+F. Reese,Wolfsburg,"CF, LAMF, LW",28,5000000,2030-06-30,18,1488,11,6.15,Germany,Germany,right,187,80,no
+N. Tresoldi,Club Brugge,CF,21,5000000,2029-06-30,34,2309,7,10.62,Italy,"Italy, Germany",right,183,77,no
+J. Thielmann,Köln,"RB, RWB",24,5000000,2028-06-30,30,2279,2,1.47,Germany,Germany,right,178,72,no
+J. Gazibegović,Köln,"RWB, RB",26,5000000,2028-06-30,11,816,0,1.04,Austria,"Austria, Bosnia and Herzegovina",right,174,67,no
+L. Reis,Club Brugge,"LCMF, RCMF",26,4500000,2029-06-30,26,1768,2,2.37,Netherlands,"Netherlands, Slovakia",right,178,78,no
+M. Schwäbe,Köln,GK,31,4000000,2027-06-30,24,2371,0,0.0,Germany,Germany,right,190,86,no
+A. Tanaka,Leeds United,"DMF, LCMF, LDMF",27,4000000,2028-06-30,3,292,0,0.18,Japan,Japan,right,180,69,no
+D. Huseinbašić,Sporting Braga,"LCMF, LDMF",25,4000000,2031-06-30,31,2515,3,2.44,Germany,"Germany, Bosnia and Herzegovina",right,184,77,no
+J. Urbig,Bayern München,GK,22,4000000,2029-06-30,10,985,0,0.0,Germany,Germany,right,189,83,no
+M. van Brederode,Mechelen,"LAMF, LW, LWF",23,3500000,2029-06-30,24,1480,4,2.14,Netherlands,Netherlands,right,174,68,no
+I. Jóhannesson,Köln,"AMF, LCMF, LDMF",23,3500000,2030-06-30,32,3099,11,7.22,England,"England, Iceland",left,184,72,no
+R. Glatzel,Wolfsburg,CF,32,3000000,2028-06-30,15,768,10,7.69,Germany,Germany,right,193,85,no
+A. Karabec,Sparta Praha,"RCMF, AMF",23,3000000,,31,2069,3,3.63,Czech Republic,Czech Republic,left,187,78,no
+J. Castrop,Borussia M'gladbach,"LCMF, RCMF",22,3000000,2029-06-30,25,2135,3,3.18,Germany,Germany,right,178,76,no
+O. Villadsen,Brøndby,"RWB, RB",24,3000000,2029-06-30,26,1772,0,0.24,Denmark,Denmark,right,173,67,no
+L. Perrin,Nantes,RCB,27,3000000,2027-06-30,6,366,0,0.42,France,France,right,188,83,no
+T. Breithaupt,Augsburg,"DMF, RCMF",24,3000000,2028-06-30,12,876,0,0.08,Germany,Germany,right,192,70,no
+R. Ache,Köln,CF,28,3000000,2029-06-30,30,2212,18,18.69,Germany,"Germany, Ghana",right,183,81,no
+M. Bauer,Arminia Bielefeld,LCB,26,3000000,2027-06-30,11,1066,0,0.48,Germany,Germany,right,189,84,no
+M. Karbownik,İstanbul Başakşehir,"LCMF, RCMF",25,3000000,2029-06-30,22,1155,0,0.28,Poland,Poland,right,175,71,no
+B. Wdowik,Sporting Braga,"LB, LWB",25,3000000,2028-06-30,21,1704,0,0.56,Poland,Poland,left,184,72,no
+L. Maina,Köln,"CF, LWF, AMF",27,3000000,,27,2214,3,3.62,Germany,"Germany, Kenya",right,173,70,no
+J. Siebert,Lecce,LCB,24,3000000,2028-06-30,21,1906,0,1.34,Germany,Germany,right,193,86,no
+S. Appelkamp,Greuther Fürth,"AMF, RAMF, LW",25,3000000,2028-06-30,27,1684,1,1.16,Japan,"Japan, Germany",right,175,72,no
+R. Matondo,Brann,"LW, LB",25,3000000,2026-12-31,10,379,1,0.88,England,"England, Wales",right,175,66,no
+D. Selke,İstanbul Başakşehir,CF,31,2800000,2027-06-30,31,2099,22,17.55,Germany,Germany,right,195,84,no
+I. Pherai,Hamburger SV,"LCMF, AMF",25,2800000,2027-06-30,18,703,0,0.51,Netherlands,"Netherlands, Suriname",right,175,74,no
+M. Kaufmann,Heidenheim,CF,25,2700000,2028-06-30,14,906,1,1.26,Denmark,Denmark,right,190,90,no
+F. Kainz,,"LCMF, AMF, LAMF",33,2500000,,27,1512,5,3.12,Austria,Austria,right,176,71,no
+L. Waldschmidt,Köln,"AMF, CF, RWF",30,2500000,2027-06-30,30,1806,8,9.1,Germany,Germany,left,181,74,no
+R. Knoche,,CB,34,2500000,,31,2935,1,1.57,Germany,Germany,right,189,84,no
+H. Tabaković,Salzburg,CF,32,2500000,2029-06-30,2,195,0,0.38,Switzerland,"Switzerland, Bosnia and Herzegovina",right,196,90,no
+M. Dietz,Górnik Zabrze,"RCMF, CB, RCB",24,2500000,2029-06-30,27,2436,0,0.04,United States,"United States, Germany",right,189,80,no
+T. Ernst,Feyenoord,GK,23,2500000,2030-06-30,27,2649,0,0.0,Germany,Germany,right,193,87,no
+F. Alidou,Holstein Kiel,"CF, RWB, LWB",25,2500000,2028-06-30,12,307,0,0.65,Germany,"Germany, Togo",right,186,84,no
+N. Mbamba,Dender,"RDMF, RCMF, CF",21,2500000,2029-06-30,6,102,0,0.62,Belgium,Belgium,right,187,75,no
+J. Nelson,Austin FC,"RWF, CF, LWF",23,2500000,2028-12-31,6,177,0,0.16,Canada,Canada,right,175,66,no
+M. Mehlem,Arminia Bielefeld,"RCMF, AMF, CF",28,2500000,,16,1273,4,2.53,Germany,Germany,right,174,67,no
+S. Hefti,DC United,"RB, LB, RWB",28,2500000,2027-06-30,19,1102,1,0.26,Switzerland,Switzerland,right,182,80,no
+T. Drexler,Salzburg,RCB,21,2500000,2028-06-30,14,1189,1,0.72,Germany,Germany,right,186,75,no
+M. Dárdai,Hertha BSC,LCB,24,2500000,2028-06-30,31,2806,0,1.51,Germany,"Germany, Hungary",left,188,77,no
+J. Kenny,PAOK,"RB, RWB",29,2500000,2028-06-30,32,3125,1,1.06,England,England,right,176,70,no
+J. Thorsteinsson,Hertha BSC,"LAMF, RWF, LW",27,2500000,2027-06-30,18,740,0,1.58,Iceland,Iceland,right,177,66,no
+K. Sessa,Hertha BSC,"LDMF, LCMF, RCMF",26,2500000,2027-06-30,20,1004,0,0.87,Germany,"Germany, Argentina",right,175,70,no
+P. Neumann,Birmingham City,"RCB, LCB",29,2500000,2028-06-30,33,3209,2,3.84,Germany,Germany,right,192,91,no
+F. Nürnberger,Darmstadt 98,"LB, LWB",27,2500000,,28,2333,1,1.42,Bulgaria,"Bulgaria, Germany",left,181,75,no
+T. Lemperle,Hoffenheim,CF,24,2500000,2031-06-30,25,1915,10,10.48,Germany,Germany,right,189,80,no
+E. Sahiti,Hamburger SV,"RW, RWF",27,2300000,2027-06-30,22,1359,3,4.21,Kosovo,"Kosovo, Albania",right,174,65,no
+C. Terho,Sparta Rotterdam,"RWF, CF, RAMF",23,2200000,2030-06-30,11,549,0,0.19,Finland,Finland,left,184,75,no
+M. Halstenberg,,"LCB, CB",34,2000000,,28,2715,3,2.71,Germany,Germany,left,188,87,no
+J. Dompé,Hamburger SV,"LWF, LW",30,2000000,2027-06-30,32,2596,9,3.86,France,"France, Mali",right,170,65,no
+R. Carstensen,AGF,RB,25,2000000,2030-06-30,3,130,0,0.0,Denmark,Denmark,right,183,77,no
+P. Pfeiffer,Darmstadt 98,"CB, RCB",26,2000000,2027-06-30,8,311,0,0.17,Germany,"Germany, Ghana",right,196,91,no
+P. Jaeckel,Magdeburg,RCB,28,2000000,,23,1880,1,1.26,Germany,Germany,right,186,83,no
+M. Richter,Mainz 05,"LCMF, RCMF",28,2000000,2027-06-30,27,1279,1,3.33,Germany,Germany,right,176,74,no
+M. Muheim,Hamburger SV,"LB, LCB",28,2000000,2027-06-30,30,2903,1,1.2,Switzerland,Switzerland,left,182,77,no
+M. Krattenmacher,Elversberg,"AMF, CF, RWF",20,2000000,2030-06-30,32,2196,3,4.11,Germany,Germany,right,176,67,no
+M. Winkler,Hertha BSC,"LWB, RWF, RW",23,2000000,2027-06-30,20,858,2,1.62,Germany,Germany,left,184,70,no
+M. Maglica,Darmstadt 98,"LCB, RCB",27,2000000,2027-06-30,18,495,0,0.95,Croatia,Croatia,left,198,99,no
+C. Riedel,Espanyol,RCB,23,2000000,2029-06-30,33,3247,1,1.74,Germany,Germany,right,186,77,no
+D. Downs,Hamburger SV,CF,22,2000000,2029-06-30,29,1934,10,10.66,Germany,"Germany, United States",right,192,80,no
+D. Kownacki,Werder Bremen,CF,29,2000000,2027-06-30,29,2414,13,10.29,Poland,Poland,right,186,75,no
+J. Antiste,Rapid Wien,"CF, LW, LWF",23,1900000,,12,779,5,3.14,France,"France, Martinique",right,183,75,no
+K. Karaman,Schalke 04,"CF, AMF",32,1800000,2028-06-30,29,2720,13,10.06,Germany,"Germany, Türkiye",right,189,84,no
+P. Förster,Fortuna Düsseldorf,RW,31,1800000,2027-06-30,22,1576,4,2.72,Germany,Germany,left,188,82,no
+K. Corredor,Nantes,"LW, LAMF, CF",25,1800000,2030-06-30,32,2799,8,8.67,France,France,right,182,72,no
+M. Bader,Darmstadt 98,"RWB, RCMF",29,1800000,,4,289,0,0.12,Germany,Germany,right,176,73,no
+D. Murkin,Derby County,LB,27,1800000,2029-06-30,31,2752,0,1.66,England,"England, Netherlands",left,183,81,no
+M. Hansen,Paderborn,"DMF, LCMF, RCMF",22,1800000,,15,667,0,0.67,Germany,Germany,right,183,72,no
+S. Asta,Kaiserslautern,"RWB, RB",25,1800000,,27,1844,0,0.81,Germany,Germany,right,178,75,no
+L. Gechter,Hertha BSC,RCB,22,1800000,2027-06-30,21,1748,1,1.29,Germany,Germany,right,190,80,no
+M. Cuisance,Hertha BSC,"RCMF, RW",26,1800000,2030-06-30,32,2813,6,7.66,France,France,left,181,74,no
+B. Tomiak,Hannover 96,"CB, DMF",27,1800000,2028-06-30,26,2392,4,3.95,Germany,Germany,right,193,88,no
+S. Şahin,Kaiserslautern,"LDMF, LCMF",26,1800000,2027-06-30,22,1791,4,3.33,Germany,"Germany, Türkiye",right,177,72,no
+R. Schallenberg,Schalke 04,"RCB, LCMF",27,1700000,2027-06-30,31,2879,3,2.99,Germany,Germany,right,185,78,no
+R. Philippe,Hamburger SV,"CF, RWF",25,1700000,2029-06-30,34,3051,13,12.69,France,France,left,182,78,no
+R. Königsdörffer,Mainz 05,"CF, RCMF",24,1700000,,32,1821,14,10.85,Germany,"Germany, Ghana",right,182,78,no
+D. Hadžikadunić,,RCB,28,1700000,,25,2195,1,0.66,Sweden,"Sweden, Bosnia and Herzegovina",right,191,81,no
+M. Kempf,Como,LCB,31,1500000,2027-06-30,3,234,0,0.1,Germany,Germany,left,186,87,no
+L. Paçarada,Heidenheim,"LB, LWB",31,1500000,2027-06-30,31,2762,0,1.11,Germany,"Germany, Kosovo",left,184,76,no
+P. Seguin,Hertha BSC,"LDMF, RDMF, LCMF",31,1500000,2027-06-30,25,2065,2,1.08,Germany,Germany,right,186,82,no
+S. Schonlau,Holstein Kiel,"LCB, CB, RCB",31,1500000,2027-06-30,23,1939,0,0.87,Germany,Germany,both,188,80,no
+J. de Wijs,RKC Waalwijk,LCB,31,1500000,2028-06-30,4,119,0,0.16,Belgium,"Belgium, Netherlands",left,189,95,no
+R. Obermair,Paderborn,"RWB, RB",30,1500000,2027-06-30,33,3212,6,6.19,Germany,"Germany, Philippines",right,182,75,no
+M. Aydın,Eintracht Braunschweig,"RAMF, RB, RW",24,1500000,2027-06-30,29,1966,0,1.07,Germany,"Germany, Türkiye",right,180,78,no
+A. Zehnter,Wolfsburg,"LWB, LB",21,1500000,2030-06-30,32,3073,3,3.02,Germany,Germany,left,180,70,no
+M. Hoffmeier,Paderborn,"RCB, LCB",27,1500000,2028-06-30,21,1573,0,0.51,Germany,Germany,right,182,70,no
+F. Flick,Eintracht Braunschweig,"DMF, LCMF, RCMF",26,1500000,2028-06-30,21,956,1,0.17,Germany,Germany,both,190,80,no
+J. Justvan,Nürnberg,"AMF, RW, RCMF",28,1500000,2027-06-30,32,2938,8,6.49,Germany,Germany,left,177,69,no
+F. Kunze,Kaiserslautern,"LCMF, RCMF, DMF",28,1500000,,30,2255,1,1.84,Germany,Germany,right,193,78,no
+J. Ngankam,Eintracht Frankfurt,CF,26,1500000,2028-06-30,27,1554,4,5.81,Germany,"Germany, Cameroon",right,184,80,no
+J. Rochelt,Arminia Bielefeld,"LW, LCMF, AMF",27,1500000,2027-06-30,27,1601,2,2.25,Germany,Germany,right,182,77,no
+M. Olesen,Sønderjyske,"RCMF, DMF",25,1500000,2027-06-30,18,766,0,1.17,Denmark,"Denmark, Luxembourg",right,188,78,no
+V. Lunddal Fridriksson,Fortuna Düsseldorf,"RB, RWB",24,1500000,2028-06-30,23,1401,0,0.56,Iceland,Iceland,right,191,82,no
+F. Kastenmeier,,GK,29,1500000,,34,3332,0,0.0,Germany,Germany,right,192,84,no
+M. John,,"LWB, LB",24,1500000,,15,1259,0,0.74,Germany,Germany,left,184,73,no
+L. Itter,Greuther Fürth,LCB,27,1500000,2027-06-30,30,2757,1,0.57,Germany,Germany,left,183,74,no
+S. Tigges,Paderborn,CF,27,1500000,2027-06-30,16,459,0,1.56,Germany,Germany,left,193,90,no
+B. Hrgota,St. Pauli,"CF, AMF, RWF",33,1300000,,33,3184,6,3.9,Croatia,"Croatia, Sweden",left,185,76,no
+J. Green,,LCMF,31,1300000,,28,2547,7,6.59,United States,"United States, Germany",right,173,70,no
+B. Jatta,Hamburger SV,"RWF, RW, RWB",28,1300000,2029-06-30,8,452,0,0.42,Gambia,Gambia,right,184,79,no
+J. Baas,Sparta Rotterdam,"DMF, RCMF",24,1300000,2027-06-30,14,830,1,0.7,Netherlands,Netherlands,right,184,77,no
+J. Knight,Portsmouth,"RCB, LCB",28,1300000,2028-06-30,23,1618,3,2.07,England,England,right,192,78,no
+M. Wanitzek,Karlsruher SC,"LW, LCMF",33,1200000,2029-06-30,34,3351,13,9.71,Germany,"Germany, Poland",right,179,74,no
+C. Antwi-Adjei,,"LAMF, RW",32,1200000,,20,1048,1,1.55,Germany,"Germany, Ghana",right,173,72,no
+M. Mathisen,St. Pauli,CB,30,1200000,,30,2670,3,3.22,Denmark,Denmark,right,185,79,no
+F. Bilbija,Derby County,"AMF, RWF, RCMF",26,1200000,2029-06-30,33,2717,9,10.79,Germany,Germany,right,189,78,no
+M. Kwarteng,Magdeburg,"AMF, RAMF, RWF",28,1200000,2027-06-30,8,520,0,0.18,Germany,"Germany, Ghana",right,175,69,no
+R. Heußer,Eintracht Braunschweig,"RCMF, DMF",28,1200000,2027-06-30,28,863,1,0.8,Germany,Germany,right,170,73,no
+L. Pfeiffer,Elversberg,"CF, LCMF",29,1200000,2028-06-30,16,381,0,0.46,Germany,Germany,right,196,98,no
+F. Jäkel,Eintracht Braunschweig,LDMF,25,1200000,2028-06-30,1,5,0,0.0,Germany,Germany,right,194,84,no
+Bryan Teixeira,Žalgiris,"RWF, CF, RB",25,1200000,2027-12-31,20,668,0,1.21,France,"France, Cape Verde Islands",right,173,72,no
+S. Gnaka,Maxline,"RCMF, LCMF, DMF",27,1200000,,33,2869,1,1.12,Côte d'Ivoire,"Côte d'Ivoire, Belgium",left,179,64,no
+L. Poręba,Elversberg,"DMF, RCMF, LCMF",26,1200000,2029-06-30,17,757,1,0.57,Poland,Poland,right,179,76,no
+E. Iyoha,Magdeburg,"LB, RB, LWB",28,1200000,,22,1519,1,1.51,Germany,"Germany, Nigeria",both,191,86,no
+T. Raschl,Dynamo Dresden,"LCMF, RCMF, LW",26,1200000,,13,266,0,0.26,Germany,Germany,right,177,75,no
+L. Günther,Elversberg,LB,23,1200000,2030-06-30,20,1038,1,0.27,Germany,Germany,left,181,75,no
+D. Michalski,Zagłębie Lubin,"RCB, CB",28,1200000,2027-06-30,12,602,1,0.26,Poland,Poland,right,189,90,no
+L. Karius,Schalke 04,GK,33,1000000,2028-06-30,4,340,0,0.0,Germany,Germany,right,189,87,no
+C. Zimmermann,,LCB,33,1000000,,1,6,0,0.0,Germany,Germany,right,194,92,no
+M. Uth,,"AMF, CF, RCMF",34,1000000,,12,179,1,0.3,Germany,Germany,left,185,72,no
+A. Bouchalakis,OFI,"CB, RCMF, DMF",33,1000000,2028-06-30,9,168,0,0.0,Greece,Greece,left,186,79,no
+H. Nielsen,,"CF, AMF",33,1000000,,31,1549,2,6.02,Norway,Norway,right,187,83,no
+J. Meffert,Holstein Kiel,"DMF, LCMF",31,1000000,2028-06-30,29,2562,0,0.45,Germany,Germany,right,186,76,no
+J. Hendrix,Preußen Münster,"RDMF, DMF, RCMF",31,1000000,2028-06-30,32,2878,4,1.49,Netherlands,Netherlands,left,181,75,no
+M. Sobottka,,"RCMF, LCMF",32,1000000,,10,785,0,0.47,Germany,Germany,right,185,75,no
+V. Vermeij,Dynamo Dresden,CF,31,1000000,,20,533,2,2.36,Netherlands,Netherlands,right,196,87,no
+G. Ranos,Tenerife,"LCMF, CF, RWB",23,1000000,2028-06-30,5,84,0,0.02,Germany,"Germany, Armenia",right,180,73,no
+K. Okunuki,Gamba Osaka,"RW, LW, AMF",26,1000000,2027-06-30,5,263,1,1.04,Japan,Japan,right,171,61,no
+M. El Hankouri,Standard Liège,"LWB, LCMF, AMF",29,1000000,2027-06-30,22,1911,6,5.24,Netherlands,"Netherlands, Morocco",right,176,63,no
+A. Gantenbein,Schalke 04,"RB, RW",25,1000000,2028-06-30,20,1081,1,1.33,Switzerland,Switzerland,right,183,78,no
+A. Barkok,Raja Casablanca,"RCMF, AMF, RDMF",28,1000000,,6,369,0,0.34,Germany,"Germany, Morocco",right,189,82,no
+R. Hoffmann,Eintracht Braunschweig,GK,27,1000000,2027-06-30,17,1673,0,0.0,Germany,Germany,right,192,87,no
+Daniel Elfadli,Hamburger SV,"LCB, RCMF",29,1000000,2028-06-30,31,2908,3,2.41,Germany,"Germany, Libya",right,188,78,no
+D. Pejčinović,Wolfsburg,"CF, AMF",21,1000000,2029-06-30,19,819,5,3.94,Germany,"Germany, Montenegro",left,188,78,no
+G. Haag,,"RDMF, RCMF, LDMF",26,1000000,,24,1696,2,1.4,France,France,right,187,80,no
+J. Elvedi,Kaiserslautern,RCB,29,1000000,2028-06-30,31,2923,1,1.19,Switzerland,Switzerland,right,187,83,no
+P. Dárdai,Puskás FC,"RAMF, LW",27,1000000,2029-06-30,15,446,1,1.27,Germany,"Germany, Hungary",left,180,71,no
+M. Papela,Darmstadt 98,"RCMF, LCMF, RDMF",25,1000000,,32,1483,1,1.73,Germany,Germany,right,176,70,no
+K. Klefisch,Darmstadt 98,RCMF,26,1000000,,24,1944,2,2.19,Germany,Germany,right,188,75,no
+T. Handwerker,Arminia Bielefeld,"LWB, LB",28,1000000,,15,1077,0,0.94,Germany,Germany,left,182,74,no
+T. Oberdorf,Fortuna Düsseldorf,"RCB, LCB",29,1000000,2027-06-30,33,3232,2,1.64,Germany,Germany,right,186,76,no
+E. Baum,Eintracht Frankfurt,RB,20,1000000,2028-06-30,33,3160,3,1.16,Germany,Germany,right,180,75,no
+R. Fellhauer,Augsburg,"RDMF, RCMF",28,1000000,2029-06-30,25,2271,5,1.7,Germany,Germany,right,182,77,no
+J. Ceka,Elversberg,"RWF, CF",26,1000000,2028-06-30,3,105,0,0.0,Germany,"Germany, Albania",left,169,63,no
+B. Zivzivadze,Heidenheim,CF,32,900000,2029-06-30,17,1546,12,8.83,Georgia,Georgia,left,189,81,no
+A. Touré,Bordeaux,"LCB, RWB, RB",30,900000,,8,562,0,0.26,Mali,"Mali, France",right,181,72,no
+J. Dehm,Greuther Fürth,"RB, LWB",30,900000,2027-06-30,21,1310,1,1.06,Germany,Germany,right,181,73,no
+S. Prevljak,Istra 1961,"CF, AMF",31,900000,2027-06-30,10,364,1,2.14,Bosnia and Herzegovina,Bosnia and Herzegovina,right,187,75,no
+A. Vukotić,Darmstadt 98,LCB,31,900000,,32,3142,3,2.97,Serbia,"Serbia, Bosnia and Herzegovina",left,201,92,no
+M. Ševčík,Legia Warszawa,"RW, RCMF, RB",23,900000,2027-06-30,3,90,1,0.13,Czech Republic,Czech Republic,left,181,72,yes
+G. Ramos,Beijing Guoan,CB,28,900000,,1,12,0,0.0,Portugal,Portugal,right,191,86,no
+M. Mustapha,Como,"CF, RWF",25,900000,2027-06-30,10,325,0,1.11,Austria,Austria,right,185,77,no
+D. Dressel,,LCMF,27,900000,,14,1147,1,0.49,Germany,Germany,left,186,76,no
+P. Meïssa Ba,Widzew Łódź,CF,29,900000,2028-06-30,13,651,2,2.27,Senegal,Senegal,right,187,79,no
+M. Raab,Union Berlin,GK,27,900000,,3,298,0,0.0,Germany,Germany,right,186,82,no
+J. Krahl,Kaiserslautern,GK,26,900000,,32,3160,0,0.0,Germany,Germany,right,194,90,no
+M. Beifus,Karlsruher SC,LCB,23,900000,,31,2907,0,0.93,Germany,Germany,right,187,78,no
+J. Gómez,Eintracht Braunschweig,"RCMF, AMF, CF",25,900000,2027-06-30,27,1747,0,3.67,United States,"United States, Mexico",right,178,75,no
+P. Stock,Hansa Rostock,"AMF, CF, LW",29,900000,2027-06-30,20,358,0,0.31,Germany,Germany,right,188,78,no
+M. Ritter,Kaiserslautern,"AMF, RCMF, LCMF",31,850000,,30,2301,8,5.93,Germany,Germany,right,173,72,no
+N. Gavory,Eupen,"LB, LWB",31,800000,2027-06-30,18,1355,1,1.4,France,France,left,183,79,no
+R. Bormuth,,RCB,30,800000,,11,398,0,0.01,Germany,Germany,right,190,87,no
+D. Heintz,Fortuna Düsseldorf,LCB,32,800000,2028-06-30,28,2082,0,0.81,Germany,Germany,left,188,85,no
+M. Schuhen,Darmstadt 98,GK,33,800000,,34,3373,0,0.0,Germany,Germany,right,188,85,no
+T. Kalas,Schalke 04,"RCB, LCB",33,800000,2027-06-30,23,1455,1,0.46,Czech Republic,Czech Republic,right,184,85,no
+B. Atik,Magdeburg,"LWF, LAMF, CF",31,800000,,24,1874,7,2.69,Germany,"Germany, Türkiye",right,169,70,no
+M. Zimmermann,Fortuna Düsseldorf,"RB, RDMF, RCMF",34,800000,2027-06-30,30,2431,3,2.17,Germany,Germany,right,177,76,no
+A. Hoffmann,CSKA 1948 Sofia,"RCB, CB",33,800000,2028-06-30,29,2344,0,1.38,Germany,Germany,right,190,84,no
+F. Klaus,Greuther Fürth,"RAMF, RW, AMF",33,800000,2027-06-30,29,2275,4,6.92,Germany,Germany,right,179,72,no
+M. Meyerhöfer,,"RWB, RCB, RB",30,800000,,26,2071,1,0.4,Germany,Germany,right,179,72,no
+D. Demme,,"DMF, LCMF, LDMF",34,800000,,22,1679,0,0.18,Germany,"Germany, Italy",right,172,71,no
+N. Loosli,,RCB,29,800000,,13,1188,1,0.34,Switzerland,Switzerland,right,186,82,no
+D. Reimann,Magdeburg,GK,29,800000,2029-06-30,34,3323,0,0.0,Germany,"Germany, Poland",right,186,84,no
+L. Curda,Paderborn,RCB,24,800000,,20,1382,1,1.05,Germany,Germany,right,185,84,no
+S. Klaas,Paderborn,LCMF,28,800000,,19,889,2,1.75,Germany,Germany,right,180,71,no
+M. Emreli,Raków Częstochowa,CF,29,800000,2028-06-30,24,1601,10,8.52,Azerbaijan,Azerbaijan,left,187,75,no
+A. Keller,Greuther Fürth,LWB,22,800000,2029-06-30,27,2129,4,3.35,Switzerland,"Switzerland, Germany",right,181,77,no
+J. Quarshie,Southampton,"CB, RCB",22,800000,2029-06-30,20,1561,0,1.04,Germany,"Germany, Ghana",right,196,91,no
+A. Müller,Karlsruher SC,"LCMF, RCMF, DMF",26,800000,,32,2709,2,0.94,Germany,Germany,right,173,70,no
+D. Scherhant,Freiburg,"CF, LAMF, LWF",23,800000,2027-06-30,34,2587,7,8.1,Germany,Germany,right,185,78,no
+J. Heuer,Greuther Fürth,"LCB, CB",26,800000,2029-06-30,26,1920,1,1.12,Germany,Germany,right,188,78,no
+F. Kleinhansl,Darmstadt 98,"LWB, LB",25,800000,,20,1536,0,0.27,Germany,Germany,left,180,72,no
+R. Tachie,Magdeburg,"CF, RW",27,800000,,23,1128,3,1.95,Germany,"Germany, Ghana",right,177,70,no
+L. Egloff,Karlsruher SC,"CF, LCMF, RCMF",23,800000,,14,453,2,0.88,Germany,Germany,right,182,79,no
+L. Jensen,Hertha BSC,"LCMF, DMF",29,800000,2027-06-30,30,2371,4,1.98,Germany,Germany,right,175,70,no
+D. Burnić,,"RW, RCMF",28,800000,,31,2398,2,2.6,Germany,"Germany, Bosnia and Herzegovina",left,181,73,no
+Nem. Motika,Olimpija,"LW, LWF, CF",23,800000,2028-05-31,11,288,0,0.88,Germany,"Germany, Serbia",right,179,70,no
+R. Massimo,Górnik Zabrze,"LWB, LWF, RWB",25,800000,2028-06-30,28,1752,3,4.27,Germany,"Germany, Italy",right,183,82,no
+W. Ould-Chikh,Heracles,"AMF, LCMF",26,800000,2029-06-30,7,211,0,0.2,Netherlands,"Netherlands, Morocco",right,186,75,no
+C. Sickinger,Darmstadt 98,"RDMF, LDMF, DMF",28,800000,2027-06-30,32,1967,5,3.9,Germany,Germany,right,183,73,no
+B. Lasme,Schalke 04,"CF, RW, RAMF",27,800000,2027-06-30,6,104,0,0.67,France,"France, Côte d'Ivoire",right,194,95,no
+J. Dudziak,,LB,30,750000,,2,116,0,0.06,Germany,Germany,left,176,70,no
+K. Redondo,,"LWB, AMF, CF",31,750000,,20,1032,1,2.3,Germany,"Germany, Spain",left,180,69,no
+D. Heber,Magdeburg,LCB,32,750000,,30,2723,1,1.21,Germany,"Germany, Ghana",right,182,78,no
+D. Kinsombi,Würzburger Kickers,"RCMF, AMF",30,750000,,25,1207,2,3.31,Germany,"Germany, Congo DR",right,183,74,no
+R. Ivanov,Asteras Tripolis,"RCB, LCB",31,750000,2027-06-30,19,1554,0,1.23,Finland,Finland,right,197,85,no
+T. Müller,Magdeburg,"LCB, RCB",32,750000,2028-06-30,15,988,0,0.05,Germany,Germany,both,188,80,no
+L. Tempelmann,Eintracht Braunschweig,"LCMF, RCMF, LWF",27,750000,2028-06-30,21,1757,6,2.88,Germany,Germany,right,175,75,no
+J. Serra,AGF,CF,28,750000,2027-06-30,8,90,0,0.39,Germany,Germany,left,193,83,no
+L. Schleimer,Wehen Wiesbaden,CF,26,750000,2028-06-30,25,1169,4,3.3,Germany,Germany,right,184,73,no
+K. Kostons,PEC Zwolle,"CF, RWF, RW",26,750000,2029-06-30,15,994,3,2.84,Belgium,Belgium,right,186,73,no
+D. Kother,MSV Duisburg,"LAMF, LWF, LW",26,750000,2028-06-30,14,1021,1,1.61,Germany,Germany,right,180,72,no
+L. Marseiler,Darmstadt 98,"LW, RW, RAMF",29,750000,,31,1587,3,2.83,Germany,"Germany, Italy",both,176,68,no
+F. Platte,,CF,30,700000,,10,371,1,1.95,Germany,Germany,right,190,86,no
+H. Bockhorn,Magdeburg,RWB,31,700000,,1,22,0,0.0,Uganda,"Uganda, Germany",right,177,76,no
+J. Boëtius,,"RCMF, LCMF, RW",32,700000,,12,541,0,0.85,Netherlands,"Netherlands, Suriname",right,178,76,no
+M. Franke,Karlsruher SC,"RCB, CB",33,700000,,30,2807,3,3.24,Germany,Germany,right,193,90,no
+Jan Gyamerah,Elversberg,"RB, RWB",31,700000,2027-06-30,23,1300,0,0.57,Germany,"Germany, Ghana",right,184,79,no
+A. Voglsammer,Hansa Rostock,"CF, AMF, LWF",34,700000,2027-06-30,29,1079,3,2.62,Germany,Germany,right,178,81,no
+S. Muroya,Tokyo,"RB, RWB",32,700000,2027-06-30,27,2330,0,1.88,Japan,Japan,right,174,65,no
+Danilo Soares,Austria Lustenau,"LWB, LB",34,700000,2028-06-30,23,1659,1,0.89,Brazil,"Brazil, Germany",left,170,72,no
+Daniel Heuer Fernandes,Hamburger SV,GK,33,700000,2028-06-30,31,3054,0,0.0,Germany,"Germany, Portugal",right,188,81,no
+L. Schnellbacher,Elversberg,CF,32,700000,2028-06-30,29,1415,6,5.05,Germany,Germany,right,180,76,no
+M. Neubauer,Hannover 96,LB,30,700000,2028-06-30,34,3365,3,1.46,Germany,Germany,left,178,72,no
+M. Heyer,,"LB, LDMF, LCMF",31,700000,,19,1567,1,0.5,Germany,Germany,right,185,78,no
+S. Michel,Paderborn,"CF, LWF, AMF",36,700000,2027-06-30,26,1550,4,5.82,Germany,Germany,left,178,78,no
+F. Pick,Saarbrücken,"RAMF, LW, CF",30,700000,2028-06-30,24,1447,2,4.44,Germany,Germany,right,176,72,no
+Gideon Jung,,"CB, RCB",31,700000,,25,1584,1,1.02,Germany,"Germany, Ghana",right,189,76,no
+D. Abiama,Rot-Weiss Essen,"LWF, LAMF, RW",27,700000,2028-06-30,5,231,0,0.16,Nigeria,"Nigeria, Germany",right,184,75,no
+I. Hamache,Cambuur,"LAMF, RAMF, LW",23,700000,2029-06-30,11,331,0,0.2,France,"France, Algeria",right,178,70,no
+M. Batmaz,Preußen Münster,"CF, AMF, RWF",26,700000,2027-06-30,12,616,1,2.5,Germany,"Germany, Türkiye",right,180,77,no
+A. Donkor,Schalke 04,LB,28,700000,2027-06-30,26,930,0,0.49,Germany,"Germany, Ghana",left,186,84,no
+S. Köhler,,"LCMF, RCMF, CB",29,700000,,31,2493,1,1.07,Germany,Germany,right,185,83,no
+W. Mikelbrencis,,RB,22,700000,,25,1811,0,0.87,France,France,right,176,64,no
+J. Grodowski,Arminia Bielefeld,"CF, RWF",28,700000,,15,941,1,1.13,Germany,Germany,left,185,80,no
+P. Boevink,Greuther Fürth,GK,28,700000,2027-06-30,10,982,0,0.0,Netherlands,Netherlands,right,190,85,no
+J. Ellay Consbruch,Fortuna Düsseldorf,"LCMF, AMF",24,700000,2029-06-30,21,850,3,3.48,Germany,Germany,right,174,66,no
+F. Gebhardt,Lugano,GK,24,700000,2029-06-30,24,2356,0,0.0,Germany,Germany,right,189,83,no
+D. Zeefuik,Hertha BSC,"LB, LWB",28,700000,2027-06-30,31,2861,1,1.9,Netherlands,"Netherlands, Suriname",right,177,76,no
+L. Schuler,Hertha BSC,CF,27,700000,2027-06-30,20,794,4,3.26,Germany,Germany,right,190,79,no
+M. Christiansen,,"LCMF, RCMF",29,700000,,16,990,1,0.56,Germany,Germany,right,185,82,no
+J. Mause,Kaiserslautern,"CF, LWF",28,700000,2027-06-30,17,533,0,1.91,Germany,Germany,right,189,82,no
+B. Ezeh,Dynamo Dresden,"LB, LWB",25,700000,,11,601,0,0.16,Germany,"Germany, Nigeria",left,188,87,no
+I. Lidberg,Borussia M'gladbach,"CF, RWF",27,700000,2027-06-30,28,2372,14,12.54,Sweden,Sweden,right,186,84,no
+Sergio López,Granada,RB,27,700000,,31,2591,3,1.04,Spain,"Spain, Germany",right,179,70,no
+N. Rapp,Dynamo Dresden,"RCMF, DMF",29,700000,2029-06-30,28,2326,1,1.86,Germany,Germany,right,186,81,no
+A. Suhonen,OB,"LCMF, RCMF, AMF",25,700000,2029-06-30,14,681,0,1.04,Finland,Finland,right,170,69,no
+C. Viet,MSV Duisburg,"RCMF, RWB, AMF",27,700000,2027-06-30,32,2451,1,3.55,Germany,Germany,right,181,75,no
+A. Hoti,Eintracht Braunschweig,RCB,23,700000,2028-06-30,5,277,0,0.0,Albania,"Albania, Kosovo",right,191,79,no
+T. Ito,Kawasaki Frontale,"LWF, CF, RWF",29,700000,2028-06-30,10,343,0,0.91,Japan,Japan,left,166,59,no
+J. Mees,Preußen Münster,"AMF, CF, RWF",30,650000,2027-06-30,28,2373,9,6.76,Germany,Germany,both,180,73,no
+M. Kaars,St. Pauli,"CF, AMF",27,650000,2027-06-30,33,3216,19,16.1,Netherlands,Netherlands,right,183,74,no
+L. Bell Bell,,"LWB, LB",29,650000,,24,1416,2,1.47,Germany,"Germany, Cameroon",left,180,78,no
+M. Rittmüller,Stal Rzeszów,"RWB, RB",27,650000,2027-06-30,21,1517,0,0.91,Germany,Germany,right,178,79,no
+J. Niemiec,OB,"RAMF, RW, RWB",24,650000,2028-06-30,29,894,2,1.9,Germany,"Germany, Poland",right,188,85,no
+V. Musliu,Sint-Truiden,"LCB, CB",31,600000,2027-06-30,7,353,0,0.0,North Macedonia,North Macedonia,right,187,80,no
+A. Younes,Schalke 04,"LW, LAMF, CF",32,600000,,25,1302,2,2.03,Germany,"Germany, Lebanon",right,168,67,no
+M. Rohr,Elversberg,LCB,31,600000,2028-06-30,25,2175,0,0.08,Germany,Germany,right,193,85,no
+F. Le Joncour,Elversberg,LCB,31,600000,2027-06-30,17,1365,1,0.24,France,France,left,193,86,no
+S. Ernst,,"RCMF, RDMF",31,600000,,29,2031,0,1.69,Germany,Germany,left,181,73,no
+S. Adamyan,,"CF, AMF",33,600000,,22,1335,2,3.65,Armenia,Armenia,right,184,75,no
+D. Srbeny,Greuther Fürth,"CF, LWF",32,600000,2027-06-30,33,1561,4,6.69,Germany,Germany,right,190,83,no
+M. Riemann,Alemannia Aachen,GK,37,600000,2027-06-30,13,1212,0,0.03,Germany,Germany,right,186,83,no
+M. Damar,Wolfsburg,"AMF, LW",22,600000,2031-06-30,31,2555,9,6.64,Germany,"Germany, Türkiye",both,185,73,no
+N. Tauer,,RCMF,25,600000,,7,340,0,0.15,Germany,Germany,right,183,75,no
+F. Dietz,Jahn Regensburg,CF,27,600000,2027-06-30,3,74,0,0.27,Germany,Germany,right,188,78,no
+C. Conteh,Heidenheim,"LWF, CF, AMF",26,600000,2029-06-30,14,389,0,1.2,Germany,"Germany, Ghana",right,182,73,no
+F. Götze,Paderborn,CB,28,600000,,31,2970,3,2.21,Germany,Germany,right,185,80,no
+N. Katterbach,Eintracht Braunschweig,"RWB, LWB, RB",25,600000,2028-06-30,8,578,1,0.45,Germany,Germany,left,180,73,yes
+T. Rossmann,Sonnenhof Großaspach,"LAMF, LB, LW",22,600000,2028-06-30,17,1095,2,1.71,Germany,Germany,left,177,69,no
+Guille Bueno,Real Valladolid,LB,23,600000,2028-06-30,22,1431,0,1.08,Spain,Spain,left,176,72,no
+A. Opoku,Eintracht Braunschweig,"LW, LWF, LWB",27,600000,2028-06-30,12,666,2,1.53,Germany,"Germany, Ghana",right,185,71,no
+J. Schmied,Köln,"CB, RCB",27,600000,2029-06-30,12,987,0,0.0,Switzerland,Switzerland,right,188,84,no
+C. Kobald,Karlsruher SC,RCB,28,600000,,18,1439,2,1.49,Austria,Austria,right,186,80,no
+F. Ananou,,"RWB, RB",28,600000,,11,808,0,0.12,Togo,"Togo, Germany",right,183,78,no
+L. Grill,Dynamo Dresden,GK,27,600000,,12,1073,0,0.0,Germany,Germany,right,192,85,no
+M. Obuz,Rot-Weiss Essen,"RWB, RWF, AMF",24,600000,2027-06-30,5,128,0,0.29,Germany,"Germany, Türkiye",right,182,75,no
+L. Gindorf,Hannover 96,"LWF, AMF, RW",25,600000,2029-06-30,24,901,1,2.14,Germany,Germany,right,182,78,no
+F. Ronstadt,Kaiserslautern,"RWB, RB",29,550000,,12,731,0,0.41,Germany,"Germany, Ghana",right,179,76,no
+L. Öztunali,,RWF,30,500000,,2,42,0,0.0,Germany,"Germany, Türkiye",right,184,80,no
+M. Dräger,ES Tunis,"RWB, RB",30,500000,2028-06-30,5,198,0,0.0,Germany,"Germany, Tunisia",right,180,75,no
+L. Musonda,Magdeburg,"RWB, LWB",31,500000,2027-06-30,15,1161,1,0.86,Zambia,Zambia,both,171,75,no
+F. Schleusener,Fortuna Düsseldorf,CF,34,500000,2028-06-30,30,2327,6,7.37,Germany,Germany,right,186,81,no
+F. Niederlechner,1860 München,CF,35,500000,2027-06-30,28,1239,6,5.75,Germany,Germany,left,186,86,no
+J. Zimmer,Kaiserslautern II,"RWB, RB",32,500000,,16,1126,0,0.12,Germany,Germany,right,171,68,no
+M. Gersbeck,Hertha BSC,GK,31,500000,2027-06-30,5,492,0,0.0,Germany,Germany,left,187,83,no
+T. Kempe,,"LW, LCMF",37,500000,,15,326,0,0.59,Germany,Germany,right,184,77,no
+R. Zieler,Köln,GK,37,500000,2027-06-30,34,3329,0,0.0,Germany,Germany,right,187,82,no
+M. Kamiński,Wisła Płock,LCB,34,500000,2027-06-30,27,2462,1,1.31,Poland,Poland,left,192,84,no
+T. Mohr,Standard Liège,"LAMF, LW",30,500000,2028-06-30,26,1786,3,1.52,Germany,Germany,left,182,82,no
+J. Bachmann,Schalke 04,"LDMF, RDMF, AMF",30,500000,2027-06-30,25,1795,3,2.86,Germany,Germany,right,196,91,no
+S. Polter,,CF,35,500000,,28,1181,2,3.92,Germany,Germany,right,192,94,no
+R. Krauße,Kickers Offenbach,"LCMF, RCMF, DMF",32,500000,2027-06-30,24,1763,0,1.23,Germany,Germany,right,179,74,no
+M. Feil,,"RW, RAMF, CF",31,500000,,26,915,0,2.43,Germany,Germany,right,170,68,no
+K. Pröger,VfB Oldenburg,"RWB, RAMF, RB",34,500000,2027-06-30,27,2197,2,1.54,Germany,Germany,right,173,72,no
+C. Kühlwetter,Saarbrücken,"CF, DMF, LCMF",30,500000,2028-06-30,30,2523,3,4.11,Germany,Germany,right,180,80,no
+N. Gießelmann,Hannover 96 II,"LWB, LB, LCB",34,500000,2028-06-30,26,1318,1,1.59,Germany,Germany,left,182,76,no
+R. Leipertz,Greifswalder SV,"RWF, CF, RW",33,500000,2028-06-30,4,86,0,0.0,Germany,Germany,left,183,82,no
+S. Simoni,Luzern,GK,22,500000,2029-06-30,3,199,0,0.0,Albania,Albania,right,195,81,no
+A. Marušić,Radnički Kragujevac,"RCMF, CF, LCMF",27,500000,,3,40,0,0.15,Montenegro,Montenegro,right,185,83,no
+P. Will,Greuther Fürth,LCMF,27,500000,2029-06-30,4,415,0,0.59,Germany,Germany,left,185,77,no
+X. Amaechi,Plymouth Argyle,"RWF, CF",25,500000,,25,1163,5,2.95,England,"England, Nigeria",left,179,79,no
+A. Mebude,Rizespor,"RAMF, RW, RCMF",22,500000,2030-06-30,4,130,0,0.17,Scotland,"Scotland, Nigeria",right,179,78,no
+O. Batista Meier,Paderborn,"CF, AMF, LWF",25,500000,,15,1124,3,2.73,Germany,"Germany, Brazil",right,178,0,no
+M. Brandt,Wehen Wiesbaden,"RCMF, LCMF",25,500000,2028-06-30,31,2538,0,2.55,Germany,Germany,right,180,71,no
+C. Brackelmann,Augsburg,LCB,26,500000,,22,1915,3,2.56,Germany,Germany,left,196,86,no
+G. Christensen,Ingolstadt,"RAMF, LWF",21,500000,2027-06-30,2,7,0,0.2,Denmark,Denmark,right,178,72,no
+E. Wekesser,Kaiserslautern,"LB, LWB",29,500000,2028-06-30,20,1480,0,1.22,Germany,Germany,left,186,81,no
+D. Hanslik,Bochum,"CF, AMF",29,500000,2028-06-30,31,2413,8,7.92,Germany,"Germany, Poland",left,186,81,no
+Afeez Aremu,Aberdeen,"RCMF, DMF",26,500000,2028-06-30,12,700,0,0.42,Nigeria,Nigeria,right,181,75,no
+J. Pauli,Köln,"LCB, RCB",21,500000,2028-06-30,17,1300,0,0.43,Germany,"Germany, England",right,190,80,no
+L. Bazzoli,Rot-Weiss Essen,"RDMF, LDMF, RCMF",25,500000,2027-06-30,21,1730,0,0.39,Germany,"Germany, Italy",right,188,75,no
+E. Amenyido,Újpest,"CF, AMF",28,500000,,23,1134,0,1.5,Germany,"Germany, Togo",right,180,70,no
+L. Breunig,Eintracht Braunschweig,LCB,22,500000,2028-06-30,26,2545,0,0.68,Germany,Germany,left,188,77,no
+P. Müller,Greuther Fürth,"RCMF, RDMF, LCMF",22,500000,2027-06-30,12,520,1,0.56,Germany,Germany,right,179,68,no
+N. Noll,Paderborn,GK,23,500000,2028-06-30,29,2856,0,0.0,Germany,"Germany, Spain",right,191,75,yes
+T. Duman,Viktoria Köln,"RCMF, AMF, LCMF",28,500000,2027-06-30,5,90,1,1.27,Germany,"Germany, Türkiye",right,180,78,no
+M. Wasinski,Schalke 04,RCB,22,450000,2028-06-30,1,100,0,0.0,Belgium,Belgium,right,185,75,no
+M. Drešković,Darmstadt 98,"RCB, DMF",28,450000,,2,35,0,0.19,Montenegro,Montenegro,right,191,87,no
+L. Burcu,Union Berlin,"LWF, RWF, CF",21,450000,,31,2215,3,6.2,Germany,"Germany, Türkiye",right,178,68,no
+T. Gaal,St. Gallen,"RCB, LCB",25,450000,2027-06-30,21,1868,1,1.48,Germany,Germany,right,193,87,no
+F. Lakenmacher,Darmstadt 98,CF,26,450000,2027-06-30,30,1048,1,2.7,Germany,Germany,right,188,92,no
+I. Rondić,Köln,"CF, RWF, AMF",27,450000,2029-06-30,9,467,1,3.88,Bosnia and Herzegovina,Bosnia and Herzegovina,left,190,83,no
+N. Koulis,Preußen Münster,"RCB, LCB",27,450000,2027-06-30,25,2359,0,2.29,Germany,Germany,right,187,82,no
+R. Bulić,MSV Duisburg,"CB, LCMF, RCB",25,450000,2028-06-30,30,2190,1,0.71,Germany,Germany,right,196,84,no
+T. Zimmerschied,Elversberg,"LAMF, LW",27,450000,2029-06-30,24,1749,4,3.02,Germany,Germany,right,180,69,no
+B. Saller,Jahn Regensburg,RB,33,400000,2027-06-30,4,348,0,0.02,Germany,Germany,right,178,72,no
+P. Klement,,"LCMF, AMF, RWF",33,400000,,6,242,1,0.68,Germany,Germany,left,175,72,no
+P. Maier,,"DMF, LCMF, RCMF",32,400000,,16,1062,0,0.8,Germany,Germany,right,190,81,no
+O. Karafiát,Mladá Boleslav,"LCB, RCB",31,400000,2027-06-30,31,2313,2,2.16,Czech Republic,Czech Republic,right,182,80,no
+J. Nikolaou,,LCB,32,400000,,20,1443,1,1.16,Germany,"Germany, Greece",left,187,84,no
+K. Gjasula,Hoffenheim II,CB,36,400000,2028-06-30,4,175,0,0.06,Albania,"Albania, Germany",right,190,84,no
+A. Grimaldi,Nürnberg,CF,35,400000,,29,1242,8,8.58,Germany,"Germany, Italy",right,188,90,no
+E. Bičakčić,Valletta,CB,36,400000,2027-06-30,32,2639,1,1.89,Bosnia and Herzegovina,"Bosnia and Herzegovina, Germany",right,185,85,no
+C. Krempicki,Borussia Dortmund II,"RCMF, LCMF, AMF",31,400000,2028-06-30,18,1071,1,1.06,Germany,"Germany, Poland",both,178,78,no
+F. Kaufmann,BG Pathum United,"RWB, RCMF",33,400000,2027-06-30,30,2116,1,1.06,Germany,Germany,right,181,74,no
+S. Telalović,Rot-Weiss Essen,CF,26,400000,2028-06-30,29,1835,12,9.2,Germany,"Germany, Bosnia and Herzegovina",right,187,78,yes
+A. Hunziker,St. Gallen,CF,23,400000,2030-06-30,16,292,2,1.13,Switzerland,Switzerland,right,192,83,no
+A. Ahl Holmström,Magdeburg,"CF, AMF",27,400000,2029-06-30,8,303,0,1.98,Sweden,Sweden,right,191,82,no
+A. Nollenberger,Magdeburg,LWB,29,400000,,30,2112,2,2.72,Germany,Germany,right,180,72,no
+S. Loric,,"LWB, RWB",26,400000,,14,627,2,0.56,France,France,left,183,82,no
+L. Herrmann,Dynamo Dresden,"LCMF, RCMF",27,400000,,19,543,0,0.46,Germany,Germany,right,177,71,no
+J. Reichert,Nürnberg,GK,25,400000,2027-06-30,32,3159,0,0.0,Germany,Germany,right,191,86,no
+L. Hyryläinen,Magdeburg,"RCMF, DMF, LCMF",21,400000,2028-06-30,28,1788,0,1.76,Finland,Finland,right,197,89,no
+M. Ouro-Tagba,Köln II,"CF, RW, LWF",21,400000,2028-06-30,9,187,0,0.09,United States,"United States, Togo",right,191,85,no
+M. Weiß,Burnley,GK,22,400000,2029-06-30,34,3351,0,0.0,Germany,Germany,right,190,79,no
+N. Ganaus,OB,CF,25,400000,2028-06-30,32,1504,5,5.94,Germany,Germany,right,195,80,no
+S. Ba,Eintracht Braunschweig,"RWB, RB, LB",22,400000,2027-06-30,10,531,0,0.11,Germany,"Germany, Senegal",right,184,74,no
+L. Pinckert,Elversberg,RCB,26,400000,2028-06-30,33,3185,0,0.5,Germany,Germany,right,185,79,no
+S. Mrowca,,"CB, RCB, RCMF",32,350000,,7,450,0,0.11,Germany,"Germany, Poland",right,177,79,no
+T. Leistner,,"RCB, CB",35,350000,,27,2268,0,0.79,Germany,Germany,right,190,87,no
+P. Hercher,Wehen Wiesbaden,"RWB, RCMF",30,350000,,27,1694,7,2.69,Germany,Germany,right,182,80,no
+A. Geipl,Chemnitzer FC,"DMF, LCMF, LDMF",34,350000,2028-06-30,24,1847,0,0.21,Germany,Germany,right,178,73,no
+C. Makridis,Preußen Münster,"LAMF, LW, LWB",30,350000,2028-06-30,32,2083,2,2.97,Germany,"Germany, Greece",both,180,73,no
+D. Galjen,Fortuna Köln,CF,24,350000,2027-06-30,11,234,1,0.15,Germany,"Germany, Serbia",right,190,84,no
+F. Michel,Magdeburg,"RCMF, LCMF",25,350000,,23,526,1,0.54,Germany,Germany,right,187,80,no
+P. Strompf,Bochum,"CB, LCB",28,350000,2028-06-30,28,2737,2,4.05,Germany,Germany,left,194,91,no
+N. Thiede,ADO Den Haag,GK,27,350000,2027-06-30,17,1593,0,0.0,Germany,Germany,left,186,81,no
+L. Popp,Greuther Fürth,"LW, RAMF",21,350000,2027-06-30,3,74,0,0.0,Germany,Germany,right,180,81,no
+M. Momuluh,Arminia Bielefeld,"RW, RAMF, RWB",24,350000,,21,978,2,1.89,Germany,Germany,right,181,76,no
+O. Mhamdi,Heidenheim,"RB, RWB, LB",23,350000,2030-06-30,4,80,0,0.03,Germany,"Germany, Morocco",right,186,82,no
+Y. Ben Balla,Schalke 04 II,"DMF, LCMF",30,300000,2028-06-30,1,36,1,0.28,France,"France, Morocco",right,180,73,no
+S. Jung,Karlsruher SC,"RB, RWB",36,300000,2027-06-30,31,2935,2,1.95,Germany,Germany,right,179,72,no
+M. Thiede,Stal Rzeszów,"RB, RWB",34,300000,2027-06-30,19,504,0,0.22,Germany,Germany,right,178,75,no
+C. Ortag,Greuther Fürth,GK,31,300000,2029-06-30,19,1769,0,0.0,Germany,Germany,right,191,82,no
+C. Mathenia,Nürnberg,GK,34,300000,2028-06-30,1,95,0,0.0,Germany,Germany,right,190,89,no
+F. Ballas,Jeunesse Canach,"CB, RCB",33,300000,,16,1377,0,0.78,Germany,Germany,right,196,96,no
+H. Fridjónsson,Gwangju,CF,33,300000,,23,939,3,4.6,Iceland,Iceland,left,196,85,no
+T. Paetow,Preußen Münster,"CB, RCB",30,300000,2027-06-30,12,1175,3,1.4,Germany,Germany,both,188,85,no
+D. Chessa,Ulm,"RCMF, AMF, RWF",33,300000,2028-06-30,24,1441,0,0.99,Germany,Germany,left,179,64,no
+J. Hofmann,Rot-Weiss Essen,"RB, LB, RWB",24,300000,2028-06-30,4,206,0,0.05,Germany,Germany,right,177,75,no
+Nicolas Oliveira,Jahn Regensburg,RB,22,300000,2027-06-30,1,8,0,0.0,Spain,"Spain, Germany",right,187,81,no
+D. Pfaffenrot,Sandhausen,LWF,21,300000,2027-06-30,1,26,0,0.0,Germany,Germany,right,173,68,no
+O. Schönfelder,Jahn Regensburg,LB,25,300000,2027-06-30,5,399,0,0.0,Germany,Germany,left,182,74,no
+S. Raebiger,Eintracht Braunschweig,"LCMF, CF",21,300000,2027-06-30,3,69,0,0.24,Germany,Germany,right,176,70,no
+E. Højlund,Schalke 04,"CF, AMF",21,300000,2028-06-30,10,318,0,1.8,Denmark,Denmark,right,191,87,no
+J. Heekeren,Anderlecht,GK,25,300000,2029-06-30,29,2813,0,0.0,Germany,Germany,right,196,93,no
+K. Ehlers,Eintracht Braunschweig,LCB,25,300000,2027-06-30,25,1611,1,0.87,Germany,Germany,right,190,86,no
+L. Szabó,Zagłębie Lubin,CF,27,300000,2027-06-30,25,1362,4,4.04,Hungary,Hungary,right,195,89,no
+M. Schubert,Paderborn,GK,28,300000,2028-06-30,12,1162,0,0.0,Germany,Germany,right,184,81,no
+J. Schenk,Preußen Münster,GK,23,300000,2027-06-30,33,3262,0,0.0,Germany,Germany,right,191,85,no
+F. Higl,Greuther Fürth,CF,29,300000,2027-06-30,29,1749,5,4.25,Germany,Germany,left,194,83,no
+B. Allgeier,Hannover 96,"RWB, RCB",24,300000,2027-06-30,24,1941,0,0.02,Germany,Germany,right,194,82,no
+R. Rösch,,"RWB, LWB, LB",27,300000,,28,2251,1,0.99,Germany,Germany,right,182,75,no
+F. Schmahl,Elversberg,"LDMF, LCMF",23,300000,2027-06-30,30,1211,1,0.64,Germany,Germany,right,183,72,no
+A. Sicker,Arminia Bielefeld,"LAMF, LCMF, RB",29,300000,2028-06-30,6,99,0,0.0,Germany,Germany,left,184,79,no
+N. Ochojski,Eintracht Frankfurt II,"RB, RWB",27,275000,2028-06-30,9,336,0,0.25,Germany,"Germany, Poland",right,182,73,no
+J. Meier,,"LWB, RWB, RB",26,275000,,13,666,0,0.42,Germany,Germany,left,181,75,no
+J. ter Horst,Paderborn,"RB, RWB",24,275000,,27,2306,1,1.26,Germany,Germany,right,181,79,no
+R. Ziegele,Jahn Regensburg,"RCB, LCB",29,275000,2027-06-30,21,1600,1,1.66,Germany,Germany,right,183,82,no
+E. Huth,Sportfreunde Siegen,CF,29,275000,,19,521,1,0.93,Germany,Germany,right,181,78,no
+L. Stoll,,"RWB, RB",30,250000,,12,746,0,0.57,Germany,Germany,right,189,82,no
+E. Valentini,,"RB, RWB",37,250000,,5,106,0,0.01,Germany,"Germany, Italy",right,182,80,no
+J. Pollersbeck,,GK,31,250000,,10,977,0,0.0,Germany,Germany,right,195,90,no
+S. Scherder,Preußen Münster,RCB,33,250000,2027-06-30,18,1044,2,1.33,Germany,Germany,both,189,86,no
+R. Preißinger,Preußen Münster,"LDMF, LCMF, DMF",30,250000,2028-06-30,22,1196,0,0.22,Germany,Germany,both,185,78,no
+M. Kirkeskov,,"LB, LWB",34,250000,,29,2723,0,0.31,Denmark,Denmark,left,185,80,no
+T. Deters,Meppen,"RCMF, RW",30,250000,2027-06-30,7,205,0,0.17,Germany,Germany,right,172,67,no
+L. Dürholtz,Köln II,"RCMF, LDMF",32,250000,2027-06-30,3,83,0,0.0,Germany,Germany,right,178,65,no
+A. Ersungur,Karlsruher SC,CF,20,250000,2028-06-30,3,67,0,0.1,Germany,"Germany, Türkiye",right,185,75,no
+L. Sirch,Elversberg,CB,27,250000,2029-06-30,27,2506,4,2.49,Germany,Germany,right,185,80,no
+M. Kukučka,Jablonec,GK,24,250000,,1,99,0,0.0,Slovakia,Slovakia,left,191,77,no
+A. El-Zein,,"LCMF, RCMF",23,250000,,23,1051,2,0.78,Germany,"Germany, Türkiye",right,180,72,no
+F. Gruber,Mainz 05,"LCB, CB, RCB",23,250000,2030-06-30,9,736,1,0.22,Germany,"Germany, Peru",right,188,74,no
+N. Körber,,GK,29,250000,,1,48,0,0.0,Germany,Germany,right,189,83,no
+B. Bauer,Jahn Regensburg,RWB,22,250000,2027-06-30,1,5,0,0.0,Germany,Germany,right,179,74,no
+D. Kyerewaa,Reading,"RCMF, LCMF",24,250000,2027-06-30,20,976,3,4.21,Germany,"Germany, Ghana",right,175,69,no
+M. Behrens,Preußen Münster,GK,29,250000,,1,97,0,0.0,Germany,Germany,right,193,90,no
+D. Schad,Lamphun Warrior,"RB, RWB, LB",29,250000,2027-06-30,11,694,0,0.61,Germany,Germany,right,176,70,no
+Y. Bouchama,,"RAMF, RCMF, RWF",29,250000,,14,710,1,0.84,Germany,"Germany, Morocco",both,182,72,no
+D. Schmidt,,"CF, AMF",23,250000,,25,1008,5,4.52,Germany,Germany,right,188,78,no
+E. Bakatukanda,Köln,"LCB, RCB",22,250000,2028-06-30,3,55,0,0.0,Germany,"Germany, Congo DR",right,193,80,no
+J. Reichert,Ulm,"CB, RCB",35,225000,2027-06-30,25,2119,1,0.89,Germany,Germany,right,184,82,no
+F. Di Michele Sánchez,Eintracht Braunschweig,"LWB, LB",23,225000,2027-06-30,28,1934,1,0.73,Germany,"Germany, Italy",left,180,83,no
+L. Röser,Ulm,"CF, LWF",32,200000,2027-06-30,26,792,3,2.73,Germany,Germany,right,186,80,no
+M. Mahmoud,Austria Salzburg,"CF, RCMF, LWF",21,200000,2028-06-30,4,55,0,0.08,Germany,"Germany, Palestine",right,190,77,no
+M. Marie,Eintracht Braunschweig,"LCMF, LW",21,200000,2027-06-30,18,792,0,0.94,Germany,"Germany, Russia",right,180,73,no
+M. Johansson,,GK,27,200000,,11,1022,0,0.0,Sweden,"Sweden, Serbia",right,194,86,no
+M. Ens,MSV Duisburg,RCMF,24,200000,2028-06-30,1,75,0,0.0,Germany,Germany,right,187,76,yes
+T. Scheller,Paderborn,"RCB, LCB, CB",24,200000,,30,2585,1,2.32,Germany,Germany,right,192,83,no
+B. Hein,Botev Plovdiv,"LWB, LCMF, LB",24,200000,2027-06-30,28,2236,0,1.27,Germany,"Germany, Nigeria",left,182,76,no
+J. Boller,,"RCMF, CF",26,200000,,2,2,0,0.0,Germany,Germany,both,185,69,no
+F. Gerezgiher,Elversberg,"CF, LAMF, LW",26,200000,2027-06-30,19,486,1,0.64,Germany,"Germany, Eritrea",left,183,75,no
+M. Lorenz,,"LAMF, LWF, LW",38,175000,,30,1631,4,3.99,Germany,Germany,left,182,75,no
+A. Bittroff,,CB,37,175000,,3,108,0,0.0,Germany,Germany,right,186,81,no
+L. Frenkert,Eintracht Braunschweig,LCB,26,175000,2027-06-30,25,2185,3,3.22,Germany,Germany,right,190,83,no
+E. Hottmann,Jahn Regensburg,CF,26,175000,2029-06-30,26,1605,3,4.18,Germany,Germany,right,187,92,no
+T. Geyer,Aalen,"RCB, CB, LCB",35,150000,,8,467,0,0.0,Germany,Germany,right,179,73,no
+M. Wäschenbach,Alemannia Aachen,DMF,22,150000,2028-06-30,2,12,0,0.0,Germany,Germany,right,178,71,no
+P. Nadjombe,Magdeburg,"LCMF, RB, RWB",23,150000,,6,76,0,0.01,Germany,"Germany, Togo",right,183,77,no
+J. Brandt,Waldhof Mannheim,LW,23,150000,2027-06-30,1,10,0,0.0,Germany,Germany,left,184,74,no
+Pierre Michelle Lasogga,Schalke 04 II,RW,34,125000,,1,24,0,0.08,Germany,Germany,right,189,93,no
+A. Sanchez,Hessen Kassel,"RWF, AMF, RCB",32,125000,2027-06-30,4,63,0,0.0,Germany,Germany,left,178,0,no
+A. Ludwig,,"LCMF, AMF, RCMF",35,125000,,6,104,0,0.01,Germany,Germany,left,172,71,no
+L. Wollschläger,Carl Zeiss Jena II,"RWF, CF",23,125000,2027-06-30,1,14,0,0.16,Germany,Germany,both,195,89,no
+M. Sponsel,Viktoria Köln,RB,24,125000,2027-06-30,1,3,0,0.0,Germany,Germany,right,189,81,no
+T. Chahed,Magdeburg,RCMF,30,100000,,1,6,0,0.0,Germany,Germany,both,184,79,no
+M. Schulze,Hallescher FC,GK,25,100000,2028-06-30,3,240,0,0.0,Germany,Germany,right,192,85,no
+D. Smarsch,Horsens,GK,27,100000,2027-06-30,2,196,0,0.0,Germany,Germany,both,195,96,no
+M. Talabidi,Carl Zeiss Jena,RB,25,100000,2027-06-30,1,3,0,0.0,Togo,"Togo, Germany",right,185,72,no
+J. Agyekum,Hamburger SV,LDMF,21,100000,,1,3,0,0.0,Germany,Germany,,0,0,no
+H. Anhari,Fortuna Düsseldorf,"CF, AMF",22,100000,2028-06-30,2,8,0,0.0,Germany,"Germany, Morocco",right,178,72,no
+R. Geller,Bahlinger SC,RAMF,22,100000,2027-06-30,1,24,0,0.0,Germany,Germany,right,185,75,no
+D. Bindemann,,CF,23,100000,,2,12,0,0.0,Germany,Germany,right,0,0,no
+M. Wagner,Alemannia Aachen,LB,21,75000,2028-06-30,1,11,0,0.0,Germany,Germany,left,182,73,no
+K. Krumme,Fortuna Köln,AMF,22,75000,2028-06-30,1,6,0,0.0,Germany,Germany,right,191,0,yes
+T. Toure,Schalke 04,RB,21,50000,2028-06-30,1,30,0,0.09,France,"France, Côte d'Ivoire",right,0,0,no
+M. Özkan,,LWB,23,25000,,1,8,0,0.0,Germany,"Germany, Türkiye",left,0,0,no
+E. Zengin,Karlsruher SC II,RCB,23,25000,,1,99,0,0.0,Germany,"Germany, Bosnia and Herzegovina",both,188,79,no
+D. Salz,,CF,39,0,,2,8,0,0.0,Germany,Germany,,189,0,no
+J. Baum,Köln U17,RCMF,16,0,,1,97,0,0.0,Germany,Germany,both,0,0,no
+D. Kasper,Eupen,"CF, LWB",24,0,2026-12-31,3,89,0,0.09,Germany,Germany,right,188,0,no
+L. Queisser,Erzgebirge Aue,"RW, LW",22,0,2028-06-30,2,22,0,0.0,Germany,Germany,,184,0,no
+J. Korte,Preußen Münster,LDMF,23,0,2027-06-30,2,55,0,0.0,Germany,Germany,right,181,68,no
+O. Vilhelmsson,Preußen Münster,"CF, RWF",22,0,2027-06-30,12,507,1,0.33,Sweden,Sweden,left,188,77,no
+N. Rupp,Wil,CF,22,0,2029-06-30,1,4,0,0.0,Switzerland,Switzerland,left,184,72,no
+L. Ulrich,Stuttgart,"CF, LCMF",21,0,2028-06-30,5,96,0,0.15,Germany,Germany,right,180,76,no
+M. Baur,Celtic,"LWF, LW, RWF",22,0,2030-06-30,6,212,0,0.0,Germany,Germany,both,172,64,no
+B. Lum,Hertha BSC,"LCMF, DMF",18,0,,3,49,0,0.0,Germany,"Germany, Cameroon",right,173,0,no
+I. Cissé,,RCB,25,0,,4,310,1,0.91,France,"France, Mali",right,196,90,no
+H. Chakroun,Hannover 96,LCMF,21,0,2027-06-30,1,22,0,0.0,Germany,"Germany, Lebanon",right,174,70,no
+Z. Amoussou-Tchibara,Schalke 04,"CF, RW",20,0,2028-06-30,2,55,0,0.0,Togo,"Togo, Germany",left,0,0,no
+Y. Ebnoutalib,Eintracht Frankfurt,"CF, LDMF, RB",22,0,2031-06-30,4,64,0,0.0,Germany,"Germany, Tunisia",right,191,77,no
+O. Erahhali,Darmstadt 98,LCMF,19,0,,1,10,0,0.0,Germany,Germany,unknown,181,0,no
+N. Castelle,Viktoria Köln,"CF, LAMF, LWB",23,0,2028-06-30,4,44,0,0.0,Germany,Germany,right,182,78,no
+T. Kusanovic,Nürnberg,CF,18,0,2029-06-30,1,51,0,0.0,Croatia,Croatia,,187,0,no
+L. Chiumento,Nürnberg II,LCMF,19,0,2028-06-30,1,3,0,0.0,Germany,Germany,both,190,0,no
+E. Porstner,Nürnberg,CB,19,0,,1,3,0,0.0,Germany,Germany,unknown,180,0,no
+W. Osawe,Nürnberg,LCMF,19,0,,1,18,0,0.07,Germany,"Germany, Nigeria",right,189,77,no
+N. Telle,Fortuna Köln,"RCB, RWB",21,0,2027-06-30,3,73,0,0.0,Germany,Germany,right,0,0,no
+O. Schmitt,Meppen,CF,26,0,2027-06-30,1,6,0,0.0,Germany,Germany,right,180,73,no
+F. Stojiljković,Pisa,RWF,26,0,2029-06-30,1,14,0,0.04,Switzerland,"Switzerland, Serbia",right,185,80,no
+M. Baars,Magdeburg,"LW, LWB",19,0,,2,34,0,0.16,Germany,Germany,right,178,0,no
+K. Affo,Borussia M'gladbach II,CF,20,0,2027-06-30,1,9,0,0.0,Germany,"Germany, Togo",right,182,73,no
+S. Suso,Augsburg,LB,21,0,,1,8,0,0.0,Germany,"Germany, Gambia",left,190,81,no
+N. Aséko,Eintracht Frankfurt,LCMF,20,0,2031-06-30,1,25,0,0.0,Germany,"Germany, Equatorial Guinea",right,178,72,no
+M. Grüger,Schalke 04,"RDMF, RCMF, LCMF",21,0,,23,1507,1,0.75,Germany,Germany,right,185,76,no
+T. Bulut,Beşiktaş,"RB, RCB",20,0,2030-06-30,24,2163,1,1.52,Germany,"Germany, Türkiye",right,188,80,no
+M. Sylla,Schalke 04,CF,26,0,2028-06-30,27,2382,16,14.62,France,"France, Mali",right,180,78,no
+J. Hugonet,Hannover 96,"RCB, CB",26,0,2030-06-30,32,3099,3,2.45,France,France,right,186,79,no
+I. Ansah,Union Berlin,"CF, LWF, LW",21,0,,33,1841,6,2.9,Germany,"Germany, Ghana",right,194,84,no
+S. Castañeda,Paderborn,"LCMF, RCMF, DMF",21,0,2027-06-30,32,2508,0,0.38,United States,"United States, Colombia",right,191,74,no
+A. Røssing-Lelesiit,Hamburger SV,"DMF, AMF",19,0,2030-06-30,2,22,0,0.0,Norway,Norway,,0,0,no
+O. Stange,Hamburger SV,"CF, LW, RWF",19,0,2028-06-30,14,206,2,1.54,Germany,"Germany, Brazil",,0,0,no
+Fabio Baldé,Hamburger SV,"RWF, RB",21,0,2029-06-30,22,772,1,0.88,Germany,"Germany, Portugal",right,182,75,no
+S. Joachims,Homburg,"AMF, LCMF, RCMF",24,0,2027-06-30,4,58,0,0.15,Germany,Germany,right,177,70,no
+N. Seidel,Verl,LCB,21,0,,8,466,0,0.16,Germany,Germany,left,191,85,no
+D. Forkel,Rot-Weiß Erfurt,"LW, CF",21,0,2027-06-30,9,265,0,1.18,Germany,Germany,right,180,72,no
+T. Janisch,Nürnberg,"RWB, RB",20,0,,17,1176,0,0.73,Germany,Germany,right,171,65,no
+B. Yılmaz,Freiburg,"LWB, LB",21,0,,24,1584,0,0.48,Germany,"Germany, Türkiye",left,180,75,no
+R. Lubach,Nürnberg,LCMF,21,0,2027-06-30,27,1544,1,1.59,Germany,Germany,right,175,66,no
+A. Kahvić,FC Košice,"CF, RWF",22,0,2028-06-30,10,172,0,0.31,Bosnia and Herzegovina,Bosnia and Herzegovina,right,192,85,no
+N. Kolbe,Hertha BSC,LCB,29,0,2027-06-30,25,2193,0,0.6,Germany,Germany,left,196,81,no
+L. Engelns,Hoffenheim II,RCMF,19,0,2027-06-30,12,593,0,1.05,Germany,Germany,right,188,74,no
+A. Bäuerle,Saarbrücken,"LB, LWB",21,0,2028-06-30,4,61,0,0.01,Germany,Germany,left,172,68,no
+J. Bauer,,"LWB, RW, RCMF",22,0,,8,152,0,0.0,Germany,Germany,right,177,75,no
+M. Meyer,Vilzing,"RCMF, LAMF",19,0,2028-06-30,4,47,0,0.12,Germany,Germany,right,175,68,no
+L. Wurm,Jahn Regensburg,"RCB, LCB",20,0,2027-06-30,22,1927,1,1.43,Germany,Germany,right,194,76,no
+L. Robinson,Kaiserslautern,"LCMF, RCMF, LCB",25,0,,19,594,0,0.19,Germany,Germany,,186,78,no
+I. Maza,Bayer Leverkusen,"AMF, LCMF, CF",20,0,2030-06-30,33,2805,5,4.7,Germany,"Germany, Algeria",right,180,70,no
+D. Yokota,Hannover 96,"AMF, CF, RWF",26,0,2029-06-30,25,1862,4,3.43,Japan,Japan,left,171,66,no
+F. Kaloč,Ludogorets,"LCMF, RCMF",26,0,2028-06-30,30,2374,3,2.65,Czech Republic,Czech Republic,right,190,87,no
+E. Leopold,Borussia M'gladbach,"RCMF, LCMF",26,0,2030-06-30,33,3084,2,2.53,Germany,Germany,right,174,71,no
+Lee Hyun-Ju,Arouca,"RW, LW, RWF",23,0,,24,1531,3,3.85,Korea Republic,Korea Republic,right,172,67,no
+M. Haas,Kaiserslautern,"LWB, LB",20,0,,3,54,0,0.0,Germany,Germany,left,181,75,no
+F. Hornby,Wolfsburg,"CF, AMF",26,0,2030-06-30,28,2062,12,11.53,England,"England, Scotland",left,195,85,no
+R. Pinto Pedrosa,Karlsruher SC,RB,18,0,,14,432,0,0.01,Germany,Germany,right,180,75,no
+L. Ben Farhat,Karlsruher SC,CF,20,0,2029-06-30,12,501,3,2.42,Germany,"Germany, Tunisia",right,175,65,no
+B. Conté,Hoffenheim,"CF, RW",23,0,2028-06-30,26,1375,1,3.95,Germany,"Germany, Guinea",right,182,76,no
+D. Herold,Borussia M'gladbach,"LB, LWB",23,0,2030-06-30,33,2255,0,0.48,Germany,Germany,left,185,77,no
+A. Németh,Puskás FC,CF,23,0,2028-06-30,20,1111,0,1.44,South Africa,"South Africa, Hungary",right,187,78,no
+B. Kieffer,Jahn Regensburg,"RB, RWB",18,0,2027-06-30,5,167,0,0.0,Germany,Germany,unknown,0,0,no
+R. Münz,Westerlo,"RCMF, LWB, LDMF",20,0,2030-06-30,20,647,0,0.0,Indonesia,"Indonesia, Germany",left,188,81,no
+N. Futkeu,Eintracht Frankfurt,"CF, RWF",23,0,2027-06-30,34,2372,11,10.28,Germany,"Germany, Cameroon",right,183,73,no
+S. Bansé,Greuther Fürth,"RCMF, LCMF",25,0,2027-06-30,21,1275,1,1.49,Belgium,"Belgium, Burkina Faso",right,175,67,no
+J. Čuber Potočnik,Köln,AMF,21,0,2027-06-30,1,21,0,0.0,Slovenia,Slovenia,right,189,77,no
+D. Ljubičić,Schalke 04,RCMF,28,0,2028-06-30,27,2181,4,5.04,Austria,Austria,right,187,74,no
+N. Kristof,Elversberg,GK,26,0,,34,3365,0,0.0,Germany,"Germany, Austria",right,187,76,no
+F. Asllani,Hoffenheim,"CF, AMF",23,0,2029-06-30,33,3014,18,14.91,Germany,"Germany, Kosovo",right,191,81,no
+L. Petkov,Elversberg,"RAMF, RW",25,0,2027-06-30,30,2325,4,5.98,Germany,"Germany, Bulgaria",right,183,76,no
+S. Tzimas,Brighton,"CF, LWF",20,0,2030-06-30,23,1843,12,10.06,Greece,Greece,right,186,77,no
+F. Jeltsch,Stuttgart,"RCB, LCB",20,0,2030-06-30,18,1727,1,1.95,Germany,Germany,right,185,76,no
+C. Jander,Southampton,"RCMF, LCMF, DMF",23,0,2028-06-30,32,3030,3,0.58,Germany,Germany,right,183,75,no
+B. Goller,Ulm,"CF, RW, RWB",27,0,2027-06-30,9,241,0,0.01,Germany,Germany,right,180,67,no
+F. Sánchez,Santos Laguna,LCB,22,0,2028-06-30,5,428,0,0.15,Argentina,"Argentina, Italy",left,184,78,yes
+P. Remmert,MSV Duisburg,"AMF, CF",21,0,2028-06-30,2,39,0,0.0,Germany,Germany,right,193,89,yes
+K. Oudenne,Hannover 96,"LW, LB, LWB",24,0,2028-06-30,12,508,0,0.57,Germany,"Germany, Sweden",right,183,72,no

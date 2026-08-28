@@ -1,25 +1,165 @@
 ============================================================
 LEAGUE VERIFICATION
 ============================================================
-generated : 2026-08-13 20:56:53
-root      : C:\Users\aleja\OneDrive\Documentos\GitHub\hidden-gems\data\2025-2026
-folders   : 80
+generated : 2026-08-28 19:26:43
+root      : C:\Users\aleja\OneDrive\Documentos\GitHub\hidden-gems\data\2024-2025
+folders   : 82
 
-EMPTY  (5)
+FAIL  (2)
+    4 - [BRA] - (Série B)
+        csv has 745 rows, expected 807 (-62)
+    10 - [ESP] - (Primera Division RFEF)
+        csv has 1152 rows, expected 1173 (-21)
+
+EMPTY  (72)
+    11 - [ESP] - (Segunda Division RFEF)
+        no .xlsx and no .csv - nothing exported yet
+    12 - [FRA] - (Ligue 2)
+        no .xlsx and no .csv - nothing exported yet
+    13 - [FRA] - (Ligue 3)
+        no .xlsx and no .csv - nothing exported yet
+    14 - [FRA] - (National 1)
+        no .xlsx and no .csv - nothing exported yet
+    15 - [GRE] - (Stoiximan Super League)
+        no .xlsx and no .csv - nothing exported yet
+    16 - [GRE] - (Super League 2)
+        no .xlsx and no .csv - nothing exported yet
+    17 - [NED] - (Eredivisie)
+        no .xlsx and no .csv - nothing exported yet
+    18 - [NED] - (Eerste Divisie)
+        no .xlsx and no .csv - nothing exported yet
+    19 - [NOR] - (Eliteserien)
+        no .xlsx and no .csv - nothing exported yet
+    20 - [NOR] - (Obos Ligaen)
+        no .xlsx and no .csv - nothing exported yet
+    21 - [POR] - (Liga 3)
+        no .xlsx and no .csv - nothing exported yet
+    22 - [POR] - (Campeonato de Portugal)
+        no .xlsx and no .csv - nothing exported yet
+    23 - [SWE] - (Allsvenskan)
+        no .xlsx and no .csv - nothing exported yet
+    24 - [SWE] - (Superettan)
+        no .xlsx and no .csv - nothing exported yet
+    25 - [AUT] - (Bundesliga)
+        no .xlsx and no .csv - nothing exported yet
+    26 - [AUT] - (2. Liga)
+        no .xlsx and no .csv - nothing exported yet
+    27 - [BEL] - (Pro League)
+        no .xlsx and no .csv - nothing exported yet
+    28 - [BEL] - (Challenger Pro League)
+        no .xlsx and no .csv - nothing exported yet
+    29 - [BUL] - (First League)
+        no .xlsx and no .csv - nothing exported yet
+    30 - [CZE] - (Chance Liga)
+        no .xlsx and no .csv - nothing exported yet
+    31 - [CHI] - (Primera División)
+        no .xlsx and no .csv - nothing exported yet
+    32 - [CHN] - (CSL)
+        no .xlsx and no .csv - nothing exported yet
+    33 - [CYP] - (1. Division)
+        no .xlsx and no .csv - nothing exported yet
+    34 - [KOR] - (K League 1)
+        no .xlsx and no .csv - nothing exported yet
+    35 - [CRO] - (Superleague)
+        no .xlsx and no .csv - nothing exported yet
     36 - [CRO] - (First NL)
+        no .xlsx and no .csv - nothing exported yet
+    37 - [SCO] - (Premiership)
+        no .xlsx and no .csv - nothing exported yet
+    38 - [SCO] - (Championship)
+        no .xlsx and no .csv - nothing exported yet
+    39 - [SVK] - (Niké Liga)
+        no .xlsx and no .csv - nothing exported yet
+    40 - [SVN] - (1. SNL)
         no .xlsx and no .csv - nothing exported yet
     41 - [USA] - (Major League Soccer)
         no .xlsx and no .csv - nothing exported yet
     42 - [USA] - (USL Championship)
         no .xlsx and no .csv - nothing exported yet
+    43 - [HUN] - (NB I)
+        no .xlsx and no .csv - nothing exported yet
+    44 - [ISR] - (Ligat ha'Al)
+        no .xlsx and no .csv - nothing exported yet
+    45 - [ITA] - (Serie B)
+        no .xlsx and no .csv - nothing exported yet
+    46 - [ITA] - (Serie C)
+        no .xlsx and no .csv - nothing exported yet
+    47 - [JPN] - (J1 League)
+        no .xlsx and no .csv - nothing exported yet
+    48 - [JPN] - (J2 League)
+        no .xlsx and no .csv - nothing exported yet
+    49 - [MEX] - (Liga MX)
+        no .xlsx and no .csv - nothing exported yet
+    50 - [MEX] - (Liga de Expansión MX)
+        no .xlsx and no .csv - nothing exported yet
+    51 - [POL] - (Ekstraklasa)
+        no .xlsx and no .csv - nothing exported yet
+    52 - [POL] - (I Liga)
+        no .xlsx and no .csv - nothing exported yet
+    53 - [ROU] - (Superliga)
+        no .xlsx and no .csv - nothing exported yet
+    54 - [SRB] - (Super Liga)
+        no .xlsx and no .csv - nothing exported yet
+    55 - [SUI] - (Super League)
+        no .xlsx and no .csv - nothing exported yet
+    56 - [TUR] - (Süper Lig)
+        no .xlsx and no .csv - nothing exported yet
+    57 - [TUR] - (1. Lig)
+        no .xlsx and no .csv - nothing exported yet
+    58 - [UKR] - (VBET League)
+        no .xlsx and no .csv - nothing exported yet
+    59 - [URU] - (Primera División)
+        no .xlsx and no .csv - nothing exported yet
     60 - [RSA] - (Premier Division)
+        no .xlsx and no .csv - nothing exported yet
+    61 - [ALB] - (Abissnet Superiore)
+        no .xlsx and no .csv - nothing exported yet
+    62 - [AND] - (1a Divisió)
         no .xlsx and no .csv - nothing exported yet
     63 - [ALG] - (Ligue 1)
         no .xlsx and no .csv - nothing exported yet
+    64 - [ARM] - (IDBank Premier League)
+        no .xlsx and no .csv - nothing exported yet
+    65 - [AZE] - (Premyer Liqa)
+        no .xlsx and no .csv - nothing exported yet
+    66 - [BOL] - (LFPB)
+        no .xlsx and no .csv - nothing exported yet
+    67 - [BIH] - (Premijer Liga)
+        no .xlsx and no .csv - nothing exported yet
+    68 - [CRC] - (Primera División)
+        no .xlsx and no .csv - nothing exported yet
+    69 - [ECU] - (Liga Pro)
+        no .xlsx and no .csv - nothing exported yet
+    70 - [EST] - (A.LeCoq Premium Liiga)
+        no .xlsx and no .csv - nothing exported yet
+    71 - [FIN] - (Veikkausliiga)
+        no .xlsx and no .csv - nothing exported yet
+    72 - [GEO] - (Erovnuli Liga)
+        no .xlsx and no .csv - nothing exported yet
+    73 - [LVA] - (Virsliga)
+        no .xlsx and no .csv - nothing exported yet
+    74 - [LTU] - (A Lyga)
+        no .xlsx and no .csv - nothing exported yet
+    75 - [MAR] - (Botola Pro)
+        no .xlsx and no .csv - nothing exported yet
+    76 - [MNE] - (First League)
+        no .xlsx and no .csv - nothing exported yet
+    77 - [PAR] - (Division Profesional)
+        no .xlsx and no .csv - nothing exported yet
+    78 - [PER] - (Primera División)
+        no .xlsx and no .csv - nothing exported yet
+    79 - [QAT] - (Qatar Stars League)
+        no .xlsx and no .csv - nothing exported yet
+    80 - [TUN] - (Ligue 1)
+        no .xlsx and no .csv - nothing exported yet
+    81 - [UZB] - (Super League)
+        no .xlsx and no .csv - nothing exported yet
+    82 - [VEN] - (Primera División)
+        no .xlsx and no .csv - nothing exported yet
 
 ------------------------------------------------------------
-OK      75
-FAIL    0
+OK      8
+FAIL    2
 NO_CSV  0
-EMPTY   5
-players in verified leagues: 39650
+EMPTY   72
+players in verified leagues: 5172

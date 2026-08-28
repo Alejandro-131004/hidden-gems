@@ -1,0 +1,746 @@
+﻿Player,Team,Position,Age,Market value,Contract expires,Matches played,Minutes played,Goals,xG,Birth country,Passport country,Foot,Height,Weight,On loan
+Sandry,Criciúma,"RDMF, LDMF",23,3000000,2026-12-31,30,2710,0,0.69,Brazil,Brazil,right,174,66,yes
+Patrick,Remo,LCMF,33,2000000,2026-12-31,31,2082,0,2.69,Brazil,Brazil,left,176,81,yes
+Chico Geraldes,Seoul E-Land,"AMF, LCMF",31,2000000,,10,519,0,0.96,Portugal,Portugal,right,175,68,no
+Andrey,Santa Cruz,"LCMF, RDMF, RW",28,2000000,,5,111,0,0.3,Brazil,Brazil,right,175,73,no
+Marcos Paulo,Juventude,"LAMF, LW, RAMF",25,2000000,2026-12-31,11,630,1,1.37,Brazil,"Brazil, Portugal",right,185,76,no
+C. Terán,Athletico Paranaense,"RCB, CB",25,2000000,2026-12-31,10,837,0,0.06,Colombia,Colombia,right,188,85,no
+K. Velasco,Puebla,"RAMF, RWF, RW",29,1800000,,13,461,1,0.84,Colombia,Colombia,left,172,65,no
+Alan Rodríguez,Rosario Central,LB,25,1800000,2026-12-31,14,1168,0,0.04,Paraguay,Paraguay,left,172,67,no
+Tobias Figueiredo,Jeju SK,RCB,32,1500000,2026-12-31,4,321,0,0.0,Portugal,Portugal,right,188,82,no
+Raul,Cuiabá,"DMF, LDMF, LCMF",30,1500000,2027-12-31,15,995,0,0.21,Brazil,Brazil,right,180,73,yes
+Pedro Rocha,Coritiba,"LW, LAMF, CF",31,1500000,2026-12-31,32,2972,15,12.9,Brazil,Brazil,right,175,72,no
+Mateus Quaresma,Avaí,"LW, LB",29,1500000,2026-11-30,3,80,0,0.0,Brazil,Brazil,left,181,76,no
+L. Segovia,LDU Quito,LCB,28,1500000,2026-12-31,24,2047,1,1.29,Ecuador,Ecuador,left,182,80,no
+Ruan,,RB,31,1500000,,16,1040,0,0.04,Brazil,Brazil,right,174,65,no
+Henri,CRB,RCB,24,1500000,2027-12-31,35,3450,0,2.9,Brazil,Brazil,right,187,73,no
+Wesley Gasolina,Avaí,"RB, RWB",26,1500000,2026-11-30,21,1241,0,0.26,Brazil,Brazil,right,177,66,no
+Adriel,Torreense,GK,25,1500000,2029-06-30,30,2937,0,0.47,Brazil,Brazil,right,195,78,no
+M. Benítez,Atlético Tucumán,"AMF, LCMF",32,1400000,2026-12-31,12,431,0,0.1,Argentina,Argentina,right,175,75,no
+Higor Meritão,Vila Nova,"DMF, LDMF",32,1300000,2027-12-31,35,3283,1,2.84,Brazil,Brazil,left,186,85,no
+Dudu,,"RB, RWB",29,1300000,,11,718,1,0.62,Brazil,Brazil,right,175,75,no
+F. Martínez,Liverpool,"RAMF, LAMF, CF",30,1300000,2026-12-31,33,1911,2,6.25,Uruguay,"Uruguay, Spain",right,175,72,no
+Nathan,,"AMF, RDMF",30,1200000,,10,470,0,0.35,Brazil,Brazil,right,177,73,no
+Wellington Rato,Goiás,"AMF, LCMF, LW",34,1200000,2027-12-31,19,1398,2,1.79,Brazil,Brazil,left,172,77,no
+Léo Cittadini,Ningbo Professional,RCMF,32,1200000,,1,32,0,0.0,Brazil,"Brazil, Italy",left,178,72,no
+Perotti,Sport Recife,"CF, RWF",28,1200000,2026-11-30,21,721,4,3.31,Brazil,Brazil,left,186,78,no
+A. Martínez,Huracán,"RW, RWF",29,1200000,2026-12-31,17,1432,2,2.16,Argentina,Argentina,left,171,70,yes
+Pedro Lucas,Nova Iguaçu,"RW, RAMF, LB",23,1200000,2027-03-31,9,356,0,0.66,Brazil,Brazil,left,173,67,no
+Jean Mota,Sporting Jax,"LCMF, LDMF",32,1000000,2026-12-31,22,1211,1,1.37,Brazil,Brazil,left,172,72,no
+Santos,Athletico Paranaense,GK,36,1000000,2026-12-31,21,2124,0,0.0,Brazil,Brazil,right,188,78,no
+S. Mendoza,Athletico Paranaense,"RW, RWF, RWB",34,1000000,2027-12-31,21,1612,2,4.55,Colombia,Colombia,left,172,70,no
+Matheus Vargas,Paysandu,"LCMF, RCMF",30,1000000,,14,983,0,1.25,Brazil,Brazil,right,181,74,no
+Alef Manga,Remo,CF,31,1000000,2026-12-31,23,1096,3,4.58,Brazil,Brazil,right,190,91,no
+Maurício Garcez,Chapecoense,"LAMF, LW",29,1000000,2028-12-31,22,2046,7,7.08,Brazil,Brazil,right,183,71,no
+Clayson,Sport Recife,"LW, RW, LAMF",31,1000000,2026-11-30,22,1234,0,1.31,Brazil,Brazil,right,166,63,no
+Rodrigo Rodrigues,Coritiba,CF,30,1000000,2027-06-30,4,146,1,0.62,Brazil,Brazil,right,191,86,no
+Filipe Machado,Goiás,"DMF, RCMF, RDMF",30,1000000,2027-12-31,35,2056,0,0.55,Brazil,Brazil,right,174,61,yes
+Zé Ricardo,Avaí,"DMF, RCMF, LCMF",30,1000000,2026-12-31,28,2580,0,0.62,Brazil,Brazil,right,176,74,no
+Reynaldo,,LCB,29,1000000,,28,2448,2,1.23,Brazil,Brazil,left,186,81,no
+L. Maciel,Botafogo SP,"LDMF, LCMF, AMF",30,1000000,2026-12-31,35,2570,3,2.24,Argentina,Argentina,right,180,72,no
+Rodrigo Soares,Goiás,"RB, RWB",33,1000000,2026-11-30,30,2741,0,1.0,Brazil,Brazil,right,176,73,no
+Pedro Henrique,,LCB,33,1000000,,10,680,0,0.37,Brazil,Brazil,left,190,88,no
+Wallace,Botafogo SP,LCB,31,1000000,2026-11-30,9,728,0,0.0,Brazil,Brazil,right,191,83,no
+Nathan,América Mineiro,"RCB, LCB",31,1000000,2026-11-30,26,2309,1,0.3,Brazil,Brazil,right,188,78,no
+David,Ponte Preta,"LW, LAMF, RW",26,1000000,2027-12-31,11,442,1,0.39,Brazil,Brazil,right,179,71,no
+Fernando Henrique,Oleksandria,"DMF, RCMF, LDMF",25,1000000,2028-06-30,9,377,0,0.26,Brazil,Brazil,right,178,74,no
+Alix,Red Bull Bragantino,RCB,26,1000000,2028-12-31,19,1838,1,2.18,Brazil,Brazil,right,195,76,no
+Rodrigo Varanda,Al Ahli,"LWF, RW, RWF",23,1000000,2026-12-31,4,269,0,0.16,Bahrain,Bahrain,right,184,72,no
+Víctor Cantillo,Atlético Bucaramanga,"LDMF, LCMF, DMF",32,900000,2027-06-30,8,514,0,0.05,Colombia,Colombia,right,180,70,no
+Giuliano,,"RCMF, LCMF, AMF",36,900000,,16,751,3,2.42,Brazil,Brazil,right,172,68,no
+Gabriel Poveda,Remo,CF,28,900000,2026-12-31,32,2049,5,7.08,Brazil,Brazil,right,183,75,yes
+Jorge,Remo,LB,30,900000,2026-12-31,9,599,0,0.05,Brazil,Brazil,left,184,70,no
+William Pottker,Ponte Preta,"CF, RAMF, RW",32,900000,2026-11-30,29,1411,1,4.55,Brazil,Brazil,left,182,93,no
+Lucas Lovat,CRB,LB,29,900000,2026-12-31,12,836,1,0.04,Brazil,Brazil,left,183,83,no
+Robson,Grêmio Novorizontino,CF,35,900000,2026-12-31,24,1592,3,8.11,Brazil,Brazil,right,179,76,no
+Ademilson,,"CF, LWF",32,900000,,22,998,1,3.49,Brazil,Brazil,right,176,74,no
+Matheus Davó,Maccabi Netanya,CF,26,900000,2027-06-30,12,857,2,1.81,Brazil,Brazil,right,178,68,no
+Stênio,Modena,"RW, RAMF, LW",23,900000,2029-06-30,29,1502,1,2.06,Brazil,Brazil,right,180,72,no
+J. Aguirre,Athletico Paranaense,"CB, RCB",29,850000,2027-12-31,16,1310,0,0.69,Colombia,Colombia,right,185,75,no
+Rossi,,"RW, CF, RWF",33,800000,,17,1251,2,1.71,Brazil,Brazil,right,167,69,no
+Carlos Akapo,,"RB, LB",33,800000,,16,1062,0,0.07,Spain,"Spain, Equatorial Guinea",right,179,76,no
+Everaldo,Santa Cruz,"LW, LCMF, RW",32,800000,,11,238,0,0.08,Brazil,Brazil,right,172,57,no
+André Luis,Vila Nova,"CF, RW, LAMF",29,800000,2026-11-30,23,1267,1,1.67,Brazil,Brazil,left,179,70,no
+Dalbert,América Mineiro,LB,32,800000,2026-11-30,3,65,0,0.01,Brazil,Brazil,left,181,70,no
+Hayner,Vila Nova,RB,30,800000,2026-12-31,17,787,0,0.19,Brazil,Brazil,right,178,71,yes
+Arthur Caíke,Botafogo SP,"CF, LW, LAMF",34,800000,2026-11-30,23,892,3,2.38,Brazil,Brazil,right,174,71,no
+Luiz Felipe,Goiás,"CB, LCB, RCB",32,800000,2026-12-31,11,889,0,0.3,Brazil,Brazil,right,187,79,no
+Léo Coelho,Amazonas,"LCB, RCB",33,800000,,14,1315,1,0.73,Brazil,"Brazil, Uruguay",right,190,86,no
+Rodrigo Andrade,São Bernardo FC,"DMF, LCMF, AMF",29,800000,2026-11-30,14,911,1,0.87,Brazil,Brazil,right,174,75,no
+Pedrinho,São Bernardo FC,"LAMF, LW, LWF",26,800000,2026-11-30,8,587,1,2.04,Brazil,"Brazil, Italy",right,176,71,no
+Lincoln,Spartak Subotica,CF,25,800000,2027-12-31,6,343,2,2.27,Brazil,Brazil,right,180,79,no
+Cauê,Criciúma,CF,23,800000,2028-08-30,1,7,0,0.0,Brazil,Brazil,right,184,78,no
+Jean Carlos,Náutico,"RW, AMF, LW",34,750000,2027-12-31,22,794,3,2.37,Brazil,Brazil,left,178,74,no
+Diego Zabala,Liverpool,"LW, LWF, CF",34,750000,2026-12-31,17,906,0,1.93,Uruguay,Uruguay,right,171,66,no
+Pana Tachtsidis,Karmiotissa,"AMF, RCMF, CF",35,750000,2027-05-31,9,615,1,0.3,Greece,Greece,left,191,86,no
+Dodô,Vila Nova,"AMF, LCMF, CF",31,750000,2026-12-31,8,199,0,0.16,Brazil,Brazil,right,176,64,yes
+Douglas Baggio,CRB,"RW, RWF, LW",31,750000,2026-11-30,32,1502,4,3.9,Brazil,Brazil,right,172,71,no
+César Martins,Criciúma,"RCB, CB",33,750000,2026-11-30,27,2616,2,1.37,Brazil,Brazil,right,191,88,no
+Alan Empereur,Cuiabá,LCB,32,750000,2026-12-31,21,1978,1,2.09,Brazil,"Brazil, Italy",left,186,82,no
+Guilherme Parede,América Mineiro,"LAMF, LW, LWF",30,700000,2027-12-31,21,1511,0,1.76,Brazil,Brazil,right,178,75,no
+Edinho,,"RAMF, RDMF, AMF",31,700000,,4,144,0,0.2,Brazil,Brazil,right,158,60,no
+Alex Sandro,Bình Phước,"LAMF, LW, LWF",30,700000,,7,389,0,0.5,Brazil,Brazil,left,175,74,no
+Kevin Ramírez,Chapecoense,"CF, LW, RW",32,700000,2026-12-31,29,2447,10,7.72,Uruguay,Uruguay,left,179,71,yes
+Alessio Da Cruz,Anorthosis,"AMF, LAMF, CF",29,700000,2027-05-31,12,599,3,1.67,Netherlands,"Netherlands, Cape Verde Islands",right,186,74,no
+N. Linares,Aldosivi,"LCMF, LDMF, RCMF",30,700000,2026-12-31,7,486,0,0.6,Argentina,Argentina,right,175,72,no
+Iury,Sport Recife,"LW, LAMF, RW",30,700000,2028-06-30,27,1613,4,3.11,Brazil,Brazil,right,183,71,yes
+Régis,Santa Cruz,"CF, AMF",33,700000,2026-10-31,17,561,1,0.59,Brazil,Brazil,left,170,72,no
+Héber,Brusque,"CF, RWF",34,700000,2026-10-31,5,171,0,0.35,Brazil,Brazil,right,182,77,no
+C. Ortiz,Grêmio Novorizontino,"LCMF, CF, AMF",33,700000,2026-11-30,12,516,0,0.29,Argentina,Argentina,right,170,68,no
+Matheus Barbosa,Barra,"RCMF, RDMF, LCMF",31,700000,2026-10-31,11,410,1,0.27,Brazil,Brazil,right,184,75,no
+Fransérgio,,"RCMF, LCMF, LDMF",35,700000,,11,762,0,0.26,Brazil,"Brazil, Portugal",right,186,86,no
+Ezequiel Ham,Atlético Tucumán,RDMF,32,700000,2026-12-31,12,596,0,0.64,Argentina,"Argentina, Syria",right,174,70,no
+Luís Oyama,Grêmio Novorizontino,"RCMF, RDMF, LDMF",29,700000,2027-12-31,35,2530,2,2.19,Brazil,"Brazil, Japan",right,171,63,no
+Jader,Atlético GO,"RW, LW, LWF",22,700000,2027-06-30,14,700,2,1.73,Brazil,Brazil,right,172,67,yes
+Ruan Oliveira,Santa Catarina,"RCMF, AMF",26,700000,2026-09-30,4,108,0,0.0,Brazil,Brazil,right,178,68,no
+Thiaguinho,CRB,"RAMF, LW, RWF",25,700000,2027-12-31,37,2730,8,8.19,Brazil,Brazil,left,170,64,no
+Gustavinho,Athletic Club,"RW, AMF",24,700000,2026-11-30,2,46,0,0.09,Brazil,Brazil,left,174,67,no
+A. Cruz,Juventud,"RW, LB, RAMF",25,700000,2026-12-31,9,483,0,0.79,Uruguay,Uruguay,left,170,67,no
+Vinícius Paiva,Grêmio Novorizontino,"RAMF, LW, LAMF",25,700000,2026-12-31,24,1044,0,0.68,Brazil,Brazil,right,174,65,no
+Larry Vásquez,Inter Bogotá,"RCMF, DMF, RDMF",33,650000,2026-12-31,32,2908,0,0.39,Colombia,"Colombia, Venezuela",right,186,80,no
+Cristiano,Sporting Cristal,LB,32,650000,2026-12-31,22,1935,0,0.26,Brazil,Brazil,left,178,78,no
+J. Novillo,Aldosivi,LCB,28,600000,2027-12-31,16,1361,0,0.58,Argentina,Argentina,left,190,82,no
+Josué,Coritiba,"AMF, RCMF, CF",35,600000,2026-12-31,34,2952,6,4.55,Portugal,Portugal,left,174,75,no
+Marlon,Cuiabá,LB,32,600000,2026-12-31,18,1689,1,0.75,Brazil,Brazil,left,177,69,no
+Anderson,Vila Nova,"RCB, CB, LCB",31,600000,2026-11-30,6,493,0,0.13,Brazil,Brazil,right,186,77,no
+Rafael Gava,Botafogo SP,"LCMF, LDMF",33,600000,2026-11-30,30,2276,2,1.1,Brazil,Brazil,right,178,76,no
+F. Barceló,Liverpool,CF,33,600000,2026-12-31,14,371,0,1.65,Uruguay,"Uruguay, Italy",right,180,75,no
+Aloísio,,"LCMF, DMF, LW",30,600000,,7,244,0,0.03,Brazil,"Brazil, Portugal",right,180,76,no
+Messias,Juventude,RCB,31,600000,2027-12-31,29,2843,2,1.02,Brazil,Brazil,right,192,92,no
+Thales Oleques,XV de Piracicaba,RB,32,600000,,10,680,0,0.02,Brazil,"Brazil, Portugal",right,175,74,no
+Jordi,Grêmio Novorizontino,GK,32,600000,2027-12-31,5,509,0,0.0,Brazil,Brazil,right,192,92,no
+Kevin,CRB,"RB, LB",28,600000,2026-11-30,17,659,0,0.42,Brazil,Brazil,right,175,72,yes
+Fabrício Daniel,São Bernardo FC,"RW, RWF",28,600000,2026-11-30,17,1105,3,3.26,Brazil,Brazil,left,182,80,no
+Bruno Alves,Criciúma,"RCB, LCB",35,600000,2027-12-31,24,2151,3,3.03,Brazil,Brazil,right,185,81,no
+Pedro Vilhena,Operário PR,"LW, LAMF, LCMF",24,600000,2026-11-30,11,653,0,0.22,Brazil,Brazil,right,175,61,no
+Miranda,Operário PR,"RCB, LCB",26,600000,2026-11-30,24,2379,1,1.27,Brazil,Brazil,right,181,73,no
+Vinicius Mingotti,Operário PR,"CF, LW",26,600000,2026-12-31,27,1386,1,3.97,Brazil,Brazil,right,190,76,no
+Pedro Rangel,Coritiba,GK,26,600000,2028-12-31,9,853,0,0.0,Brazil,Brazil,right,192,88,no
+Juan Zuluaga,Operário PR,"RCMF, LDMF, RW",33,550000,2027-11-30,32,2511,2,1.88,Colombia,Colombia,right,176,67,no
+R. Carrillo,Mushuc Runa,"CF, AMF",29,500000,2026-12-31,23,987,4,4.33,Ecuador,Ecuador,right,186,79,no
+Bruno Mendes,Ratchaburi,"CF, LAMF",32,500000,2027-06-30,11,513,1,0.33,Brazil,Brazil,right,184,82,no
+W. Clar,Atlante,"LWB, LB",31,500000,2028-12-31,38,3795,8,6.25,Paraguay,Paraguay,left,177,72,no
+Mádson,Sport Recife,RCB,34,500000,2026-11-30,2,120,0,0.0,Brazil,Brazil,right,182,69,no
+Giovanni,Botafogo PB,"LCMF, CF",32,500000,,22,798,2,1.34,Brazil,"Brazil, Italy",right,174,75,no
+R. Martínez,Deportes Limache,"DMF, RCMF, RCB",30,500000,2026-12-31,13,635,0,0.04,Paraguay,Paraguay,right,186,82,no
+Cléber,Yunnan Yukun,CF,29,500000,,37,3179,13,10.64,Brazil,Brazil,right,199,82,no
+Diogo de Oliveira,Daejeon Citizen,CF,29,500000,2026-12-31,17,1391,6,4.54,Brazil,Brazil,right,194,79,no
+Felipinho,Sport Recife,"LB, LWB",29,500000,2027-12-31,24,1977,0,0.41,Brazil,Brazil,left,177,74,no
+Judson,América RN,RCMF,33,500000,,2,97,0,0.0,Brazil,Brazil,right,169,65,no
+Zeca,Athletic Club,"LB, RB",32,500000,2026-12-31,33,2964,0,0.28,Brazil,Brazil,right,170,68,no
+Barreto,,"RCMF, LDMF, DMF",30,500000,,10,663,2,2.01,Brazil,"Brazil, Italy",right,181,78,no
+Wallisson,Coritiba,"DMF, RW, RCMF",28,500000,2028-12-31,30,1604,1,1.84,Brazil,Brazil,right,184,73,no
+F. Labandeira,Wanderers,"LW, RAMF, LAMF",30,500000,2026-12-31,12,674,2,1.29,Uruguay,Uruguay,right,173,68,no
+Adailton,Yokohama,"CF, RAMF, LWF",35,500000,,16,856,1,3.16,Brazil,Brazil,right,176,83,no
+Otávio Passos,Avaí,GK,33,500000,2026-11-30,3,274,0,0.0,Brazil,Brazil,right,188,85,no
+Camutanga,Vitória,RCB,32,500000,2026-12-31,14,1086,0,1.34,Brazil,Brazil,right,189,80,no
+Klaus,Operário PR,RCB,32,500000,2027-11-30,27,2644,0,0.49,Brazil,Brazil,right,187,79,no
+Felipe Vizeu,Sporting Cristal,CF,29,500000,2026-12-31,13,754,1,2.2,Brazil,Brazil,right,184,82,no
+Emerson Santos,América Mineiro,"CB, LCB, RCB",31,500000,2026-11-30,12,678,0,0.0,Brazil,Brazil,right,184,75,no
+Sassá,Confiança,"CF, AMF, RW",32,500000,,11,234,0,0.28,Brazil,Brazil,right,174,73,no
+Bruno José,Atlético GO,"RW, RAMF",28,500000,2026-11-30,32,1572,1,1.89,Brazil,Brazil,right,173,69,no
+Jefferson,Persebaya Surabaya,LB,29,500000,2028-05-31,8,286,0,0.01,Brazil,Brazil,left,178,69,no
+Raí Ramos,Juventude,"RB, RWB",32,500000,2027-12-31,14,1005,1,0.49,Brazil,Brazil,right,179,78,no
+Adriano Martins,Atlético GO,LCB,29,500000,2026-12-31,20,1955,2,1.94,Brazil,Brazil,right,193,87,no
+Arthur Rezende,Muharraq,"LCMF, AMF",32,500000,,3,86,0,0.05,Brazil,Brazil,right,179,80,no
+Léo Natel,Ordabasy,"CF, LAMF, LWF",29,500000,2027-12-31,7,375,0,0.5,Brazil,Brazil,right,179,73,no
+Max,Sport Recife,"LB, AMF, CF",25,500000,2028-12-31,32,2680,2,2.56,Brazil,Brazil,left,175,73,no
+Derik Lacerda,Cuiabá,"CF, LW, LAMF",26,500000,2028-12-31,15,1369,2,4.68,Brazil,Brazil,right,191,78,no
+Mayk,Remo,"LB, LWB",26,500000,2027-12-31,21,1739,0,0.26,Brazil,Brazil,left,172,67,no
+Ian Luccas,Athletic Club,"RAMF, LCMF, RW",23,500000,2027-12-31,18,805,0,0.68,Brazil,Brazil,right,186,83,yes
+Mancha,Chapecoense,"LWB, LB, RDMF",25,500000,,4,64,0,0.0,Brazil,"Brazil, Italy",left,178,73,no
+Vini Paulista,Coritiba,"RCMF, RW, LW",25,500000,2027-12-31,25,1167,1,1.73,Brazil,Brazil,right,179,71,no
+Vagner,,"LW, LAMF",31,450000,,2,47,0,0.62,Cape Verde Islands,"Cape Verde Islands, Portugal",right,168,69,no
+Ezequiel,,"LAMF, CF, LWF",28,450000,,19,601,1,0.64,Brazil,Brazil,right,167,66,no
+Dellatorre,Vila Nova,CF,34,450000,2027-11-30,25,1390,4,5.28,Brazil,"Brazil, Italy",right,181,79,no
+Arilson,Betim,"RCMF, RDMF, LDMF",32,450000,,13,721,1,0.62,Brazil,Brazil,right,180,82,no
+João Pedro,,CF,29,450000,,13,946,4,3.03,Portugal,"Portugal, Guinea-Bissau",right,185,78,no
+Marcelo Hermes,Criciúma,"LB, LWB",31,450000,2026-12-31,12,1210,2,2.11,Brazil,Brazil,left,177,72,no
+Marcinho,Criciúma,"RB, RWB, RCB",30,450000,2027-12-31,30,2655,2,1.16,Brazil,Brazil,right,178,76,no
+Willean Lepo,Criciúma,"LB, RB",29,450000,2027-12-31,31,2962,1,1.42,Brazil,Brazil,right,180,78,yes
+Pernambuco,Selangor,"RW, RAMF",28,450000,2027-06-30,6,252,0,0.18,Brazil,Brazil,left,186,76,no
+Luan Polli,Athletic Club,GK,33,450000,2026-11-30,14,1404,0,0.0,Brazil,"Brazil, Italy",right,190,97,no
+L. Chávez,Bolívar,"LW, LCMF",23,450000,,4,142,0,0.31,Bolivia,Bolivia,right,170,63,no
+Lucas Cardoso,Paysandu,"RW, RAMF, RCMF",25,450000,2026-11-30,9,335,0,0.24,Brazil,Brazil,right,189,80,no
+Gustavo Maia,Sport Recife,DMF,25,450000,2026-12-31,1,3,0,0.0,Brazil,Brazil,right,167,60,no
+Fernando,Chapecoense,LB,26,450000,2029-12-31,8,510,0,0.0,Brazil,Brazil,left,181,77,no
+Thiago Heleno,,"LCB, CB",37,400000,,11,958,1,0.22,Brazil,Brazil,right,185,84,no
+A. Rodríguez,ADT,CF,31,400000,2026-12-31,9,387,0,0.25,Peru,Peru,right,184,79,no
+N. Castrillón,Grêmio Novorizontino,"RB, RCB",30,400000,2026-11-30,22,1698,1,1.69,Colombia,Colombia,right,183,79,no
+Ronaldo Tavares,Athletic Club,CF,28,400000,2028-12-31,25,2037,9,8.77,Portugal,"Portugal, São Tomé e Príncipe",right,194,85,no
+S. Viera,Progreso,RB,28,400000,2026-12-31,3,110,0,0.02,Uruguay,Uruguay,right,171,67,no
+Marquinhos Gabriel,Vila Nova,"LW, AMF, LCMF",35,400000,2027-11-30,37,3629,4,4.75,Brazil,Brazil,left,174,70,no
+Bruno Melo,Coritiba,"LB, LCB",33,400000,2026-12-31,28,2350,2,2.43,Brazil,Brazil,left,186,78,no
+Pedro Castro,CRB,"LCMF, RDMF",33,400000,2026-11-30,28,1692,1,0.39,Brazil,Brazil,right,180,79,no
+Lucão,Chongqing Tongliang Long,LCB,30,400000,,37,3750,1,1.67,Brazil,Brazil,right,187,80,no
+Rafa Silva,Vila Nova,CF,34,400000,2026-11-30,10,408,0,1.58,Brazil,Brazil,right,179,73,no
+Gonzalo Freitas,Wanderers,"DMF, LCB, RCB",34,400000,2026-12-31,22,1255,1,1.39,Uruguay,Uruguay,right,186,78,no
+Georgemy,Mirassol,GK,30,400000,2026-12-31,1,28,0,0.0,Brazil,"Brazil, Italy",right,198,88,no
+Everton Morelli,Botafogo SP,"RCMF, RDMF",28,400000,2026-12-31,12,861,1,0.56,Brazil,Brazil,right,185,73,no
+Thiago Lopes,Noroeste,"RW, RAMF, AMF",29,400000,,34,1820,4,3.14,Brazil,Brazil,right,178,76,no
+Guilherme Romão,Atlético GO,LB,28,400000,2028-12-31,30,2764,2,2.35,Brazil,Brazil,left,176,75,no
+Luizão,CRB,"LDMF, RDMF, DMF",28,400000,2026-11-30,28,2159,2,0.96,Brazil,Brazil,right,184,66,no
+Kelvin,Botafogo SP,"RAMF, LAMF",28,400000,2026-11-30,19,1010,2,0.69,Brazil,Brazil,right,174,70,no
+Getúlio,Inter de Limeira,"CF, RAMF",29,400000,,5,181,0,0.46,Brazil,Brazil,right,185,78,yes
+Bressan,CRB,CB,33,400000,2027-11-30,5,239,0,0.0,Brazil,"Brazil, Italy",right,185,79,no
+Rômulo Souza,,"LW, RWB",31,400000,,2,30,0,0.0,Brazil,Brazil,right,175,75,no
+Dener,Volta Redonda,"LDMF, DMF, RCMF",34,400000,2026-08-30,3,211,1,0.37,Brazil,Brazil,right,188,78,no
+Alisson Safira,Juventude,CF,31,400000,2027-12-31,22,1742,10,11.03,Brazil,Brazil,right,185,75,no
+Jean Irmer,Criciúma,"LCMF, DMF, RCMF",31,400000,2026-12-31,27,1813,3,1.8,Brazil,Brazil,right,183,80,no
+Caio Roque,Botafogo,LB,24,400000,2027-11-30,9,674,0,0.07,Brazil,Brazil,left,182,71,yes
+Matheus Régis,América RN,"LAMF, LW",26,400000,,18,524,0,0.75,Brazil,Brazil,right,181,72,no
+Marquinho,Botafogo SP,AMF,24,400000,2028-06-30,26,1504,3,3.59,Brazil,Brazil,left,181,68,no
+Heron,Londrina,"LB, LCB",25,400000,2026-11-30,6,249,0,0.1,Brazil,Brazil,left,186,78,no
+Wesley Pomba,Veres,"LAMF, LW, RW",24,400000,2028-06-30,9,260,0,1.41,Brazil,Brazil,right,178,68,no
+Zé Hugo,Botafogo SP,"RW, LAMF, LW",26,400000,2027-12-31,15,454,0,0.04,Brazil,Brazil,right,178,70,yes
+Léo Naldi,Grêmio Novorizontino,"LCMF, RCMF",24,400000,2027-12-31,29,1904,0,1.69,Brazil,Brazil,right,176,70,yes
+Tiago Cóser,Coritiba,"RB, LCB",22,400000,2027-12-31,10,592,0,0.0,Brazil,"Brazil, Italy",right,187,81,no
+Emerson Negueba,Jeju SK,"LW, RW, LAMF",25,400000,2026-12-31,29,2076,4,4.65,Brazil,Brazil,right,175,75,no
+Bruno Ramires,,"RCB, RB",32,375000,,9,758,0,0.25,Brazil,Brazil,right,190,76,no
+A. Dramisino,Atlanta,"AMF, RCMF",26,375000,2027-12-31,28,1668,1,1.19,Argentina,"Argentina, Italy",right,173,65,no
+Marlon,Sport Recife,"RW, LW, RAMF",28,350000,2026-11-30,31,2176,4,4.33,Brazil,Brazil,right,175,69,no
+Y. Quintana,Paysandu,"LCB, RCB",30,350000,,10,755,1,0.33,Uruguay,Uruguay,right,196,92,no
+Maurício Kozlinski,Londrina,GK,35,350000,2028-11-30,4,403,0,0.0,Brazil,Brazil,right,190,91,no
+F. Elizari,América Mineiro,"AMF, LCMF, CF",35,350000,2026-11-30,23,1220,0,1.8,Argentina,Argentina,right,173,72,no
+Pedro Barcelos,Académico de Viseu F.C.,LB,30,350000,2027-06-30,1,29,0,0.0,Brazil,Brazil,left,188,80,no
+Fellipe Mateus,Criciúma,"CF, RCMF, LW",35,350000,2026-12-31,16,505,1,0.71,Brazil,Brazil,left,178,75,no
+Ronaldo,Amazonas,"CF, AMF",35,350000,,20,559,1,1.47,Brazil,Brazil,right,185,80,no
+Jean Dias,Cuiabá,"RB, RAMF",35,350000,2026-11-30,14,962,0,1.3,Brazil,Brazil,right,170,66,no
+Welliton Matheus,Fortaleza,"RW, RAMF, RWF",26,350000,2026-11-30,36,2111,2,4.29,Brazil,Brazil,left,180,73,yes
+Werik Popó,Avispa Fukuoka,"CF, LWF",24,350000,,7,419,1,1.67,Brazil,Brazil,right,190,86,no
+Alexis Alvariño,Grêmio Novorizontino,"RCB, LCB",25,350000,2026-12-31,21,2003,0,0.51,Argentina,Argentina,right,182,81,no
+H. Palacios,Athletico Paranaense,RB,26,350000,2026-12-31,5,483,1,1.28,Colombia,Colombia,right,181,74,no
+J. Espinoza,Atletico FC,"LCMF, RCMF",26,350000,2026-12-31,2,49,0,0.0,Ecuador,Ecuador,right,169,65,no
+Renan,Amazonas,GK,37,300000,2027-12-31,18,1746,0,0.0,Brazil,"Brazil, Bulgaria",right,190,87,no
+Igor Inocêncio,Cuiabá,"RB, AMF",28,300000,2026-11-30,6,234,0,0.06,Brazil,Brazil,right,185,78,no
+B. Borasi,Náutico,"LW, AMF, RW",28,300000,2027-06-30,23,993,1,2.35,Argentina,Argentina,right,171,61,no
+Alan Kardec,Juventude,CF,37,300000,2026-11-30,26,1238,5,5.37,Brazil,Brazil,right,190,80,no
+Anderson Leite,Muharraq,"RDMF, RCMF, AMF",33,300000,,16,1199,1,1.21,Brazil,Brazil,right,183,79,no
+Maurício Antônio,Guarani,"LCB, RCB",34,300000,,15,1342,0,0.69,Brazil,"Brazil, Portugal",right,183,82,no
+Ronaldo Henrique,Inter de Limeira,"DMF, LDMF",32,300000,2026-10-31,15,981,0,0.11,Brazil,Brazil,left,172,70,no
+Patric,Botafogo PB,"LB, LCB, LWB",32,300000,,11,697,0,0.03,Brazil,Brazil,left,181,74,no
+Henrique Almeida,Gama,CF,35,300000,,29,2283,6,4.96,Brazil,Brazil,right,177,77,no
+Sidimar,Athletic Club,"LCB, RCB",34,300000,2026-12-31,35,3401,2,0.47,Brazil,Brazil,right,186,88,no
+R. Durmisi,,LB,32,300000,,4,190,0,0.0,Denmark,"Denmark, Albania",left,173,67,no
+William Barbio,Capital Brasilia,"RB, RW",33,300000,,10,367,0,0.0,Brazil,Brazil,right,176,77,no
+Eliton Júnior,Tirana,"AMF, CF, DMF",28,300000,,5,203,0,0.33,Brazil,"Brazil, Italy",right,181,77,no
+Geovane,Atlético GO,"RDMF, DMF, RCMF",37,300000,2026-11-30,16,463,0,0.05,Brazil,Brazil,right,179,80,no
+Gabriel Bispo,Foshan Nanshi,"RDMF, DMF, RCMF",29,300000,,27,2244,1,1.39,Brazil,Brazil,right,177,77,no
+Ricardo Silva,América Mineiro,RCB,33,300000,2026-11-30,29,2859,1,0.69,Brazil,Brazil,right,190,84,no
+César Augusto,Grêmio Novorizontino,GK,31,300000,2027-12-31,22,2193,0,0.0,Brazil,Brazil,right,192,82,no
+Igor Bohn,Avaí,GK,30,300000,2026-12-31,14,1344,0,0.0,Brazil,Brazil,right,193,80,no
+Edson Felipe,ABC,"RCB, CB",35,300000,,16,1170,0,0.22,Brazil,Brazil,right,183,75,no
+Maguinho,Operário PR,"RB, RWB",34,300000,2027-11-30,6,450,1,0.22,Brazil,Brazil,right,175,70,no
+Jonathan Cafú,Ponte Preta,"RAMF, RW",35,300000,2026-11-30,33,2026,2,2.26,Brazil,"Brazil, Bulgaria",right,175,68,no
+Robinho,Santa Cruz,"RAMF, LAMF, RW",31,300000,,17,767,0,0.36,Brazil,Brazil,right,166,62,no
+Dalberson,Vila Nova,GK,29,300000,2026-12-31,3,315,0,0.0,Brazil,Brazil,left,191,85,no
+Matheus Ribeiro,Náutico,"LB, RB",33,300000,2026-11-30,37,3468,1,1.4,Brazil,"Brazil, Italy",right,178,72,no
+Fabio Alemão,CRB,"LCB, RCB",29,300000,2026-11-30,19,1662,1,1.37,Brazil,Brazil,right,184,87,no
+G. Risso,Newell's Old Boys,LB,30,300000,2026-12-31,35,3013,0,0.25,Argentina,Argentina,left,179,71,no
+Luciano Castán,Criciúma,LCB,36,300000,2026-12-31,35,3532,0,1.02,Brazil,"Brazil, Italy",left,187,80,no
+Jonathan,Botafogo SP,RCB,33,300000,2026-11-30,6,455,1,0.42,Brazil,Brazil,right,178,62,no
+Erick Varão,Nacional AM,"LCMF, RCMF, RDMF",30,300000,,18,1160,0,1.42,Brazil,Brazil,right,182,70,no
+Marlon,Grêmio Novorizontino,"RCMF, LCMF",36,300000,2026-11-30,18,973,1,0.91,Brazil,Brazil,right,175,76,no
+Diogo Mateus,Botafogo PB,RB,33,300000,2026-10-31,22,1539,0,0.07,Brazil,Brazil,right,173,67,no
+Allano,,"RW, RAMF",31,300000,,12,876,1,1.16,Brazil,Brazil,left,182,74,no
+Ronald,Santa Cruz,"RW, RAMF",29,300000,2026-10-31,6,146,0,0.14,Brazil,Brazil,both,162,60,no
+Thomás Bedinelli,,"CF, AMF, RWF",33,300000,,4,115,0,0.08,Brazil,"Brazil, Italy",right,180,76,no
+Caio Dantas,Operário PR,CF,33,300000,2026-11-30,16,936,2,3.51,Brazil,Brazil,right,177,72,no
+Eduardo Person,América Mineiro,"LCMF, LCB, RCMF",29,300000,2026-11-30,4,174,0,0.0,Brazil,Brazil,right,174,72,no
+Conrado,Radomiak Radom,LB,29,300000,2027-06-30,11,706,0,0.07,Brazil,"Brazil, Italy",left,173,73,no
+Giovanni Augusto,Chapecoense,"AMF, CF",36,300000,2027-12-31,31,2556,2,2.14,Brazil,Brazil,right,177,71,no
+Chay,,"LCMF, RCMF, DMF",35,300000,,12,586,0,0.38,Brazil,Brazil,right,177,67,no
+Mateus Pasinato,Felgueiras 1932,GK,34,300000,,18,1826,0,0.0,Brazil,"Brazil, Italy",right,192,86,no
+Edu,,CF,33,300000,,12,622,1,1.52,Brazil,Brazil,right,184,92,no
+Lucca,Guarani,CF,36,300000,,18,577,2,2.6,Brazil,Brazil,right,178,72,no
+Pablo Dyego,Londrina,"LW, RW, RWF",32,300000,2026-11-30,21,1248,4,2.96,Brazil,Brazil,right,174,66,no
+Renato Palm,Grêmio Novorizontino,"RCB, RB",34,300000,2026-11-30,3,65,0,0.13,Brazil,Brazil,right,190,89,no
+Wallison,Avaí,RB,24,300000,2026-11-30,22,1425,0,0.7,Brazil,Brazil,right,177,70,no
+Matheus Souza,CSA,"LAMF, LW",25,300000,,4,115,1,0.11,Brazil,Brazil,right,175,63,no
+Rodrigo Rodrigues,Cuiabá,"LW, LAMF",26,300000,2026-12-31,32,2149,5,3.58,Brazil,Brazil,right,178,78,yes
+Pedro Martins,Sport Recife,"LCMF, RCMF",26,300000,2026-12-31,21,928,0,0.57,Brazil,Brazil,right,175,67,no
+E. Garcia,Goiás,"LWF, LW, RW",26,300000,2026-12-31,11,338,1,0.6,Venezuela,Venezuela,right,160,54,no
+Weverton,Ponte Preta,"LCB, RCB",23,300000,2027-12-31,19,1761,1,1.75,Brazil,Brazil,right,183,76,yes
+Thalisson,Remo,RCB,24,300000,2027-12-31,21,2039,1,1.67,Brazil,Brazil,right,190,79,yes
+D. Torres,,"AMF, CF, LAMF",23,300000,,16,1148,2,1.39,Paraguay,Paraguay,right,179,64,no
+Alex Silva,América Mineiro,RB,32,250000,2027-11-30,25,2200,2,1.42,Brazil,Brazil,right,184,82,no
+P. Delvalle,2 de Mayo,"LW, LCMF, RAMF",32,250000,,4,171,0,0.06,Paraguay,Paraguay,both,172,69,no
+Leandro Vilela,Atlético GO,"LDMF, RCMF, DMF",31,250000,2026-11-30,19,1637,2,0.79,Brazil,Brazil,right,178,77,no
+Moraes,Operário PR,"LB, LWF",28,250000,2026-11-30,21,1661,2,1.64,Brazil,Brazil,left,170,65,yes
+Fernando Martínez,Concepción,"LDMF, DMF, RDMF",32,250000,,18,943,0,0.25,Paraguay,Paraguay,right,176,74,no
+Wellington,Ankara Keçiörengücü,"RCB, CB",31,250000,2027-06-30,10,643,0,0.06,Brazil,Brazil,right,187,90,no
+Rodrigo Moledo,Coritiba,RCB,38,250000,2026-12-31,1,96,0,0.0,Brazil,Brazil,right,188,84,no
+Maicon,Coritiba,RCB,37,250000,2026-12-31,31,3021,1,0.49,Brazil,"Brazil, Portugal",right,191,80,no
+Eduardo Brock,Grêmio Novorizontino,LCB,35,250000,2027-12-31,37,3698,1,1.01,Brazil,"Brazil, Italy",left,186,89,no
+Tiago Pagnussat,Vila Nova,"RCB, LCB",36,250000,2026-12-31,33,3022,1,2.19,Brazil,"Brazil, Italy",right,191,88,no
+Wanderson,,"RCB, CB",35,250000,,6,426,0,0.0,Brazil,Brazil,right,186,83,no
+Jonathan Costa,Guarani,RCB,31,250000,,30,2758,1,1.39,Brazil,Brazil,right,186,70,no
+Mariano,,"RB, RWB",40,250000,,21,1623,0,0.0,Brazil,Brazil,right,177,69,no
+Willian,América Mineiro,CF,39,250000,2026-11-30,33,2604,11,12.17,Brazil,Brazil,right,171,78,no
+Nicolas,Criciúma,CF,36,250000,2026-12-31,33,2459,7,8.67,Brazil,Brazil,right,180,77,no
+Juninho,Goiás,"RCMF, RDMF",38,250000,2026-12-31,36,3274,1,2.7,Brazil,Brazil,right,170,66,no
+N. Pessôa,Chapecoense,"CF, RWF",32,250000,2027-04-30,31,2203,5,4.26,Brazil,Brazil,left,182,79,no
+Hernâni,,"RWF, LWF, RW",34,250000,,5,142,0,0.33,Portugal,"Portugal, Cape Verde Islands",left,179,73,no
+Airton,Criciúma,GK,32,250000,2026-11-30,33,3310,0,0.0,Brazil,Brazil,right,188,85,no
+Nilson Júnior,Malut United FC,LCB,34,250000,,4,320,0,0.0,Brazil,Brazil,left,190,73,no
+Waguininho,Criciúma,"RWF, LAMF, LW",36,250000,2026-11-30,22,1505,4,4.55,Brazil,Brazil,right,177,75,no
+Thiago Conti,Portuguesa,"RCMF, DMF, LDMF",29,250000,2026-11-30,14,508,0,0.01,Brazil,Brazil,right,180,66,no
+Jaime Giraldo,Semen Padang,LCB,28,250000,,12,1066,0,0.78,Colombia,Colombia,left,187,80,no
+Jean Lucas,Avaí,LCMF,31,250000,2026-12-31,2,43,0,0.11,Brazil,Brazil,right,175,73,no
+Gabriel Inocêncio,Botafogo SP,"RWB, RW, RB",31,250000,2026-11-30,14,566,1,0.59,Brazil,Brazil,right,175,68,no
+Sander,Grêmio Novorizontino,"LB, LCB",35,250000,2026-11-30,24,2077,0,0.1,Brazil,Brazil,left,176,74,no
+Léo Gaúcho,Fagiano Okayama,CF,24,250000,2026-12-31,10,659,3,3.02,Brazil,Brazil,right,187,79,no
+João Carlos,Criciúma,"RW, RB, RWB",25,250000,2026-12-31,16,614,2,1.47,Brazil,Brazil,right,168,74,no
+Emerson Urso,Vila Nova,"LAMF, LWF, RAMF",25,250000,2027-12-31,4,171,1,0.9,Brazil,Brazil,right,169,67,no
+Ramon,Ypiranga Erechim,"RCMF, LCMF, RDMF",26,250000,,7,329,0,0.04,Brazil,Brazil,right,178,67,no
+Del Piage,Avaí,LCMF,26,250000,2026-11-30,2,47,0,0.09,Brazil,"Brazil, Italy",right,181,71,no
+Cristian Tassano,Remo,"RCB, LCB",29,225000,2026-12-31,3,201,0,0.0,Uruguay,"Uruguay, Italy",right,185,80,no
+Valdir Júnior,Confiança,RB,26,225000,2027-12-31,13,637,0,0.11,Brazil,Brazil,right,185,81,no
+Rafael Vitor,Amazonas,"LCB, CB, RCB",33,200000,2027-06-30,12,899,0,0.14,Brazil,Brazil,right,192,78,no
+Reverson,CRB,LB,29,200000,2026-11-30,32,2761,2,0.56,Brazil,Brazil,left,175,71,no
+J. Benítez,Deportivo Capiatá,"CF, AMF, LWF",33,200000,2026-12-31,19,994,1,3.01,Paraguay,Paraguay,right,182,76,no
+Dudu Vieira,XV de Piracicaba,"RCMF, LDMF, RB",32,200000,2027-05-30,10,516,0,0.0,Brazil,Brazil,right,175,75,no
+Robertinho,Nanjing City,"LCMF, RCMF, DMF",30,200000,,12,658,1,0.23,Brazil,Brazil,right,178,67,no
+Mário Sérgio,São Bernardo FC,LB,32,200000,2026-11-30,24,1913,1,0.77,Brazil,Brazil,left,179,70,no
+Igor Henrique,Atlético GO,"AMF, LCMF, RDMF",34,200000,2026-11-30,26,1856,3,2.06,Brazil,Brazil,right,183,74,no
+Willian Formiga,Vila Nova,LB,31,200000,2026-12-31,29,2750,0,0.61,Brazil,Brazil,left,185,86,no
+Sávio,Remo,LB,31,200000,2026-12-31,23,2066,1,1.0,Brazil,Brazil,left,173,69,no
+Léo Gamalho,Avaí,CF,40,200000,2026-11-30,11,912,4,3.38,Brazil,Brazil,right,188,87,no
+Gegé,Goiás,"RCMF, RDMF",32,200000,2026-12-31,30,2007,4,2.72,Brazil,Brazil,left,175,70,yes
+Titi,Juventude,LCB,38,200000,2026-11-30,15,1414,0,0.33,Brazil,"Brazil, Italy",left,188,83,no
+Marcão,São Bernardo FC,"DMF, LDMF, RDMF",35,200000,2026-11-30,24,1839,1,1.35,Brazil,Brazil,right,183,80,no
+Matheus Trindade,Operário PR,"LCMF, DMF, RCMF",30,200000,2026-11-30,35,2459,2,0.97,Brazil,Brazil,right,175,80,no
+Rafael Donato,Guarani,"CB, RCB",37,200000,,14,1020,1,2.05,Brazil,Brazil,right,193,99,no
+Quirino,Santa Cruz,"CF, RAMF",32,200000,,6,94,0,0.25,Brazil,Brazil,right,181,79,no
+Vladimir,Atlético GO,GK,37,200000,2026-11-30,12,1124,0,0.0,Brazil,Brazil,right,191,93,no
+Sandro Lima,Ararat-Armenia,CF,35,200000,,17,1203,3,1.84,Brazil,Brazil,right,186,86,no
+Paulo Vítor,Atlético GO,GK,37,200000,2026-11-30,24,2419,0,0.06,Brazil,Brazil,right,195,89,no
+Anderson,Chapecoense,GK,28,200000,2027-12-31,1,102,0,0.0,Brazil,Brazil,left,190,77,no
+Jefferson Paulino,Retrô,GK,34,200000,,14,1394,0,0.0,Brazil,Brazil,right,185,71,no
+Ítalo,Paysandu,CF,29,200000,,18,1274,2,2.34,Brazil,"Brazil, Portugal",left,183,79,no
+Willian Farias,Guarani,"RDMF, LCMF, LDMF",37,200000,,15,719,0,0.17,Brazil,"Brazil, Italy",right,177,82,no
+Ó. Ruiz,Sportivo Luqueño,"LAMF, LW",35,200000,2026-12-31,16,452,2,0.86,Paraguay,Paraguay,left,168,70,no
+G. Barros,América Mineiro,"RAMF, RW",24,200000,2027-12-31,16,1005,0,1.16,Brazil,Brazil,left,182,74,yes
+Luan Silva,Itabaiana,"CF, RW",33,150000,,25,1388,6,4.33,Brazil,Brazil,,0,0,no
+Vágner Love,Retrô,CF,42,150000,,4,71,0,0.0,Brazil,Brazil,right,172,72,no
+Ralf,Guarani,"LDMF, DMF, LCMF",42,150000,2026-10-31,16,836,0,0.02,Brazil,Brazil,right,182,85,no
+Hygor,Botafogo SP,"CF, LW",33,150000,2026-11-30,26,946,2,2.47,Brazil,Brazil,right,186,78,no
+Victor Souza,Botafogo SP,GK,33,150000,2027-12-31,34,3425,0,0.0,Brazil,Brazil,left,191,87,no
+Matheus Albino,CRB,GK,31,150000,2028-12-31,36,3593,0,0.0,Brazil,Brazil,left,187,85,no
+Alisson Cassiano,Brusque,RCB,32,150000,,13,861,0,0.13,Brazil,Brazil,right,187,83,no
+Thiago Rodrigues,Goiás,GK,37,150000,2026-11-30,1,107,0,0.0,Brazil,Brazil,right,188,83,no
+Anselmo Ramon,Goiás,CF,38,150000,2026-11-30,35,3153,10,10.11,Brazil,Brazil,right,182,77,no
+Rodrigo,Criciúma,"CB, RCB",39,150000,2027-12-31,36,3611,7,4.61,Brazil,Brazil,right,187,80,no
+Luciano Naninho,Volta Redonda,LCMF,34,150000,2026-11-30,5,164,0,0.33,Brazil,Brazil,right,172,68,no
+L. Belleggia,Bhayangkara F.C.,LCMF,29,150000,,1,30,0,0.0,Argentina,Argentina,right,174,70,no
+Léo Ataíde,Brusque,"LB, RB",22,150000,,12,642,0,0.0,Brazil,Brazil,right,177,82,yes
+Luiz Filipe,Mirassol,"LAMF, LDMF, AMF",25,150000,2027-03-30,5,290,0,0.1,Brazil,Brazil,right,174,73,no
+Railan,Cuiabá,"RB, RW",26,150000,2027-12-31,21,837,1,0.44,Brazil,Brazil,right,185,75,no
+Tiago Cametá,Maguary PE,RB,34,125000,2026-08-30,2,75,0,0.0,Brazil,Brazil,right,167,64,no
+Walisson Maia,Arema,"LCB, RCB",34,125000,,16,1179,0,0.0,Brazil,Brazil,right,187,81,no
+Patrick Brey,Botafogo SP,"LB, LWB",29,125000,2026-11-30,14,959,0,0.2,Brazil,"Brazil, Germany",left,177,67,no
+João Vitor,Londrina,"RW, RCMF, RAMF",28,100000,2026-12-31,35,2869,3,2.64,Brazil,Brazil,right,177,77,yes
+Rafael Tavares,Amazonas,"CF, AMF, LW",35,100000,2026-12-31,32,1673,2,2.08,Brazil,Brazil,left,175,73,no
+Matheus Nogueira,São Bernardo FC,GK,28,100000,2028-12-31,21,1958,0,0.0,Brazil,Brazil,right,191,86,yes
+Edílson,Paysandu,"RB, RWB",31,100000,,27,2041,0,0.28,Brazil,Brazil,right,171,74,no
+Kevyn,Londrina,LCB,28,100000,2026-11-30,1,51,0,0.0,Brazil,Brazil,left,178,76,no
+Falcão,,"LCMF, RCMF, LDMF",28,100000,,9,596,0,0.24,Brazil,Brazil,right,183,71,no
+Fabiano,Amazonas,"LB, LCB",36,100000,,32,3118,0,0.8,Brazil,Brazil,left,180,80,no
+Guilherme Xavier,Ituano,"LCMF, RCMF",31,100000,,16,755,0,0.38,Brazil,Brazil,left,170,73,no
+D. Torres,Guarani,"AMF, CF, LCMF",35,100000,,6,267,0,0.18,Argentina,Argentina,left,174,70,no
+Nícolas Careca,Grêmio Novorizontino,"LW, RW, LDMF",29,100000,2026-11-30,15,615,1,0.24,Brazil,Brazil,right,188,84,no
+Jacy,Coritiba,LCB,29,100000,2028-12-31,32,3017,1,2.3,Brazil,Brazil,right,192,83,no
+João Vieira,Vila Nova,"RDMF, RCMF, LDMF",28,100000,2027-12-31,36,3244,6,3.99,Brazil,Brazil,right,173,68,no
+Madison,Confiança,"LDMF, RCMF",28,100000,2026-12-31,2,43,0,0.0,Brazil,Brazil,right,178,68,no
+Maxwell,Operário PR,"LWF, RW, RCMF",31,100000,,5,154,0,0.4,Brazil,Brazil,right,180,68,no
+João Carlos,Cuiabá,GK,38,100000,2026-12-31,4,400,0,0.0,Brazil,Brazil,right,191,92,no
+Phillipe Guimarães,Nacional AM,"DMF, RDMF, LDMF",35,100000,,5,223,0,0.0,Brazil,Brazil,right,178,78,no
+Alisson,Criciúma,GK,31,100000,2026-12-31,28,2756,0,0.0,Brazil,Brazil,right,188,88,no
+Cássio,Anápolis,"CF, LAMF, AMF",33,100000,,2,38,0,0.0,Brazil,Brazil,right,175,70,no
+Índio,Operário PR,"DMF, LCMF, RCMF",33,100000,2026-11-30,30,2291,2,1.11,Brazil,Brazil,left,185,82,no
+Talles,Operário PR,GK,29,100000,2026-11-30,1,100,0,0.0,Brazil,Brazil,right,186,83,no
+Elias,Operário PR,GK,31,100000,2026-11-30,33,3330,0,0.0,Brazil,Brazil,right,186,74,no
+Joseph,Zakho,"RCB, LCB",31,100000,2027-07-30,19,1899,0,0.75,Brazil,Brazil,right,186,79,no
+Jhemerson,Betim,"AMF, RAMF, LAMF",29,100000,,6,175,0,0.01,Brazil,Brazil,right,174,66,no
+Allan Godói,Göztepe,RCB,33,100000,2027-06-30,10,1008,0,1.12,Brazil,Brazil,right,187,81,no
+Léo Vieira,Bahia,GK,35,100000,2026-12-31,24,2432,0,0.0,Brazil,Brazil,right,193,83,no
+Rafael Santos,Chapecoense,GK,37,100000,2026-12-31,15,1428,0,0.0,Brazil,Brazil,right,191,82,no
+Mário Sérgio,Consadole Sapporo,"CF, RWF",30,100000,2026-12-31,7,694,3,2.27,Brazil,Brazil,left,181,70,no
+João Paulo,Chapecoense,LCB,29,100000,2026-12-31,31,2874,1,1.93,Brazil,Brazil,left,187,75,no
+J. Jiménez,América Mineiro,LCMF,33,100000,2026-11-30,26,1000,0,0.3,Paraguay,Paraguay,right,181,80,no
+Guilherme Queiróz,Botafogo SP,CF,36,100000,2026-12-31,14,672,2,2.27,Brazil,Brazil,right,179,75,no
+Carlão,Botafogo SP,LCB,25,100000,2028-12-31,18,1550,0,0.38,Brazil,Brazil,right,186,88,no
+Jhonnathan,Figueirense,LCB,25,100000,2026-11-30,3,163,0,0.0,Brazil,Brazil,left,186,84,no
+Matheus Mega,Rio Branco ES,"RAMF, RW",26,100000,,1,27,0,0.0,Brazil,Brazil,right,189,86,no
+Gaspar,Caxias,"LW, RW, CF",23,100000,2026-12-31,18,421,1,1.86,Brazil,"Brazil, Italy",right,180,71,yes
+Nathan Melo,Guarani,"LDMF, RDMF",25,100000,,6,185,0,0.08,Brazil,Brazil,right,186,86,no
+Luan Freitas,Fortaleza,"RCB, RB",25,100000,2027-12-31,17,1552,0,0.64,Brazil,"Brazil, Portugal",right,184,75,no
+Eduardo Melo,Remo,"CF, RAMF",25,100000,2026-12-31,6,226,1,0.83,Brazil,Brazil,right,185,88,no
+Bruno Santos,Mirassol,"CF, LW",29,75000,2026-12-31,8,590,0,1.59,Brazil,Brazil,right,185,80,no
+Pierre,Fortaleza,"RCMF, DMF, RDMF",24,75000,2029-12-31,19,1809,0,0.76,Brazil,Brazil,left,181,70,no
+Bryan,Ceará,"RB, LB",29,50000,2027-12-31,23,1707,1,1.14,Brazil,Brazil,right,175,74,no
+Bruno Xavier,Vila Nova,"RW, LAMF, LWF",29,50000,2026-11-30,17,890,2,1.12,Brazil,Brazil,right,178,71,no
+Jean Victor,Volta Redonda,LB,32,50000,2026-10-30,16,788,0,0.31,Brazil,Brazil,left,181,72,no
+Crystopher,CRB,"RCMF, RDMF, LCMF",28,50000,2026-12-31,22,1704,0,1.03,Brazil,Brazil,right,174,69,no
+Vágner,Operário PR,GK,40,50000,2026-11-30,4,396,0,0.0,Brazil,"Brazil, Portugal",right,186,80,no
+Tárik,Londrina,"DMF, RCMF, LDMF",33,50000,2026-11-30,22,744,1,0.15,Brazil,"Brazil, Italy",right,183,72,no
+Neto Paraíba,Operário PR,"LCMF, LDMF",34,50000,2026-11-30,31,2340,2,2.05,Brazil,Brazil,right,179,74,no
+Marcinho,Chapecoense,"CF, LWF, AMF",31,50000,2026-11-30,34,2540,4,4.51,Brazil,Brazil,right,176,75,no
+Du Fernandes,Volta Redonda,RCMF,25,50000,2026-12-31,1,21,0,0.0,Brazil,Brazil,right,177,66,no
+Luiz Fernando,CRB,LCMF,37,0,,3,28,0,0.38,Brazil,Brazil,left,169,64,no
+Cássio Gabriel,Ferroviária,CF,33,0,,1,23,0,0.0,Brazil,Brazil,right,175,0,no
+J. Mendoza Valencia,Athletico Paranaense,"RWF, CF, RW",33,0,,12,978,2,2.49,Colombia,Colombia,,0,0,no
+Wendel,Confiança,CF,29,0,,12,646,2,2.39,Brazil,Brazil,right,179,75,no
+Léo,Athletico Paranaense,"LCB, CB",30,0,2028-12-31,27,2411,1,0.52,Brazil,Brazil,left,183,76,no
+Luiz Fernando,Fortaleza,"LWF, LW, CF",29,0,2027-12-31,33,2040,3,3.99,Brazil,Brazil,right,178,65,no
+Denilson,Ferroviária,CF,28,0,,7,240,0,1.01,Brazil,Brazil,right,190,84,yes
+João Marcos,Figueirense,"RW, RWF, LW",29,0,,4,89,0,0.03,Brazil,Brazil,left,0,0,no
+G. Benavídez,Athletico Paranaense,"RB, RCB, RWB",30,0,2028-12-31,19,1735,1,1.48,Argentina,Argentina,right,175,72,no
+Mendes,Santa Catarina,"AMF, LCMF",31,0,,9,310,0,0.34,Brazil,Brazil,right,0,0,no
+Brayann,Goiás,"RWF, RW, RWB",28,0,2026-11-30,11,548,1,0.52,Brazil,Brazil,unknown,0,0,no
+Gabriel Ferreira,Uberlândia,"RCB, CB",29,0,2026-09-15,6,425,0,0.75,Brazil,Brazil,right,190,82,no
+Jackson,Mixto,"CB, RCB",36,0,,10,945,2,1.07,Brazil,Brazil,right,186,80,no
+Fernando Neto,Joinville,"LCMF, RCMF",33,0,2026-09-30,7,401,0,0.48,Brazil,Brazil,left,179,72,no
+Fabrício Isidoro,Athletic Club,"RDMF, LDMF, RCMF",34,0,2026-11-30,20,1508,0,0.24,Brazil,Brazil,right,172,64,no
+Glauco,Athletic Club,GK,31,0,2026-11-30,1,99,0,0.0,Brazil,Brazil,right,189,77,no
+Jefferson,Uberlândia,GK,32,0,,8,781,0,0.0,Brazil,Brazil,right,192,84,no
+Yuri,Náutico,LB,30,0,2026-11-30,25,1751,1,2.17,Brazil,Brazil,left,173,74,no
+J. Torres,Vardar,"RW, RAMF",29,0,,24,1413,3,2.3,Argentina,Argentina,left,167,67,no
+Neto Costa,São Bernardo FC,CF,29,0,2026-12-31,33,1502,7,5.64,Brazil,Brazil,left,184,78,yes
+Matheus Blade,Arema,RCB,31,0,2027-06-30,3,230,0,0.09,Brazil,Brazil,,0,0,no
+Zé Carlos,Sampaio Corrêa RJ,GK,31,0,,9,878,0,0.0,Brazil,Brazil,left,189,85,no
+João Lopes,Amazonas,GK,30,0,,5,521,0,0.0,Brazil,Brazil,right,188,83,no
+Diogo Carlos,Águia de Marabá,"RCMF, RWF",32,0,,1,37,0,0.01,Brazil,Brazil,left,172,56,no
+Kiko,Altos,"LW, LAMF, CF",29,0,2026-09-30,7,202,0,0.03,Brazil,Brazil,right,175,70,no
+Alyson,Amazonas,"LB, LWB",30,0,,6,567,0,0.74,Brazil,Brazil,left,185,75,no
+Nathan,Uberlândia,"LW, LWB, LCMF",28,0,,2,49,0,0.0,Brazil,Brazil,left,173,68,no
+Diego Fumaça,Uberlândia,"LDMF, RCMF, LCMF",31,0,,11,850,0,0.69,Brazil,Brazil,right,176,75,no
+Digão,Maracanã,LB,29,0,,3,189,0,0.0,Brazil,Brazil,left,182,70,no
+C. de Pena,Sport Recife,"LCMF, LW, CF",34,0,2026-11-30,29,919,1,0.42,Uruguay,"Uruguay, Italy",left,177,69,no
+Júnior Todinho,Náutico,"RAMF, CF, RW",32,0,2026-11-30,25,1580,5,2.85,Brazil,Brazil,left,182,72,no
+S. Gómez,Coritiba,"LCMF, LDMF",30,0,2028-12-31,34,3149,3,2.76,Colombia,Colombia,left,172,72,no
+Ytalo,Joinville,CF,38,0,2026-09-30,4,112,0,0.78,Brazil,Brazil,right,181,68,no
+Marcelo Rangel,Remo,GK,38,0,2026-12-31,37,3670,0,0.0,Brazil,Brazil,right,186,81,no
+Pedro Costa,Volta Redonda,RB,32,0,2026-10-31,13,681,0,0.02,Brazil,Brazil,right,184,80,yes
+Ygor Vinhas,Remo,GK,32,0,2026-12-31,2,84,0,0.0,Brazil,Brazil,right,192,88,no
+Giovanni Pavani,Remo,"RCMF, LCMF, AMF",29,0,2026-12-31,24,1329,2,1.01,Brazil,Brazil,right,178,70,no
+Rafael Castro,Volta Redonda,"DMF, CB",30,0,2026-10-30,2,42,0,0.0,Brazil,Brazil,right,187,75,no
+Marcos Vinicius,Chapecoense,RB,29,0,2026-12-31,34,2980,2,0.67,Brazil,Brazil,right,176,69,no
+Gustavo,América Mineiro,GK,33,0,,14,1416,0,0.0,Brazil,Brazil,right,187,90,no
+Léo Campos,CRB,LB,34,0,2027-11-30,21,1705,0,0.7,Brazil,Brazil,left,180,0,no
+Jefferson Nem,Botafogo SP,"LAMF, LW",30,0,2026-12-31,31,2512,3,3.54,Brazil,Brazil,right,166,62,no
+Jeferson,Brusque,RB,30,0,2026-10-31,28,2285,0,0.06,Brazil,Brazil,right,170,60,no
+Luiz Fernando,CRB,"LCMF, RCMF",31,0,,3,28,0,0.38,Brazil,Brazil,right,178,75,no
+Danielzinho,CRB,"LCMF, AMF",30,0,2026-12-31,34,2834,3,2.5,Brazil,Brazil,right,173,65,no
+Wesley Dias,Água Santa,"LDMF, RDMF, RCMF",31,0,,20,1622,1,1.16,Brazil,Brazil,right,181,81,no
+Marquinhos,Volta Redonda,"LAMF, LW, LWF",28,0,2027-10-23,9,440,2,0.53,Brazil,Brazil,right,177,78,no
+MV,Volta Redonda,"LW, CF, LAMF",28,0,2027-12-31,22,1757,3,3.65,Brazil,"Brazil, Portugal",right,172,68,no
+Gabriel Pinheiro,Juventude,"RCB, CB",29,0,2026-12-31,25,2232,2,0.82,Brazil,Brazil,right,0,0,yes
+Dadá Belmonte,CRB,"LWF, LAMF, LW",29,0,2026-11-30,23,1322,3,3.1,Brazil,Brazil,right,166,59,no
+Heitor Roca,Criciúma,LWB,28,0,2026-12-31,1,12,0,0.0,Brazil,Brazil,left,181,76,no
+Tadeu,Goiás,GK,34,0,2029-12-31,37,3753,2,3.04,Brazil,Brazil,right,184,80,no
+Diego Gonçalves,Criciúma,"LW, CF, AMF",31,0,,37,3198,9,10.64,Brazil,Brazil,right,182,79,no
+Benevenuto,Sport Recife,"RCB, CB",30,0,2026-11-30,15,1029,0,0.57,Brazil,Brazil,right,181,78,no
+Dener,Clube Andraus Brasil,"RAMF, LB, RW",28,0,,5,179,0,0.09,Brazil,Brazil,right,168,63,no
+Lucas Dias,Figueirense,RCB,30,0,2026-11-30,6,452,0,0.12,Brazil,Brazil,right,191,82,no
+Carlão,Grêmio Novorizontino,CF,34,0,2026-11-30,36,3375,13,13.19,Brazil,Brazil,right,186,72,no
+Zé Mário,Santa Cruz,LB,34,0,2026-10-31,21,1406,0,0.85,Brazil,Brazil,left,175,78,no
+Daniel Amorim,São Bernardo FC,CF,36,0,2026-11-30,23,1160,7,5.47,Brazil,Brazil,right,191,83,no
+Boschilia,Operário PR,"CF, AMF, RWF",30,0,2027-11-30,34,3228,9,7.81,Brazil,"Brazil, Italy",left,173,73,no
+Juninho,Náutico,"LW, LAMF",30,0,2026-11-30,34,2277,6,6.3,Brazil,Brazil,right,175,70,no
+Charles,Operário PR,RCB,31,0,2026-11-30,2,120,0,0.68,Brazil,Brazil,right,184,86,no
+Maycon,Noroeste,"LCB, RCB",28,0,2028-11-30,18,1497,0,0.54,Brazil,Brazil,right,188,80,no
+Albano,Ferroviária,"AMF, CF, RW",29,0,2027-12-31,29,1667,1,1.61,Brazil,Brazil,left,178,70,no
+Maílton,Fortaleza,"RWB, RB",28,0,2027-12-31,20,1759,6,1.71,Brazil,Brazil,right,169,71,yes
+Ronaldo Alves,Noroeste,LCB,37,0,,29,2865,0,0.4,Brazil,Brazil,right,187,89,no
+Willian Maranhão,Vila Nova,"LDMF, LCMF, DMF",30,0,2027-11-30,14,1084,1,0.56,Brazil,Brazil,left,179,80,no
+Marcinho,Paysandu,"CF, AMF, RWF",30,0,,22,650,0,0.44,Brazil,Brazil,right,174,72,no
+Shaylon,Mirassol,"AMF, RAMF, RW",29,0,2026-12-31,12,497,0,0.28,Brazil,Brazil,left,178,70,no
+Bruno Leonardo,Chapecoense,"CB, RCB",30,0,,28,2314,0,0.97,Brazil,Brazil,right,187,88,no
+Victor Caetano,Chapecoense,RCB,28,0,2027-12-15,28,2514,1,0.89,Brazil,Brazil,right,186,84,no
+Everton,Chapecoense,"RWB, RCB, RW",31,0,2026-12-31,24,1102,1,1.24,Brazil,Brazil,,0,0,no
+Maranhão,Guarani,"CF, RAMF",30,0,,7,225,1,0.5,Brazil,Brazil,,183,82,no
+Marlon,,"LDMF, CF, RCMF",28,0,,3,88,0,0.0,Brazil,Brazil,right,185,77,no
+Ricardinho,Ferroviária,"DMF, LDMF, LCMF",37,0,2026-12-31,33,2976,1,1.33,Brazil,Brazil,right,174,68,no
+Radsley,Retrô,"LCMF, AMF, RDMF",31,0,,6,247,0,0.14,Brazil,Brazil,,0,0,no
+Castro,Paysandu,"RDMF, DMF, LDMF",31,0,,4,93,0,0.0,Brazil,Brazil,right,191,81,no
+Lelê,Fluminense,CF,28,0,2028-12-31,17,1559,6,5.33,Brazil,Brazil,right,189,83,no
+Dentinho,Guarani,"CF, RAMF, RWB",29,0,,9,294,0,0.13,Brazil,Brazil,left,183,75,no
+Ariel,Brusque,"AMF, LDMF",28,0,2027-04-30,13,562,0,0.31,Brazil,Brazil,right,178,72,no
+Fabrício,Volta Redonda,"LCB, CB",36,0,2026-11-30,13,1054,0,0.63,Brazil,Brazil,left,188,96,no
+Bruno Barra,Volta Redonda,"RDMF, CB, RCB",40,0,2026-11-20,17,1346,1,0.98,Brazil,Brazil,right,179,67,no
+Wellington Silva,Volta Redonda,RB,38,0,2026-08-30,20,1282,0,0.1,Brazil,Brazil,right,177,78,no
+Kayke,Uberlândia,"CF, RWF",38,0,,12,384,0,0.36,Brazil,Brazil,right,182,78,no
+Nino Paraíba,Londrina,"RB, RWB",40,0,2026-11-30,9,397,0,0.02,Brazil,Brazil,right,168,63,no
+Hyuri,Figueirense,"CF, RB",34,0,,7,382,0,2.15,Brazil,Brazil,right,186,79,no
+Heliardo,América RN,CF,34,0,2027-04-30,3,212,0,0.31,Brazil,Brazil,left,190,84,no
+Yamil Asad,Cuiabá,CF,31,0,2026-12-31,1,10,0,0.0,Argentina,"Argentina, Lebanon",right,177,78,no
+Sánchez,Ceará,"LB, LWB",30,0,2026-11-30,31,2714,2,5.9,Brazil,Brazil,left,178,73,no
+Henrique Silva,Volta Redonda,"RCMF, LCMF, LW",31,0,,7,251,0,0.03,Brazil,Brazil,right,175,74,no
+Lucas Mineiro,Juventude,"RCMF, LCMF, RDMF",30,0,2026-12-31,25,1512,2,0.99,Brazil,Brazil,left,188,80,yes
+Jean Drosny,Paysandu,GK,32,0,,22,2194,0,0.0,Brazil,Brazil,right,192,88,no
+Ygor Catatau,Volta Redonda,"CF, LWF, LAMF",31,0,2026-11-30,12,794,2,1.9,Brazil,Brazil,right,184,79,no
+Lucas Tocantins,Port FC,"RW, RAMF",31,0,2027-06-30,10,440,0,1.11,Brazil,Brazil,right,180,77,no
+Jhony Douglas,Floresta EC,"LCMF, DMF, RDMF",29,0,2026-10-30,4,186,0,0.0,Brazil,Brazil,right,180,84,no
+André Luiz,Londrina,"DMF, LDMF",30,0,2026-11-30,29,1910,2,2.02,Brazil,Brazil,right,183,80,no
+Thallyson,Botafogo PB,"RDMF, RCMF, DMF",30,0,,10,705,0,0.36,Brazil,Brazil,right,185,69,no
+Igor Morais,Botafogo PB,"RCB, CB, LCB",28,0,,13,1263,0,0.21,Brazil,Brazil,,0,0,no
+Netinho,Atlético GO,"RCMF, LCMF, RDMF",28,0,2027-12-31,31,2462,4,2.76,Brazil,Brazil,right,180,76,no
+Gabriel Souza,Betim,RB,23,0,,1,22,0,0.0,Brazil,Brazil,right,185,78,no
+Marquinho,Volta Redonda U20,LAMF,21,0,,1,99,0,0.0,Brazil,Brazil,unknown,0,0,no
+Pedro Balotelli,Grêmio Novorizontino,CF,20,0,,1,30,0,0.0,Brazil,Brazil,unknown,0,0,no
+G. Queiroz,Athletic Club,LB,17,0,,1,23,0,0.0,Brazil,Brazil,left,186,0,no
+G. Queiroz,Athletic Club,LCB,17,0,,1,19,0,0.0,Brazil,Brazil,,0,0,no
+Gabriel Silva,Vila Nova,"LAMF, RAMF",26,0,,4,152,0,0.15,Brazil,Brazil,right,177,0,no
+Monteiro,,RW,20,0,,1,8,0,0.0,Brazil,Brazil,unknown,0,0,no
+Guilherme Pato,CRB,"LW, CF, LCMF",25,0,2026-11-30,2,49,0,0.03,Brazil,Brazil,right,161,56,no
+Pablo Thomaz,Maricá,"CF, RW",26,0,,6,197,0,1.23,Brazil,Brazil,right,180,63,no
+C. Dotto Breve,Volta Redonda,"LCMF, LDMF",21,0,,2,52,0,0.0,,,,0,0,no
+Gabriel Mineiro,Cuiabá,"LWF, LAMF, LCMF",21,0,2026-11-30,6,136,0,0.55,Brazil,Brazil,unknown,0,0,no
+F. Pasadore,Always Ready,"CF, RWF",25,0,,5,74,0,0.17,Argentina,Argentina,,0,0,no
+Nathan,Cuiabá,"CF, RW, LW",19,0,2026-11-30,8,206,0,0.08,Brazil,Brazil,unknown,0,0,no
+Kerlinho,Volta Redonda U20,"RCMF, RW",20,0,,2,17,0,0.0,Brazil,Brazil,,0,0,no
+Marcelo,Athletic Club,"LB, LCB",21,0,2028-12-31,12,817,0,0.02,Brazil,Brazil,unknown,0,0,yes
+Matheus Costa,,"RW, LW",26,0,,3,56,0,0.0,Brazil,Brazil,unknown,0,0,no
+David,Cuiabá,"RCMF, LCMF",19,0,2028-12-31,25,1664,2,2.14,Brazil,Brazil,unknown,0,0,no
+Luisão,Cuiabá,LCB,20,0,2027-12-31,4,177,0,0.04,Brazil,Brazil,unknown,0,0,no
+Vitinho,,RAMF,22,0,,1,65,0,0.0,Brazil,Brazil,unknown,0,0,no
+Calebe Costa,Cuiabá,"CB, DMF, LCMF",23,0,2026-11-30,28,1965,0,0.53,Brazil,Brazil,right,187,0,no
+Robinho,Estrela Amadora,"LCMF, LDMF",23,0,2028-06-30,15,1163,0,1.21,Brazil,Brazil,right,180,78,no
+Victor Barbara,Cuiabá,"LW, RWF, LAMF",21,0,2026-11-30,13,423,0,0.45,Brazil,Brazil,unknown,0,0,no
+Jadson,Cuiabá,"RAMF, RW, RWB",20,0,,18,594,0,0.5,Brazil,Brazil,unknown,0,0,no
+Lucas Ramires,XV de Piracicaba,RCB,24,0,2026-11-30,3,234,1,0.12,Brazil,Brazil,right,193,75,yes
+Eduardo Vinícius,CRAC,"RCMF, LCMF",21,0,2026-09-13,3,85,0,0.0,Brazil,Brazil,right,0,0,no
+Jhonny,América Mineiro,"RB, RWB",24,0,2027-12-31,28,2105,0,0.41,Brazil,Brazil,right,179,66,yes
+Raí,Juventude,"RW, AMF, RCMF",24,0,2026-12-31,31,2480,1,3.17,Brazil,Brazil,right,175,70,no
+João Pedro,Confiança,"RW, RAMF, RWF",23,0,2027-12-31,15,848,0,1.1,Brazil,Brazil,right,178,70,yes
+Lucas Adell,Volta Redonda,LCB,26,0,2026-11-30,17,1458,0,0.43,Brazil,Brazil,left,188,70,no
+Vilar,Botafogo SP,LCB,26,0,2026-11-30,11,1114,1,1.23,Brazil,Brazil,right,190,89,no
+Vitinho,Atlético GO,"RAMF, LW, RW",25,0,2026-11-30,22,1448,1,0.68,Brazil,Brazil,right,182,75,no
+Carlos Alberto,Al Ittihad Kalba,"CF, LW",24,0,2029-12-31,23,1492,5,5.08,Brazil,Brazil,right,181,75,yes
+Igor Maduro,Botafogo PB,"AMF, RCMF, LDMF",25,0,,5,136,0,1.13,Brazil,Brazil,right,182,70,no
+Guilherme Mariano,Botafogo SP,RCB,26,0,2028-12-31,16,801,0,0.08,Brazil,Brazil,,0,0,no
+Juan Christian,Riga FC,"LW, RAMF, RW",25,0,2027-12-31,32,1693,4,3.81,Brazil,Brazil,right,177,73,no
+Adsson,Piauí,"LCMF, LDMF",26,0,,3,83,0,0.01,Brazil,Brazil,right,176,81,yes
+Gabriel Cardozo,Operário PR U20,RW,19,0,,1,28,0,0.0,Brazil,Brazil,unknown,0,0,no
+Matheus Galdino,Operário PR,"LCMF, LW",21,0,2026-11-30,1,53,0,0.0,Brazil,Brazil,unknown,0,0,no
+João Botão,Operário PR,RB,20,0,2026-11-30,1,79,0,0.0,Brazil,Brazil,unknown,0,0,no
+Bernardo,Operário PR,"LCB, CB",21,0,2026-11-30,1,102,0,0.0,Brazil,Brazil,unknown,0,0,no
+Kauã Gomes,Operário PR,"LW, LAMF, RAMF",22,0,2029-12-05,4,227,0,0.71,Brazil,Brazil,unknown,0,0,no
+João Vitor,Athletico Paranaense,"LCB, RCB",21,0,2028-12-31,26,2445,2,1.49,Brazil,Brazil,right,189,73,yes
+Ryan,Brusque,"RCB, CB",21,0,,2,124,0,0.0,Brazil,Brazil,unknown,0,0,no
+Gabriel Souza,Maringá,RB,23,0,,20,1230,0,0.22,Brazil,Brazil,unknown,0,0,yes
+Brenno Pereira,Operário PR,"RAMF, RW, LW",21,0,,8,293,1,0.95,Brazil,Brazil,unknown,0,0,no
+Fábio Soares,Ferroviária,"RW, LWF, LAMF",21,0,2027-06-30,4,163,1,0.39,Brazil,Brazil,right,178,68,no
+Dudu,Operário PR,RCMF,20,0,2027-12-31,1,43,1,0.15,Brazil,Brazil,unknown,0,0,no
+Fábio Matheus,Sport Recife,"LCMF, LB, LDMF",23,0,2026-12-31,29,2405,0,0.9,Brazil,Brazil,left,182,73,no
+Filipe Claudino,São Bernardo,"LAMF, RCB",22,0,2026-11-30,2,21,0,0.01,Brazil,Brazil,right,173,69,no
+Gabriel Feliciano,Operário PR,LB,24,0,2026-12-31,22,1608,0,0.26,Brazil,Brazil,unknown,0,0,no
+João Ramos,Piauí,"RCB, LCB",23,0,,6,399,0,0.0,Brazil,Brazil,right,0,0,no
+Léo Silva,Sioni,"RW, LCMF, RCMF",23,0,2026-12-31,6,184,0,0.06,Brazil,Brazil,right,170,68,no
+Thiago Medeiros,,"RCMF, AMF",22,0,,1,51,0,0.0,Brazil,Brazil,right,176,73,no
+Igor Bolt,Figueirense,"LAMF, RAMF, LW",25,0,,8,173,0,0.06,Brazil,Brazil,,0,0,no
+Thayllon,Paysandu,"LW, LAMF",24,0,2026-12-31,12,595,3,2.09,Brazil,Brazil,left,166,64,yes
+Vitor Barreto,Ferroviária,"LWF, LW",26,0,2027-11-30,14,516,1,1.01,Brazil,Brazil,right,181,75,no
+Tavinho,Grêmio Novorizontino,"LW, LAMF, CF",21,0,2028-12-31,12,637,1,0.75,Brazil,Brazil,unknown,0,0,no
+Rômulo,Grêmio Novorizontino,"AMF, CF, LWF",24,0,2028-12-31,16,1055,2,2.95,Brazil,Brazil,right,175,64,yes
+Carlos Eduardo,Hrvatski Dragovoljac,LCB,21,0,,1,112,0,0.0,Brazil,Brazil,right,0,0,no
+Guilherme Nogueira,Palmeiras U20,LDMF,19,0,2026-08-30,1,73,0,0.0,Brazil,Brazil,unknown,0,0,yes
+Kauan Cristtyan,Cuiabá,"RAMF, LW",20,0,2026-11-30,2,30,0,0.0,Brazil,Brazil,unknown,0,0,no
+Wallace,Grêmio,RCB,21,0,2031-06-30,2,53,0,0.0,Brazil,Brazil,right,190,83,no
+Jhonnatan,Oleksandria,"RW, RWF",21,0,2028-06-30,2,19,0,0.12,Brazil,Brazil,unknown,0,0,no
+Rodriguinho,Anápolis,"CF, LW, RW",21,0,2026-10-31,3,53,0,0.14,Brazil,Brazil,unknown,0,0,yes
+Yago,América Mineiro,"LCMF, LW",20,0,2028-12-31,18,1044,0,0.13,Brazil,Brazil,,0,0,no
+Thauan,América Mineiro,"CF, RW, LWF",22,0,2027-12-31,7,417,0,0.55,Brazil,Brazil,unknown,0,0,no
+David Braw,CRB,"LWF, AMF, LCMF",23,0,2026-11-30,2,64,0,0.15,Brazil,Brazil,right,182,76,no
+Lucas Kallyel,Anápolis,"RCMF, LDMF",22,0,2026-10-31,11,460,0,0.48,Brazil,Brazil,right,171,68,no
+Daniel Lima,Atlético GO,CF,21,0,2026-12-31,12,549,0,1.08,Brazil,Brazil,right,186,77,no
+Breno,,"CF, RWF",24,0,,4,67,0,0.69,Brazil,Brazil,left,188,77,no
+Tortello,Botafogo SP,"RDMF, LCMF",22,0,2026-11-30,2,30,0,0.0,Brazil,Brazil,,177,0,no
+Darlisson,Anápolis,LCB,22,0,,5,315,0,0.0,Brazil,Brazil,left,189,80,no
+David José,Rio Branco ES,"CF, LAMF",24,0,,6,144,0,0.12,Brazil,Brazil,,0,0,no
+Arthur Sousa,Houston Dynamo II,CF,23,0,2028-12-31,19,984,2,2.09,Brazil,Brazil,right,184,72,yes
+Rafael Barcelos,América Mineiro,"RWB, LCB, LB",22,0,2026-12-31,5,264,0,0.0,Brazil,Brazil,right,183,81,no
+Cássio Meneses,América Mineiro,GK,24,0,2027-12-31,3,299,0,0.0,Brazil,Brazil,right,187,79,no
+Dioran,Treze,CF,23,0,2026-09-30,1,23,0,0.0,Brazil,Brazil,,0,0,no
+Willian Bahia,Água Santa,LB,24,0,,2,147,0,0.02,Brazil,Brazil,,0,0,no
+Alexandre Jesus,Orenburg,CF,24,0,2029-06-08,17,1420,4,5.21,Brazil,Brazil,right,184,82,no
+Rafinha,Maringá,"LAMF, LW, LCMF",26,0,2026-11-30,9,283,1,0.97,Brazil,Brazil,right,172,66,yes
+Gazão,Brusque,"RDMF, RCMF",24,0,,3,61,0,0.01,Brazil,Brazil,right,185,79,no
+Klebert,Atlético GO,"RDMF, RCMF",18,0,,1,19,0,0.0,Brazil,Brazil,unknown,0,0,no
+Yuri Alves,Red Bull Bragantino U20,"LAMF, LW",19,0,,18,1011,1,1.45,Brazil,Brazil,unknown,0,0,no
+Kauan,Athletic Club,"AMF, LDMF, CF",21,0,2028-05-31,32,1782,0,1.19,Brazil,Brazil,right,174,66,yes
+Gustavo,Atlético GO,LB,21,0,2026-11-30,2,68,0,0.0,Brazil,Brazil,left,185,78,no
+Lyncon,CRB,"DMF, LB",21,0,2026-11-30,2,38,0,0.0,Brazil,Brazil,right,186,80,yes
+David Antunes,Chapecoense,"RCMF, LCMF",20,0,,5,260,0,0.06,Brazil,Brazil,unknown,0,0,no
+Italo,Chapecoense,"CF, LW, AMF",23,0,2027-11-30,37,1494,5,4.05,Brazil,Brazil,,0,0,no
+João Henrique,Chapecoense,CF,21,0,2026-12-31,1,34,0,0.0,Brazil,Brazil,unknown,0,0,no
+Rai Natalino,Maringá,"CF, LW",21,0,,6,111,0,0.45,Brazil,Brazil,,0,0,no
+L. Cosentino,Wanderers,"RAMF, RDMF, LAMF",25,0,2027-06-30,3,73,0,0.0,Uruguay,Uruguay,right,172,70,no
+Gustavo Talles,Chapecoense,RCMF,23,0,,1,4,0,0.0,Brazil,Brazil,unknown,0,0,no
+Lucas Barreto,,GK,24,0,,1,103,0,0.0,Brazil,Brazil,right,196,95,no
+F. Barrios,CFR Cluj,RCMF,24,0,2028-12-31,1,53,0,0.03,Uruguay,Uruguay,right,181,72,no
+Robert,Chapecoense,"AMF, RAMF",22,0,2027-12-31,33,2192,5,2.81,Brazil,Brazil,left,180,72,yes
+Edson Lucas,Sport Recife,LB,25,0,2027-11-30,15,1228,1,0.62,Brazil,Brazil,left,176,70,yes
+Rubens,Chapecoense,"CF, RCB, RWB",23,0,2027-12-10,5,80,0,0.02,Brazil,Brazil,left,0,0,no
+Ronald,Fortaleza,"RDMF, LDMF, DMF",23,0,2027-12-31,14,1350,0,0.56,Brazil,"Brazil, Poland",right,188,78,yes
+Eric,Cuiabá,"LB, LCB",25,0,2026-11-30,17,1104,0,0.41,Brazil,Brazil,left,180,80,no
+Danielzinho,Maringá,"LDMF, AMF",24,0,,4,169,0,0.22,Brazil,Brazil,right,169,58,no
+Marcelinho,Al Dhafra,"LAMF, LW",23,0,,14,1150,5,2.79,Brazil,Brazil,right,164,69,no
+Tito,Atlético GO,RCB,25,0,2028-11-30,14,1399,0,0.81,Brazil,Brazil,right,184,76,no
+Kaique Maciel,Aparecidense,"RWF, CF",25,0,2027-04-30,2,47,0,0.0,Brazil,Brazil,,0,0,no
+Mailson,Figueirense,"RWF, CF, AMF",23,0,2027-04-30,15,436,0,0.78,Brazil,Brazil,right,177,67,yes
+Léo,Atlético GO,GK,24,0,2026-11-30,1,101,0,0.0,Brazil,Brazil,right,187,75,no
+Juninho Monteiro,Volta Redonda,LB,26,0,2026-11-30,9,405,0,0.14,Brazil,Brazil,left,179,72,no
+Denilson,Mirassol,"LCMF, RCMF, LDMF",25,0,2028-12-31,35,3056,0,1.09,Brazil,Brazil,right,180,75,no
+Patrick De Lucca,CRB,"RCMF, LCMF, RDMF",26,0,2026-11-30,25,1556,1,1.27,Brazil,Brazil,right,180,75,no
+Guilherme Nogueira,Uberlândia,GK,26,0,2027-12-31,6,612,0,0.0,Brazil,Brazil,right,190,80,no
+M. Generoso da Silva,Athletic Club U20,LAMF,18,0,,1,50,0,0.0,Brazil,Brazil,right,175,63,no
+Victor Hugo,Amazonas U17,"RCMF, AMF",17,0,,1,36,0,0.0,Brazil,Brazil,unknown,0,0,no
+Cocote,Nacional AM,"LW, LAMF, LCMF",21,0,,7,294,1,0.93,Brazil,Brazil,right,163,58,no
+Gustavo Silva,UD Oliveirense,CF,21,0,,5,227,0,0.48,Brazil,Brazil,,188,78,no
+João Miguel,Athletic Club,"LDMF, RCMF, DMF",22,0,2026-11-30,5,288,0,0.0,Brazil,Brazil,unknown,0,0,no
+Max,Athletic Club,"LAMF, LW, RW",24,0,2026-11-30,27,1892,2,3.55,Brazil,Brazil,right,184,66,no
+Carlito,Cianorte,RDMF,21,0,2026-09-30,1,9,0,0.0,Brazil,Brazil,,0,0,no
+Kauan Lindes,Athletic Club,"RCMF, LCMF, LDMF",22,0,2030-12-31,8,328,0,0.05,Brazil,Brazil,unknown,0,0,no
+Diego Borges,Sporting KC,LCB,21,0,2030-06-30,5,444,0,0.0,Brazil,Brazil,unknown,194,81,no
+Caick,Athletic Club,"CF, AMF, LAMF",20,0,,4,94,0,0.0,Brazil,Brazil,unknown,0,0,no
+Amorim,Genoa,"RDMF, LCMF, RCMF",21,0,2030-06-30,14,1159,1,1.26,Brazil,Brazil,right,177,70,no
+David Braga,Remo,"AMF, CF, RAMF",24,0,2027-12-31,33,2303,6,4.04,Brazil,Brazil,left,186,89,no
+Rodrigo Gelado,Athletic Club,LB,22,0,2027-12-31,27,2386,0,0.75,Brazil,Brazil,left,178,68,no
+Felipe Pará,Joinville,"RB, LCMF",24,0,,1,56,0,0.01,Brazil,Brazil,right,180,76,no
+Thomás Luciano,Ferroviário,RB,24,0,2026-09-10,10,724,0,0.06,Brazil,Brazil,right,180,73,no
+Rafael Monteiro,Londrina,"LB, LWB",22,0,2027-12-31,12,684,0,0.06,Brazil,Brazil,left,173,70,no
+Marcelo Ajul,Sport Recife,RCB,23,0,2027-12-31,24,2021,0,0.93,Brazil,Brazil,,0,0,no
+Matheus Guilherme,Capivariano,"RW, RAMF, LAMF",26,0,2026-12-31,9,261,0,0.11,Brazil,Brazil,,0,0,no
+Douglas Pelé,Athletic Club,RB,26,0,2027-12-31,32,2688,2,2.49,Brazil,Brazil,right,171,69,no
+Raimar,Brusque,"LB, LW",24,0,,2,70,0,0.0,Brazil,Brazil,left,175,67,no
+Vitão,Água Santa,"CF, RB",26,0,,6,124,0,0.0,Brazil,Brazil,right,180,76,no
+Guilherme Cachoeira,Guarani,"LAMF, LWF, LWB",24,0,,10,399,0,0.88,Brazil,Brazil,right,167,67,no
+P. Caracoci,Amazonas,GK,26,0,,7,701,0,0.0,Brazil,Brazil,right,194,0,no
+Luquinhas,Monte Roraima ,"LW, RW, RAMF",26,0,,4,220,0,0.32,Brazil,Brazil,right,172,0,no
+Jhonata Robert,Criciúma,"RW, AMF",26,0,2027-12-31,31,2156,6,4.2,Brazil,Brazil,right,179,73,no
+H. Rojas Santos,,"LCMF, CF",21,0,,2,48,0,0.05,Colombia,Colombia,,0,0,no
+Thales,Criciúma,"CF, AMF",19,0,,8,242,0,0.53,Brazil,Brazil,unknown,0,0,no
+Hiago Alves,Criciúma,LWB,20,0,2028-12-31,1,53,0,0.0,Brazil,Brazil,unknown,0,0,no
+S. Nufour,Criciúma,RCMF,21,0,2027-02-25,1,6,0,0.0,Ghana,Ghana,right,0,0,no
+Lucas Rodrigues,Goiás,"LCMF, RCMF",18,0,2029-12-31,3,108,0,0.0,Brazil,Brazil,unknown,0,0,no
+Danilo Cunha,Goiás,"LB, LWB",19,0,2026-11-30,2,38,0,0.0,Brazil,Brazil,unknown,0,0,no
+O. Otusanya,Athletic Club,CF,22,0,2027-12-31,7,136,0,0.29,Nigeria,Nigeria,left,186,77,yes
+Fabricio,,RW,20,0,,1,12,0,0.0,Brazil,Brazil,right,181,73,no
+Anthony,Botafogo,"LCB, LB",21,0,2030-03-23,7,275,0,0.77,Brazil,Brazil,left,0,0,no
+Diego Caito,Goiás,RB,22,0,2026-12-31,27,2154,1,0.78,Brazil,Brazil,right,180,76,no
+Pedrinho,Goiás,"LW, LWF, LAMF",22,0,2027-12-31,26,1624,1,1.79,Brazil,Brazil,right,182,72,no
+Victor Hugo,Ajman,"LCMF, LDMF, LW",22,0,,5,223,0,0.0,Brazil,Brazil,right,182,74,no
+Jean Carlos,Goiás,"RWF, RAMF, RW",21,0,2028-12-31,10,382,1,0.68,Brazil,Brazil,unknown,0,0,no
+Baldória,Goiás,"RCB, RB",21,0,2028-12-31,9,307,0,0.0,Brazil,Brazil,unknown,0,0,no
+Kauã Moroso,Criciúma,GK,22,0,2027-12-31,11,1057,0,0.0,Brazil,Brazil,right,189,83,no
+Léo Mana,Criciúma,RB,22,0,2029-12-31,6,215,0,0.0,Brazil,Brazil,right,175,66,yes
+Hudson,Portuguesa,"RCMF, LCMF",25,0,2026-08-31,4,130,0,0.0,Brazil,Brazil,right,181,76,no
+Adrianinho,Brusque,"RW, LW",22,0,2028-12-29,1,39,0,0.01,Brazil,Brazil,right,175,67,no
+Yan Souto,Botafogo PB,RCB,24,0,,18,712,0,0.66,Brazil,Brazil,right,187,79,no
+Guilherme Lobo,Criciúma,"RCMF, LCMF",26,0,2027-12-31,29,2140,1,1.53,Brazil,Brazil,,0,0,no
+DG,Avaí,LB,25,0,2026-11-30,18,1258,0,0.31,Brazil,Brazil,,0,0,no
+Talisson,Rapid Bucureşti,"RW, RAMF, LAMF",24,0,2028-06-30,15,685,0,0.35,Brazil,Brazil,right,183,76,no
+Juninho,Grêmio Novorizontino,"LCMF, AMF",25,0,2028-12-31,17,754,1,1.54,Brazil,Brazil,right,174,70,no
+R. Ykaro Santos Silva,Flamengo U17,RDMF,17,0,2027-12-31,1,15,0,0.0,Brazil,Brazil,unknown,0,0,no
+Jamerson,Avaí,"LCMF, AMF",19,0,2027-01-31,12,516,0,0.05,Brazil,Brazil,unknown,0,0,no
+Caixeta,Santa Clara U19,LAMF,19,0,,1,22,0,0.0,Brazil,Brazil,unknown,180,72,no
+Breno,Vila Nova U20,LDMF,20,0,,1,22,0,0.0,Brazil,Brazil,unknown,0,0,no
+Luan Andrey,,CF,19,0,,3,141,0,0.34,Brazil,Brazil,right,178,72,no
+Thayllon Roberth,Avaí,"RW, RAMF",19,0,2026-11-30,22,799,4,1.13,Brazil,Brazil,unknown,0,0,no
+Gustavo Pajé,Aris,"RAMF, RW, AMF",21,0,2030-05-31,17,553,4,1.41,Brazil,Brazil,unknown,0,0,no
+João Vitor,Coritiba,LB,20,0,2029-12-31,13,787,0,0.05,Brazil,Brazil,unknown,0,0,no
+Higor,Vila Nova,"LB, LWB",21,0,2026-11-30,16,884,0,0.15,Brazil,Brazil,,178,68,no
+Pedro Morisco,Coritiba,GK,22,0,2027-12-31,30,2993,0,0.0,Brazil,Brazil,right,190,84,no
+Guilherme Vargas,Avaí,RCB,22,0,2028-06-30,10,872,0,0.08,Brazil,Brazil,right,195,83,yes
+Lucas Soares,Vila Nova,RB,20,0,,1,24,0,0.0,Brazil,Brazil,unknown,175,65,no
+Enzo,Vila Nova,"RDMF, LDMF, LCMF",23,0,2027-11-30,4,196,0,0.34,France,"France, Brazil",right,186,77,no
+Pedrão,Cruzeiro,"RCB, LCB",22,0,2026-12-31,7,561,0,0.0,Brazil,Brazil,right,190,88,no
+Felipe Guimarães,Atlético GO,"RB, RW",22,0,2027-12-31,3,85,0,0.0,Brazil,Brazil,unknown,0,0,yes
+Lucas Ronier,Coritiba,"RW, RAMF, LW",21,0,2027-12-31,29,2612,4,5.47,Brazil,Brazil,left,165,60,no
+Diego Miticov,Betim,"RDMF, RCMF, LCMF",24,0,,10,508,0,0.02,Brazil,Brazil,right,175,73,no
+Dodô,Náutico,"AMF, CF",25,0,2026-11-30,33,2092,3,4.09,Brazil,Brazil,right,171,68,no
+Geovane Meurer,Coritiba,RCMF,24,0,2027-12-31,1,63,0,0.03,Brazil,Brazil,left,174,66,no
+Peter Roman,Vila Nova,"RCB, RB",25,0,2026-11-30,12,985,1,0.71,Brazil,Brazil,right,189,87,no
+Ruan Ribeiro,Vila Nova,"CF, RAMF, RW",22,0,2027-06-30,18,733,0,1.3,Brazil,Brazil,right,178,71,no
+Thalys,Ponte Preta,"LB, RB",26,0,2026-11-30,5,318,0,0.12,Brazil,Brazil,right,177,69,no
+Victor Hugo,Anápolis,GK,25,0,2026-10-31,2,201,0,0.0,Brazil,Brazil,,0,0,no
+M. Cardoso de Souza,Paysandu,RB,20,0,2028-12-31,1,34,0,0.0,Brazil,Brazil,unknown,0,0,no
+S. Monteiro,Paysandu,RW,21,0,,1,8,0,0.0,Guinea-Bissau,Guinea-Bissau,,0,0,no
+Murilo Camara,Goiás,LCB,19,0,,1,35,0,0.0,Brazil,"Brazil, Italy",left,0,0,no
+Pedro Henrique,Paysandu,DMF,19,0,2029-12-31,6,478,0,0.11,Brazil,Brazil,unknown,0,0,no
+Kaua,Paysandu,"RCMF, LCMF",19,0,,2,13,0,0.0,Brazil,Brazil,unknown,0,0,no
+Diogo Riquelme,Athletico Paranaense,"RCMF, LCMF, DMF",21,0,2028-12-31,4,200,0,0.03,Brazil,Brazil,unknown,0,0,no
+Tevis,Yokohama F. Marinos,"LAMF, LB, LW",20,0,2026-12-31,14,608,1,0.52,Brazil,Brazil,unknown,0,0,yes
+Arthur Dias,Athletico Paranaense,"LCB, RCB",19,0,2028-12-31,17,1529,0,0.65,Brazil,Brazil,,0,0,no
+Kauã Moraes,Cruzeiro,"RB, RWB",19,0,2030-08-31,14,1217,1,1.21,Brazil,Brazil,unknown,0,0,no
+Iarley,Paysandu,RCB,21,0,2028-12-31,1,44,0,0.0,Brazil,Brazil,both,185,0,no
+Léo Derik,Athletico Paranaense,"LWB, LB",20,0,2029-12-31,15,1066,1,1.07,Brazil,Brazil,unknown,0,0,no
+Isaac,Athletico Paranaense,"LW, LAMF",22,0,2027-12-31,10,378,0,0.54,Brazil,Brazil,right,170,63,no
+Dudu Kogitzki,Athletico Paranaense,"LCMF, AMF",20,0,2029-12-31,19,967,3,1.77,Brazil,Brazil,left,176,70,no
+Alan Stence,São José EC,"AMF, CF",24,0,2026-09-30,2,55,0,0.26,Brazil,Brazil,unknown,0,0,yes
+Eliel,Cuiabá,"LW, CF",23,0,2027-12-31,6,272,0,0.47,Brazil,Brazil,right,175,73,no
+L. Esquivel,Athletico Paranaense,"LB, LCB, LWB",24,0,2029-06-30,23,2042,0,0.84,Argentina,Argentina,left,183,69,no
+Petterson,Brusque,"LW, RW, LWF",22,0,2027-07-31,10,431,1,0.66,Brazil,Brazil,right,181,76,no
+Carlos Eduardo,Guarani,LCMF,25,0,2027-12-31,7,306,0,0.16,Brazil,Brazil,,0,0,no
+Mycael,Athletico Paranaense,GK,22,0,2028-12-31,17,1700,0,0.0,Brazil,Brazil,left,190,85,no
+B. Zapelli,Athletico Paranaense,"RCMF, AMF, CF",24,0,2028-07-01,35,2829,4,5.36,Argentina,"Argentina, Italy",right,181,72,no
+Lucas Belezi,Athletic Club,"RCB, RB",23,0,2028-11-30,15,1120,0,0.07,Brazil,Brazil,right,186,67,no
+Filipinho,Athletico Paranaense,"RCMF, RDMF, LCMF",24,0,2027-12-31,31,2340,0,0.56,Brazil,Brazil,left,183,77,no
+Renan,Athletico Paranaense,CF,26,0,2028-02-29,22,804,8,4.65,Brazil,Brazil,right,185,0,no
+Vinícius Faria,Ferroviária,"RAMF, CF, LW",26,0,2026-10-30,18,587,0,0.91,Brazil,Brazil,right,184,80,no
+Denner,Noroeste,"AMF, LCMF, RCMF",26,0,,18,1126,0,0.72,Brazil,Brazil,left,183,69,no
+André Lima,Ponte Preta,"RCMF, LCMF",26,0,2026-11-30,23,1581,2,0.97,Brazil,Brazil,right,179,73,no
+Julimar,Al Sharjah,"CF, LWF, LW",25,0,2028-12-31,13,823,4,2.17,Brazil,Brazil,right,182,82,no
+Habraão,Sport Recife,"RCB, CB",25,0,2028-02-28,14,1204,0,0.56,Brazil,Brazil,right,187,80,yes
+K. Viveros,Athletico Paranaense,CF,26,0,2028-06-30,21,1855,9,6.94,Colombia,Colombia,right,180,77,no
+Jáderson,Remo,"RCMF, LDMF",25,0,2027-12-31,26,1679,1,1.25,Brazil,Brazil,left,170,65,no
+Fabinho,Coritiba,"RW, RAMF, RWF",26,0,2027-12-31,12,845,3,4.4,Brazil,Brazil,left,180,75,no
+J. Silva Miranda,Flamengo U20,"RW, CF",17,0,2030-12-31,3,157,1,0.69,Brazil,Brazil,,0,0,no
+N. Tedesco Borba,Avaí,LCMF,18,0,,1,5,0,0.0,Brazil,Brazil,,0,0,no
+Juninho,Paysandu,"LW, CF, RCMF",22,0,2029-05-31,5,66,0,0.15,Brazil,Brazil,unknown,0,0,no
+Rigley,Capivariano,"CF, LAMF",21,0,2027-09-30,3,50,0,0.0,Brazil,Brazil,unknown,0,0,no
+Kayky Almeida,Remo,LCB,21,0,2029-12-31,15,1286,0,0.33,Brazil,Brazil,left,0,0,yes
+JP,Vasco da Gama,"LCMF, RCMF, AMF",21,0,2027-12-31,28,1856,5,4.75,Brazil,Brazil,right,176,62,no
+Nicolás Ferreira,Remo,"LAMF, RAMF, RW",24,0,2027-06-30,16,1244,2,1.18,Uruguay,Uruguay,right,170,68,yes
+Jhosefer,ABC,"RCMF, RW",22,0,,12,393,0,0.44,Brazil,Brazil,right,0,0,no
+Kauã Diniz,RB Omiya Ardija,"RCMF, DMF, LCMF",22,0,2026-12-31,27,1927,2,0.89,Brazil,Brazil,unknown,0,0,no
+Cauan Barros,Vasco da Gama,"LCMF, LDMF, DMF",22,0,2027-12-31,17,1551,3,1.39,Brazil,Brazil,right,175,68,no
+Freitas,Remo,"RB, LDMF",23,0,2026-12-31,4,153,0,0.0,Brazil,Brazil,unknown,178,78,no
+Leo Reis,Uberlândia,"RAMF, RB, LW",25,0,,12,292,1,0.65,Brazil,Brazil,,0,0,no
+Andrey,Santa Clara,"LB, LAMF",24,0,2027-06-30,14,1189,1,1.0,Brazil,Brazil,left,183,74,no
+Lucas Eduardo,,"DMF, RDMF, RB",22,0,,7,207,0,0.02,Brazil,Brazil,,0,0,no
+Júlio César,Ceará,"RB, RCB",22,0,2027-12-31,31,2474,1,1.84,Brazil,Brazil,right,186,78,no
+Samuel Alves,Uberlândia,RB,22,0,2027-12-31,5,269,0,0.0,Brazil,Brazil,,0,0,no
+Renato Marques,Coritiba,"RCMF, LAMF, LWF",22,0,2027-12-31,4,75,0,0.28,Brazil,Brazil,right,180,71,yes
+Felipe Amaral,América Mineiro,"LCMF, DMF, LDMF",23,0,2027-12-31,21,1533,2,0.77,Brazil,Brazil,right,174,72,no
+Gabryel Martins,Brasiliense,RAMF,24,0,,1,21,0,0.0,Brazil,Brazil,right,169,64,no
+Miguelito,Santos,"RW, AMF, LAMF",22,0,2029-05-31,25,1987,7,5.89,Bolivia,Bolivia,left,177,69,no
+Nathan Camargo,Vila Nova,"RDMF, DMF, LCMF",20,0,2027-12-31,13,689,0,0.01,Brazil,Brazil,right,168,64,no
+Miquéias,Kaisar,"RCMF, RDMF",24,0,2026-12-31,28,1787,1,1.38,Brazil,Brazil,right,187,74,no
+Figueiredo,Alverca,"LW, LAMF, CF",24,0,2028-06-30,21,1841,4,5.43,Brazil,Brazil,right,178,70,no
+Luan Gonçalves,Juventude,"DMF, RCMF, LDMF",26,0,2026-12-31,14,1015,1,1.14,Brazil,Brazil,right,188,70,no
+Nathan,Juventude,RB,24,0,2026-12-31,11,1029,0,0.03,Brazil,Brazil,right,183,75,yes
+Guilherme Santos,Portuguesa,"CF, RAMF",25,0,2027-11-30,6,152,0,0.22,Brazil,Brazil,left,181,76,no
+Daniel Cabral,Paide,"LCMF, RCMF",24,0,2028-12-31,10,383,0,0.08,Brazil,Brazil,right,174,68,no
+Paulinho,Vasco da Gama,"LB, LWB",22,0,2030-12-31,22,2020,0,0.52,Brazil,Brazil,unknown,0,0,no
+Alencar,Ferroviária,"RCMF, RDMF, LCMF",23,0,2027-12-31,36,2457,1,1.19,Brazil,Brazil,,0,0,no
+Pedro Henrique,Pouso Alegre,CF,21,0,,1,30,0,0.0,Brazil,Brazil,,0,0,yes
+João Cruz,Athletico Paranaense,"RCMF, RWF, RW",20,0,2028-12-31,16,643,2,1.41,Brazil,Brazil,unknown,0,0,no
+Gustavo Medina,Ferroviária,RCB,25,0,2026-12-31,27,2556,1,1.04,Brazil,Brazil,right,184,78,no
+Ruan Assis,AVS ,"RW, LW, RAMF",22,0,2030-06-30,6,262,0,0.0,Brazil,Brazil,right,180,73,no
+Wendell,Desportivo Brasil,RW,23,0,2027-06-30,1,11,0,0.0,Brazil,Brazil,left,178,66,no
+Yago Santos,Athletico Paranaense,"LCMF, CF, RW",23,0,2026-11-30,12,303,0,0.01,Brazil,Brazil,left,182,75,no
+Kauã Ubá,Volta Redonda,"LAMF, LW, RW",20,0,,2,19,0,0.0,Brazil,Brazil,,0,0,no
+Diego Hernández,Sport Recife,"RAMF, AMF, CF",26,0,2027-12-31,14,904,3,1.34,Uruguay,Uruguay,left,175,67,no
+Lucca Carvalho,Paysandu,"RCB, RB",23,0,2027-06-30,4,177,0,0.0,Brazil,Brazil,right,187,77,no
+Erik Nascimento,Ferroviária,RCB,21,0,2028-04-30,3,277,0,0.01,Brazil,Brazil,right,187,78,no
+Kadu Santos,Botafogo,"RB, RWB, RCB",20,0,2026-12-31,7,265,0,0.02,Brazil,Brazil,right,177,73,yes
+William Gabriel,Paide,"LAMF, LW, RAMF",22,0,2026-12-31,5,111,0,0.04,Brazil,Brazil,right,178,75,yes
+Gabriel Queiroz,Benfica,"LCB, LB",18,0,,6,176,0,0.0,Brazil,Brazil,,0,0,no
+Vitinho,Santa Clara,"LCMF, AMF",22,0,2029-06-30,9,402,1,0.34,Brazil,Brazil,left,173,67,no
+Gabriel Domingos,América Mineiro,"LCMF, RCMF, DMF",25,0,2026-11-30,19,1180,1,1.56,Brazil,Brazil,,0,0,no
+Iverton,Amazonas,"RCB, RCMF",25,0,2026-12-31,6,435,0,0.04,Brazil,Brazil,right,0,0,no
+Mirandinha,Jeonnam Dragons,LW,26,0,2026-12-31,8,407,0,1.4,Brazil,Brazil,right,179,68,no
+Fábio,Barra,"RWB, RB",25,0,2027-11-30,2,34,0,0.0,Brazil,Brazil,right,177,72,no

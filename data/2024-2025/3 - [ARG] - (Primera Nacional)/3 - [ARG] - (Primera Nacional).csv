@@ -1,0 +1,1159 @@
+﻿Player,Team,Position,Age,Market value,Contract expires,Matches played,Minutes played,Goals,xG,Birth country,Passport country,Foot,Height,Weight,On loan
+F. Flores,Deportivo Morón,"LCB, RCB",24,800000,2026-12-31,27,2533,0,0.38,Argentina,Argentina,right,182,78,yes
+L. Miranda,,"LCMF, RCMF",32,800000,,8,348,0,0.14,Argentina,Argentina,right,173,74,no
+L. Brochero,San Miguel,"LAMF, AMF",27,650000,,2,47,0,0.0,Argentina,Argentina,right,172,70,yes
+J. González,Sporting Cristal,"RB, RWB",30,650000,2026-12-31,25,2192,3,1.28,Argentina,Argentina,right,171,65,no
+A. Domínguez,Chacarita Juniors,CF,29,550000,2027-12-31,19,1560,7,8.7,Argentina,Argentina,right,185,84,no
+A. Arregui,Temperley,"RCMF, LCMF, DMF",33,550000,,32,2630,1,2.19,Argentina,Argentina,right,176,74,no
+A. Cabrera,Estudiantes Río Cuarto,"LCMF, RCMF, DMF",33,550000,2027-12-31,34,3178,2,1.69,Argentina,Argentina,right,185,82,no
+J. Esquivel,Deportivo Morón,"CF, LAMF, LW",25,500000,2026-12-31,24,1834,6,3.79,Argentina,Argentina,both,173,69,yes
+P. Palacio,Almagro,"AMF, RCMF, RWF",26,500000,2026-12-31,26,1672,0,1.08,Argentina,Argentina,right,180,74,yes
+Matías Noble,Brown de Adrogué,"LB, LW",29,500000,2027-12-31,16,636,1,0.59,Argentina,Argentina,left,182,68,no
+B. Farioli,Marathón,"RDMF, AMF",28,500000,,8,279,0,0.0,Argentina,Argentina,left,180,70,no
+L. Rodríguez,Albion,"LW, LWB",29,500000,2026-12-31,5,99,1,0.4,Uruguay,Uruguay,left,168,60,no
+J. Sanguina,Sportivo Ameliano,"CF, RWF, AMF",27,500000,2027-12-31,5,111,1,0.28,Paraguay,Paraguay,right,180,75,yes
+B. Alemán,Cerro,"LCMF, AMF, CF",36,500000,2026-12-31,9,505,0,0.47,Uruguay,Uruguay,left,177,72,no
+G. Ortíz,Deportivo La Guaira,"LCB, CB, RCB",33,500000,2026-12-31,25,2224,0,0.3,Argentina,Argentina,right,182,76,no
+C. Salto,Almagro,"RCMF, RW, RWF",31,500000,2027-12-31,19,977,1,1.37,Argentina,Argentina,,183,70,no
+M. González,,"LAMF, LCMF, RCMF",29,450000,,6,126,0,0.0,Argentina,Argentina,left,178,74,no
+M. Borgnino,Beroe,"AMF, CF, LW",28,450000,,18,745,0,0.38,Argentina,"Argentina, Italy",left,176,70,no
+L. Perdomo,Chacarita Juniors,LCMF,29,450000,,1,22,0,0.0,Argentina,Argentina,right,170,71,no
+A. Toledo,Colón,"RCMF, LCMF",26,400000,2026-12-31,34,2030,1,1.32,Argentina,Argentina,right,177,70,yes
+S. González,Racing Córdoba,CF,31,400000,2026-12-31,13,786,2,1.46,Argentina,Argentina,right,178,71,no
+G. Carabajal,Cusco,"AMF, LWF, LW",35,400000,2026-12-31,11,882,2,0.98,Argentina,Argentina,right,178,75,no
+J. Valdez Chamorro,Agropecuario,"RCMF, RDMF",32,400000,2026-12-31,32,2322,4,2.69,Argentina,"Argentina, Italy",right,176,72,no
+R. Melo,Estudiantes Caseros,"DMF, RCMF",30,400000,2027-12-31,11,951,0,0.28,Argentina,Argentina,right,185,82,no
+N. Servetto,Deportivo Madryn,CF,30,400000,2027-12-31,23,951,1,2.46,Argentina,Argentina,right,181,80,no
+A. Melo,Temperley,"CF, RW, RWF",30,400000,2027-12-31,26,1508,3,3.51,Argentina,Argentina,right,180,70,no
+N. Ortiz,Deportivo Madryn,RCB,31,400000,2026-12-31,29,2691,0,1.92,Argentina,Argentina,right,181,82,no
+E. Acosta,Estudiantes Caseros,"LW, LAMF, RW",29,375000,,10,439,0,0.19,Argentina,Argentina,left,182,74,no
+J. Soñora,Miami,"RCMF, LCMF",29,375000,2026-11-30,8,160,0,0.02,United States,"United States, Argentina",right,173,73,no
+A. Dattola,Almirante Brown,"CB, RCB",27,375000,2026-12-31,14,1339,0,0.36,Argentina,Argentina,right,190,84,no
+A. Sabella,Puerto Montt,"RCMF, LCMF, RDMF",24,375000,2026-12-31,7,198,0,0.31,Argentina,Argentina,right,178,72,no
+N. Talpone,Estudiantes Río Cuarto,"LCMF, RCMF, DMF",30,375000,2026-12-31,29,2453,1,1.69,Argentina,Argentina,right,165,63,yes
+D. Mondino,Gimnasia Mendoza,RCB,31,375000,2026-12-31,32,3127,0,2.38,Argentina,Argentina,right,183,79,no
+M. Rueda,Patronato,"RB, RWB, RW",28,350000,2026-12-31,28,2267,0,0.71,Argentina,Argentina,right,176,73,no
+D. Sayago,Real España,CF,26,350000,2026-12-31,16,564,1,1.43,Argentina,Argentina,right,183,78,no
+J. Trasante,Tristán Suárez,"RCMF, RW",27,350000,2026-12-31,14,663,1,0.5,Uruguay,Uruguay,right,175,72,no
+N. Roldán,Albion,"LW, RW, RWB",27,350000,2026-12-31,6,156,0,0.56,Uruguay,Uruguay,right,175,69,no
+J. Vázquez,Los Andes,"LDMF, LCMF, RCMF",31,350000,2026-12-31,16,1137,0,0.23,Argentina,Argentina,right,183,77,no
+G. Peruzzi,,"RB, RCMF",34,350000,,6,326,0,0.54,Argentina,"Argentina, Italy",right,179,74,no
+S. Corda,Ferro Carril Oeste,LB,30,350000,2026-12-31,15,1112,1,0.37,Argentina,Argentina,left,170,68,no
+D. Sappa,Spartak Kostroma,GK,31,350000,2027-06-30,33,3220,0,0.0,Argentina,Argentina,right,193,97,no
+R. Moreira,Atlanta,"LCB, RCB, CB",29,325000,2026-12-31,23,1745,0,1.36,Argentina,Argentina,right,185,91,no
+M. Garnerone,Estudiantes Río Cuarto,"CF, RW",27,325000,2026-12-31,35,2181,5,5.22,Argentina,Argentina,right,172,67,no
+F. Miranda,Colegiales,"RCMF, LCMF",28,325000,2026-12-31,24,1377,0,0.14,Argentina,Argentina,right,173,70,no
+T. Giménez,Colón,GK,27,325000,2026-12-31,14,1371,0,0.0,Argentina,Argentina,right,187,70,no
+M. Pino,Godoy Cruz,CF,28,325000,2026-12-31,28,2511,8,8.93,Argentina,Argentina,right,184,74,no
+B. Rivero,Atlanta,"RCMF, LCMF",30,325000,2026-12-31,4,213,0,0.07,Argentina,Argentina,right,170,67,no
+N. Maná,Sportivo Trinidense,"CF, RAMF",32,325000,2026-12-31,15,530,1,1.74,Argentina,Argentina,right,178,73,no
+G. Bettini,,RB,33,325000,,17,1216,0,0.53,Argentina,"Argentina, Italy",right,171,74,no
+A. Kippes,Quilmes,"CB, RCB",32,325000,2026-12-31,31,2861,1,1.43,Argentina,Argentina,right,183,84,no
+P. Minissale,Club Atlético Mitre,"LCB, RCB",25,300000,2026-12-31,14,702,0,1.61,Argentina,Argentina,right,182,79,yes
+B. Cascini,,"RCMF, LCMF",29,300000,,13,306,0,0.04,Argentina,"Argentina, Italy",right,171,63,no
+E. Glellel,Quilmes,GK,27,300000,2026-12-31,32,3140,0,0.0,Argentina,Argentina,right,185,85,no
+M. Enrique,Patronato,"RDMF, RCMF",26,300000,2027-12-31,24,914,2,0.76,Argentina,Argentina,right,178,69,no
+S. Coronel,Magallanes,"LCMF, LWF",25,300000,2026-12-31,31,1550,1,2.34,Argentina,Argentina,right,170,72,no
+D. Juárez,San Miguel,"RW, LW, LWF",24,300000,2027-12-31,18,672,1,1.57,Argentina,Argentina,right,180,63,no
+L. Disanto,Defensores Unidos,"AMF, RCMF",28,300000,2026-12-31,7,167,0,0.05,Argentina,Argentina,left,169,60,no
+L. González,Estudiantes Río Cuarto,CF,28,300000,2026-12-31,38,2419,7,9.85,Argentina,Argentina,right,185,77,no
+N. Thaller,Colón,"RCB, LCB",27,300000,2026-12-31,21,1825,0,0.13,Argentina,"Argentina, Italy",right,186,79,no
+F. Castet,Colón,"LB, LWB",27,300000,2027-12-31,26,2190,0,1.07,Argentina,Argentina,left,177,72,no
+F. Andueza,Progreso,LCB,29,300000,2026-12-31,19,1265,1,0.48,Uruguay,"Uruguay, Italy",left,191,84,yes
+C. García,Juan Pablo II College,"LCMF, DMF",29,300000,2026-06-30,2,65,0,0.0,Argentina,"Argentina, Spain",right,180,82,no
+E. González,Almagro,GK,28,300000,2027-12-31,30,2865,0,0.0,Argentina,Argentina,right,193,89,no
+A. Rodríguez,Godoy Cruz,CF,29,300000,2026-12-31,26,1296,5,3.57,Argentina,Argentina,left,179,79,yes
+G. Muscia,,"DMF, RDMF, LDMF",26,300000,,16,1330,0,0.0,Argentina,Argentina,right,176,72,no
+J. Kaprof,Messina,"CF, AMF, RW",31,300000,2026-06-30,8,337,1,1.02,Argentina,"Argentina, Italy",right,169,71,no
+Á. González,Ferro Carril Oeste,"RAMF, RW",32,300000,2026-12-31,29,2204,2,1.8,Argentina,"Argentina, Italy",right,170,68,no
+G. Hachen,San Martín San Juan,"LCMF, AMF",35,300000,2026-12-31,22,1311,0,1.96,Argentina,Argentina,left,168,68,no
+S. Quiroga,Alianza Atlético,"LW, RCMF, LCMF",32,300000,2026-12-31,19,796,1,0.92,Argentina,Argentina,right,162,60,no
+F. Sánchez,,"RB, RWB",36,300000,,16,1374,0,1.0,Argentina,Argentina,right,175,74,no
+C. Bernardi,Atlanta,"CF, AMF, RCMF",36,300000,2026-12-31,23,1661,3,5.27,Argentina,Argentina,right,177,73,no
+F. Bravo,Patronato,"RCMF, RDMF, DMF",32,300000,2026-12-31,29,2697,2,0.46,Argentina,Argentina,right,185,82,no
+N. Avellaneda,Unión La Calera,GK,33,300000,2026-12-31,29,2843,0,0.0,Argentina,Argentina,right,191,84,no
+S. Rosales,Club Atlético Mitre,CF,31,300000,,28,2264,5,6.96,Argentina,Argentina,right,180,72,no
+R. Fernández,Almirante Brown,"LB, LWB",30,300000,2026-12-31,13,807,0,0.12,Argentina,Argentina,left,174,69,no
+E. Aguirre,Defensores de Belgrano,CF,34,300000,2026-12-31,30,2512,5,8.27,Argentina,Argentina,right,155,53,no
+M. Álvarez,Gimnasia Jujuy,GK,37,300000,2027-12-31,33,3233,0,0.0,Argentina,Argentina,right,185,86,no
+M. Campagnaro,Deportivo Maipú,"RW, LAMF, LB",23,300000,2027-12-31,7,192,0,0.34,Argentina,Argentina,left,181,72,no
+M. Osores,San Martín San Juan,RCB,29,275000,2026-12-31,12,1132,0,0.17,Argentina,Argentina,right,190,81,no
+J. Pourtau,Temperley,GK,26,275000,,29,2839,0,0.0,Argentina,Argentina,right,193,91,no
+R. Ramírez,Godoy Cruz,GK,29,275000,2027-12-31,12,1152,0,0.0,Argentina,Argentina,left,188,73,no
+S. Ramírez,Tristán Suárez,"RAMF, RW, CF",25,275000,2027-06-30,25,1554,2,2.72,Argentina,Argentina,right,175,72,no
+C. Erbes,,"RCMF, LCMF, DMF",36,275000,,6,511,0,0.43,Argentina,Argentina,right,173,69,no
+F. Castro,Atlanta,"CF, AMF",32,275000,2026-12-31,33,2285,7,8.79,Argentina,Argentina,right,180,70,no
+V. Perales,Unión San Felipe,"LCB, RCB",30,275000,2026-12-31,17,1429,0,0.47,Argentina,"Argentina, Spain",right,185,73,no
+N. Previtali,Atlanta,"DMF, LDMF, LCMF",30,275000,2027-12-31,35,3352,1,1.49,Argentina,Argentina,right,184,80,no
+N. Castro,San Martín Tucumán,"LAMF, LW, LB",36,275000,2026-12-31,12,681,1,0.42,Argentina,Argentina,right,181,73,no
+F. Meritello,Patronato,LCB,30,275000,2026-12-31,15,1004,0,0.32,Argentina,Argentina,right,183,77,no
+G. Esparza,Temperley,"LW, LWF",33,275000,2026-12-31,23,1356,0,0.4,Argentina,Argentina,left,168,69,no
+H. Rivero,Patronato,CF,33,275000,2026-12-31,29,1899,7,6.83,Argentina,Argentina,right,193,91,no
+L. Ciccolini,Defensores de Belgrano,"RAMF, RW, CF",31,275000,2026-12-31,21,1094,1,1.36,Argentina,Argentina,right,175,68,yes
+C. Pombo,Gimnasia Jujuy,"LW, RW, LCMF",32,275000,2026-12-31,24,743,2,0.96,Argentina,Argentina,right,171,65,no
+R. Blanco,Real Estelí,"AMF, CF",36,275000,2027-06-30,28,1734,1,1.71,Argentina,Argentina,left,163,63,no
+F. Cobos,Estudiantes Río Cuarto,"LB, LW",33,275000,2026-12-31,33,1755,0,0.31,Argentina,Argentina,left,178,78,no
+G. Gudiño,Deportivo Madryn,"RW, LCMF",34,275000,2026-12-31,11,552,0,0.98,Argentina,Argentina,right,172,67,no
+A. Sosa,Deportivo Madryn,RB,25,250000,2026-12-31,37,3431,0,0.47,Argentina,Argentina,right,176,71,no
+O. Garrido,Club Atlético Mitre,"RB, LCMF, DMF",28,250000,2027-12-31,19,1107,0,0.27,Argentina,Argentina,right,171,69,no
+J. Rodriguez,Los Andes,"RCB, LCB",26,250000,2026-12-31,25,2382,0,0.54,Argentina,Argentina,right,184,0,no
+G. Pugliese,Club Atlético Güemes,"LW, RW, CF",29,250000,2026-12-31,15,241,0,0.29,Argentina,Argentina,right,179,73,no
+B. Andrada,Gimnasia Mendoza,"RAMF, RW",29,250000,2026-12-31,27,1498,1,0.77,Argentina,Argentina,right,167,65,no
+Mathías Silvera,Chaco For Ever,"LCB, LB",27,250000,2026-12-31,31,2920,1,0.84,Uruguay,Uruguay,left,185,0,no
+G. Abregú,Instituto,"RCMF, CB",28,250000,2026-12-31,21,1722,0,1.01,Argentina,Argentina,right,170,73,no
+E. Gaggi,Chaco For Ever,"RW, RAMF, RWF",28,250000,2026-12-31,8,294,0,0.17,Argentina,Argentina,right,174,63,yes
+F. Russo,Kimberley Mar del Plata,LAMF,25,250000,2026-12-31,10,547,0,0.29,Argentina,"Argentina, Italy",right,174,67,no
+V. Cabrera,,"LB, CB",33,250000,,2,40,0,0.0,Argentina,Argentina,right,179,72,no
+M. Cortave,Almagro,RCB,33,250000,2026-12-31,17,612,0,0.09,Argentina,"Argentina, Israel",right,190,86,no
+C. Limousin,,GK,34,250000,,2,191,0,0.0,Argentina,Argentina,right,182,80,no
+P. Cucchi,Guillermo Brown,CF,33,250000,2026-12-31,23,1462,4,2.0,Argentina,Argentina,right,177,75,no
+A. Bolívar,Quilmes,"RCMF, RDMF",30,250000,2026-12-31,29,2302,1,0.77,Argentina,Argentina,right,173,73,no
+N. Cainelli,Atlético Rafaela,"RB, RWB, RW",31,250000,2026-12-31,21,749,0,0.86,Argentina,Argentina,right,176,69,no
+M. Herrera,,"RB, RCB",34,250000,,4,339,0,0.26,Argentina,Argentina,right,185,78,no
+L. Nieto,Temperley,"LCMF, RCMF",35,250000,2026-12-31,33,2918,3,3.48,Argentina,Argentina,left,178,73,no
+N. Rinaldi,Gimnasia y Tiro,"LCMF, AMF",32,250000,2026-12-31,34,2905,4,3.27,Argentina,Argentina,left,190,78,no
+L. Contín,Gimnasia y Tiro,CF,30,250000,2026-12-31,36,2722,6,5.62,Argentina,Argentina,right,183,78,no
+H. Silva,Villa Mitre,RB,34,250000,2026-12-31,17,1359,0,0.14,Argentina,Argentina,right,177,76,no
+M. Levi,Almirante Brown,"LCB, RCB, CB",30,250000,2026-12-31,17,1593,0,0.39,Argentina,Argentina,right,182,74,no
+Leonardo Marinucci,Chaco For Ever,"CF, RWF, RW",33,250000,2026-12-31,30,2378,1,2.41,Argentina,Argentina,right,175,70,no
+A. Lavezzi,Quilmes,"CF, LWF, LW",30,250000,2026-12-31,26,1163,4,3.14,Argentina,Argentina,right,177,73,no
+M. Miño,Boca Unidos,"AMF, RCMF",32,250000,2027-12-31,23,888,0,0.65,Argentina,Argentina,right,160,62,no
+A. Fontana,Unión San Felipe,CF,30,250000,,23,1431,3,3.92,Argentina,Argentina,right,176,72,no
+J. Endrizzi,Gimnasia Jujuy,LB,32,250000,2026-12-31,32,3059,0,1.67,Argentina,Argentina,left,183,76,no
+M. Acosta,Estudiantes Caseros,CF,33,250000,2027-12-31,32,2746,11,10.84,Argentina,Argentina,left,190,94,no
+N. Génez,Patronato,LB,23,250000,2026-12-31,21,1630,1,0.26,Argentina,Argentina,left,184,70,yes
+G. Álvez,Central Norte,"LW, RW, RCMF",22,250000,2026-12-31,12,425,1,0.19,Argentina,Argentina,right,169,66,yes
+F. Recalde,Deportivo Madryn,"DMF, RCMF, LCMF",29,225000,2027-12-31,37,3410,1,0.81,Argentina,Argentina,right,168,72,no
+G. Berterame,Deportivo Morón,"RAMF, RW, LAMF",29,225000,2026-12-31,34,2460,3,3.35,Argentina,Argentina,right,168,65,no
+José Barreto,Alianza,"LW, CF, LWF",26,225000,2027-06-30,21,937,0,0.55,Argentina,Argentina,right,184,76,no
+L. Parisi,Ferro Carril Oeste,"CF, RW, RWF",32,225000,2026-12-31,27,1347,3,1.29,Argentina,Argentina,right,178,73,no
+O. Belinetz,Almagro,CF,32,225000,2026-12-31,23,1577,2,5.37,Argentina,Argentina,right,190,83,no
+J. Bauman,ADT,CF,35,225000,2026-12-31,24,1461,1,4.14,Argentina,Argentina,right,178,73,no
+N. Solís,Deportivo Madryn,"AMF, LCMF, CF",32,225000,2026-12-31,35,2803,5,3.8,Argentina,Argentina,left,170,70,no
+M. Villarreal,Central Norte,"DMF, LCMF, LDMF",34,225000,2026-12-31,28,2367,0,0.0,Argentina,Argentina,right,180,76,no
+F. Jourdan,Kalamata,"RW, RAMF, RWF",35,225000,2026-06-30,28,1772,3,3.22,Argentina,Argentina,right,179,70,no
+B. Mieres,Club Atlético Mitre,"RB, RWB",30,225000,,15,1050,0,0.24,Argentina,Argentina,right,181,70,no
+M. Viguet,Deportivo Maipú,"LAMF, RWF, CF",28,200000,,15,1150,2,2.69,Argentina,Argentina,left,183,80,no
+L. Chiozza,Alvarado,"RW, RAMF, RB",24,200000,2026-12-31,16,719,0,0.17,Argentina,Argentina,right,186,73,no
+E. Purita,All Boys,"RB, RCMF, RW",29,200000,2026-12-31,28,1819,2,0.43,Argentina,"Argentina, Italy",right,169,69,no
+P. Boolsen,Deportivo Cuenca,"RCB, RB",28,200000,2026-12-31,24,1876,1,1.43,Argentina,"Argentina, Italy",right,185,79,no
+E. Bodencer,Llaneros,CF,26,200000,2027-12-31,8,218,0,0.19,Argentina,Argentina,right,183,80,no
+M. Ruiz Díaz,Estudiantes Río Cuarto,RB,29,200000,2026-12-31,28,2118,1,0.23,Argentina,Argentina,right,179,74,no
+D. Gallardo,Gimnasia Jujuy,"RW, LW",29,200000,2026-12-31,20,1011,0,1.6,Argentina,Argentina,right,180,76,yes
+T. Ortiz,Gimnasia Mendoza,"LCMF, DMF, LDMF",26,200000,2026-12-31,25,1993,1,0.96,Argentina,Argentina,right,183,78,yes
+N. Romano,Gimnasia Mendoza,"AMF, RWF",26,200000,2027-12-31,5,313,0,0.35,Argentina,Argentina,right,170,70,no
+F. Nadalín,San Martín San Juan,RB,28,200000,2026-12-31,27,2155,0,0.14,Argentina,Argentina,right,176,73,no
+F. Antonini,Gimnasia Mendoza,"LCMF, RDMF, AMF",28,200000,2026-12-31,18,991,2,0.93,Argentina,Argentina,right,175,73,no
+J. Dellarossa,Defensores de Belgrano,CF,26,200000,2026-12-31,16,970,0,2.66,Argentina,Argentina,right,185,80,yes
+S. Vera,Almirante Brown,"CF, LW, LWF",27,200000,2026-12-31,11,657,1,1.52,Argentina,Argentina,right,170,69,no
+F. Quiroz,All Boys,LB,28,200000,2026-12-31,8,202,0,0.06,Argentina,Argentina,left,176,75,no
+M. García,Atlanta,RB,27,200000,2026-12-31,31,2929,0,0.77,Argentina,"Argentina, Italy",right,177,70,no
+F. Di Franco,Deportivo Capiatá,"LCMF, AMF",31,200000,2026-12-31,9,435,0,0.0,Argentina,"Argentina, Italy",right,175,73,no
+M. Padilla,Central Norte,LCB,31,200000,2026-12-31,7,531,0,0.0,Argentina,Argentina,left,171,76,no
+B. Blasi,Rubio Ñú,"RCB, LCB",30,200000,2026-12-31,24,2304,0,1.2,Argentina,Argentina,right,180,75,no
+J. Soraire,San Martín Tucumán,"RCMF, RDMF, LW",37,200000,2026-12-31,18,996,1,0.25,Argentina,Argentina,right,175,75,no
+Gabriel Ramírez,Chaco For Ever,DMF,31,200000,2026-12-31,14,1089,0,0.34,Argentina,Argentina,right,176,71,no
+I. Pietrobono,Club Atlético Mitre,GK,35,200000,2026-12-31,35,3430,0,0.0,Argentina,Argentina,,175,74,no
+E. Mastrolía,Temperley,GK,35,200000,2026-12-31,34,3326,0,0.0,Argentina,"Argentina, Italy",right,190,77,no
+F. Brandán,Temperley,"RW, LW, CF",36,200000,2026-12-31,32,2198,6,3.57,Argentina,"Argentina, Romania",right,165,63,no
+Emiliano Vecchio,,"CF, RCMF, AMF",37,200000,,19,947,1,1.42,Argentina,"Argentina, Italy",right,177,84,no
+M. Muñoz,Colón,"LCMF, DMF, RDMF",30,200000,2026-12-31,28,2413,1,0.52,Argentina,"Argentina, Chile",right,183,77,no
+R. Costa,Central Norte,CF,33,200000,2026-12-31,6,232,1,0.19,Argentina,"Argentina, Italy",left,191,88,no
+F. Castro,Nueva Chicago,CF,30,200000,2027-12-31,12,960,1,1.66,Argentina,Argentina,right,177,71,no
+G. Torres,Villa Dálmine,"CF, LCMF",26,175000,2026-12-31,12,318,0,1.1,Argentina,"Argentina, Italy",left,177,78,no
+A. Murillo,San Martín San Juan,RB,29,175000,2026-12-31,29,2451,0,1.13,Argentina,Argentina,right,178,70,no
+L. Fedele,Atlanta,"RW, RAMF, RWF",24,175000,2026-12-31,34,1962,4,4.42,Argentina,Argentina,right,167,65,yes
+L. Flores,Atlético Rafaela,RB,29,175000,2026-12-31,21,1532,0,0.14,Argentina,Argentina,right,169,69,no
+A. Aleo,Central Norte,LB,28,175000,2026-12-31,19,1207,1,0.46,Argentina,Argentina,left,178,72,no
+B. Nievas,Chaco For Ever,"RCMF, LCMF, AMF",28,175000,2026-12-31,9,522,0,0.0,Argentina,Argentina,left,180,73,no
+R. Reynaga,Patronato,CF,27,175000,2026-12-31,28,1190,2,3.75,Argentina,Argentina,right,184,82,no
+T. Banega,Gimnasia y Tiro,"LCMF, RW",27,175000,2026-12-31,27,1791,0,0.85,Argentina,Argentina,right,177,67,no
+M. Galeano,Los Andes,"CF, AMF",24,175000,2026-12-31,20,689,0,1.29,Argentina,Argentina,right,183,76,no
+J. Orellana,Ferro Carril Oeste,"RCB, LCB",29,175000,2026-12-31,13,1015,0,0.23,Argentina,Argentina,right,193,86,yes
+E. Contreras,Deportivo Morón,"RAMF, RW, RCMF",29,175000,2026-12-31,8,254,2,0.15,Argentina,Argentina,right,183,77,no
+M. Luayza,Tristán Suárez,"AMF, LCMF, LAMF",24,175000,2026-12-31,22,1274,0,0.72,Argentina,Argentina,right,180,78,no
+Leandro Vega,Real Pilar,LCB,30,175000,2026-12-31,2,109,0,0.0,Argentina,Argentina,left,179,70,no
+E. Dening,Ferro Carril Oeste,"CF, LW",37,175000,2026-12-31,32,2351,6,5.49,Argentina,Argentina,right,173,67,no
+M. Fernández,Quilmes,"RWF, LWF, RW",37,175000,2026-12-31,28,1871,2,1.97,Argentina,"Argentina, Spain",right,175,74,no
+I. Escobar,Patronato,LB,30,175000,,25,1682,1,0.21,Argentina,Argentina,left,172,66,no
+C. Villagra,,"LW, RW, LCMF",30,175000,,7,321,0,0.06,Argentina,Argentina,right,165,66,no
+M. Asenjo,Los Andes,CF,31,175000,2026-12-31,30,2712,6,6.6,Argentina,"Argentina, Chile",right,185,88,no
+G. Rivero,Deportivo Cuenca,CF,34,175000,2026-12-31,29,2096,9,6.71,Argentina,Argentina,right,182,83,no
+Lucas Pruzzo,Chaco For Ever,LB,31,175000,2026-12-31,7,294,0,0.0,Argentina,Argentina,left,175,74,yes
+M. Guanini,Gimnasia y Tiro,"LCB, RCB",30,175000,2026-12-31,33,3241,1,3.44,Argentina,"Argentina, Spain",right,191,86,no
+M. Bettini,Csikszereda Miercurea Ciuc,RB,30,175000,,20,1560,0,0.45,Argentina,"Argentina, Italy",right,180,77,no
+R. Martínez,Atlético Rafaela,GK,35,175000,2026-12-31,18,1756,0,0.0,Argentina,Argentina,right,182,76,no
+I. Antonio,Colón,"RCMF, LDMF, AMF",31,175000,2026-12-31,33,2800,0,1.42,Argentina,Argentina,right,173,70,no
+F. Vázquez,,"LCMF, RCMF, DMF",32,175000,,16,930,0,0.02,Argentina,Argentina,right,183,76,no
+J. Iritier,San Telmo,"LDMF, RCMF, LCMF",31,175000,2026-12-31,8,192,0,0.17,Argentina,Argentina,right,169,70,no
+Brian Guerra,Chaco For Ever,"LCMF, LW, CF",30,175000,2026-12-31,22,740,0,0.81,Argentina,Argentina,right,174,72,no
+A. Quintana,Atlanta,CF,34,175000,2026-12-31,33,2700,8,7.19,Argentina,Argentina,right,190,79,no
+M. Casa,Gimnasia Jujuy,"LW, LWF, CF",33,175000,,16,588,1,1.69,Argentina,Argentina,right,181,0,no
+M. Budiño,Colón,GK,31,175000,2028-12-31,36,3532,0,0.0,Argentina,Argentina,right,186,73,yes
+J. Correa,Estudiantes Caseros,"AMF, CF",33,175000,2026-12-31,32,2453,4,3.88,Argentina,Argentina,left,170,65,no
+F. Ferrero,Deportivo Cuenca,GK,30,175000,2027-12-31,30,2934,0,0.0,Argentina,Argentina,right,184,83,yes
+F. Ayunta,Delfin,"CF, LW",23,175000,2026-12-31,28,1182,3,4.04,Argentina,Argentina,,179,74,yes
+Tiago Cravero,Central Córdoba SdE,"DMF, LCMF, RCMF",23,175000,2027-12-31,15,1358,0,0.25,Argentina,Argentina,right,174,0,no
+T. Amilivia,Club Atlético Güemes,"CF, AMF",27,150000,2026-12-31,19,864,1,1.6,Argentina,Argentina,right,178,74,no
+Andrés Lioi,Chaco For Ever,"RW, LCMF, LW",29,150000,2026-12-31,12,482,0,0.45,Argentina,Argentina,right,175,68,no
+G. Aranda,Racing Córdoba,RCB,25,150000,2026-12-31,28,2641,1,1.46,Argentina,Argentina,right,190,79,yes
+C. Machado,Deportivo Madryn,"LWF, LW, AMF",27,150000,2026-12-31,24,1554,2,1.88,Colombia,Colombia,left,170,70,no
+A. Bindella,Quilmes,LB,25,150000,2027-12-31,16,1305,0,0.59,Argentina,Argentina,left,171,67,no
+J. Barinaga,Patronato,"LCMF, AMF, RCMF",26,150000,,34,2783,1,0.99,Argentina,Argentina,right,166,61,no
+J. Ostachuk,Atlanta,"CB, RCB",26,150000,2026-12-31,32,2944,1,1.22,Argentina,"Argentina, Ukraine",right,180,76,yes
+R. Ramírez,Nueva Chicago,"RDMF, RCMF, LDMF",26,150000,2027-12-31,15,483,1,0.21,Argentina,Argentina,,173,68,no
+I. Monti,Juventud Antoniana,"RCB, RB",28,150000,2026-12-31,6,100,0,0.0,Argentina,Argentina,,186,0,no
+B. Bernardi,Estudiantes Caseros,"RCB, LCB, RB",24,150000,2026-12-31,9,428,0,0.02,Argentina,"Argentina, Spain",right,187,80,no
+F. Quinteros,Estudiantes Caseros,LB,27,150000,2026-12-31,29,1934,0,0.3,Argentina,Argentina,left,178,69,no
+L. Lusnig,Deportivo Táchira,"LB, LCB",27,150000,2026-12-31,26,2162,0,0.01,Argentina,Argentina,left,178,74,no
+F. Rizzi,Club Atlético Güemes,LB,28,150000,2026-12-31,9,830,0,0.06,Argentina,"Argentina, Italy",left,175,70,no
+S. Callegari,Orense,RCB,29,150000,2026-12-31,12,1183,0,0.24,Argentina,"Argentina, Italy",right,188,82,no
+M. Valiente,Estudiantes Río Cuarto,"LW, LAMF",26,150000,2026-12-31,35,2511,1,3.26,Argentina,Argentina,left,179,73,no
+L. Olivera,Defensores Unidos,LB,27,150000,2026-12-31,23,1721,1,0.91,Argentina,Argentina,left,168,68,no
+N. Cháves,Chacarita Juniors,"LB, LWB",24,150000,2026-12-31,21,1539,0,0.57,Argentina,Argentina,left,170,67,no
+J. Rodríguez,Atlanta,"CF, AMF",27,150000,2026-12-31,23,1333,4,5.49,Argentina,Argentina,left,171,69,no
+J. Ochoa,Arsenal,RCMF,29,150000,2026-12-31,1,8,0,0.0,Argentina,Argentina,left,183,82,no
+G. Barbieri,Almagro,"RCB, LCB",27,150000,2026-12-31,18,1618,1,0.53,Argentina,Argentina,right,188,84,no
+G. Turraca,All Boys,"RCMF, DMF",30,150000,2026-12-31,16,1151,1,0.31,Argentina,Argentina,right,170,69,no
+F. Grahl,Circulo Deportivo,"RCMF, LAMF",33,150000,2026-12-31,3,87,0,0.0,Argentina,Argentina,left,181,0,no
+D. Sosa,Deportivo Santamarina,"LW, RCMF, AMF",34,150000,2026-12-31,22,759,0,0.76,Argentina,Argentina,right,168,64,no
+G. Asís,Almagro,"LB, RB",30,150000,2026-12-31,17,1153,0,0.19,Argentina,Argentina,right,174,65,no
+M. Pinto,Villa Mitre,LB,32,150000,2026-12-31,19,1598,0,0.18,Argentina,Argentina,left,173,74,no
+L.  Baldunciel,San Telmo,"CF, LW, LWF",34,150000,2026-12-31,20,940,0,1.2,Argentina,Argentina,right,167,64,no
+Á. Veliez,Tristán Suárez,"LWF, RWF, LW",31,150000,,32,2242,7,5.65,Argentina,Argentina,right,177,70,no
+I. Ortigoza,Ilioupoli,"LW, RW, RWF",31,150000,,9,527,0,0.67,Argentina,Argentina,left,167,66,no
+B. Machuca,Club Atlético Güemes,"RCB, LCB",31,150000,,7,474,1,0.39,Argentina,Argentina,right,185,82,no
+M. Pardo,Atlético Rafaela,"LW, LAMF, CF",31,150000,2026-12-31,17,687,0,0.55,Argentina,Argentina,right,169,64,no
+A. Bonansea,Colón,CF,30,150000,2026-12-31,32,3077,11,11.08,Argentina,Argentina,right,191,89,no
+L. Fernández,Villa Mitre,"LB, LW",31,150000,2026-12-31,34,2788,1,1.18,Argentina,Argentina,left,181,0,no
+J. Aguirre,Gimnasia y Tiro,"LW, LAMF, LB",34,150000,2026-12-31,26,1953,3,1.73,Argentina,Argentina,left,174,74,no
+I. Zafarana,All Boys,RCB,31,150000,2027-12-31,17,1455,0,0.35,Argentina,Argentina,right,184,83,no
+J. Passaglia,All Boys,"LCMF, LDMF",37,150000,,28,2379,5,2.03,Argentina,"Argentina, Italy",left,181,79,no
+M. Nouet,All Boys,"CF, LW",33,150000,2026-12-31,21,1541,1,1.36,Argentina,Argentina,right,179,75,no
+G. Castellani,Ferro Carril Oeste,"LCMF, LDMF, RDMF",38,150000,2026-12-31,13,768,0,0.04,Argentina,Argentina,right,185,75,no
+M. Fissore,,"DMF, LCMF",35,150000,,7,271,0,0.1,Argentina,"Argentina, Italy",right,175,63,no
+M. Ferreira,,"LB, LCB",32,150000,,5,261,0,0.02,Uruguay,Uruguay,left,175,76,no
+N. Sánchez,Tristán Suárez,"LCMF, RCMF",34,150000,2026-12-31,21,1172,0,0.15,Argentina,Argentina,both,180,66,no
+C. Mosca,Cipolletti,LCMF,35,150000,2026-12-31,25,1389,0,1.33,Argentina,Argentina,left,180,74,no
+R. Ayala,San Martín Tucumán,"LB, LWB",31,150000,2027-12-31,28,2649,1,1.05,Argentina,Argentina,left,175,70,no
+S. Úbeda,Almagro,LCMF,30,150000,2026-12-31,27,2216,2,1.2,Argentina,Argentina,right,176,67,no
+A. Medina,Defensores de Belgrano,GK,39,150000,2026-12-31,33,3211,0,0.0,Argentina,Argentina,right,182,79,no
+D. Lemos,Agropecuario,"LCMF, DMF, RCMF",37,150000,2026-12-31,27,2398,0,0.22,Argentina,Argentina,right,178,82,no
+F. Ardiles,Estudiantes Caseros,RB,27,125000,2026-12-31,15,1352,0,0.55,Argentina,Argentina,right,188,75,no
+A. Irazoque,Inter Bogotá,"LCB, LB",26,125000,2027-12-31,17,1519,0,0.29,Argentina,Argentina,left,186,82,no
+F. Marín,Colegiales,"LCMF, DMF, RCMF",28,125000,2026-12-31,19,1420,0,0.03,Argentina,Argentina,right,177,71,no
+T. Assennato,All Boys,"RW, CF, RAMF",27,125000,2026-12-31,27,1399,1,1.35,Argentina,Argentina,left,174,69,no
+A. Bustos,Racing Córdoba,"DMF, RCMF, AMF",27,125000,2026-12-31,24,1178,1,0.26,Argentina,Argentina,right,172,70,no
+G. Tomasetti,Temperley,"LCMF, DMF",26,125000,2026-12-31,23,1204,0,0.49,Argentina,Argentina,left,180,77,yes
+F. García,Ferro Carril Oeste,"CF, LWF, LAMF",28,125000,2027-12-31,28,1861,6,6.28,Uruguay,Uruguay,right,178,82,no
+D. Becker,Tristán Suárez,"CF, AMF",28,125000,2026-12-31,19,1089,0,0.74,Argentina,Argentina,left,169,66,no
+F. Cáceres,Deportivo La Guaira,"LDMF, LCMF, AMF",26,125000,2026-12-31,31,2628,3,3.32,Argentina,Argentina,left,0,0,no
+I. Molinas,Delfin,"RAMF, RW, LAMF",29,125000,2026-12-31,27,1655,2,3.05,Argentina,Argentina,right,180,69,no
+L. Finochietto,Club Atlético Güemes,GK,29,125000,2026-12-31,13,1250,0,0.0,Argentina,"Argentina, Italy",right,186,78,yes
+G. Mancuso,Central Norte,"LCMF, DMF",28,125000,2026-12-31,15,858,0,0.09,Argentina,"Argentina, Italy",right,179,68,no
+C. Núñez,San Telmo,"LW, RAMF, LAMF",25,125000,,8,330,0,0.01,Paraguay,Paraguay,right,170,68,no
+F. Perinciolo,Delfin,"LW, LWF, LB",29,125000,2026-12-31,23,1164,2,2.72,Argentina,Argentina,left,176,72,no
+E. Silcan,Almagro,"LB, LCMF",26,125000,2026-12-31,9,508,0,0.24,Argentina,Argentina,left,182,73,no
+E. Trinidad,Colegiales,"LW, LCMF, LAMF",29,125000,2026-12-31,29,2561,0,1.88,Argentina,Argentina,left,179,69,no
+B. Cortés,Patronato,"LW, LAMF, AMF",24,125000,2026-12-31,20,1700,1,1.32,Argentina,"Argentina, Chile",right,176,72,yes
+E. Beltramone,Manta,"RDMF, LCMF, LW",27,125000,2026-12-31,4,110,0,0.0,Argentina,Argentina,right,160,60,no
+U. Abreliano,Almirante Brown,"RB, LB",28,125000,2028-12-31,12,1040,3,1.09,Argentina,Argentina,right,173,65,no
+N. Bazán,Almirante Brown,"CF, AMF",27,125000,2026-12-31,7,264,0,0.27,Argentina,Argentina,right,184,74,no
+M. Guzmán,Tristán Suárez,"RCB, CB",26,125000,,13,855,0,0.11,Argentina,Argentina,right,179,79,no
+N. Malvacio,Talleres Remedios,LCB,26,125000,2026-12-31,16,1531,0,0.51,Argentina,Argentina,left,169,73,no
+B. Fernández,Fénix,CF,31,125000,2026-12-31,4,319,1,1.64,Argentina,Argentina,right,172,70,no
+P. Chavarría,Racing Córdoba,CF,38,125000,2026-12-31,28,2206,8,6.45,Argentina,"Argentina, Italy",right,185,80,no
+R. Fergonzi,,CF,37,125000,,17,426,0,0.35,Argentina,Argentina,right,179,77,no
+F. Boasso,,LCMF,30,125000,,15,689,0,0.21,Argentina,Argentina,left,183,72,no
+M. Rodríguez,All Boys,"RW, AMF, RAMF",33,125000,2026-12-31,9,438,0,1.54,Argentina,Argentina,right,175,71,no
+N. Franco,Deportivo Santamarina,CF,30,125000,2026-12-31,17,883,1,1.12,Argentina,Argentina,right,183,76,no
+Tomás Bolzicco,Chaco For Ever,CF,31,125000,2026-12-31,29,1203,3,3.35,Argentina,"Argentina, Italy",right,188,70,no
+C. Fara,Universitario,RCB,32,125000,2026-12-31,30,2785,0,1.55,Argentina,Argentina,right,184,78,no
+A. Vega,Arsenal,"DMF, LW, CF",33,125000,2026-12-31,6,164,0,0.0,Argentina,Argentina,right,167,70,no
+L. Buter,Gimnasia y Tiro,"CF, LW",33,125000,,8,165,0,0.01,Argentina,Argentina,right,186,85,no
+I. Sandoval,Deportivo Merlo,CF,30,125000,2026-12-31,29,980,1,1.9,Argentina,Argentina,right,183,83,no
+F. Milo,Godoy Cruz,"LB, LWB",34,125000,2026-12-31,20,1393,1,0.18,Argentina,Argentina,left,183,75,no
+L. Montoya,Gimnasia y Tiro,LB,31,125000,,14,1254,1,0.24,Argentina,"Argentina, Spain",left,171,70,yes
+W. Machado,Unión Española,"LCMF, DMF, RCMF",32,125000,2026-12-31,18,1152,1,0.03,Uruguay,Uruguay,right,173,70,no
+L. Rodríguez,Colón,"AMF, CF, LWF",41,125000,2026-12-31,8,467,0,0.47,Argentina,Argentina,right,167,71,no
+C. Rigamonti,Gimnasia Mendoza,GK,39,125000,2026-12-31,11,1103,0,0.0,Argentina,Argentina,right,188,80,no
+F. Cardozo,San Miguel,"LCB, LB",31,125000,,29,2687,2,1.49,Argentina,Argentina,left,182,77,no
+A. Rébola,Racing Córdoba,"RCB, CB",37,125000,2026-12-31,23,2079,0,1.41,Argentina,Argentina,right,184,77,no
+B. Gómez,Defensores de Belgrano,"RW, RAMF, RB",32,125000,2026-12-31,28,1593,0,0.62,Argentina,Argentina,left,173,68,no
+G. Villalba,Sportivo Las Parejas,"RW, CF, RAMF",30,125000,2026-12-31,26,994,0,1.02,Argentina,Argentina,right,181,73,no
+H. Soria,Gimnasia Jujuy,"RCMF, DMF, LCMF",36,125000,2026-12-31,33,3067,0,0.4,Uruguay,Uruguay,right,173,79,no
+F. Malagueño,Colegiales,RB,27,100000,2026-12-31,17,1470,0,0.14,Argentina,Argentina,right,167,69,no
+F. Heredia,Patronato,"CF, LW, LAMF",27,100000,2026-12-31,22,785,0,2.02,Argentina,Argentina,left,167,59,no
+E. Martínez,Almagro,"LW, LAMF",29,100000,2026-12-31,24,1555,0,1.63,Argentina,Argentina,left,178,69,no
+B. Palazzo,Nueva Chicago,"RB, RCB",25,100000,2026-12-31,27,2375,0,1.52,Argentina,Argentina,right,181,75,no
+J. Eseiza,Godoy Cruz,"LAMF, CF",24,100000,2026-12-31,5,179,0,0.02,Argentina,Argentina,left,188,74,no
+M. Montenegro,Club Atlético Mitre,"RDMF, RCMF",27,100000,,16,1180,0,1.15,Argentina,Argentina,right,178,75,no
+R. González,Club Atlético Mitre,"LCMF, RW, RWF",25,100000,2026-12-31,31,2269,1,1.36,Argentina,Argentina,right,169,60,no
+M. Kabalin,Ferro Carril Oeste,"RCMF, RDMF",27,100000,2026-12-31,32,2352,2,2.45,Argentina,Argentina,right,177,70,no
+J. Varela,Gimnasia Jujuy,"RCB, CB",29,100000,2026-12-31,4,143,0,0.07,Argentina,Argentina,right,190,82,no
+F. Torres,,"RB, RAMF, RW",27,100000,,12,584,0,0.44,Argentina,Argentina,right,178,73,no
+M. Leyendeker,Chacarita Juniors,"RB, RCB, CB",28,100000,2026-12-31,25,2127,1,1.05,Argentina,Argentina,right,185,78,no
+R. Díaz,Guillermo Brown,"LCB, LB",29,100000,2026-12-31,15,1303,0,0.21,Argentina,Argentina,left,184,83,no
+M. Belloso,Almirante Brown,"CF, LWB, LAMF",26,100000,2026-12-31,21,749,1,0.81,Argentina,Argentina,left,175,0,no
+A. Prokop,Flandria,"LW, CF, LCMF",25,100000,2026-12-31,9,214,0,0.01,Argentina,Argentina,left,172,65,no
+R. Balbuena,Nueva Chicago,"LCMF, LW",26,100000,2027-12-31,2,38,0,0.0,Argentina,Argentina,right,176,70,no
+T. Castro Ponce,Atlanta,"AMF, RCMF",25,100000,2027-12-31,29,2339,0,1.44,Argentina,Argentina,right,186,81,no
+C. Lattanzio,San Martín San Juan,"LAMF, LW",28,100000,2026-12-31,22,1291,0,0.8,Argentina,Argentina,left,174,73,no
+M. Pérez Acuña,,"RCB, RB",32,100000,,7,612,1,1.5,Argentina,"Argentina, Italy",right,180,72,no
+J. Rougier,Marathón,GK,38,100000,,1,100,0,0.0,Argentina,"Argentina, Honduras",,0,0,no
+M. Ballini,,"DMF, RCMF, RDMF",37,100000,,13,793,0,0.55,Argentina,"Argentina, Italy",right,173,75,no
+D. Diellos,San Martín Tucumán,CF,32,100000,2026-12-31,7,422,0,0.74,Argentina,Argentina,right,183,74,no
+J. Vitale,Almagro,RCB,30,100000,2026-12-31,33,3079,3,0.9,Argentina,Argentina,right,182,76,no
+D. Gissi,Nueva Chicago,RCB,35,100000,2026-12-31,6,586,0,0.19,Switzerland,"Switzerland, Argentina",right,193,86,no
+C. Rius,Circulo Deportivo,"RW, LW, RAMF",37,100000,2026-12-31,18,668,0,1.06,Argentina,Argentina,right,175,71,no
+N. Fernández,Tristán Suárez,LB,31,100000,,20,1837,1,0.45,Argentina,"Argentina, Spain",left,178,74,no
+E. Moreno,Guillermo Brown,"LWB, LB, LW",36,100000,2026-12-31,18,1100,0,0.31,Argentina,Argentina,left,182,72,no
+J. Susvielles,Olimpo,CF,35,100000,2026-12-31,18,1217,1,3.31,Argentina,Argentina,right,186,86,no
+F. Rago,Atlanta,GK,37,100000,2026-12-31,35,3426,0,0.0,Argentina,Argentina,right,185,79,no
+J. Cuevas,Chacarita Juniors,"LCMF, LW, AMF",38,100000,2026-12-31,30,2058,4,3.28,Argentina,Argentina,left,162,66,no
+D. Sand,San Martín Tucumán,GK,38,100000,2027-12-31,33,3207,2,1.52,Argentina,Argentina,right,180,74,no
+M. García,Deportivo Riestra,"DMF, LCMF, LDMF",30,100000,2026-12-31,31,2568,2,0.93,Argentina,Argentina,left,179,75,no
+G. Pereira,Douglas Haig,"RW, RCMF",32,100000,2026-12-31,32,2467,4,2.39,Argentina,Argentina,right,178,73,no
+E. Díaz,UAI Urquiza,CF,34,100000,2026-12-31,24,1074,1,1.88,Argentina,Argentina,right,179,82,no
+Y. Bonnin,Deportivo Madryn,GK,35,100000,2026-12-31,37,3659,0,0.0,Argentina,Argentina,right,187,83,no
+D. Martínez,Deportivo Madryn,LB,33,100000,2026-12-31,34,2888,1,0.66,Argentina,Argentina,left,176,72,no
+D. Villalva,Boca Unidos,"CF, AMF",33,100000,2026-12-31,22,809,0,1.05,Argentina,Argentina,right,158,50,no
+G. Díaz,Gimnasia y Tiro,"RCB, CB, LCB",36,100000,2026-12-31,30,2928,2,2.58,Argentina,Argentina,right,188,78,no
+A. Ríos,,CF,36,100000,,10,507,0,0.15,Argentina,Argentina,right,180,81,no
+E. Parnisari,San Martín Tucumán,"RCB, LCB",36,100000,2026-12-31,31,2626,0,0.6,Argentina,Argentina,right,183,79,no
+C. González,San Luis,"RCB, CB",36,100000,2027-12-31,27,2565,0,1.14,Argentina,Argentina,right,188,81,no
+S. Ojeda,Estudiantes Río Cuarto,LCB,34,100000,2026-12-31,30,2372,0,0.36,Argentina,Argentina,right,183,85,no
+G. Maffini,Estudiantes Río Cuarto,"RCB, LCB",33,100000,2026-12-31,38,3684,3,1.52,Argentina,Argentina,right,191,86,no
+Ó. Piris,San Martín Formosa,"RCB, LCB, CB",37,100000,2026-12-31,11,878,0,0.09,Argentina,Argentina,right,185,85,no
+M. Astina,Borneo FC,"AMF, LCMF",30,100000,2027-06-30,25,1923,4,7.1,Argentina,Argentina,right,170,68,no
+J. Segovia,Atlético Vinotinto,LCB,37,100000,2026-12-31,18,1710,1,0.52,Argentina,Argentina,left,185,89,no
+G. Fernández,Club Atlético Mitre,CF,35,100000,2026-12-31,18,1002,4,4.4,Argentina,Argentina,right,177,81,no
+J. Alvacete,Juventud Unida Univ.,LCB,35,100000,2027-12-31,13,1069,0,0.1,Argentina,Argentina,left,184,78,no
+Abel Amaya,,RB,23,100000,,4,156,0,0.01,Argentina,Argentina,right,175,0,no
+F. Echevarría,Defensa y Justicia,"CF, LAMF",23,100000,,14,665,1,2.09,Argentina,Argentina,right,179,69,no
+E. Jara,Deportivo Madryn,"AMF, LCMF, RW",26,75000,2028-12-31,7,194,0,0.0,Argentina,Argentina,right,177,69,no
+S. Sala,Club Atlético Güemes,"CF, RW, RAMF",24,75000,2027-12-31,14,807,0,1.54,Argentina,Argentina,left,176,75,yes
+J. Da Rosa,Deportivo Merlo,"RW, RWF, LW",28,75000,2026-12-31,14,592,1,0.91,Argentina,Argentina,right,174,69,no
+N. Del Priore,Tristán Suárez,"LCMF, RCMF",29,75000,2026-12-31,27,2146,1,0.26,Argentina,"Argentina, Italy",right,182,70,no
+F. Versaci,Talleres Remedios,"LWB, LB",24,75000,2026-12-31,8,468,0,0.96,Argentina,"Argentina, Italy",left,170,68,no
+F. Butti,Cerro,"LCB, CB",26,75000,2026-12-31,5,224,0,0.0,Argentina,Argentina,left,190,82,no
+J. Salas,Patronato,"RW, RCMF",28,75000,2026-12-31,29,2303,2,2.05,Argentina,"Argentina, Italy",right,183,79,no
+F. Sivetti,Gimnasia y Tiro,"RCMF, RDMF",28,75000,2026-12-31,25,1352,0,0.34,Argentina,"Argentina, Italy",right,178,76,no
+P. Pérez,Acassuso,"LCMF, CF, LW",25,75000,2026-12-31,10,584,0,0.41,Argentina,Argentina,left,175,72,no
+A. Lorenzo,Orense,"LCB, CB",27,75000,2026-12-31,24,2168,0,0.33,Argentina,Argentina,right,179,75,no
+B. Negro,Almagro,"LCB, LB",28,75000,2027-12-31,19,1734,1,0.39,Argentina,Argentina,left,182,80,no
+S. Camacho,Estudiantes Caseros,"RW, RAMF",29,75000,,29,2058,5,5.28,Argentina,Argentina,right,183,76,no
+S. Briñone,San Martín Tucumán,"RDMF, RCMF",29,75000,2026-12-31,32,2426,3,0.72,Argentina,Argentina,right,178,82,no
+L. Díaz,,GK,26,75000,,4,310,0,0.0,Argentina,Argentina,right,181,73,no
+F. Nouet,Atlético Rafaela,"LB, LAMF",28,75000,2026-12-31,23,1300,0,0.72,Argentina,Argentina,left,183,77,no
+J. Argüello,Real Tomayapo,"RB, LB",26,75000,,32,2877,0,0.34,Argentina,Argentina,left,176,67,no
+S. Cocimano,Nueva Chicago,CF,26,75000,2026-12-31,27,2352,8,11.84,Argentina,Argentina,right,186,79,no
+J. Zurbriggen,San Telmo,"CF, AMF, LWF",26,75000,2026-12-31,17,778,2,1.41,Argentina,Argentina,right,184,79,no
+J. Noce,All Boys,GK,28,75000,2027-12-31,1,101,0,0.0,Argentina,Argentina,left,183,73,no
+A. Sosa,,"LCB, RCB, CB",26,75000,,9,747,0,0.12,Argentina,Argentina,right,182,76,no
+J. Ibáñez,,"LCMF, LW, LAMF",29,75000,,7,216,0,0.3,Argentina,Argentina,left,183,82,no
+G. Olguín,Ferro Carril Oeste,"DMF, LCMF, RCMF",26,75000,2026-12-31,8,763,1,0.15,Argentina,Argentina,right,181,75,no
+C. Sánchez,,CF,27,75000,,3,84,0,0.0,Argentina,Argentina,right,178,75,no
+P. Bonacci,Quilmes,CF,27,75000,2027-12-31,35,2846,8,7.58,Argentina,Argentina,right,189,83,yes
+Mariano Monllor,Acassuso,GK,37,75000,2026-12-31,7,622,0,0.0,Argentina,Argentina,right,185,75,no
+J. Galeano,,"RCMF, AMF",37,75000,,3,63,0,0.0,Argentina,Argentina,right,170,71,no
+J. Gobetto,Deportivo Maipú,"LCMF, LDMF",30,75000,,25,2097,3,3.66,Argentina,Argentina,left,185,80,no
+J. Olivares,Deportivo Morón,"AMF, CF, RCMF",37,75000,2026-12-31,14,564,1,1.19,Argentina,Argentina,right,170,73,no
+M. Rosales,Central Norte,RB,34,75000,2026-12-31,20,1753,0,0.11,Argentina,Argentina,right,180,70,no
+B. Obregón,Cipolletti,"LCMF, CF, LW",30,75000,2026-12-31,18,817,0,0.96,Argentina,Argentina,left,172,76,no
+L. Jeréz,Defensores de Belgrano,"DMF, LCMF, RCMF",37,75000,2026-12-31,28,2391,0,0.49,Argentina,Argentina,right,177,73,no
+R. Ríos,Atletico FC,"LB, LCB",30,75000,2026-12-31,14,1083,1,0.54,Argentina,Argentina,left,184,84,no
+L. Martínez,Colegiales,"LCB, RCB",39,75000,2026-12-31,25,2343,3,3.09,Argentina,Argentina,right,187,87,no
+E. Herrera,,CF,39,75000,,18,1388,4,4.28,Argentina,Argentina,right,186,84,no
+F. Torrent,Ferro Carril Oeste,RB,34,75000,2026-12-31,15,1342,1,0.23,Argentina,Argentina,right,173,72,no
+I. Ramírez,San Miguel,"DMF, LCMF, LDMF",36,75000,2026-12-31,30,2841,0,0.14,Argentina,Argentina,left,178,78,no
+S. Gallucci,Agropecuario,"DMF, RCMF, LCMF",35,75000,2026-12-31,34,2928,0,0.57,Argentina,"Argentina, Italy",right,179,78,no
+J. Navas,Los Andes,"RB, LB",32,75000,2026-12-31,21,1223,0,0.83,Argentina,"Argentina, Spain",right,180,70,no
+M. Mansilla,Alvarado,"LCMF, DMF, RCMF",30,75000,2026-12-31,24,1885,0,0.48,Argentina,Argentina,right,177,75,no
+G. Ferrero,Sportivo Belgrano,"LCB, LB",31,75000,2026-12-31,31,2679,2,1.84,Argentina,Argentina,left,176,72,no
+G. Ferracuti,Nueva Chicago,"LB, LCB",35,75000,2026-12-31,32,2593,0,0.2,Argentina,Argentina,left,179,72,no
+F. Monetti,Ferro Carril Oeste,GK,37,75000,2026-12-31,31,3006,0,0.0,Argentina,"Argentina, Italy",right,184,78,no
+E. Ozuna,Ferro Carril Oeste,"LB, LW",30,75000,2026-12-31,28,2105,1,1.43,Argentina,Argentina,left,174,69,no
+G. Hauche,Temperley,"CF, RW, LW",39,75000,2026-12-31,28,1252,1,2.89,Argentina,Argentina,right,169,71,no
+L. López,Paysandu FC,CF,39,75000,2026-12-31,26,1517,4,4.14,Argentina,Argentina,left,189,92,no
+J. Méndez,Fundacion Amigos,"RW, RWF",33,75000,2026-12-31,23,785,2,0.77,Argentina,Argentina,right,171,65,no
+N. Palmieri,Unión San Felipe,"DMF, LCMF, RCMF",30,75000,2026-12-31,19,1166,0,0.68,Argentina,Argentina,right,178,72,no
+B. Galván,Almirante Brown,GK,32,75000,2026-12-31,13,1269,0,0.0,Argentina,Argentina,right,186,81,no
+J. Sills,,"LCB, RCB",39,75000,,33,3175,0,0.64,Argentina,"Argentina, Italy",right,180,76,no
+M. Ramos,Agropecuario,"LB, LWB",31,75000,2026-12-31,33,2860,0,0.71,Argentina,Argentina,left,170,63,no
+F. Henríquez,San Telmo,"LCMF, LCB",31,75000,2026-12-31,16,934,0,0.15,Argentina,Argentina,left,185,74,no
+Nahuel Basualdo,Real Pilar,"RB, RCMF",35,75000,2026-12-31,10,473,0,0.01,Argentina,Argentina,right,179,78,no
+R. Salinas,Villa San Carlos,CF,40,75000,2026-12-31,23,950,2,1.8,Argentina,Argentina,right,188,81,no
+M. Sánchez,Sarmiento de La Banda,"LB, LCB",36,75000,2026-12-31,28,2462,0,0.33,Argentina,Argentina,left,182,68,no
+Juan Alesandroni,Club Atlético Mitre,"DMF, LCMF, LDMF",37,75000,,33,3193,0,0.18,Argentina,Argentina,right,179,71,no
+D. Abello,Club Atlético Mitre,"LB, LCB",31,75000,2026-12-31,19,1117,1,1.03,Argentina,Argentina,right,184,0,no
+M. Laba,San Telmo,"RCMF, LCMF, DMF",34,75000,2027-12-31,29,2010,0,0.22,Argentina,Argentina,right,175,74,no
+D. López,Gimnasia Jujuy,RB,34,75000,2026-12-31,20,1155,2,2.33,Argentina,Argentina,right,181,78,no
+M. Bíttolo,Deportivo Morón,"LCMF, DMF, LDMF",36,75000,2026-12-31,31,2217,1,0.39,Argentina,"Argentina, Italy",left,174,66,no
+G. Cañete,Los Andes,"LCMF, RCMF",26,50000,2026-12-31,30,2106,0,0.61,Argentina,Argentina,,0,0,no
+N. Sánchez,Deportivo Armenio,"RCMF, RAMF, LCMF",29,50000,2026-12-31,8,265,0,0.05,Argentina,Argentina,right,168,67,no
+D. Véliz,Club Atlético Güemes,"LW, LCMF, LAMF",26,50000,,27,1673,2,1.61,Argentina,Argentina,left,180,0,no
+N. Arévalo,Municipal Liberia,"LB, LW, LAMF",26,50000,,18,1001,2,0.9,Paraguay,Paraguay,left,0,0,no
+N. Monserrat,Leones del Norte,"RCB, LCB, CB",29,50000,2026-12-31,30,2861,5,5.48,Argentina,Argentina,right,185,82,no
+A. Gallo,All Boys,CF,27,50000,2027-12-31,13,671,0,1.31,Argentina,Argentina,right,196,88,no
+G. Mansilla,Deportivo Maipú,"RCMF, LCMF",29,50000,,28,2046,3,1.72,Argentina,Argentina,right,187,77,no
+L. López Kaleniuk,Atlanta,GK,25,50000,2026-12-31,1,95,0,0.0,Argentina,Argentina,left,190,84,no
+Joaquin Mateo,Central Norte,LW,28,50000,2026-12-31,27,1365,2,1.5,Argentina,"Argentina, Spain",left,170,64,no
+J. Antonini,Estudiantes Río Cuarto,"RB, RCB, LCB",27,50000,2026-12-31,37,3292,3,3.07,Argentina,Argentina,right,187,88,no
+M. Ribero,Central Norte,"RCMF, DMF",28,50000,2026-12-31,23,1911,0,0.17,Argentina,Argentina,right,165,68,no
+F. Melillán,Club Atlético Güemes,"LCB, CB",29,50000,2026-12-31,21,1663,0,0.39,Argentina,Argentina,left,183,76,no
+L. Cingolani,Gimnasia Mendoza,"LAMF, RW, RAMF",25,50000,2026-12-31,20,661,1,0.38,Argentina,"Argentina, Italy",right,176,68,no
+L. Petruchi,Gimnasia Mendoza,GK,27,50000,2026-12-31,22,2170,0,0.0,Argentina,Argentina,left,184,82,no
+F. Vedoya,Central Norte,"LW, RW, AMF",25,50000,2026-12-31,28,1882,1,2.98,Argentina,Argentina,left,177,69,no
+A. Ayala,,"LDMF, LCMF, LW",26,50000,,4,260,0,0.29,Argentina,Argentina,left,169,64,no
+A. Ramírez,Club Atlético Mitre,"RB, RWB",26,50000,,7,127,1,0.58,Argentina,Argentina,right,164,62,no
+L. Puñet,Deportivo Rincón,"LWB, LW",26,50000,2027-12-31,2,38,0,0.0,Argentina,Argentina,,170,68,no
+M. Rosales,Atenas,RB,27,50000,2027-12-31,1,61,0,0.0,Argentina,Argentina,right,181,72,no
+N. Acevedo,Sarmiento Resistencia,"LCMF, DMF, RCMF",37,50000,2026-12-31,20,1442,0,0.16,Argentina,Argentina,right,170,73,no
+M. Batallini,San Telmo,"CF, RAMF, RWF",34,50000,2026-12-31,18,923,2,2.08,Argentina,Argentina,right,174,0,no
+N. Álvarez,Colegiales,RB,36,50000,,6,586,0,0.41,Argentina,Argentina,right,177,80,no
+L. Vangioni,,"LB, LCB",39,50000,,8,419,0,0.04,Argentina,"Argentina, Italy",left,181,73,no
+M. Ortiz,Fundacion Amigos,"AMF, CF",31,50000,2026-12-31,12,495,0,0.21,Argentina,Argentina,right,163,64,no
+A. Cháves,,"RCMF, AMF, RDMF",34,50000,,13,675,0,0.32,Argentina,Argentina,right,178,74,no
+N. Pantaleone,Chacarita Juniors,"LCB, LB",33,50000,2026-12-31,29,1986,0,0.87,Argentina,Argentina,left,179,75,no
+F. González,Midland,LCB,37,50000,2026-12-31,28,2426,0,0.28,Argentina,Argentina,left,177,78,no
+J. Mattalia,Unión Magdalena,GK,34,50000,,19,1853,0,0.0,Argentina,Argentina,right,187,81,no
+A. Gutiérrez,Deportivo Madryn,LCB,31,50000,2026-12-31,22,2099,3,1.72,Colombia,Colombia,right,192,0,no
+F. Montero,Deportivo Maipú,"RCMF, RDMF, LCMF",37,50000,2026-12-31,21,1252,0,0.58,Argentina,Argentina,right,167,68,no
+M. Coronel,All Boys,"LCB, CB",37,50000,2026-12-31,22,1826,0,0.46,Argentina,Argentina,right,180,82,no
+L. Desábato,San Miguel,"DMF, RCMF",36,50000,,15,925,0,0.12,Argentina,Argentina,right,178,78,no
+A. Bellone,Olimpo,RB,33,50000,2026-12-31,19,1482,0,1.39,Argentina,Argentina,right,181,0,no
+E. Montagna,Deportivo Madryn,"RAMF, RW",32,50000,2026-12-31,19,870,1,0.74,Argentina,Argentina,right,180,79,no
+J. Toledo,,CF,40,50000,,22,1097,2,3.78,Argentina,Argentina,right,190,89,no
+Ivo Chaves,Gimnasia y Tiro,"RB, RAMF, RW",33,50000,2026-12-31,32,2975,4,3.97,Argentina,Argentina,right,174,65,no
+G. Papa,,"LCMF, DMF, RCMF",37,50000,,14,695,0,0.15,Uruguay,Uruguay,right,177,72,no
+C. Sánchez,,"LW, LCMF",34,50000,,12,352,0,0.05,Argentina,Argentina,left,176,70,no
+M. Del Col,Arsenal,RB,33,50000,2026-12-31,16,992,0,0.32,Argentina,"Argentina, Italy",right,175,78,no
+David Achucarro,Real Pilar,"LCB, CB",35,50000,2026-12-31,13,979,0,0.12,Argentina,"Argentina, Paraguay",left,180,73,no
+M. Rodríguez,Talleres Remedios,"RB, RW, DMF",38,50000,2026-12-31,23,2100,0,0.79,Argentina,Argentina,right,165,58,no
+F. Laumann,Gimnasia Concepción,"RCB, CB, LCB",36,50000,2026-12-31,20,1815,0,0.98,Argentina,Argentina,right,191,87,no
+T. Villoldo,Almirante Brown,"LB, LCB",31,50000,2026-12-31,28,2609,0,0.75,Argentina,Argentina,left,178,76,no
+M. Díaz,,GK,40,50000,,15,1466,0,0.0,Argentina,"Argentina, Italy",right,187,87,no
+E. Gigliotti,,CF,39,50000,,29,2125,7,6.85,Argentina,"Argentina, France",right,187,81,no
+C. Menéndez,Gimnasia Jujuy,CF,38,50000,2026-12-31,29,1931,7,6.47,Argentina,Argentina,right,185,80,no
+M. Molina,Agropecuario,"RB, RCB",32,50000,2026-12-31,29,2474,0,0.81,Argentina,Argentina,right,181,79,no
+D. Rentería,San Miguel,"RCB, LCB, RB",30,50000,,12,829,0,0.31,Colombia,Colombia,right,180,75,no
+J. Lungarzo,Estudiantes Caseros,GK,33,50000,2027-12-31,1,100,0,0.0,Argentina,Argentina,left,182,78,no
+David Valdez,Chaco For Ever,"RCB, CB",33,50000,2026-12-31,27,2171,3,2.12,Argentina,Argentina,right,174,72,no
+J. De Tomasso,Defensores de Belgrano,"LCB, RCMF",33,50000,2026-12-31,27,2576,0,0.2,Argentina,Argentina,right,185,76,no
+G. Cosaro,Gimnasia Jujuy,RCB,37,50000,2026-12-31,25,2302,0,0.69,Argentina,"Argentina, Italy",left,178,77,no
+F. Molina,Gimnasia Jujuy,"LW, LAMF",35,50000,,27,1989,2,1.72,Argentina,Argentina,left,178,75,no
+E. Méndez,Nueva Chicago,"DMF, RDMF, RCMF",37,50000,2026-12-31,16,1182,2,0.75,Argentina,Argentina,right,186,82,no
+G. Soto,Gimnasia y Tiro,"RCB, LCB",36,50000,2026-12-31,26,2112,0,0.79,Argentina,"Argentina, Italy",right,190,85,no
+A. Martínez,,"RB, RAMF",34,50000,,18,808,0,0.63,Argentina,Argentina,right,177,71,no
+M. Jaime,Chacarita Juniors,"LW, LAMF, AMF",22,50000,2026-12-31,11,736,2,1.28,Argentina,Argentina,right,172,65,no
+T. Fernández,Alvarado,"RCB, LCB",27,25000,2026-12-31,7,405,0,0.0,Argentina,"Argentina, Italy",right,187,83,no
+N. Pezzini,Arsenal,GK,29,25000,2026-12-31,12,1221,0,0.0,Argentina,Argentina,left,187,80,no
+F. Rivasseau,Patronato,GK,27,25000,,8,739,0,0.0,Argentina,Argentina,right,189,85,no
+M. Tarón,Ferro Carril Oeste,LCB,26,25000,2026-12-31,28,2131,1,0.77,Argentina,Argentina,left,186,78,no
+J. Cosi,Deportivo Madryn,"RCMF, AMF",27,25000,2026-12-31,27,2013,1,1.15,Argentina,Argentina,right,178,70,no
+J. Bigo,Tristán Suárez,GK,27,25000,2026-12-31,9,837,0,0.0,Argentina,Argentina,left,183,85,no
+M. Tévez,Estudiantes Río Cuarto,"LCMF, AMF, RCMF",29,25000,2026-12-31,8,268,0,1.26,Argentina,Argentina,right,170,69,no
+A. Rufinetti,Ciudad de Bolívar,GK,26,25000,2026-12-31,26,2540,0,0.0,Argentina,Argentina,right,185,75,no
+Gabriel Pusula,Camioneros Buenos Aires,RCB,29,25000,2026-12-31,8,367,0,0.94,Argentina,Argentina,right,191,85,no
+F. Manenti,Metropolitanos,"LB, LCB, RCB",29,25000,2026-12-31,8,153,0,0.0,Argentina,Argentina,left,185,80,no
+J. Strumia,Godoy Cruz,GK,26,25000,2026-12-31,5,498,0,0.0,Argentina,Argentina,right,190,84,yes
+A. Araujo,Patronato,"LAMF, LW",27,25000,2026-12-31,14,961,1,0.97,Argentina,Argentina,left,160,0,no
+F. Pulicastro,Fortaleza,CF,26,25000,2026-12-31,22,981,0,2.28,Argentina,Argentina,right,189,85,no
+R. Ferrario,Camioneros Buenos Aires,GK,26,25000,2026-12-31,1,96,0,0.0,Argentina,Argentina,right,186,80,yes
+A. Masuero,Talleres Remedios,"RCB, CB",38,25000,2026-12-31,10,921,1,0.74,Argentina,Argentina,right,191,82,no
+D. Nakache,Deportivo Armenio,"LW, CF, RCMF",30,25000,2026-12-31,8,398,0,0.47,Argentina,Argentina,right,170,63,no
+J. Zacaría,,"LB, LCMF",36,25000,,4,194,0,0.0,Argentina,Argentina,left,172,72,no
+N. Iribarren,Fundacion Amigos,"RCB, LCB",38,25000,2026-12-31,10,798,0,0.97,Argentina,Argentina,right,185,93,no
+E. Mac Eachen,Artigas,LCB,34,25000,,2,177,0,0.0,Uruguay,"Uruguay, Italy",left,184,78,no
+D. Müller,San Miguel,"RCMF, AMF, RW",31,25000,2026-12-31,7,286,0,0.83,Argentina,Argentina,left,179,77,no
+N. Pereyra,,LCMF,34,25000,,1,6,0,0.0,Argentina,Argentina,right,179,77,no
+F. Bordagaray,,"CF, AMF",39,25000,,24,807,2,1.5,Argentina,Argentina,right,173,75,no
+E. Kalinski,Fundacion Amigos,"RCMF, RDMF",39,25000,2026-12-31,20,1239,1,0.72,Argentina,Argentina,right,184,84,no
+P. Ruiz,Comunicaciones,"LCMF, LWF",38,25000,2026-12-31,29,1187,2,1.99,Argentina,Argentina,right,177,70,no
+M. Albertengo,Colegiales,CF,36,25000,2026-12-31,31,2234,2,3.57,Argentina,Argentina,right,186,78,no
+F. Henricot,Defensores Unidos,GK,36,25000,2026-12-31,12,1181,0,0.0,Argentina,Argentina,right,178,85,no
+W. Olivera,Racing Córdoba,"LCB, RCB",39,25000,,11,545,1,0.63,Argentina,Argentina,right,188,82,no
+G. Bravo,Ituzaingó,"RW, RAMF, RCMF",36,25000,2026-12-31,2,52,0,0.29,Argentina,Argentina,right,164,60,yes
+G. Rodríguez,San Martín Tucumán,"RWF, CF, LWF",35,25000,2026-12-31,13,391,0,0.93,Argentina,Argentina,right,178,77,no
+L. Silba,Deportivo Madryn,CF,36,25000,2026-12-31,36,3108,7,11.79,Argentina,Argentina,right,187,82,no
+J. Ferrari,Cerrito,"RCB, LCB",39,25000,2026-12-31,14,1296,0,0.45,Argentina,"Argentina, Italy",right,186,77,no
+L. Sánchez,Brown de Adrogué,RCB,31,25000,2027-12-31,26,2239,1,0.75,Argentina,Argentina,right,178,79,no
+C. Díaz,Sarmiento de La Banda,"RB, RWB, LB",37,25000,2026-12-31,20,1488,1,0.26,Argentina,"Argentina, Spain",right,167,63,no
+A. Sánchez,Deportivo Rincón,GK,39,25000,2026-12-31,13,1262,0,0.0,Argentina,Argentina,right,188,86,no
+J. Scolari,Real Tomayapo,"LCB, RCB",36,25000,2026-12-31,11,902,1,0.38,Argentina,Argentina,right,181,78,no
+A. Gagliardi,Agropecuario,CF,36,25000,2026-12-31,31,2666,17,12.27,Argentina,Argentina,right,177,65,no
+V. Figueroa,,"AMF, LCMF, LW",42,25000,,29,1538,6,4.4,Argentina,Argentina,right,168,63,no
+P. Romero,,LB,33,25000,,27,2361,0,1.14,Argentina,Argentina,left,179,83,no
+F. Tissera,San Telmo,CF,36,25000,2026-12-31,29,1895,2,3.02,Argentina,Argentina,right,188,83,no
+M. Aquino,La Luz,GK,32,25000,2026-12-31,21,2031,0,0.0,Argentina,Argentina,right,186,78,no
+Raúl Zules Caicedo,Chaco For Ever,"RB, LCB",35,25000,2026-12-31,6,379,0,0.01,Colombia,Colombia,right,186,80,no
+N. Dematei,Gimnasia Jujuy,LCB,38,25000,2026-12-31,30,2952,0,0.78,Argentina,Argentina,left,177,71,no
+J. Salvá,Deportivo Morón,GK,39,25000,2026-12-31,25,2375,0,0.0,Argentina,Argentina,right,188,85,no
+R. Rúmbolo,San Martín San Juan,"RW, LW, LCMF",22,25000,2026-12-31,4,46,0,0.0,Argentina,Argentina,right,173,68,no
+M. Maslovski,,GK,26,10000,,14,1333,0,0.0,Argentina,"Argentina, Poland",right,185,75,no
+J. Hass,Central Norte,GK,28,10000,2026-12-31,1,97,0,0.0,Argentina,Argentina,right,184,84,no
+L. Peraggini,Deportivo Maipú,GK,24,10000,2028-12-31,1,101,0,0.0,Argentina,Argentina,right,188,84,no
+A. González,Club Atlético Güemes,GK,29,10000,2026-12-31,12,1186,0,0.0,Argentina,Argentina,right,187,79,no
+G. Espósito,Club Atlético Güemes,"RAMF, CF, RW",28,10000,2026-12-31,13,523,0,0.53,Argentina,Argentina,right,174,70,no
+S. Ulibarri,Deportivo Morón,RB,24,10000,2026-12-31,2,198,0,0.0,Argentina,Argentina,,0,0,no
+S. Portillo,Deportivo Capiatá,CF,32,10000,2026-12-31,8,290,1,1.43,Paraguay,Paraguay,right,0,0,no
+G. Klusener,Fundacion Amigos,CF,42,10000,2026-12-31,22,1397,2,3.89,Argentina,Argentina,left,183,85,no
+H. Grana,All Boys,RB,41,10000,2026-12-31,32,3068,0,0.45,Argentina,Argentina,right,170,69,no
+M. Mansilla,Atenas,"LCB, RCMF",37,10000,2026-12-31,7,86,0,0.0,Argentina,Argentina,left,183,84,no
+W. Busse,,"RW, RCMF, RDMF",39,10000,,28,1351,0,0.28,Argentina,Argentina,left,167,69,no
+R. Birge,Gimnasia y Tiro,"DMF, LDMF, LCMF",37,10000,2026-12-31,28,2524,3,2.22,Argentina,Argentina,right,173,0,no
+S. Modón,San Martín Burzaco,"RAMF, RW, RCMF",33,10000,2026-12-31,9,462,0,0.08,Argentina,Argentina,right,178,73,no
+D. García,Defensores de Belgrano,"LW, AMF, LCMF",40,10000,2026-12-31,22,1286,2,2.02,Argentina,Argentina,right,178,71,no
+G. Salort,Agropecuario,GK,37,10000,2026-12-31,23,2217,0,0.0,Argentina,Argentina,right,187,80,no
+T. Berra,Alvarado,"RCB, LCB",35,10000,2026-12-31,15,842,0,0.18,Argentina,Argentina,right,189,82,no
+J. Ledesma,Club Atlético Mitre,GK,36,10000,,4,380,0,0.0,Argentina,Argentina,left,187,84,no
+G. González,Deportivo Morón,"LCMF, RCMF, AMF",38,10000,2026-12-31,29,1490,3,2.57,Argentina,"Argentina, Italy",right,175,71,no
+M. Fernández,,LAMF,24,0,,1,29,0,0.19,Argentina,Argentina,right,190,79,no
+L. Johnson,San Telmo,RCMF,24,0,,1,50,0,0.0,Argentina,Argentina,,175,0,no
+M. Montenegro,Club Atlético Mitre,RCMF,27,0,,6,373,0,0.95,Argentina,Argentina,right,181,0,no
+R. Gonzalez,Club Atlético Mitre,"LCMF, RW, RWF",25,0,,31,2269,1,1.36,Argentina,Argentina,unknown,0,0,no
+M. Gonzalez,Rangers,"LAMF, LCMF, RCMF",29,0,,6,126,0,0.0,Saudi Arabia,Saudi Arabia,,178,74,no
+C. Gorgerino,Alvarado,LB,29,0,,15,881,0,0.03,Argentina,Argentina,,175,73,no
+S. Strasorier,Liverpool,"LCB, RCB",26,0,2028-12-31,28,2473,0,1.04,Argentina,Argentina,right,185,0,yes
+F. Zicarelli,Colegiales,"CF, LW, RWF",24,0,2028-12-31,13,1036,3,1.61,Argentina,Argentina,right,174,0,no
+L. Castillo,Colegiales,"LW, LCMF, CF",24,0,2028-12-31,25,1431,3,0.86,Argentina,Argentina,left,172,0,no
+I. Rasso,Quilmes,"RCB, CB, LCB",25,0,2026-12-31,21,2025,3,1.43,Argentina,Argentina,right,193,77,no
+E. Encina Sánchez,Pontevalleceppi,"RWF, LB",25,0,2027-06-30,2,27,0,0.0,Argentina,Argentina,left,0,0,no
+S. Paulini,Deportivo Maipú,"LCB, LB",24,0,,8,436,0,0.0,Argentina,Argentina,,0,0,no
+L. Vallejos,Deportivo Merlo,"RB, LB",26,0,,12,493,0,0.0,Argentina,Argentina,right,177,76,no
+N. Tolosa,Almagro,LB,25,0,2026-12-31,12,772,0,1.05,Argentina,Argentina,left,176,70,yes
+T. Díaz,Los Andes,"LCMF, LW, RCMF",25,0,2026-12-31,14,483,0,0.5,Argentina,Argentina,left,175,67,yes
+B. Juncos,San Martín San Juan,"RAMF, RW, AMF",24,0,2026-12-31,27,874,0,1.76,Argentina,Argentina,,0,0,yes
+S. Churchi,Sportivo Belgrano,"RCMF, DMF",27,0,2026-12-31,6,294,0,0.07,Argentina,Argentina,right,182,0,no
+G. Rostagno,Orense,"DMF, RCMF",24,0,2026-12-31,32,2709,0,1.43,Argentina,Argentina,right,174,0,no
+M. Albarracín,Estudiantes Caseros,"RCB, LCB",25,0,2026-12-31,24,1961,2,0.48,Argentina,Argentina,right,185,0,yes
+Raul Chamorro,Racing Córdoba,RB,27,0,2026-12-31,27,2019,0,0.19,Argentina,Argentina,right,175,0,no
+M. Machado,Racing Córdoba,"RW, RAMF, RCMF",25,0,,30,2169,8,3.64,Argentina,Argentina,right,175,0,no
+M. Gutiérrez,Ciudad de Bolívar,"LW, LAMF",29,0,2026-12-31,13,530,0,0.18,Argentina,Argentina,left,170,0,no
+L. Villegas,Ciudad de Bolívar,CF,29,0,2026-12-31,23,1009,3,3.63,Argentina,Argentina,,0,0,no
+A. Graneros,San Martín Tucumán,LCMF,25,0,2026-12-31,1,7,0,0.0,Argentina,Argentina,,0,0,no
+A. Spetale,Quilmes,"CF, AMF",26,0,2026-12-31,11,318,1,0.71,Argentina,Argentina,right,187,83,no
+F. García,Newell's Old Boys,"RW, CF, RWF",29,0,,26,1921,5,2.82,Argentina,Argentina,right,175,63,no
+V. Robaldo,Alianza Atlético,CF,26,0,,27,1648,5,2.88,Argentina,Argentina,right,168,0,no
+F. Hanashiro,Colegiales,LB,24,0,2027-12-31,28,2653,0,0.07,Argentina,Argentina,left,186,0,no
+S. Giménez,Flandria,CF,25,0,2026-12-31,8,264,0,0.03,Argentina,Argentina,unknown,0,0,yes
+Bahiano Garcia,Chaco For Ever,"LW, LCMF, RCMF",25,0,2026-12-31,17,864,0,0.7,Argentina,Argentina,left,174,0,yes
+M. Rodríguez,Club Atlético Mitre,"LB, LCB",28,0,,9,574,0,0.03,Argentina,Argentina,left,182,75,no
+L. Allende,Colón,"LB, LCMF, LW",29,0,2026-12-31,26,2321,1,1.47,Argentina,Argentina,left,170,0,no
+M. Roseti,Midland,"LCMF, RW, AMF",28,0,2027-12-31,33,2217,0,1.61,Argentina,Argentina,,0,0,no
+M. Gerez,Club Atlético Güemes,"RW, LW",28,0,,31,2111,1,2.19,Argentina,Argentina,right,178,0,no
+E. Griffa,Leones del Norte,"LCMF, DMF, RCMF",27,0,,27,2328,1,0.7,Argentina,Argentina,right,175,0,no
+W. Juárez,Club Atlético Güemes,"RB, RCB",27,0,,28,2757,0,1.08,Argentina,Argentina,right,178,0,no
+A. Oyola,Deportivo Rincón,"RCMF, AMF, LCMF",29,0,2026-12-31,15,744,0,0.94,Argentina,Argentina,right,173,0,no
+J. Kruger,Argentino Quilmes,LB,25,0,2027-12-31,10,880,0,0.01,Argentina,Argentina,left,174,74,no
+N. Juárez,Club Atlético Güemes,"RCMF, LCMF",29,0,2026-12-31,12,849,0,0.61,Argentina,Argentina,right,177,77,no
+M. Acosta,Argentinos Juniors,GK,24,0,2026-12-31,8,786,0,0.0,Argentina,Argentina,right,189,80,no
+M. Álvarez,Tristán Suárez,"CF, AMF",29,0,2026-12-31,27,1278,3,3.75,Argentina,Argentina,right,178,0,no
+S. Bellatti,Acassuso,"LCB, CB",24,0,2026-12-31,26,2389,1,0.74,Argentina,Argentina,,191,94,yes
+V. Pereyra,Patronato,"RAMF, RW, RCMF",24,0,2027-12-31,32,2083,1,1.98,Argentina,Argentina,left,0,0,no
+J. Marcioni,Colón,"LW, CF, LAMF",28,0,2026-12-31,32,2629,6,4.78,Argentina,Argentina,right,176,69,no
+A. Batista,Quilmes,"RW, RAMF, LAMF",24,0,,17,1321,4,3.23,Argentina,Argentina,right,166,63,no
+J. Vila,Arsenal,"RCMF, DMF",25,0,2026-12-31,19,1146,1,0.63,Argentina,Argentina,,178,69,no
+I. Sabatini,Gimnasia Mendoza,"CF, RW",27,0,2028-12-31,24,1709,10,7.28,Argentina,"Argentina, Italy",right,0,0,no
+M. Vera,Nueva Chicago,RB,27,0,2026-12-31,23,1746,0,0.28,Argentina,Argentina,right,174,67,no
+E. Fernández,Gimnasia Mendoza,"AMF, LCMF, CF",24,0,2026-12-31,26,2179,4,3.78,Argentina,Argentina,right,0,0,yes
+D. Díaz,Racing Córdoba,LB,24,0,,13,1151,0,0.0,Argentina,Argentina,left,182,0,no
+F. Rodríguez,Los Andes,"RCMF, LCMF",26,0,,16,1119,0,1.12,Argentina,Argentina,unknown,0,0,no
+G. Segalerba,Villa Mitre,"LCB, RCB, RB",27,0,2026-12-31,11,703,0,0.12,Argentina,Argentina,right,184,80,no
+G. Gerzel,Priboj,"LW, LCMF",26,0,2026-12-31,31,1823,2,2.32,Argentina,"Argentina, Italy",left,172,67,no
+M. González,Los Andes,"RW, RWF",27,0,,15,1183,2,2.2,Argentina,Argentina,right,180,74,yes
+Gabriel Cañete,Los Andes,"LCMF, RCMF",27,0,2026-12-31,30,2106,0,0.61,Argentina,Argentina,,0,0,no
+N. Fernández,Los Andes,LB,29,0,2026-12-31,25,2141,0,0.21,Argentina,Argentina,,0,0,no
+N. Sumavil,Platense,GK,26,0,2026-12-31,36,3499,0,0.0,Argentina,Argentina,right,186,85,no
+M. Olguín,Tristán Suárez,"RCB, RB",25,0,2026-12-31,11,721,0,0.05,Argentina,Argentina,right,180,81,no
+L. Felissia,Central Norte,"RCB, RB, CB",24,0,2026-12-31,18,1285,1,0.28,Argentina,Argentina,right,190,0,no
+G. Moreyra,Almirante Brown,"LW, LWF, LAMF",26,0,,10,376,0,0.28,Argentina,Argentina,right,172,67,no
+T. Pérez Serra,Chacarita Juniors,"DMF, LCMF, RCMF",27,0,2026-12-31,30,2061,0,1.12,Argentina,Argentina,right,186,0,no
+A. Rodríguez,All Boys,"RCB, LCB",25,0,2026-12-31,22,1845,2,1.1,Argentina,Argentina,,190,0,no
+I. Palacio,All Boys,"LCMF, LWB, LAMF",26,0,2028-12-31,24,1149,1,0.5,Argentina,Argentina,unknown,0,0,no
+T. Calone,All Boys,"CF, LW, LAMF",24,0,2028-12-31,31,1923,2,2.46,Argentina,Argentina,right,178,75,no
+T. Libares,Deportivo Laferrere,GK,29,0,2026-12-31,9,823,0,0.0,Argentina,Argentina,unknown,0,0,yes
+T. Bovone,Deportivo Pereira,LB,26,0,,30,2606,1,0.31,Argentina,Argentina,left,172,70,no
+A. Abet,All Boys,RCMF,28,0,,17,525,0,0.11,Argentina,Argentina,right,181,72,no
+F. Saccone,Deportivo Maipú,"RWF, RW, RAMF",24,0,2027-12-31,25,1375,1,2.06,Italy,Italy,right,0,0,no
+L. Faggioli,Deportivo Maipú,RCB,29,0,,16,1306,2,0.45,Argentina,Argentina,right,176,72,no
+D. Crego,Independiente Rivadavia,"LAMF, LW, LCMF",29,0,2026-12-31,36,3405,4,3.42,Argentina,Argentina,unknown,0,0,no
+B. Pérez,Asteras Tripolis II,"RW, RAMF, RCMF",24,0,2027-12-31,35,2534,7,4.29,Argentina,Argentina,right,170,0,yes
+E. Ayala,Deportivo Madryn,CF,25,0,2026-12-31,22,620,1,1.45,Paraguay,Paraguay,right,170,68,no
+F. Giacopuzzi,Deportivo Madryn,RCB,25,0,2026-12-31,35,3273,4,2.48,Argentina,Argentina,right,185,78,no
+T. Silva,Deportivo Maipú,"LW, CF, LWF",25,0,,29,1164,1,3.0,Argentina,Argentina,,0,0,no
+T. Rojas,Atlanta,LCB,24,0,2026-12-31,27,2373,1,0.7,Argentina,Argentina,unknown,0,0,no
+José Gómez,Central Córdoba SdE,RB,26,0,,23,1887,2,0.12,Argentina,Argentina,right,173,66,no
+F. Bisanz,Atlanta,"AMF, CF",24,0,2026-12-31,28,1341,3,3.41,Argentina,Argentina,right,180,0,no
+L. Ambrogio,Nueva Chicago,"LAMF, LW, AMF",26,0,2027-12-31,34,2063,2,4.05,Argentina,Argentina,right,181,72,yes
+I. Peralta,Arsenal,RCB,24,0,2027-12-31,8,644,0,0.21,Argentina,Argentina,,0,0,no
+F. Rojas,Gimnasia y Tiro,"CF, RW, LAMF",25,0,2026-12-31,31,2038,2,3.68,Argentina,Argentina,right,167,0,no
+P. Casarico,Midland,"LCB, LB",25,0,2026-12-31,3,199,0,0.0,Argentina,Argentina,right,180,0,no
+F. Abadía,Cúcuta Deportivo,GK,28,0,,37,3629,0,0.13,Argentina,Argentina,left,186,86,no
+J. Galetto,Gimnasia y Tiro,"RB, RW",29,0,2026-12-31,30,1758,1,0.44,Argentina,Argentina,right,169,66,no
+J. Carrasco,Temperley,"LW, RW",24,0,2026-12-31,18,624,1,1.19,Argentina,Argentina,right,175,68,no
+L. Gordillo,Gimnasia y Tiro,CF,27,0,2026-12-31,27,1772,5,4.79,Argentina,Argentina,right,174,67,yes
+L. Monti,Temperley,"RB, RWB",28,0,,30,2422,1,0.86,Argentina,Argentina,right,181,83,no
+D. Magallanes,Defensores de Belgrano,RB,29,0,2026-12-31,13,946,0,0.12,Argentina,Argentina,right,180,75,no
+A. Melo,All Boys,"RDMF, AMF, DMF",24,0,2026-12-31,12,578,0,0.02,Argentina,Argentina,right,0,0,no
+Y. De Vito,All Boys,"LCB, LB",25,0,2026-12-31,16,852,0,0.22,Argentina,Argentina,left,183,76,no
+I. Figueroa,Sportivo San Lorenzo,"RCMF, DMF",25,0,2026-12-31,12,743,0,0.5,Argentina,Argentina,right,180,78,no
+C. Campostrini,,CF,26,0,,18,1211,3,4.33,Argentina,Argentina,right,192,84,no
+R. Ramírez,Comunicaciones,"LW, LAMF, RW",27,0,2027-12-31,20,553,0,0.58,Argentina,Argentina,left,168,66,yes
+T. Federico,Alvarado,"RCMF, LCMF",28,0,2026-12-31,26,1510,3,2.6,Argentina,"Argentina, Italy",right,178,75,no
+M. Vallejos,Quilmes,RB,25,0,2026-12-31,20,1634,0,0.71,Argentina,Argentina,,0,0,no
+M. Ortale,Deportivo Maipú,"RB, RCMF, RDMF",24,0,2026-12-31,10,547,0,0.05,Argentina,Argentina,,0,0,no
+V. Werro,Temperley,RB,24,0,2026-12-31,13,1184,0,0.14,Argentina,Argentina,unknown,168,63,no
+J. Ascacibar,Alvarado,"LW, LB, LAMF",24,0,2026-12-31,15,693,0,0.84,Argentina,Argentina,left,0,0,no
+E. Gómez Riga,Independiente Rivadavia,GK,24,0,2026-12-31,19,1831,0,0.0,Argentina,Argentina,right,186,77,yes
+J. James,Magallanes,LCB,25,0,,7,432,0,0.05,Argentina,"Argentina, Wales",left,191,82,yes
+F. Vega,Deportivo Armenio,"LCMF, RCMF",24,0,2026-12-31,1,50,0,0.0,Argentina,"Argentina, Chile",right,179,65,no
+N. Genés Rodas,Huracán Las Heras,"RW, CF, RCMF",24,0,2026-12-31,8,340,1,1.06,Argentina,Argentina,,0,0,no
+R. Velázquez,San Martín Burzaco,"CF, RW, RCMF",24,0,2026-12-31,18,638,0,1.42,Argentina,Argentina,,171,65,no
+F. Duré,Estudiantes Caseros,"RW, LCMF, RCMF",29,0,2026-12-31,24,1114,0,1.61,Argentina,Argentina,right,0,0,yes
+F. Maidana,Gimnasia Jujuy,"LCMF, RCMF",24,0,2027-12-31,31,2534,1,0.79,Argentina,Argentina,,0,0,no
+C. Battigelli,Villa Mitre,"RCMF, LCMF",29,0,2026-12-31,12,553,0,0.0,Argentina,Argentina,right,172,65,no
+D. Rostagno,Estudiantes Caseros,CF,24,0,,36,1350,4,4.83,Argentina,Argentina,right,0,0,no
+F. Romero,Huracán Las Heras,"AMF, RCMF, RW",24,0,,9,599,1,0.85,Argentina,Argentina,unknown,0,0,no
+T. Rodriguez,Nueva Chicago,"LDMF, RCMF, AMF",24,0,,23,1889,0,2.05,Argentina,Argentina,right,0,0,no
+J. Motroni,San Telmo,RB,27,0,2026-12-31,22,1410,1,1.09,Argentina,Argentina,right,180,0,no
+I. Maggi,Sportivo Luqueño,CF,27,0,2026-12-31,28,2457,6,7.17,Argentina,Argentina,right,178,74,no
+M. Sanchez,Racing Córdoba,"LCB, LB",27,0,2026-12-31,27,2374,0,0.32,Argentina,Argentina,,175,70,no
+R. Paparelli,Guillermo Brown,"LCB, RCB",29,0,2026-12-31,5,370,0,0.0,Argentina,"Argentina, Italy",right,187,80,no
+Robertino Seratto,Douglas Haig,"RW, LW, LAMF",26,0,2026-12-31,29,1099,1,1.23,Argentina,"Argentina, Italy",right,178,0,no
+Juan Carrizo,Chaco For Ever,"RCMF, RDMF",25,0,2026-12-31,24,1694,0,0.65,Argentina,Argentina,right,185,0,no
+Imanol Enríquez,Chaco For Ever,"CF, LWF",26,0,,24,1334,3,3.68,Argentina,Argentina,right,180,73,no
+Enzo González,Defensores de Belgrano,CF,25,0,,30,1813,6,5.63,Argentina,Argentina,right,180,0,no
+L. Correa,Club Atlético Mitre,"LB, LW",24,0,2026-12-31,20,910,1,0.05,Argentina,Argentina,unknown,0,0,no
+G. Gamarra,Defensores de Belgrano,RCB,29,0,2026-12-31,21,1412,1,0.47,Argentina,Argentina,right,184,0,no
+I. Gutiérrez,Defensores de Belgrano,"RCMF, LCMF, DMF",24,0,2026-12-31,24,1604,0,0.16,Argentina,Argentina,unknown,165,0,no
+F. Rodríguez,Fundacion Amigos,LB,25,0,2027-12-31,29,2592,0,0.35,Argentina,Argentina,left,182,79,no
+A. Benítez,Defensores de Belgrano,"LCMF, RW, AMF",26,0,2026-12-31,28,2194,5,2.2,Argentina,Argentina,right,175,75,no
+J. Rocca,Gimnasia y Tiro,"RW, RAMF",24,0,2026-12-31,18,855,2,0.51,Argentina,Argentina,right,168,62,no
+F. Álvarez,Atlanta,"RW, LW",25,0,2026-12-31,21,1060,2,2.33,Argentina,Argentina,unknown,0,0,yes
+B. Orosco,Godoy Cruz,"CF, AMF, LCMF",28,0,,24,1303,2,2.07,Argentina,Argentina,right,175,63,no
+J. Livera,Deportivo Morón,LB,26,0,,22,1677,0,1.16,Argentina,Argentina,unknown,0,0,no
+F. Lorenzón,San Lorenzo,RCB,25,0,2026-12-31,33,3212,1,2.07,Argentina,Argentina,right,188,83,no
+J. Cabrera,Sarmiento,RB,26,0,2026-12-31,34,3315,1,1.82,Argentina,Argentina,,180,74,yes
+I. Costantino,Danubio,CF,27,0,2026-12-31,36,2990,9,9.47,Argentina,Argentina,left,193,0,no
+F. Sanguinetti,Inter Bogotá,"CF, LW, LAMF",25,0,2027-12-31,31,2017,4,3.76,Uruguay,Uruguay,,0,0,no
+Y. González,Boston River,"AMF, RWF, RAMF",24,0,2026-12-31,35,2901,9,6.33,Argentina,Argentina,right,173,64,yes
+M. Burruchaga,Deportivo Morón,"DMF, RCMF, LCMF",28,0,2026-12-31,5,83,0,0.0,Argentina,Argentina,left,182,79,no
+Matías Pagliaricci,Estudiantes Río Cuarto Reserve,LCB,25,0,,6,233,0,0.0,Argentina,Argentina,,0,0,no
+E. Vázquez,Central Norte,GK,25,0,2026-12-31,19,1859,0,0.0,Argentina,Argentina,,0,0,no
+P. Sanz,Central Norte,LB,26,0,,28,2165,1,0.12,Argentina,Argentina,left,181,0,no
+T. González,Estudiantes Río Cuarto,"RCMF, AMF",27,0,,22,1623,2,1.13,Argentina,Argentina,both,168,0,no
+A. Berrondo,Tristán Suárez,"LW, RW, LCMF",26,0,2026-12-31,15,576,1,1.12,Argentina,Argentina,right,187,0,no
+S. Rinaudo,Racing Córdoba,RB,28,0,,30,2922,0,0.59,Argentina,Argentina,right,177,0,no
+M. Moravec,Central Norte,RW,25,0,2026-12-31,26,1548,1,0.92,Argentina,Argentina,right,175,73,no
+A. Morales,Estudiantes Río Cuarto,"RW, LW, RAMF",27,0,2026-12-31,15,732,2,0.47,Argentina,Argentina,right,170,63,no
+F. Galván,Estudiantes Río Cuarto Reserve,CF,26,0,,8,195,1,0.42,Argentina,Argentina,left,190,79,no
+L. Ferreyra,San Martín Tucumán,"LW, CF",24,0,2026-12-31,31,2509,6,7.34,Argentina,Argentina,right,171,71,yes
+C. Chavarría,Juventud Unida Univ.,"LCMF, RCMF, LCB",27,0,2026-12-31,10,470,0,0.01,Argentina,Argentina,,0,0,no
+O. Moscarelli,Manta,"LCB, RCB, CB",25,0,2026-12-31,22,2009,0,0.11,Argentina,Argentina,unknown,0,0,no
+S. Luján,Huracán,"LCMF, AMF, CF",24,0,2026-12-31,17,511,2,0.97,Argentina,Argentina,right,173,65,no
+L. Ríos,Atlanta,"LWF, LW, CF",24,0,2026-12-31,30,2021,2,4.32,Argentina,Argentina,left,172,69,no
+E. González,Villa San Carlos,"RCMF, RDMF",25,0,,10,315,0,0.1,Argentina,Argentina,right,0,0,no
+L. Jachfe,Nueva Chicago,GK,24,0,2026-12-31,29,2826,0,0.0,Argentina,Argentina,left,189,76,yes
+J. Martínez,Almirante Brown,"CF, LWF",27,0,2026-12-31,20,761,4,3.96,Argentina,Argentina,,0,0,no
+G. Dell''Aquila,Chacarita Juniors,RB,25,0,,24,2119,1,0.08,Argentina,Argentina,right,172,0,no
+J. Enrico,San Telmo,GK,24,0,2027-12-31,6,580,1,0.03,Argentina,Argentina,right,190,85,no
+E. Brítez,San Telmo,"DMF, LDMF, RDMF",25,0,2026-12-31,26,1506,1,0.33,Argentina,Argentina,right,175,66,yes
+Agustín Ojeda,Chaco For Ever,LB,24,0,2027-12-31,28,1811,2,1.47,Argentina,Argentina,left,177,74,yes
+S. Formichelli,Liniers,"RB, LCB, RCB",28,0,2026-12-31,16,861,0,0.0,Argentina,Argentina,unknown,0,0,no
+N. Morro,Defensores de Belgrano,LCB,28,0,2026-12-31,32,3120,1,1.68,Argentina,"Argentina, Italy",left,182,78,no
+R. Juárez,Atletico FC,"RCMF, RW",24,0,2026-12-31,21,888,0,1.18,Argentina,Argentina,,0,0,no
+M. Caballo,Douglas Haig,"DMF, RCMF, LCMF",27,0,,19,896,0,0.33,Argentina,Argentina,right,180,0,no
+F. Marchesini,Deportivo Armenio,"RCB, LCB",26,0,2026-12-31,16,1550,1,0.36,Argentina,Argentina,unknown,0,0,no
+S. Patroni,Defensores Unidos,"LW, RW, LAMF",24,0,2026-12-31,20,1192,0,0.47,Argentina,Argentina,left,174,0,no
+S. Sánchez,Central Español,"LCMF, RCMF",24,0,2026-12-31,22,1552,0,0.69,United States,United States,right,0,0,yes
+R. Riquelme,Argentinos Juniors,"LCB, RCB",24,0,2030-12-31,24,2229,0,0.17,Argentina,Argentina,right,186,75,no
+M. Verón,,CF,27,0,,5,236,1,1.17,Argentina,Argentina,unknown,0,0,no
+G. Pugliese,,"LW, RW, CF",27,0,,15,241,0,0.29,Argentina,Argentina,unknown,166,62,no
+J. Yangali,Quilmes,"LDMF, DMF, LCMF",26,0,2027-12-31,18,1514,0,0.14,Argentina,Argentina,left,168,0,yes
+A. Maidana,San Marcos,"LAMF, AMF, LW",24,0,2026-12-31,15,626,0,0.68,Argentina,Argentina,right,0,0,no
+L. Cesar,Talleres Remedios,"RB, RCMF",25,0,2026-12-31,6,444,0,0.0,Argentina,Argentina,,0,0,no
+M. Olivera,Olimpo,CF,27,0,2026-12-31,3,100,0,0.07,Argentina,Argentina,right,176,70,no
+M. Machado,Club Atlético Mitre,"CF, RW, RWF",25,0,,27,1416,5,5.1,Argentina,Argentina,,0,0,no
+G. Valdivia,Club Atlético Mitre,"LWB, LB",25,0,2026-12-31,18,969,1,0.19,Argentina,Argentina,left,178,69,yes
+P. Grance,Los Andes,"LB, LWB",26,0,2026-12-31,28,1847,1,0.31,Argentina,Argentina,left,176,70,no
+F. Sena,Estudiantes Caseros,"RCMF, LCMF",29,0,2026-12-31,22,1255,0,0.45,Argentina,Argentina,right,169,68,no
+Agustín Quiroga,Central Córdoba SdE,"LB, LCB",24,0,2027-12-31,28,2386,0,0.77,Argentina,Argentina,left,179,71,yes
+T. Fernández,Ciudad de Bolívar,RB,25,0,2026-12-31,4,386,0,0.0,Argentina,Argentina,,0,0,no
+S. Apa,All Boys,CF,26,0,2026-12-31,24,1563,3,3.13,Argentina,Argentina,,0,0,yes
+V. Gargiulo,Midland,"RDMF, RW, LCMF",25,0,2026-12-31,3,82,0,0.0,Argentina,Argentina,right,176,0,no
+M. Quiroz,Club Atlético Güemes,"LCMF, RCMF, DMF",24,0,2026-12-31,16,626,0,0.01,Argentina,Argentina,right,175,68,yes
+G. Errecalde,Gimnasia La Plata,"RCB, LCB, RB",26,0,2026-12-31,27,2483,1,1.57,Argentina,Argentina,right,185,78,no
+N. Barboza,Gimnasia Mendoza,"DMF, RDMF",26,0,2026-12-31,8,525,0,0.15,Argentina,Argentina,unknown,0,0,no
+I. Cortéz,Gimnasia Mendoza,"RB, RWB",25,0,,11,798,0,0.04,Argentina,Argentina,right,185,78,no
+F. Lencioni,Gimnasia Mendoza,"LAMF, LW",25,0,2028-12-31,32,2727,9,7.45,Argentina,Argentina,left,180,78,no
+B. Ferreyra,Gimnasia Mendoza,CF,29,0,2028-12-31,32,2956,9,11.17,Argentina,Argentina,right,189,84,no
+M. Recalde,Gimnasia Mendoza,"LB, LW, LAMF",28,0,,29,1286,1,1.57,Argentina,Argentina,left,178,0,no
+I. González,Gimnasia Mendoza,LCB,28,0,2027-12-31,32,3174,5,4.55,Argentina,"Argentina, Italy",left,184,82,no
+Santiago Valenzuela,Chaco For Ever,"RW, RCMF",24,0,,18,1209,2,0.86,Argentina,Argentina,right,169,66,no
+E. Calderón,Central Norte,RCB,25,0,2026-12-31,17,1318,0,0.61,Argentina,Argentina,right,188,80,yes
+D. Vásquez,Agropecuario,"LW, LCMF, LWF",25,0,2026-12-31,25,1074,3,2.75,Argentina,Argentina,both,174,64,no
+R. Barreto,Argentino Quilmes,LB,26,0,,1,11,0,0.0,Argentina,Argentina,left,183,0,no
+S. Ortíz,Los Andes,"DMF, RCMF, LCMF",25,0,2026-12-31,12,974,0,0.11,Argentina,Argentina,right,174,77,yes
+J. Mendoza,Club Atlético Güemes,"CF, AMF, LAMF",27,0,2026-12-31,9,157,0,0.06,Argentina,Argentina,right,0,0,no
+Agustin Paz,Progreso,"RAMF, LW, LAMF",27,0,2026-12-31,14,614,0,0.37,Argentina,Argentina,,177,0,no
+M. Vargas,Olimpo,"DMF, RCMF, AMF",28,0,,7,113,0,0.02,Argentina,Argentina,right,165,0,no
+A. Osinaga,Olimpo,"RCB, LCB",28,0,2026-12-31,12,1072,0,0.76,Argentina,Argentina,right,188,86,no
+Damián Rojas,Germinal de Rawson,"CF, LCMF",25,0,,2,42,0,0.07,Argentina,Argentina,,0,0,no
+S. Gallardo,Talleres Remedios,"LCMF, RCMF",27,0,,20,1577,0,0.36,Argentina,Argentina,,169,73,no
+Enzo Tamborelli,Argentino Merlo,"RCB, RB, CB",28,0,2026-12-31,4,382,0,0.17,Argentina,Argentina,right,183,79,no
+R. Dichiara,San Martín Mendoza,CF,29,0,2026-12-31,10,452,0,1.37,Argentina,Argentina,right,185,0,no
+J. Vanetta,Progreso,"LW, LWF",24,0,2027-12-31,3,57,0,0.0,Argentina,Argentina,,0,0,yes
+F. Camargo,Gimnasia Jujuy,RB,25,0,,5,306,0,0.15,Argentina,Argentina,right,178,66,no
+J. Frías,Atlético Vinotinto,"RCMF, RAMF, LW",25,0,2027-12-31,7,198,0,0.13,Argentina,Argentina,right,170,0,yes
+A. Lamosa,Central Norte,"RCB, CB",24,0,2027-12-31,22,2085,0,0.54,Argentina,Argentina,right,182,72,yes
+F. Taborda,Racing Córdoba,"LW, LCMF, RW",25,0,2026-12-31,20,903,0,0.87,Argentina,Argentina,left,172,68,yes
+N. Fernández,Deportivo Maipú,LCB,24,0,2028-12-31,1,13,0,0.0,Argentina,Argentina,left,178,75,no
+G. Rossi,San Martín San Juan,"CF, RWF",24,0,2026-12-31,5,156,0,0.06,Argentina,Argentina,right,185,79,no
+J. Perales,Midland,CF,25,0,,14,696,1,3.35,Argentina,Argentina,right,180,76,no
+R. Villalba,Atlético Escobar,"CF, RAMF",26,0,2026-12-31,11,318,0,0.45,Argentina,Argentina,right,174,70,no
+J. Velázquez,Almirante Brown,"DMF, LCMF, RCMF",24,0,,12,786,0,0.08,Argentina,Argentina,,0,0,no
+T. Almada,Almirante Brown,"LCMF, LW, LAMF",24,0,2028-12-31,24,1672,2,2.45,Argentina,Argentina,right,0,0,no
+R. Gonzalez,Almirante Brown,"CF, RW",24,0,2026-12-31,24,1759,1,2.4,Argentina,Argentina,,0,0,yes
+L. Iglesias,Almirante Brown,RCMF,25,0,,14,872,1,0.31,Argentina,Argentina,right,170,68,no
+A. Napolitano,Agropecuario,"RDMF, RCMF, RW",27,0,2026-12-31,22,1121,1,0.55,Argentina,"Argentina, Italy",right,178,72,no
+J. Porto Lapegue,San Telmo,"RAMF, LW, CF",25,0,,19,1273,1,2.57,Argentina,Argentina,,0,0,no
+L. Cerato,Liniers Bahía Blanca,CF,25,0,2026-12-31,9,294,0,0.67,Argentina,"Argentina, Italy",right,184,0,no
+C. Cuenca,Deportivo Merlo,"CF, AMF",25,0,2026-12-31,2,50,0,0.0,Paraguay,Paraguay,left,0,0,yes
+J. Escurra,Deportivo Capiatá,"RAMF, RW, RCB",25,0,2026-12-31,5,203,1,0.88,Argentina,Argentina,,0,0,no
+D. Ledesma,Comunicaciones,"RCB, CB",27,0,,2,112,0,0.0,Argentina,Argentina,right,183,73,no
+F. Bergés,Club Atlético Güemes,"RCMF, DMF",24,0,2026-12-31,12,598,0,0.11,Argentina,Argentina,,0,0,no
+A. Gorosito,,"RW, CF, RCMF",24,0,,7,192,0,0.04,Argentina,Argentina,unknown,0,0,no
+M. Guillen,Tristán Suárez,"RB, RCB",24,0,2027-12-31,9,740,0,0.0,Argentina,Argentina,right,0,0,yes
+E. Arreguin,Fénix,"LCMF, LWF, RAMF",26,0,,4,100,0,0.18,Argentina,Argentina,right,190,73,no
+D. Pazzelli,,LAMF,27,0,,2,118,0,0.65,Argentina,Argentina,,0,0,no
+J. Berón,Tristán Suárez,"CF, LWF, RW",24,0,2026-12-31,24,976,1,1.37,Argentina,Argentina,right,0,0,yes
+L. Escalante,Almirante Brown,"LCB, RCB, RCMF",26,0,,3,59,0,0.0,Argentina,Argentina,right,170,67,no
+M. Arango,Excursionistas,CF,28,0,,1,19,1,0.14,Argentina,Argentina,,0,0,no
+M. Flores,Midland,"LW, RW, CF",25,0,2026-12-31,21,1287,1,1.03,Argentina,Argentina,,0,0,no
+M. Santiago,Godoy Cruz,RCMF,25,0,2026-12-31,4,193,0,0.01,Argentina,"Argentina, Italy",,0,0,no
+L. Laborié,Sportivo Las Parejas,"RDMF, RCMF",25,0,2026-12-31,2,166,0,0.02,Argentina,Argentina,right,179,76,no
+F. Tévez,Ferro Carril Oeste,"RCB, CB, LCB",26,0,2028-12-31,7,584,0,0.37,Argentina,Argentina,right,0,0,yes
+B. Leizza,Los Andes,RCB,26,0,2027-12-31,28,2635,0,0.31,Argentina,Argentina,right,186,78,yes
+G. Carrasco,Los Andes,"RB, RW",29,0,,8,415,1,0.25,Argentina,Argentina,right,175,74,no
+L. Flores,Racing Córdoba,LB,25,0,,2,79,0,0.07,Argentina,Argentina,,0,0,no
+E. Luna,Defensores Belgrano VR,"RWF, RW, CF",24,0,2026-12-31,5,166,0,0.07,Argentina,Argentina,right,180,79,no
+L. Monroy,San Martín Tucumán,RB,26,0,,2,59,0,0.0,Argentina,Argentina,right,168,69,no
+F. Robles,Bartolomé Mitre,"LCMF, DMF, RW",25,0,,3,49,0,0.0,Argentina,Argentina,right,176,0,no
+P. Pizarro,Huracán,"RCB, LCB",25,0,2026-12-31,11,958,0,0.25,Argentina,Argentina,right,183,77,no
+G. Flores,Deportivo Riestra,"CF, RAMF",24,0,2026-12-31,19,1225,3,3.57,Argentina,Argentina,right,178,80,yes
+N. Moreno,San Martín Tucumán,CF,25,0,2026-12-31,2,96,0,0.64,Argentina,Argentina,,0,0,no
+M. Pérez,Tristán Suárez,RCB,24,0,2026-12-31,6,264,0,0.08,Argentina,Argentina,right,189,76,no
+L. Monje,San Martín San Juan,"RCMF, DMF",24,0,2026-12-31,8,284,0,0.01,Argentina,Argentina,right,168,67,yes
+L. Zannier,Talleres Remedios,RCMF,26,0,2026-12-31,20,1174,0,0.49,Argentina,Argentina,right,180,75,no
+G. Altamirano,Almirante Brown,"CB, RCMF, RWB",24,0,2028-12-31,3,117,0,0.0,Argentina,Argentina,right,175,72,no
+F. López,Argentino Merlo,LB,28,0,2026-12-31,8,472,0,0.02,Argentina,Argentina,left,0,0,no
+J. Denis,Deportivo Laferrere,LWB,25,0,2026-12-31,1,33,0,0.0,Argentina,Argentina,,179,70,no
+A. Sosa,Aucas,"CF, LWF",25,0,2026-12-31,21,1027,4,2.72,Argentina,Argentina,left,178,79,no
+F. Aguirre,Independiente Chivilcoy,"LAMF, AMF",26,0,2026-12-31,7,223,1,0.45,Argentina,Argentina,right,175,66,no
+G. Aquilino,Defensores de Belgrano,CF,26,0,2026-12-31,5,352,0,0.24,Argentina,Argentina,right,184,78,no
+M. Argüello,Sportivo Belgrano,"RCMF, LAMF, LWF",25,0,2026-12-31,6,350,0,0.08,Argentina,Argentina,right,168,0,no
+G. Villafañe,Deportivo Muñiz,LW,26,0,2027-12-31,1,37,0,0.0,Argentina,Argentina,,0,0,no
+R. Conechny,Tristán Suárez,"RAMF, RWF, RW",25,0,2026-12-31,10,173,0,0.08,Argentina,Argentina,,178,73,no
+M. Campos,Ferro Carril Oeste,"RW, LCMF, RWF",24,0,2026-12-31,19,1271,1,2.44,Argentina,Argentina,,0,0,no
+L. Barrionuevo,CS Barracas,GK,25,0,2026-12-31,2,160,0,0.0,Argentina,Argentina,,190,77,no
+M. Gancedo,Sportivo Belgrano,LB,28,0,2026-12-31,12,1027,0,0.22,Argentina,Argentina,left,0,0,no
+N. Diósquez,Flandria,"LW, LAMF, RW",24,0,2026-12-31,19,608,1,1.85,Argentina,Argentina,right,169,56,no
+L. Gamba,Villa Dálmine,RB,26,0,2026-12-31,4,258,0,0.01,Argentina,Argentina,right,181,72,no
+L. Torres,Sacachispas,LCMF,29,0,2026-12-31,5,266,0,0.01,Argentina,Argentina,right,178,70,no
+J. Ginzo,Deportivo Maldonado,"RB, RCMF",24,0,2027-07-31,8,409,0,0.62,Argentina,Argentina,right,178,68,no
+M. Benítez,Agropecuario,DMF,24,0,2026-12-31,1,18,0,0.0,Argentina,Argentina,right,174,68,no
+T. Rojas,,RW,29,0,,1,26,0,0.38,Paraguay,Paraguay,right,173,73,no
+M. Rapetti,Defensores Unidos,LB,27,0,2026-12-31,1,46,0,0.0,Argentina,Argentina,left,179,70,no
+A. Castellano,Alvarado,"RAMF, RW",29,0,,13,489,0,0.94,Argentina,Argentina,,0,0,no
+Alan Luque,Chaco For Ever,"LB, RB",27,0,2026-12-31,28,2348,0,0.43,Argentina,Argentina,right,179,71,no
+C. Heredia,,RW,24,0,,1,26,0,0.0,Argentina,Argentina,,0,0,no
+J. Peinipil,Deportivo Madryn,"CF, AMF",24,0,2026-12-31,2,87,0,0.43,Argentina,Argentina,right,180,74,no
+P. Velurtas,Almirante Brown,"RB, RAMF, LB",24,0,2026-12-31,6,278,0,0.13,Argentina,"Argentina, Italy",right,176,76,yes
+F. Malaga,,RW,27,0,,1,93,1,0.25,Argentina,Argentina,,167,0,no
+I. Fernández,,"CF, LWF",25,0,,2,53,0,0.02,Argentina,Argentina,right,178,0,no
+M. Bermejo,Ituzaingó,"RB, LCMF",25,0,2026-12-31,3,226,0,0.0,Argentina,Argentina,right,175,0,no
+L. Duarte,,DMF,26,0,,1,18,0,0.01,Argentina,Argentina,right,174,0,no
+M. Camargo,Ituzaingó,"LW, LAMF, CF",24,0,2026-12-31,5,157,0,0.06,Argentina,Argentina,,0,0,no
+L. Giménez,Flandria,"RCMF, LCMF",27,0,2026-12-31,5,110,0,0.01,Argentina,Argentina,right,163,64,no
+G. Lillo,Club Atlético Mitre,RCB,27,0,,1,13,0,0.0,Argentina,Argentina,right,189,83,no
+L. Rebecchi,Deportivo Laferrere,CF,25,0,2026-12-31,4,85,0,0.0,Argentina,Argentina,right,183,75,no
+M. Solari,9 de Julio Rafaela,CF,24,0,2026-12-31,1,43,0,0.24,Argentina,Argentina,,0,0,no
+M. Giménez,Douglas Haig,RAMF,28,0,2026-12-31,1,21,0,0.0,Argentina,Argentina,right,165,60,no
+I. Chaves,Aucas,GK,26,0,2026-12-31,16,1528,0,0.0,Argentina,Argentina,unknown,0,0,no
+T. Martinez,Club Atlético Güemes,"CF, RW",24,0,,5,119,0,0.46,Argentina,Argentina,unknown,186,0,no
+F. Díaz,Patronato,"LCB, CB, RCB",25,0,2027-12-31,12,427,1,0.34,Argentina,Argentina,right,0,0,no
+J. Bonet,Huracán Las Heras,CF,27,0,2026-12-31,4,232,0,0.12,Argentina,Argentina,right,187,0,no
+J. Mazza,Villa Mitre,GK,29,0,2026-12-31,2,197,0,0.0,Argentina,Argentina,right,183,75,no
+M. Eggel,Palestino,"RW, LCMF, AMF",27,0,,34,2681,5,4.35,Argentina,Argentina,left,0,0,yes
+A. Alonso,Gimnasia Jujuy,"RWF, LAMF, LWF",25,0,2027-12-31,7,246,0,0.13,Argentina,Argentina,right,171,64,no
+U. Yegros,Atlético Rafaela,LCB,25,0,2027-12-31,27,2354,3,2.86,Argentina,Argentina,right,183,0,no
+Á. Almada,Deportivo Riestra,"LW, RWF, RAMF",25,0,2027-12-31,20,794,1,0.91,Argentina,Argentina,left,182,76,yes
+I. Antunes,Nueva Chicago,RB,28,0,2027-12-31,27,2278,0,0.47,Argentina,Argentina,right,178,0,no
+M. Morello,Atlético Rafaela,"RCMF, RDMF",25,0,2027-12-31,20,974,0,0.17,Argentina,Argentina,right,185,76,no
+Victor,Deportivo Maipú,"LB, LW",30,0,,1,11,0,0.0,Spain,Spain,,0,0,no
+M. Ferreyra,,"LB, LCB",32,0,,5,261,0,0.02,Uruguay,Uruguay,,0,0,no
+O. Bianchi,Gimnasia Jujuy,CF,30,0,2026-12-31,10,550,0,1.54,Argentina,Argentina,right,187,82,no
+A. Bordon,Club Atlético Güemes,RB,30,0,2026-12-31,2,46,0,0.0,Argentina,Argentina,right,173,72,no
+B. Miranda,,LCMF,33,0,,1,8,0,0.0,Argentina,Argentina,right,170,60,no
+C. Varela,,"RCB, LB",36,0,,7,263,0,0.0,Argentina,Argentina,right,178,73,no
+C. Arce,Barracas Central,"DMF, LCMF, RCMF",35,0,,17,1289,0,0.46,Argentina,Argentina,right,169,72,no
+Federico Martínez,Real Pilar,CF,31,0,2026-12-31,17,611,1,0.98,Argentina,Argentina,right,182,75,no
+C. Martínez,Encarnación FC,"RDMF, LCMF, LW",35,0,2026-12-31,3,55,0,0.15,Paraguay,Paraguay,right,172,0,no
+Matías Rojas,Real Pilar,"DMF, RCMF",35,0,2026-12-31,20,959,0,0.3,Argentina,Argentina,right,170,66,no
+N. Ihitz,Deportivo Santamarina,"RCB, LCMF",30,0,2026-12-31,2,44,0,0.0,Argentina,Argentina,left,176,72,no
+R. Vélez,Talleres Remedios,"DMF, RDMF",35,0,2026-12-31,8,579,0,0.0,Argentina,Argentina,right,169,73,no
+M. Rojas,,DMF,36,0,,1,62,0,0.0,Argentina,Argentina,,0,0,no
+G. Cañete,Defensores Pto. Vilelas,"RW, LW",31,0,2026-12-31,5,231,0,0.45,Argentina,Argentina,right,174,0,no
+A. Sombra,Defensores Unidos,"LW, LAMF, CF",32,0,2026-12-31,9,300,0,0.49,Argentina,Argentina,right,178,73,no
+M. Mosqueira,Agropecuario,"RW, LW",30,0,2026-12-31,29,1711,6,3.93,Argentina,Argentina,right,175,0,no
+F. Coronel,Alianza Atlético,CF,32,0,2026-12-31,16,507,2,1.49,Argentina,Argentina,right,175,70,no
+D. López,Gimnasia Jujuy,RB,34,0,,14,899,2,2.22,Argentina,Argentina,,181,0,no
+L. Romero,Acassuso,CF,30,0,2026-12-31,14,679,1,3.35,Argentina,Argentina,left,0,0,no
+Á. Stringa,Deportivo Riestra,"RAMF, RWB, RW",30,0,2026-12-31,3,99,0,0.0,Argentina,Argentina,right,180,70,no
+Facundo Quiroga,Atenas,"LAMF, AMF, LW",30,0,,21,797,1,0.49,Argentina,Argentina,right,0,0,no
+G. Rivero,Deportivo Cuenca,CF,33,0,,29,2096,9,6.71,Argentina,Argentina,,0,0,no
+S. Silguero,Colegiales,"RCB, RB",34,0,2026-12-31,8,694,0,0.14,Argentina,Argentina,right,180,77,no
+E. Di Fulvio,Colegiales,GK,31,0,2026-12-31,33,3207,0,0.0,Argentina,Argentina,left,180,70,no
+P. Palacios,Juventud Antoniana,CF,38,0,2026-12-31,28,1678,3,5.91,Paraguay,Paraguay,right,193,78,no
+F. López,Juventud Unida G.,LB,36,0,,14,1057,0,0.29,Argentina,Argentina,left,176,0,no
+G. Sánchez,Ciudad de Bolívar,"RW, CF, RAMF",31,0,2026-12-31,21,683,1,1.45,Argentina,Argentina,right,177,0,no
+F. Moreyra,Patronato,"LCB, LB",35,0,,20,1639,0,0.34,Argentina,Argentina,left,184,80,no
+A. Sosa,Patronato,GK,30,0,2027-12-31,17,1659,0,0.0,Argentina,Argentina,right,183,80,yes
+D. Ortíz,Encarnación FC,CF,31,0,2026-12-31,17,763,2,0.67,Paraguay,Paraguay,right,190,86,no
+G. Díaz,Alianza Atlético,"AMF, LCMF",30,0,,25,1780,0,1.01,Argentina,Argentina,right,173,67,no
+L. Barrios,Talleres Remedios,CF,32,0,2026-12-31,22,1263,3,3.18,Argentina,Argentina,right,182,86,no
+M. Brítez Ojeda,,"DMF, LCMF, RCMF",40,0,,5,63,0,0.02,Argentina,Argentina,right,186,88,no
+S. López,Los Andes,GK,40,0,,21,1970,0,0.0,Argentina,Argentina,right,187,84,no
+F. Rivero,Colegiales,"RCB, CB",32,0,,25,2309,0,1.47,Argentina,Argentina,both,0,0,no
+R. Sambueza,,"LWF, CF, RAMF",42,0,,11,385,0,0.42,Argentina,"Argentina, Mexico",left,177,74,no
+A. Tallura,Gimnasia y Tiro,"LCB, LB",39,0,2026-12-31,21,1702,0,0.82,Argentina,Argentina,right,180,0,no
+R. Villarreal,Gimnasia y Tiro,LB,35,0,2026-12-31,20,1250,1,0.15,Argentina,Argentina,left,176,0,no
+H. Brylko,Talleres de Perico,"LW, RW, RB",30,0,,5,160,0,0.2,Argentina,Argentina,right,178,0,no
+M. Leguiza,Midland,GK,32,0,,12,1174,0,0.0,Argentina,Argentina,right,187,76,no
+J. Gauna,Sportivo Las Parejas,LB,31,0,2026-12-31,10,585,1,0.34,Argentina,Argentina,left,174,0,no
+M. Domínguez,Deportivo Rincón,"CF, AMF",34,0,2026-12-31,5,295,0,0.22,Argentina,Argentina,right,183,80,no
+D. Tello,Curicó Unido,GK,30,0,,32,3156,0,0.0,Argentina,Argentina,right,190,85,no
+A. Toledo,Huracán Las Heras,CF,36,0,,28,1261,4,2.31,Argentina,Argentina,unknown,0,0,no
+D. Carrasco,Deportivo Rincón,"DMF, AMF, RCMF",33,0,2026-12-31,10,667,0,0.24,Argentina,Argentina,both,175,0,no
+M. Mauri,Douglas Haig,LB,31,0,2026-12-31,7,577,0,0.04,Argentina,Argentina,,0,0,no
+F. Pons,San Martín Tucumán,CF,30,0,2026-12-31,14,1121,6,4.36,Argentina,Argentina,right,186,85,no
+F. Dauwalder,,RB,34,0,,3,45,0,0.0,Argentina,Argentina,right,186,0,no
+G. Mendoza,Atlanta,RB,31,0,2026-12-31,25,2377,0,1.97,Argentina,Argentina,right,175,0,no
+B. Duarte,UTC Cajamarca,"CB, LCB, RCB",31,0,,27,2516,0,1.33,Argentina,Argentina,right,190,79,no
+B. Blando,Agropecuario,"CF, LW",31,0,2026-12-31,28,2149,4,7.34,Argentina,Argentina,right,184,82,no
+Nicolás Caprio,Chaco For Ever,GK,37,0,2026-12-31,2,190,0,0.0,Argentina,Argentina,right,186,79,no
+J. Juárez,San Martín Tucumán,"RCMF, DMF, RB",30,0,2026-12-31,26,2098,0,0.29,Argentina,Argentina,right,170,63,no
+B. Nasta,San Miguel,CF,33,0,2026-12-31,34,2255,6,7.29,Argentina,Argentina,right,188,79,no
+J. Ferrero,San Miguel,"RCMF, RW, CF",34,0,,31,1475,5,2.01,Argentina,Argentina,right,176,71,no
+L. Angelini,Temperley,LB,31,0,2026-12-31,35,2685,1,0.48,Argentina,Argentina,left,185,78,no
+Rodrigo Acosta,Camioneros Buenos Aires,"CF, RW, RAMF",36,0,2026-12-31,32,1871,2,3.76,Argentina,Argentina,right,174,0,no
+Á. Cuello,Chacarita Juniors,"RWF, LCMF, RCMF",32,0,2026-12-31,16,689,0,0.37,Argentina,Argentina,right,186,74,no
+B. Olivera,Racing Córdoba,GK,32,0,2026-12-31,32,3086,0,0.0,Argentina,Argentina,right,183,79,no
+I. Regules,Ituzaingó,RB,31,0,,8,574,0,0.25,Argentina,Argentina,right,178,70,no
+S. Nelle,Camioneros Buenos Aires,"LCMF, DMF",32,0,2026-12-31,20,1234,0,0.24,Argentina,"Argentina, Italy",right,179,78,no
+D. Aguirre,Deportivo Merlo,CF,33,0,2026-12-31,28,1759,4,4.74,Argentina,Argentina,right,187,84,no
+F. Tello,Deportivo Armenio,"DMF, LDMF, RCMF",32,0,2026-12-31,20,824,1,0.16,Argentina,Argentina,,179,77,no
+F. Rassol,Argentino Monte Maíz,"LCB, LB",31,0,,19,1720,0,0.09,Argentina,Argentina,left,190,0,no
+M. Giménez,Defensores Unidos,CF,34,0,2027-12-31,18,1211,2,4.23,Argentina,Argentina,right,187,85,no
+L. Ceratto,San Martín Formosa,"CF, RCMF",34,0,2026-12-31,29,1252,2,2.2,Argentina,Argentina,right,180,0,no
+T. Ferreyra,Defensores Unidos,"RB, RW",31,0,,31,1768,0,0.77,Argentina,Argentina,,0,0,no
+Maximiliano Romero,Club Atlético Mitre,"RCMF, LCMF, RB",31,0,2026-12-31,31,2868,4,3.31,Argentina,Argentina,right,183,0,no
+M. Romero,Nueva Chicago,CF,32,0,2026-12-31,31,2537,9,6.7,Argentina,Argentina,right,185,93,no
+Gastón Canuto,Chaco For Ever,GK,37,0,2026-12-31,33,3227,0,0.0,Argentina,Argentina,right,179,78,no
+J. Fleita,Deportivo Rincón,"RCB, LCB",31,0,2026-12-31,3,230,0,0.0,Argentina,Argentina,right,180,70,no
+S. Sánchez,Gimnasia Jujuy,"RCB, LCB",37,0,,8,468,0,0.55,Argentina,Argentina,right,183,77,no
+S. Anchoverri,Chacarita Juniors,GK,35,0,2026-12-31,2,120,0,0.0,Argentina,Argentina,right,181,81,no
+Javier Ferreira,Estudiantes Río Cuarto,CF,34,0,2026-12-31,27,1238,6,5.09,Paraguay,Paraguay,right,185,85,no
+T. Squie,Estudiantes Caseros,"LAMF, LW",37,0,,32,1532,2,1.62,Argentina,Argentina,unknown,0,0,no
+A. Benítez,Deportivo Laferrere,"LDMF, RCMF, LCMF",30,0,2026-12-31,17,432,0,0.14,Argentina,Argentina,right,0,0,yes
+D. Minervino,Gimnasia Jujuy,RB,30,0,2027-12-31,26,2043,1,1.23,Argentina,Argentina,right,171,71,yes
+J. Benítez,Estudiantes Caseros,"LCB, RCB",32,0,2027-12-31,25,2387,1,0.81,Argentina,Argentina,,0,0,no
+N. Zárate,,LCB,33,0,,13,1267,0,0.08,Argentina,Argentina,left,180,73,no
+E. Lazza,Club Atlético Güemes,"LCB, LB",31,0,2026-12-31,20,1368,1,1.55,Argentina,Argentina,left,189,0,no
+E. Franco,Atlético Grau,"RCMF, LCMF",31,0,,35,2024,4,2.41,Argentina,Argentina,right,182,74,no
+A. Hernández,Olimpo,"LW, RCMF, LB",31,0,2026-12-31,3,145,0,0.22,Argentina,Argentina,,0,0,no
+E. Blanco,Central Norte,"CF, RW",35,0,,16,507,0,0.58,Argentina,Argentina,right,173,0,no
+L. Rodríguez,San Martín Mendoza,GK,33,0,2026-12-31,3,286,0,0.0,Argentina,Argentina,,179,85,no
+E. Giménez,,"DMF, LCMF, RCMF",42,0,,14,1283,1,1.46,Argentina,Argentina,right,166,72,no
+G. Lesman,Sportivo Belgrano,CF,35,0,2026-12-31,26,1124,2,3.69,Argentina,Argentina,right,184,78,no
+D. Ledesma,Cibao,CF,33,0,2027-06-30,13,546,1,0.4,Argentina,Argentina,right,183,81,no
+D. Ramírez,,"LCMF, LW, AMF",34,0,,15,633,2,0.63,Argentina,Argentina,left,170,0,no
+A. Tello,Defensores Unidos,"RAMF, AMF",17,0,,1,51,0,0.0,Argentina,Argentina,right,178,0,no
+M. Ezequiel Perez,Alvarado,"RCMF, LW",19,0,,2,56,0,0.01,Argentina,Argentina,,0,0,no
+I. Gorosito,Tristán Suárez,"RW, CF, RCMF",21,0,,7,192,0,0.04,Argentina,Argentina,,175,0,no
+F. Monticelli,Racing Córdoba,"AMF, LCMF",22,0,2025-12-31,21,1145,1,1.84,Argentina,Argentina,unknown,0,0,no
+J. Sanchez,Deportivo Maipú,"LCMF, RAMF, RW",21,0,,3,37,0,0.05,Argentina,Argentina,,0,0,no
+B. Sosa,Arsenal Res.,LCB,22,0,,1,97,0,0.11,Argentina,Argentina,right,0,0,no
+F. Ruiz,Agropecuario,"CF, RWF",21,0,,6,266,0,0.28,Argentina,Argentina,,0,0,no
+I. Rossi,Defensores de Belgrano,"RW, RAMF, RCMF",22,0,,6,120,0,0.06,Argentina,Argentina,unknown,0,0,no
+J. Figueroa,Juventud Antoniana,RCMF,22,0,,1,8,0,0.0,Argentina,Argentina,,0,0,no
+A. Massaccesi,Defensores de Belgrano,"RCB, RB",23,0,,30,2809,2,1.54,Argentina,Argentina,right,190,0,no
+F. Rodríguez,Talleres Remedios,"CF, RCMF",19,0,,3,86,0,0.05,Argentina,Argentina,,0,0,no
+M. Taborda,Talleres Remedios,"RW, RAMF",21,0,,11,278,0,0.11,Argentina,Argentina,,0,0,no
+J. Moya,Gimnasia Mendoza Reserve,RAMF,23,0,,1,7,0,0.0,Argentina,Argentina,,0,0,no
+L. Niklinski,Talleres Remedios,CF,23,0,2026-12-31,1,13,0,0.12,Argentina,Argentina,,0,0,no
+M. Romero,Argentino Monte Maíz,"LB, LW, LCB",23,0,2026-12-31,3,47,0,0.03,Argentina,Argentina,,0,0,no
+L. Avila,Racing Córdoba,RCMF,19,0,,1,8,0,0.0,Argentina,Argentina,,0,0,no
+E. Oviedo,,"AMF, LCMF",20,0,,2,69,0,0.0,Argentina,Argentina,,0,0,no
+L. Leguizamon,All Boys,RCMF,18,0,2027-07-01,1,6,0,0.0,Argentina,Argentina,,0,0,no
+A. Gabriel Paz,San Martín Tucumán,"LB, LWF",23,0,,8,491,0,0.09,Argentina,Argentina,,0,0,no
+M. García,El Linqueño,GK,22,0,,1,15,0,0.0,Argentina,Argentina,,0,0,no
+N. Díaz,Enna,LDMF,22,0,,1,11,0,0.0,Argentina,Argentina,,0,0,no
+L. Jara,All Boys,"RAMF, LDMF",19,0,2027-12-31,2,26,0,0.0,Argentina,Argentina,,0,0,no
+J. Bono Merlo,Sportivo Belgrano,CF,23,0,,2,21,0,0.0,Argentina,Argentina,right,189,0,no
+S. Caceres,All Boys,RDMF,22,0,2028-12-31,1,16,0,0.0,Argentina,Argentina,,0,0,no
+S. Gauna,Almirante Brown,"LCMF, RDMF, LW",23,0,2026-12-31,14,979,1,0.37,Argentina,Argentina,,0,0,no
+L. Taboada,Fundacion Amigos,"CF, RAMF",22,0,2026-12-31,4,82,0,0.15,Argentina,Argentina,right,0,0,no
+D. Perea,CS Barracas,CF,23,0,,1,18,0,0.0,Colombia,Colombia,right,180,81,no
+T. Gordillo,San Miguel,RCMF,17,0,,1,3,0,0.0,Argentina,Argentina,,0,0,no
+D. Espindola,,"LW, LCB",21,0,,2,63,0,0.0,Argentina,Argentina,,0,0,no
+K. Silva,Torque,RCB,23,0,2026-12-31,15,1201,0,0.45,Argentina,Argentina,right,185,78,yes
+Á. Marin,UAI Urquiza,"DMF, LCMF, RW",23,0,2026-12-31,14,582,0,0.63,Spain,Spain,,187,0,no
+F. Di Massimo,Sportivo Italiano,RB,21,0,2026-12-31,1,4,0,0.0,Argentina,Argentina,unknown,0,0,no
+V. Barrera,Deportivo Maipú,"LB, LW",19,0,,1,11,0,0.0,Argentina,Argentina,,0,0,no
+J. Sánchez,Independiente Chivilcoy,"LCMF, RAMF, RW",21,0,,3,37,0,0.05,Argentina,Argentina,,0,0,no
+M. Perez,Alvarado,"RCMF, LW",20,0,,2,56,0,0.01,Argentina,Argentina,unknown,0,0,no
+N. Bernabe Grau,San Martín Mendoza,LB,22,0,2027-12-31,1,85,0,0.0,Argentina,Argentina,,0,0,no
+Ian Pardo,San Telmo,"DMF, RCMF",22,0,2026-12-31,6,141,0,0.33,Peru,Peru,,0,0,no
+S. Aquino,,LB,21,0,,1,9,0,0.0,Argentina,Argentina,,0,0,no
+V. Huertas,Deportivo Morón,LW,19,0,2026-12-31,1,19,0,0.0,Argentina,Argentina,,0,0,no
+M. Compagnucci,Argentino Quilmes,"CF, LAMF, LDMF",23,0,2026-12-31,3,90,0,0.0,Argentina,Argentina,unknown,0,0,no
+S. Magnotta,Tristán Suárez,"CF, RWF, LWF",22,0,,6,152,0,0.34,Argentina,Argentina,,186,0,no
+G. Banuera,Tristán Suárez,CF,19,0,2026-12-31,1,18,0,0.0,Argentina,Argentina,,0,0,no
+P. Ferreira,Platense,"DMF, RCMF, RDMF",21,0,2029-12-31,22,1613,0,0.33,Argentina,Argentina,right,0,0,no
+R. Villarreal,Patronato,"RW, RCMF, RWF",21,0,,8,261,0,0.26,Argentina,Argentina,,0,0,no
+A. Picco,Patronato,"LCMF, DMF, RCMF",22,0,,14,427,0,0.18,Argentina,Argentina,unknown,180,73,no
+A. Miró,Patronato,"RW, RWF",21,0,2027-12-31,2,25,0,0.0,Argentina,Argentina,unknown,0,0,no
+F. Meli,El Linqueño,LW,22,0,2026-12-31,2,59,0,0.0,Argentina,Argentina,right,0,0,no
+B. Rojas,Agropecuario,"RCMF, RW",21,0,,5,275,0,0.1,Argentina,Argentina,,0,0,no
+L. Acosta,Agropecuario,GK,22,0,2026-12-31,11,1069,0,0.0,Argentina,Argentina,,0,0,no
+J. Cabello,Agropecuario,"LB, LWB",23,0,2026-12-31,12,517,0,0.26,Argentina,Argentina,left,0,0,no
+L. Galván,Club Atlético Güemes,RB,23,0,2026-12-31,1,81,0,0.03,Argentina,Argentina,right,0,0,no
+T. Mejías,Quilmes Res.,"LWF, LW",17,0,,1,25,0,0.02,Argentina,Argentina,,0,0,no
+A. Ortega,Quilmes Res.,RB,20,0,,2,153,0,0.02,Argentina,Argentina,,0,0,no
+S. Luna,Quilmes Res.,LB,20,0,2027-12-31,3,150,0,0.03,Argentina,Argentina,,0,0,no
+B. Maillier,Colón,RCMF,20,0,2028-12-31,1,13,0,0.0,Argentina,Argentina,,0,0,no
+M. Córdoba,Colón,"CF, LCMF, AMF",19,0,2028-12-31,8,189,1,1.66,Argentina,Argentina,right,176,72,no
+T. Marghetich,Quilmes Res.,"LCMF, RCMF, RW",21,0,2027-12-31,4,216,0,0.06,Argentina,Argentina,,0,0,no
+F. Mazzurco,Sarmiento Res.,"RWF, RAMF, LAMF",20,0,2026-12-31,2,102,0,0.29,Argentina,Argentina,,0,0,yes
+L. Romeo,Quilmes,"RCB, RB, LCB",22,0,2027-12-31,3,107,0,0.0,Argentina,Argentina,,0,0,no
+T. Benzi,Belgrano Res.,CF,22,0,2027-12-31,2,118,0,0.5,Argentina,Argentina,,174,69,no
+E. Schultz Santillán,Villa Dálmine,"CF, AMF",22,0,2027-12-31,16,459,1,0.39,Argentina,Argentina,unknown,0,0,yes
+L. Vázquez,Nueva Chicago,"LW, LWF, CF",22,0,,4,92,0,0.24,Argentina,Argentina,left,171,0,no
+L. Cuella,Quilmes Res.,RAMF,22,0,2026-12-31,1,7,0,0.0,Argentina,Argentina,right,0,0,no
+K. Colli,Tristán Suárez,"RW, LW, RAMF",23,0,2026-12-31,5,207,0,0.07,Argentina,Argentina,unknown,0,0,no
+C. Linares,Los Andes,RCB,18,0,,1,13,0,0.0,Argentina,Argentina,,0,0,no
+A. Sandoval,Los Andes,RB,20,0,,14,1006,0,0.03,Argentina,Argentina,,0,0,no
+F. Ghiggia,Racing Córdoba,RB,22,0,,12,711,0,0.13,Argentina,Argentina,right,0,0,no
+A. Paez,Deportivo Merlo,"LW, LCMF, DMF",22,0,2027-12-31,6,150,1,0.1,Argentina,Argentina,unknown,0,0,yes
+L. Barrientos,Deportivo Merlo,"RB, RCB",20,0,2027-12-31,6,445,0,0.06,Argentina,Argentina,unknown,0,0,yes
+B. Quintana,Ciudad de Bolívar,"RW, LCMF",23,0,2026-12-31,3,43,0,0.0,Argentina,Argentina,,170,0,no
+M. Cardozo,Excursionistas,RWF,22,0,2026-12-31,1,33,0,0.0,Argentina,Argentina,right,0,0,yes
+T. Rambert,Ciudad de Bolívar,"LW, LWF, LAMF",22,0,2027-12-31,11,483,0,0.39,Argentina,Argentina,left,181,70,yes
+T. Sives,Defensa y Justicia,"LCMF, RAMF",22,0,2026-12-31,10,536,0,0.29,Argentina,Argentina,left,180,73,no
+A. Nicastro,,LW,20,0,,1,31,0,0.0,Argentina,Argentina,,0,0,no
+P. Ortiz,,"LAMF, AMF",19,0,,1,90,0,0.0,Argentina,Argentina,,0,0,no
+L. Duarte,Arsenal,LCMF,21,0,,1,67,0,0.05,Argentina,Argentina,,0,0,no
+L. Druille,Al Bataeh,CF,23,0,,1,51,0,0.0,Argentina,Argentina,right,177,70,no
+A. Forneris,Racing Club,"RCMF, LCMF, DMF",21,0,2029-12-31,14,1267,0,0.23,Argentina,Argentina,right,184,78,no
+Lucas Mihovilcevich,Chaco For Ever,LCB,22,0,2026-12-31,4,219,1,1.0,Argentina,"Argentina, Croatia",right,180,0,no
+A. Juárez,Barracas Central Res.,"RW, LW, RAMF",21,0,,6,321,0,0.55,Argentina,Argentina,right,171,62,no
+S. Rodriguez,Quilmes Res.,RCB,20,0,,1,19,0,0.0,Argentina,Argentina,right,0,0,no
+F. Obradovich,Ferro Carril Oeste Res.,"RCMF, LDMF",19,0,2028-12-31,2,99,0,0.0,Argentina,Argentina,unknown,0,0,no
+F. Cuzzani,Ferro Carril Oeste Res.,LW,19,0,,2,134,0,0.46,Argentina,Argentina,unknown,0,0,no
+L. Lucero,Ferro Carril Oeste Res.,LCB,21,0,2027-12-31,1,98,0,0.07,Argentina,Argentina,unknown,0,0,no
+S. Flores,Ferro Carril Oeste Res.,"RCMF, DMF, LDMF",20,0,,5,197,0,0.06,Paraguay,Paraguay,,0,0,no
+N. Kihm,Ferro Carril Oeste,"RB, RWB, RCMF",21,0,2027-12-31,20,1476,0,0.35,Argentina,Argentina,,0,0,no
+Thiago Lopez,Almagro,"LAMF, RW, LWF",21,0,2026-12-31,8,205,0,0.23,Argentina,Argentina,right,175,0,no
+G. Ayala,Ferro Carril Oeste Res.,"LW, RW, RAMF",22,0,,6,178,0,0.05,Argentina,Argentina,,0,0,no
+M. Monserrat,Cerro Largo,"LB, LWB",21,0,2027-12-31,7,220,0,0.0,Argentina,Argentina,left,0,0,yes
+A. Rimbelitti,Almagro,RCB,22,0,2026-12-31,4,278,0,0.0,Argentina,Argentina,right,173,74,no
+J. Orlando,Almagro,CF,20,0,2027-12-31,24,1019,0,1.68,Argentina,Argentina,,0,0,no
+T. Dornell,Almagro,CF,20,0,2027-12-31,27,1839,3,5.84,Argentina,Argentina,right,0,0,no
+D. Puca,Almagro,"LCMF, AMF, RCMF",23,0,,5,297,1,0.15,Argentina,Argentina,right,166,60,no
+A. Rivero,,CF,20,0,,1,20,0,0.34,Argentina,Argentina,,0,0,no
+T. Boschi,,RCMF,23,0,,1,68,0,0.0,Argentina,Argentina,,0,0,no
+A. Imperial,,LCMF,19,0,,1,29,0,0.0,Argentina,Argentina,,0,0,no
+T. Cohen,Estudiantes Caseros,LW,21,0,2026-12-31,1,13,0,0.0,Argentina,Argentina,,0,0,no
+E. Cardozo,Almirante Brown,RB,20,0,2028-12-31,25,1817,2,1.61,Argentina,Argentina,,0,0,no
+V. Pereyra,,"RB, AMF, RAMF",23,0,,2,48,0,0.0,Argentina,Argentina,,0,0,no
+V. Esmay,Guillermo Brown,LW,22,0,2027-12-31,1,14,0,0.04,Argentina,Argentina,,0,0,no
+R. Rodríguez,Estudiantes Caseros,"RDMF, DMF, LCMF",22,0,2026-12-31,10,495,0,0.04,Argentina,Argentina,right,181,73,yes
+T. Salas,Estudiantes Caseros,LAMF,21,0,,1,16,0,0.04,Argentina,Argentina,,0,0,no
+S. Borges,Acassuso,"RB, RCB",23,0,2026-12-31,3,77,0,0.0,Argentina,Argentina,right,0,0,no
+T. Herrera,,RCB,21,0,,1,6,0,0.0,Argentina,Argentina,,0,0,no
+G. Castilla,Central Norte,"RCB, LCB",23,0,,9,745,0,0.28,Argentina,Argentina,right,0,0,no
+G. Vázquez,Quilmes,CF,18,0,2028-12-31,9,338,2,0.85,Argentina,Argentina,left,178,0,no
+N. Roselli,Defensa y Justicia,RCB,19,0,2028-12-31,23,2129,1,1.1,Argentina,Argentina,,0,0,no
+A. Payes,Arsenal,RCB,21,0,2028-12-31,2,88,0,0.0,Argentina,Argentina,,0,0,no
+M. Lucero,Arsenal,"LCMF, RCMF, LW",22,0,2028-12-31,25,1603,0,1.52,Argentina,Argentina,right,0,0,no
+T. Colletta,Arsenal,"DMF, RCMF, RDMF",23,0,2026-12-31,15,788,0,0.13,Argentina,Argentina,right,0,0,no
+M. Cocca,San Martín San Juan,"LCB, LB",23,0,2026-12-31,25,2341,0,0.96,Argentina,"Argentina, Italy",left,182,70,no
+T. González,Unión Santa Fe,"LW, CF, LWF",23,0,2028-12-31,25,1517,3,4.5,Argentina,Argentina,right,168,65,no
+I. Cabrera,Arsenal,LB,23,0,2026-12-31,14,1096,0,0.07,Argentina,Argentina,left,179,78,no
+F. Herrera,,GK,22,0,,2,191,0,0.0,Argentina,Argentina,right,190,83,no
+A. Steimbach,Gimnasia La Plata,"RB, RWB",23,0,2026-12-31,33,2629,1,1.83,Argentina,Argentina,right,175,70,no
+L. Villegas,Banfield,"RCMF, LCMF",22,0,2027-12-31,31,2303,1,0.57,Argentina,Argentina,right,171,59,no
+L. Marra,Ferro Carril Oeste,RCMF,23,0,2027-12-31,31,2479,3,3.3,Argentina,Argentina,unknown,0,0,no
+F. Montiel,Colegiales,"RW, LCMF, RCMF",21,0,,26,1179,1,1.25,Argentina,Argentina,,0,0,no
+J. Cancio,Acassuso,"DMF, LCMF",23,0,2027-12-31,19,1281,0,0.4,Argentina,Argentina,right,0,0,no
+M. Juárez Zemlich,Quilmes,"LCB, LB",20,0,2026-12-31,8,511,0,0.0,Argentina,Argentina,left,186,0,no
+J. Capano,Gimnasia y Tiro,"CF, RW, RAMF",22,0,2026-12-31,26,849,3,1.92,Argentina,Argentina,,0,0,yes
+R. Martínez,Quilmes,"RW, RCMF",22,0,2027-12-31,18,905,1,0.99,Argentina,Argentina,,0,0,no
+J. Postigo,Quilmes,"RCMF, DMF",22,0,2027-12-31,15,832,1,0.61,Argentina,Argentina,unknown,0,0,no
+J. Coronel,Quilmes,"CF, RWF",22,0,2027-12-31,18,944,4,1.76,Argentina,Argentina,,0,0,no
+L. Herrera,Estudiantes Río Cuarto Reserve,GK,20,0,2028-12-31,2,196,0,0.0,Argentina,Argentina,unknown,0,0,no
+F. Pérez,Agropecuario,"RB, LB",22,0,2026-12-31,26,2035,1,0.78,Argentina,Argentina,right,0,0,yes
+E. Almirón,Estudiantes Caseros,CF,23,0,,25,1078,2,2.82,Argentina,Argentina,,0,0,no
+R. Peralta,Patronato,GK,22,0,,1,34,0,0.0,Argentina,Argentina,,0,0,no
+J. Barolín,Patronato,CF,23,0,2027-12-31,13,299,1,1.15,Argentina,Argentina,,0,0,no
+M. Miori,Alvarado,"CF, RW, RWF",23,0,2026-12-31,19,1167,1,1.37,Argentina,Argentina,,0,0,no
+M. Bergara,Nueva Chicago,"RW, RAMF",22,0,2027-12-31,16,1001,2,1.7,Argentina,Argentina,,0,0,yes
+L. Monzón,Deportivo Recoleta,"LCB, LB",23,0,,13,1226,1,0.82,Argentina,Argentina,,0,0,yes
+M. López,Defensores Unidos,"CF, RAMF",23,0,2026-12-31,9,403,1,0.91,Argentina,Argentina,left,185,0,no
+R. Cáceres,Arsenal,"LCB, RCB, LB",21,0,,7,455,0,0.49,Argentina,Argentina,right,0,0,no
+N. Frascone,Arsenal,"LCMF, DMF",23,0,2028-12-31,11,593,0,0.18,Argentina,Argentina,left,178,70,no
+M. Trombini,Arsenal,"RCMF, DMF, LCMF",23,0,2026-12-31,17,1292,0,0.68,Italy,"Italy, Argentina",right,170,64,no
+C. Pantoja,Gimnasia y Tiro,LW,21,0,,1,8,0,0.0,Argentina,Argentina,,0,0,no
+F. Monticelli,Racing Córdoba,"AMF, LCMF",23,0,,21,1145,1,1.84,Argentina,Argentina,,0,0,no
+J. Vignolo,Toulouse,CF,19,0,2029-06-30,23,1759,5,6.64,Argentina,Argentina,right,181,0,no
+L. Monti,Villa Mitre,"RW, LW, LAMF",23,0,2026-12-31,25,1008,1,1.29,Argentina,Argentina,right,173,0,no
+T. Romero,,CF,20,0,,1,3,0,0.0,Argentina,Argentina,,0,0,no
+A. Agüero,Deportivo Maipú,LCB,23,0,,34,3330,1,1.43,Argentina,Argentina,,0,0,no
+D. Argüello,Atlanta,LB,22,0,2026-12-31,8,489,0,0.1,Argentina,Argentina,,0,0,no
+N. Medina,Defensor Sporting,"RAMF, RW, LW",23,0,2026-12-31,25,1336,3,3.57,Argentina,Argentina,,0,0,yes
+N. Urtasun,Atlanta,LCMF,22,0,2026-12-31,1,22,0,0.0,Argentina,Argentina,,0,0,no
+M. Echeverría,Temperley,CF,22,0,2026-12-31,31,1738,7,4.17,Argentina,Argentina,left,185,79,yes
+U. Vera,Quilmes,"RCMF, RAMF, RW",22,0,,30,1607,0,0.8,Argentina,Argentina,,0,0,no
+T. Peñalba,San Martín Tucumán,"RCB, LCB",22,0,,14,1004,0,0.45,Argentina,Argentina,unknown,0,0,no
+G. Rodríguez,San Martín Tucumán,LCB,23,0,,33,3148,0,0.26,Argentina,Argentina,unknown,0,0,no
+H. Zuliani,San Martín San Juan,LB,23,0,2026-12-31,28,2339,0,0.19,Argentina,Argentina,left,180,82,yes
+A. Fernández,All Boys,CF,21,0,2026-12-31,4,160,0,0.0,Argentina,Argentina,unknown,0,0,no
+J. Ceballos,Gimnasia Mendoza,"LW, AMF, CF",21,0,2028-12-31,28,2084,4,3.73,Argentina,Argentina,,163,57,yes
+F. Villarreal,Los Andes,"RW, CF, RCMF",21,0,,23,772,1,0.7,Argentina,Argentina,,0,0,no
+F. Marco,Almagro,LCB,23,0,2026-12-31,12,1115,1,0.71,Argentina,"Argentina, Italy",left,191,83,yes
+M. Gómez,Los Andes,"LCMF, LW, RCMF",22,0,,23,1427,2,0.79,Argentina,Argentina,right,170,64,no
+T. Tiago Esidín,Ferro Carril Oeste Res.,"LW, AMF, RCMF",20,0,,4,109,1,0.19,Argentina,Argentina,right,175,0,no
+N. Montiel,Everton,CF,21,0,2027-12-31,16,569,1,1.11,Argentina,Argentina,,0,0,yes
+J. Fernández,Almagro,"RCMF, LCMF",20,0,,19,596,0,0.08,Argentina,Argentina,,0,0,yes
+T. Nicolás,Sarmiento Res.,"AMF, RAMF",19,0,2026-12-31,4,168,0,0.06,Argentina,Argentina,,0,0,yes
+T. Yossen,Deportivo Madryn,"RB, RCMF",21,0,2026-12-31,4,53,0,0.0,Argentina,Argentina,right,0,0,no
+S. Postel,Platense,"LCB, RCB",23,0,2028-12-31,18,1481,1,0.52,Argentina,Argentina,right,0,0,no
+A. Bustinduy,Central Norte,RCMF,21,0,2027-12-31,1,4,0,0.0,Argentina,Argentina,unknown,0,0,yes
+Agustín Gaitán,Independiente Juniors,"LWF, CF, LAMF",21,0,2027-12-31,19,987,0,1.47,Argentina,Argentina,right,180,0,no
+J. Arno,Deportivo Maipú,"LCMF, LAMF",22,0,2026-12-31,11,338,1,0.79,Argentina,Argentina,,0,0,no
+M. Bonfigli,Deportivo Maipú,"RCMF, DMF",22,0,,30,1758,2,0.99,Argentina,Argentina,right,0,0,no
+L. Arnijas,Deportivo Maipú,RCB,23,0,2027-12-31,24,2261,0,0.6,Argentina,Argentina,right,189,79,yes
+L. Paredes,Gimnasia Mendoza,RB,23,0,2028-12-31,34,3195,3,1.62,Argentina,Argentina,,188,81,yes
+J. De La Reta,Deportivo Maipú,LB,21,0,2027-12-31,18,1589,1,0.56,Argentina,Argentina,,0,0,no
+L. Richarte,Temperley,"RCMF, DMF, RDMF",21,0,2026-12-31,13,437,0,0.13,Argentina,Argentina,,0,0,no
+V. Aguiñagalde,Temperley,LCB,21,0,,27,2551,2,0.99,Argentina,Argentina,left,0,0,no
+T. Puccarelli,All Boys,"RAMF, LAMF",20,0,,3,48,1,0.33,Argentina,Argentina,,0,0,no
+B. González,Dock Sud,"CF, RW",22,0,2027-12-31,11,212,1,0.86,Argentina,Argentina,,0,0,no
+J. Veinticinco,El Linqueño,LB,23,0,2026-12-31,3,102,0,0.0,Argentina,Argentina,left,0,0,no
+T. Perri,Colegiales,CF,17,0,,4,42,0,0.1,Argentina,Argentina,,0,0,no
+T. Agustin Almada,Colegiales,"CF, LCMF, RCMF",21,0,,13,317,0,0.37,Argentina,Argentina,,0,0,no
+E. Ocampo,Colegiales,"RB, RCMF, RW",22,0,2026-12-31,13,948,0,0.49,Argentina,Argentina,right,167,60,yes
+T. Castro,Belgrano,"RCMF, RDMF",23,0,2027-12-31,17,1406,1,0.56,Argentina,Argentina,right,175,70,no
+N. Sánchez,Argentino Quilmes,"LCMF, LW, RW",21,0,2026-12-31,10,568,0,0.3,Argentina,Argentina,left,167,0,no
+Valentín Chocobar,Deportivo Armenio,"LDMF, LCMF, RDMF",21,0,2026-12-31,14,676,0,0.47,Argentina,Argentina,,0,0,no
+G. Puntano,Gimnasia Jujuy,CF,21,0,2026-12-31,1,23,0,0.11,Argentina,Argentina,,0,0,no
+I. Rossi,Instituto Reserve,"RW, RAMF, RCMF",23,0,,6,120,0,0.06,Argentina,Argentina,both,177,0,no
+V. Diaz,Temperley,GK,21,0,2027-12-31,1,99,0,0.0,Argentina,Argentina,,0,0,no
+L. Lucero,Atlético Vinotinto,"RCB, LCB",23,0,2027-12-31,15,1237,0,0.17,Argentina,Argentina,,0,0,yes
+M. Muñoz,Talleres Remedios,"LW, LCMF, RW",22,0,,26,1202,0,0.94,Argentina,Argentina,,0,0,no
+F. Infante,Talleres Remedios,RB,20,0,,7,457,0,0.02,Argentina,Argentina,,0,0,no
+C. Viganoni,Los Andes,CF,22,0,2027-12-31,27,1523,5,4.33,Argentina,Argentina,right,0,0,yes
+Gabriel Rocha,Argentinos Juniors Res.,"RW, LCMF, LW",22,0,2026-12-31,22,1240,1,1.12,Brazil,Brazil,right,0,0,no
+I. Ciavarelli,Talleres Remedios,"LDMF, RW",23,0,2026-12-31,2,128,0,0.0,Argentina,Argentina,unknown,0,0,no
+S. Monzon,UAI Urquiza,LCB,23,0,2026-12-31,11,1025,0,0.11,Argentina,Argentina,left,190,0,yes
+L. Pedraza,Defensores Unidos,"LAMF, RAMF",22,0,2027-12-31,3,116,0,0.07,Argentina,Argentina,,0,0,no
+L. Vega,Almirante Brown,"CF, DMF",22,0,2026-12-31,8,273,0,1.47,Argentina,Argentina,,187,90,no
+T. Quinteros,Almirante Brown,"RW, AMF",21,0,2026-12-31,4,158,0,0.03,Argentina,Argentina,,0,0,no
+F. Garcia,Almirante Brown,"LW, CF, RAMF",21,0,2027-12-31,3,124,0,0.0,Argentina,Argentina,,0,0,no
+N. Acosta,Acassuso,"RW, RB",23,0,2026-12-31,19,1155,0,0.17,Argentina,Argentina,,0,0,no
+Santiago Villalba,Chaco For Ever,CF,22,0,2026-12-31,22,1215,3,3.25,Argentina,Argentina,right,0,0,yes
+B. Cenci,Sportivo Italiano,"RCMF, DMF, LCMF",22,0,2026-12-31,17,1047,0,0.3,Argentina,"Argentina, Italy",right,180,76,no
+Leonel Ortíz,Nueva Chicago,"CF, RAMF",19,0,,4,102,1,0.25,Argentina,Argentina,,0,0,no
+N. Borsotti,Defensores de Belgrano,"RDMF, RCMF, RW",20,0,2028-12-31,8,288,0,0.01,Argentina,Argentina,,0,0,no
+T. Gallay,Colón Res.,"CF, RW, AMF",21,0,,11,551,0,1.44,Argentina,Argentina,right,0,0,no
+N. Giménez,Colón Res.,"AMF, RCMF, RW",22,0,2026-12-31,10,393,0,0.29,Argentina,Argentina,right,0,0,no
+J. Córdoba,Gimnasia Jujuy,"RW, LCMF",23,0,2026-12-31,12,383,0,0.23,Argentina,Argentina,,0,0,no
+J. Giménez Cardozo,,LAMF,20,0,,1,29,0,0.0,Argentina,Argentina,left,178,0,no
+F. Gorla,Estudiantes Caseros,CF,21,0,,2,27,0,0.01,Argentina,Argentina,,0,0,no
+I. Ojeda,Colón Res.,"CF, RCMF",21,0,,2,72,0,0.03,Argentina,Argentina,,0,0,no
+Z. Ibarra,Colón,"RB, LCB, RCB",19,0,,7,549,0,0.05,Argentina,Argentina,right,179,0,no
+Z. Yunis,Colón,"DMF, LDMF, LCMF",21,0,2026-12-31,15,874,1,0.21,Argentina,Argentina,,0,0,no
+T. Paredes,Colón,GK,22,0,2026-12-31,3,288,0,0.0,Argentina,Argentina,left,0,0,no
+C. Ibarra,Colón,LB,22,0,2026-12-31,9,611,0,0.01,Argentina,Argentina,left,0,0,no
+M. Lago,Colón,"LW, LAMF, CF",23,0,2027-12-31,21,1709,1,3.34,Argentina,Argentina,right,175,72,no
+L. Carrera,Gimnasia Mendoza,"LCB, RB, RCB",23,0,2026-12-31,5,213,1,0.4,Argentina,Argentina,right,0,0,yes
+F. Saavedra,Gimnasia Mendoza,LB,22,0,2028-12-31,28,2421,0,0.23,Argentina,Argentina,left,178,73,no
+V. Barberini,Deportivo Santamarina,"CF, RW",23,0,2026-12-31,4,88,0,0.08,Argentina,Argentina,unknown,0,0,no
+L. Bustos,Chacarita Juniors,"AMF, LDMF, LCMF",21,0,2026-12-31,5,97,0,0.01,Argentina,Argentina,right,171,76,yes
+L. Gaona,Comunicaciones,CF,21,0,2026-12-31,3,100,1,0.22,Argentina,Argentina,,0,0,yes
+B. Aranda,Agropecuario,"RCMF, LW, RW",22,0,2026-12-31,27,1396,3,1.74,Argentina,Argentina,,0,0,no
+E. Aguirre,Agropecuario,"RW, RB, LW",22,0,2026-12-31,21,925,2,1.67,Argentina,Argentina,,0,0,no
+D. Ruiz Diaz,Agropecuario,"RB, LW, RW",23,0,,24,1293,2,1.74,Argentina,Argentina,unknown,0,0,no
+F. Ruiz,Mercedes,"CF, RWF",22,0,,5,240,0,0.28,Argentina,Argentina,,0,0,no
+F. Sánchez,Agropecuario,"RCB, CB",22,0,2026-12-31,25,1951,0,0.71,Argentina,Argentina,right,0,0,no
+E. Zambrano,,RW,18,0,,1,21,0,0.0,Argentina,Argentina,,0,0,no
+Diego Barro,Aurora,"LW, CF",23,0,2026-12-31,2,18,0,0.0,Argentina,Argentina,,0,0,yes
+T. Jérez,San Miguel,"RW, RCMF",22,0,,3,50,0,0.21,Argentina,Argentina,,0,0,no
+S. Acosta,Chacarita Juniors,"RCB, RB",20,0,,4,135,0,0.0,,Argentina,,0,0,no
+E. Geréz,Chacarita Juniors,CF,21,0,,5,89,0,0.44,Argentina,Argentina,,0,0,no
+T. Migliore,Chacarita Juniors,LCB,21,0,2027-12-31,10,753,0,0.9,Argentina,Argentina,left,0,0,no
+M. Melendez,Chacarita Juniors,"RW, RB, RAMF",22,0,2027-12-31,30,1774,4,2.96,Argentina,Argentina,,0,0,no
+R. Uriburu,San Telmo,"RDMF, RCMF",23,0,2026-12-31,28,1900,0,1.21,Argentina,Argentina,right,0,0,no
+R. Bornia,Estudiantes Río Cuarto Reserve,"CF, AMF",21,0,,2,71,0,0.04,Argentina,Argentina,,188,76,no
+A. Bianciotti,Metropolitanos,CF,22,0,2026-12-31,15,669,3,2.81,Argentina,Argentina,right,172,0,no
+V. Fenoglio,Estudiantes Río Cuarto,"RW, RAMF, RB",22,0,2028-12-31,22,1169,0,0.66,Argentina,Argentina,right,170,64,no
+J. Vaquero,Central Norte,"LW, LB",23,0,2026-12-31,6,220,0,0.01,Argentina,Argentina,left,0,0,no
+M. Oses,San Miguel,"CF, RWB, LWF",20,0,2027-12-31,6,138,0,0.14,Argentina,Argentina,right,175,76,yes
+F. Wiechniak,Sportivo Luqueño,"RCB, RB",23,0,2026-12-31,28,2438,0,0.09,Argentina,Argentina,right,0,0,no
+M. Penepil,Midland,"LAMF, LCMF, LB",22,0,2026-12-31,17,835,0,0.42,Argentina,Argentina,,0,0,no
+T. Ocampo,Nueva Chicago Res.,"RAMF, LAMF",17,0,2028-12-31,2,41,0,0.0,Argentina,Argentina,,0,0,no
+N. Petrecca,Nueva Chicago,"RW, RWF, RAMF",20,0,,9,378,0,0.09,Argentina,Argentina,,0,0,no
+A. Aguirre,Boston River,LCB,22,0,,15,1419,0,0.21,Argentina,Argentina,,0,0,no
+B. Toloza,Nueva Chicago Res.,"LCMF, RDMF, DMF",21,0,,5,83,0,0.0,Argentina,"Argentina, Paraguay",,0,0,no
+R. Zalazar,Nueva Chicago,"RCB, CB",21,0,,10,753,0,0.1,Argentina,Argentina,,0,0,no
+F. Cortés,Acassuso,RB,23,0,2026-12-31,21,1488,0,0.12,Argentina,Argentina,,0,0,no
+B. Ortiz,Deportivo Armenio,"RCMF, LCMF",22,0,2026-12-31,18,1646,0,0.76,Argentina,Argentina,,0,0,no
+R. Sosa,Atlanta,LB,23,0,2026-12-31,22,1532,0,0.65,Argentina,Argentina,unknown,0,0,yes
+M. Salerno,San Telmo,"LAMF, LW, RWF",22,0,2026-12-31,15,659,1,0.79,Argentina,Argentina,,0,0,no
+L. Pollacchi,San Telmo,RCB,23,0,2026-12-31,28,2696,0,0.9,Argentina,Argentina,,0,0,no
+N. Curcio,Atlético Vinotinto,"LWF, RAMF, LW",22,0,,23,1030,1,2.03,Argentina,Argentina,right,166,62,no
+I. Lartirigoyen,San Telmo,"RAMF, RW, RWF",22,0,,29,2097,3,4.93,Argentina,Argentina,,0,0,no
+H. Tello,Defensores Unidos,"LW, LCMF, RCMF",21,0,,9,538,0,0.1,Argentina,Argentina,,0,0,no
+M. Ferulano,Tristán Suárez,"LCMF, RW",21,0,2027-12-31,3,140,0,0.01,Argentina,Argentina,unknown,0,0,yes
+Tiago Chamorro,Chaco For Ever,"RW, LCB",21,0,2026-12-31,2,82,0,0.02,Argentina,Argentina,,0,0,no
+A. Alfonso,,CF,21,0,,14,416,0,1.06,Paraguay,Paraguay,unknown,0,0,no
+M. Díaz,Chaco For Ever,"CF, LW, AMF",22,0,,21,660,1,0.87,Argentina,Argentina,right,179,74,no
+J. Cerrudo,Chaco For Ever,"RW, RB, RWB",22,0,2026-12-31,5,151,0,0.04,Argentina,Argentina,right,168,64,yes
+Joaquín Jara,Chaco For Ever,"RW, RWB",23,0,2026-12-31,5,213,0,0.0,Argentina,Argentina,right,177,0,no
+F. Tcherkaski,Defensores de Belgrano,CF,20,0,2028-12-31,13,550,2,0.7,Argentina,Argentina,,0,0,no
+G. Castilla,Central Norte,"RCB, LCB",23,0,,9,745,0,0.28,Argentina,Argentina,,0,0,no
+P. Moyano,Defensores de Belgrano,"LW, LAMF",23,0,,32,2208,0,4.4,Argentina,Argentina,left,178,0,no
+A. Massaccesi,Instituto,"RCB, RB",23,0,2026-12-31,30,2809,2,1.54,Argentina,Argentina,right,190,0,no
+B. Degregorio,Estudiantes Caseros,"RB, RW, AMF",22,0,,17,410,0,0.13,Argentina,Argentina,,0,0,no
+I. Vaquero,Deportivo Morón,LB,23,0,2027-12-31,16,1468,0,0.14,Argentina,Argentina,left,180,0,no
+F. Báez,Deportivo Morón,"LAMF, CF, LW",22,0,2028-12-31,18,545,0,0.65,Argentina,Argentina,right,0,0,yes
+S. Kubiszyn,Deportivo Morón,"RCMF, LCMF, RW",23,0,2026-12-31,31,1743,0,1.19,Argentina,Argentina,right,179,0,no
+G. Daniel Fernández,Liniers,"RAMF, RW, LCMF",23,0,2026-12-31,13,772,1,0.45,Argentina,Argentina,,0,0,no
+A. Almaraz,Vitória,"LCMF, AMF, CF",19,0,2026-12-31,13,497,0,0.05,Argentina,Argentina,,0,0,yes
+D. Arroyo,Nueva Chicago,LB,23,0,,21,1720,1,0.44,Argentina,Argentina,left,174,0,no
+I. Rodríguez,Atlanta,"CF, AMF",21,0,2028-12-31,27,1902,7,6.1,Argentina,Argentina,,174,79,yes
+G. Díaz,Patronato,RCB,23,0,,34,3263,1,1.31,Argentina,Argentina,unknown,0,0,no
+S. Marfort,Gimnasia Chivilcoy,"CF, AMF",23,0,2026-12-31,10,211,0,0.19,Argentina,Argentina,left,183,0,no
+Thiago Lauro,Deportivo Riestra,"DMF, LCMF",21,0,2028-12-31,2,74,0,0.0,Argentina,Argentina,,0,0,yes
+V. Serrano,Acassuso,"LB, LW",22,0,2027-12-31,26,2107,1,1.79,Argentina,Argentina,unknown,0,0,no
+Mateo Benegas,Ferro Carril Oeste,CF,20,0,2030-12-31,28,1656,4,4.12,Argentina,Argentina,,0,0,no
+L. Ramil Sauer,Deportivo Santamarina,GK,22,0,2027-12-31,15,1343,0,0.0,Argentina,Argentina,,0,0,no
+T. Perez,Racing Club,"CF, LW",20,0,2027-06-30,25,1171,1,1.79,Argentina,Argentina,,0,0,no
+L. Busto,Muaither,LCB,22,0,2029-12-31,6,475,0,0.0,Argentina,Argentina,,0,0,yes
+J. Gurzi,Quilmes,LB,21,0,2028-12-31,3,188,0,0.02,Argentina,Argentina,,0,0,no
+F. Vázquez,Deportivo Morón,LCB,21,0,2029-12-31,17,1582,1,1.09,Argentina,Argentina,left,0,0,no
+L. Gaitán,Defensores Belgrano VR,"RDMF, AMF, LCMF",21,0,2026-12-31,5,228,0,0.0,Argentina,Argentina,,0,0,no
+L. Pacco,Patronato,"LCMF, RCMF",22,0,,8,316,0,0.31,Argentina,Argentina,,0,0,no
