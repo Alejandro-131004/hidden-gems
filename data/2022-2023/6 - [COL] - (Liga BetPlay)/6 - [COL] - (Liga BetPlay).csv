@@ -1,0 +1,714 @@
+﻿Player,Team,Position,Age,Market value,Contract expires,Matches played,Minutes played,Goals,xG,Birth country,Passport country,Foot,Height,Weight,On loan
+M. Borja,Al Wasl,CF,33,4500000,,17,1485,10,10.84,Colombia,Colombia,right,184,89,no
+N. Deossa,Real Betis,"LCMF, LAMF, AMF",26,4000000,2030-06-30,17,572,2,0.8,Colombia,Colombia,left,178,74,no
+E. Cetré,Estudiantes,"RAMF, CF, LAMF",28,3500000,2028-12-31,43,2348,2,4.35,Colombia,Colombia,right,171,79,no
+J. Cabal,Juventus,"LCB, LB",25,3500000,2029-06-30,23,2129,1,0.89,Colombia,Colombia,left,186,80,no
+J. Portilla,Athletico Paranaense,"RCMF, RDMF, DMF",27,2500000,2028-12-31,38,3448,0,1.52,Colombia,Colombia,right,183,75,no
+J. Mosquera,Portland Timbers,"RB, RAMF",23,2500000,2027-12-31,21,1675,3,1.29,Colombia,Colombia,right,180,70,no
+A. Llinás,Millonarios,RCB,28,2200000,2029-06-30,44,4141,0,2.43,Colombia,"Colombia, Spain",right,188,73,no
+Á. Montero,Boca Juniors,GK,31,2200000,2030-06-30,49,4711,0,0.0,Colombia,Colombia,right,196,85,no
+D. Ruiz,CSKA Moskva,"LAMF, LW",24,2000000,2027-06-30,48,3982,7,7.41,Colombia,Colombia,left,171,69,yes
+Gabriel Fuentes,Fortaleza,LB,29,1800000,2028-08-31,28,2149,1,0.97,Colombia,Colombia,left,180,74,yes
+K. Velasco,Puebla,"LB, LW, LAMF",29,1800000,,30,2466,7,7.37,Colombia,Colombia,left,172,65,no
+B. Vera,CF Montréal,"LB, LCB",27,1500000,2028-06-30,28,2149,0,0.46,Colombia,Colombia,left,180,74,no
+M. Carreazo,,"RW, CF, AMF",26,1500000,,16,1232,3,3.06,Colombia,"Colombia, Venezuela",right,179,62,no
+L. Castro,Millonarios,CF,34,1200000,2028-12-31,42,3924,24,15.08,Colombia,Colombia,right,180,80,no
+J. Hernández,Tolima,LB,27,1200000,2027-12-30,37,3587,3,2.57,Colombia,Colombia,left,172,69,no
+J. González,Orenburg,"RW, LAMF, AMF",24,1200000,2027-06-30,9,651,2,1.99,Colombia,Colombia,right,172,67,yes
+D. Rosero,América de Cali,"RCB, CB",32,1000000,2026-12-31,35,3216,0,2.55,Colombia,Colombia,right,187,83,no
+J. Ortiz,Atlético Bucaramanga,"LCB, RCB, LB",27,1000000,2026-12-31,38,3525,2,1.0,Colombia,Colombia,right,179,70,no
+K. Andrade,Zenit,RCB,27,1000000,2031-06-30,20,1749,1,0.91,Colombia,Colombia,right,189,81,no
+N. Quiñones,Houston Dynamo,"LW, LAMF, RAMF",23,1000000,2026-12-31,18,881,0,0.84,Colombia,Colombia,right,175,67,no
+E. Guerra,León,"RW, RB",25,1000000,2028-06-30,20,743,2,0.86,Colombia,Colombia,right,172,65,no
+D. Moreno,Medellín,"LCMF, AMF",30,900000,2028-12-31,42,3483,7,6.83,Colombia,Colombia,right,185,75,no
+F. Gil,Atlético Bucaramanga,"RW, RAMF",31,900000,2026-12-31,23,910,0,1.29,Colombia,Colombia,right,178,75,yes
+M. García,Chungbuk Cheongju,"LW, CF, LWF",27,900000,,18,1415,5,6.2,Colombia,Colombia,right,180,66,no
+Á. Angulo,Pumas UNAM,"LB, LCB",29,900000,2028-06-30,28,1711,0,2.38,Colombia,Colombia,left,175,72,no
+Jhon Salazar,Atlético Bucaramanga,"RAMF, LAMF, RW",31,900000,2028-06-30,35,2977,8,6.64,Colombia,Colombia,right,178,76,yes
+A. Quintana,Independiente del Valle,GK,32,900000,2028-12-31,6,534,0,0.0,Colombia,Colombia,left,195,85,no
+B. Córdoba,Cúcuta Deportivo,LCB,26,900000,2029-06-30,18,1512,1,0.46,Colombia,Colombia,right,191,80,no
+A. Piedrahita,CSKA Sofia,"RAMF, LAMF",23,900000,2028-12-31,20,818,1,0.78,Colombia,Colombia,right,182,78,no
+R. Ureña,Millonarios,"RDMF, RB, LDMF",33,850000,2027-12-31,36,2589,3,0.81,Chile,Chile,right,181,70,no
+Jermein Peña,Junior,"RB, RCB",26,850000,2029-12-31,20,1759,1,0.89,Colombia,Colombia,right,187,80,no
+Jhon Vásquez,Llaneros,"RAMF, RW, RWF",31,800000,2026-12-31,13,1061,1,2.44,Colombia,Colombia,right,176,78,no
+S. Vega,Millonarios,"LCMF, LDMF, RB",28,800000,2026-12-31,15,1302,0,0.13,Colombia,Colombia,right,178,65,no
+O. Bertel,América de Cali,LB,29,800000,2027-12-31,40,3804,1,0.62,Colombia,Colombia,left,174,64,no
+W. Pacheco,Deportivo Pereira,"RB, RWB",31,800000,2027-06-30,36,2796,2,0.98,Colombia,Colombia,right,172,67,no
+J. Graterol,Academia Puerto Cabello,GK,29,800000,2026-12-31,26,2546,0,0.1,Venezuela,Venezuela,right,182,73,no
+J. Segura,Zürich,"LCB, CB",29,800000,2028-06-30,19,1564,2,0.99,Colombia,Colombia,left,195,80,no
+M. Puerta,Santa Fe,RB,29,800000,2026-12-31,36,2456,2,1.52,Colombia,Colombia,right,172,72,yes
+J. Fory,Portland Timbers,"LWB, LB",24,800000,2028-12-31,33,2216,1,0.67,Colombia,Colombia,left,187,81,no
+J. Parra,Once Caldas,GK,26,800000,2028-12-31,32,3145,0,0.0,Colombia,Colombia,right,184,71,no
+C. Haydar,,"LCB, LB",25,800000,,14,1164,1,0.15,Colombia,Colombia,left,183,76,no
+Pablo Sabbag,,CF,29,750000,,44,3432,15,15.23,Colombia,"Colombia, Syria",left,188,81,no
+D. Herazo,San Lorenzo,CF,30,750000,2026-12-31,42,1783,9,10.34,Colombia,Colombia,right,180,81,no
+Edwin Herrera,Junior,"RB, LB",27,750000,2026-12-31,29,2351,0,0.27,Colombia,Colombia,right,172,68,no
+Andrés Mosquera,Santa Fe,GK,34,750000,2026-12-31,44,4225,0,0.0,Colombia,Colombia,right,186,78,no
+C. Tovar,América de Cali,"LCB, RCB",28,750000,2026-12-31,37,3284,1,2.13,Colombia,Colombia,right,185,80,no
+J. Palacios,Envigado,RB,22,750000,,9,392,0,0.0,Colombia,Colombia,right,180,82,no
+J. Castro,Inter Bogotá,"RB, DMF, RDMF",29,700000,2026-12-31,41,3883,0,2.13,Colombia,Colombia,right,176,72,no
+H. Martínez,Juárez,"RCB, LDMF, LCB",28,700000,2028-06-30,11,771,0,0.56,Colombia,Colombia,right,185,73,no
+W. Ortega,Alajuelense,GK,31,700000,2028-06-30,37,3538,0,0.0,Uruguay,Uruguay,left,187,78,no
+R. Hinojosa,Blooming,"CF, AMF, RAMF",27,700000,2027-12-31,37,2873,1,2.64,Colombia,Colombia,left,170,65,yes
+D. Quiñónes,,"RAMF, LW, AMF",30,700000,,27,1431,1,2.04,Colombia,Colombia,left,171,73,no
+D. Cataño,Medellín,AMF,34,700000,2027-12-31,38,1919,1,3.44,Colombia,Colombia,right,174,75,no
+J. Barrera,Real Cartagena,"AMF, RCMF, CF",30,700000,2026-12-31,32,1772,6,4.61,Colombia,Colombia,left,172,75,no
+D. Mosquera,Hellas Verona,"CF, LAMF",26,700000,2028-06-30,22,821,4,3.4,Colombia,Colombia,right,180,65,no
+J. Quiñónes,Once Caldas,"LDMF, RAMF, RDMF",25,700000,2026-12-31,17,1041,0,0.23,Colombia,Colombia,right,170,0,no
+C. Devenish,Metz,"RCB, LCB",25,700000,2029-06-30,29,2479,1,0.91,Colombia,Colombia,right,192,82,no
+I. Rojas,Once Caldas,"DMF, RDMF",28,650000,2026-12-31,43,4109,1,0.95,Colombia,Colombia,left,178,76,no
+S. Pedroza,Al Akhdoud,"RCMF, RDMF",27,650000,,20,1676,1,0.95,Colombia,Colombia,right,176,69,no
+M. Torres,América de Cali,RCB,30,650000,,19,1625,2,1.62,Colombia,Colombia,right,180,74,no
+Larry Vásquez,Inter Bogotá,"LDMF, RCMF, LCMF",33,650000,2026-12-31,43,3914,1,3.03,Colombia,"Colombia, Venezuela",right,186,80,no
+D. Giraldo,Deportivo Cali,"RCMF, RDMF, LDMF",34,650000,2026-12-31,42,2951,2,1.28,Colombia,Colombia,right,178,71,no
+M. Vásquez,,"AMF, CF",33,650000,,32,2789,3,3.86,Argentina,Argentina,left,173,71,no
+K. Perez,Junior,"RAMF, LAMF, LW",29,650000,2028-12-31,36,2400,2,3.27,Colombia,Colombia,right,170,69,no
+J. Pestaña,Junior,RCB,28,650000,2027-12-31,32,2828,0,1.4,Colombia,Colombia,right,186,81,no
+Y. Rodallega,Medellín,LB,25,650000,2026-12-31,32,2819,0,0.63,Colombia,Colombia,left,178,73,no
+L. Sandoval,Tolima,CF,27,600000,2027-12-31,7,238,0,0.29,Colombia,Colombia,right,183,78,yes
+ Javier Méndez,Colo Colo,"RCB, RCMF, DMF",31,600000,2027-12-31,30,1327,1,0.7,Uruguay,Uruguay,right,184,83,no
+J. Pineda,Real Cartagena,"LW, RW, LAMF",28,600000,,41,3115,3,2.9,Colombia,Colombia,right,180,70,no
+Y. Candelo,,"RB, RAMF",34,600000,,37,3317,1,1.01,Colombia,Colombia,right,173,70,no
+S. Lucumí,Alajuelense,"LAMF, RAMF",31,600000,2026-12-31,31,2177,7,3.15,Colombia,Colombia,right,178,74,no
+D. Mantilla,Llaneros,"RAMF, LAMF, LW",29,600000,2026-12-31,45,3293,4,2.93,Colombia,Colombia,right,173,70,no
+G. Cabezas,Athletic Club,"LDMF, LCMF",23,600000,2028-06-30,8,408,0,0.25,Colombia,Colombia,left,178,75,yes
+A. García,Athletico Paranaense,"AMF, CF, LW",25,600000,2028-12-31,15,959,1,1.37,Colombia,Colombia,right,180,68,no
+T. Ángel,América de Cali,"AMF, CF",23,600000,2026-12-31,4,131,0,0.04,Colombia,"Colombia, England",left,174,69,no
+J. Chunga,Medellín,GK,34,550000,,27,2602,2,0.31,Colombia,Colombia,right,180,80,no
+Yeison Súarez,Deportivo Pereira,LB,28,550000,2029-06-30,9,699,0,0.27,Colombia,Colombia,left,174,68,no
+J. Pereira,Millonarios,"RDMF, RCMF",33,550000,,44,3335,4,3.83,Colombia,Colombia,right,182,75,no
+E. Valencia,Tolima,"RW, RAMF, RWF",29,550000,,26,1515,1,1.28,Colombia,Colombia,left,175,73,no
+J. Arias,Millonarios,LCB,33,550000,2027-06-30,34,2925,0,0.73,Colombia,Colombia,left,183,77,no
+Juan Zuluaga,Operário PR,"RB, LCMF, RWB",33,550000,2027-11-30,36,2384,0,0.91,Colombia,Colombia,right,176,67,no
+J. Soto,Águilas Doradas,GK,32,550000,,29,2849,0,0.0,Colombia,Colombia,right,187,82,no
+A. Arregui,Temperley,"RCMF, LDMF, LCMF",33,550000,,47,4217,7,7.05,Argentina,Argentina,right,176,74,no
+Y. Hurtado,América de Cali,RB,29,550000,,31,2300,0,0.13,Colombia,Colombia,right,170,67,no
+C. Trujillo,Tolima,"LDMF, RDMF, LCMF",27,550000,,33,2327,0,0.28,Colombia,Colombia,right,174,65,no
+R. Manjarrés,Inter Bogotá,"RCMF, LCMF, RDMF",26,550000,2027-06-30,23,1058,2,0.47,Colombia,Colombia,right,184,68,no
+W. Hurtado,Envigado,"AMF, RCMF, LCMF",22,550000,,6,178,0,0.06,Colombia,Colombia,,170,64,no
+Harold Rivera,Junior,"AMF, RDMF, LDMF",33,500000,2026-12-31,28,1643,2,1.28,Colombia,Colombia,right,176,73,no
+D. Camacho,UTC Cajamarca,"RW, RAMF",29,500000,2026-12-31,43,3451,9,6.38,Colombia,Colombia,right,178,72,no
+E. López,Tolima,"RWF, LAMF, CF",31,500000,2026-12-31,17,1153,4,2.98,Colombia,Colombia,right,179,77,no
+G. de Amores,Millonarios,GK,31,500000,2027-06-30,8,787,0,0.0,Uruguay,"Uruguay, Italy",right,190,76,no
+J. Ríos,Junior,"RDMF, LDMF",34,500000,2026-12-31,13,993,1,0.63,Colombia,Colombia,right,174,67,no
+B. Perlaza,Medellín,"RDMF, RCMF, LCMF",34,500000,2026-12-31,7,386,0,0.42,Colombia,Colombia,right,187,83,no
+Y. González,Medellín,"LAMF, RW, RAMF",32,500000,2027-12-31,25,1510,2,2.06,Colombia,Colombia,right,184,81,no
+L. González,Deportivo Táchira,"AMF, LAMF",35,500000,2026-12-31,36,2541,12,7.23,Venezuela,Venezuela,right,168,66,no
+D. Moreno,Medellín,"RDMF, DMF, LDMF",34,500000,2027-12-31,46,4051,1,2.43,Colombia,Colombia,right,179,78,no
+J. Caballero,Inter Bogotá,"RAMF, LAMF, RW",28,500000,2027-12-31,38,2735,4,1.91,Colombia,Colombia,right,185,72,no
+A. Estacio,The Strongest,"RAMF, RW, RWF",28,500000,,30,1509,8,2.31,Colombia,Colombia,left,178,78,no
+F. Boné,Inter Bogotá,"LW, LAMF, LWF",30,500000,2027-12-31,37,2732,7,5.45,Uruguay,"Uruguay, Italy",left,176,67,no
+D. Chávez,Deportivo Pasto,"RCMF, RW, RAMF",28,500000,2026-12-31,19,1529,5,2.29,Argentina,Argentina,right,180,71,no
+N. Gil,Deportivo Pasto,"LCB, LB",29,500000,,15,1158,1,0.09,Colombia,Colombia,left,182,77,no
+Víctor Moreno,Santa Fe,RCB,31,500000,,47,4436,2,1.67,Colombia,Colombia,right,184,78,no
+Emanuel Olivera,Santa Fe,"LCB, RCB",36,500000,2026-12-31,39,3809,1,1.59,Argentina,Argentina,right,180,73,no
+A. Castillo,Estudiantes,"AMF, CF, RW",23,500000,2027-12-31,35,2740,5,5.77,Colombia,Colombia,right,168,70,no
+M. Garavito,Deportivo Pasto,"LB, RB",25,500000,2026-12-31,35,3025,0,0.17,Colombia,Colombia,left,176,64,no
+Fabián Ángel,Junior,"LDMF, RCMF",25,500000,2027-12-31,11,422,1,0.2,Colombia,Colombia,right,176,68,no
+D. Londoño,Medellín,"RB, LB",31,450000,2028-12-31,43,3952,3,2.74,Colombia,Colombia,left,185,82,no
+D. Mosquera,Deportivo Recoleta,LB,33,450000,2026-12-31,29,2503,1,0.94,Colombia,Colombia,left,178,72,no
+Steven Rodríguez,Deportivo Cali,CF,27,450000,2027-12-31,3,19,0,0.0,Colombia,Colombia,right,177,72,yes
+N. Moreno,Banfield,"AMF, RAMF",29,450000,2026-12-31,36,2260,6,5.67,Colombia,Colombia,right,175,70,no
+Y. Orozco,Carabobo,"AMF, LAMF, RAMF",35,450000,2026-12-31,30,1603,4,3.85,Venezuela,"Venezuela, Colombia",left,168,73,no
+K. Londoño,Atlético Bucaramanga,"RAMF, AMF, RW",32,450000,2026-12-31,36,3266,6,2.88,Colombia,Colombia,right,180,72,no
+J. Bocanegra,Técnico Universitario,"LAMF, LW, RAMF",27,450000,2026-12-31,24,1237,0,1.08,Colombia,Colombia,left,176,74,no
+F. Viáfara,Deportivo Cali,"RB, LB",34,450000,2026-12-31,21,1292,0,0.42,Colombia,Colombia,right,167,65,no
+C. Esparragoza,Alianza,"RAMF, LDMF, RDMF",27,450000,,20,1168,1,0.87,Colombia,Colombia,right,179,71,no
+A. Gutiérrez,Atlético Bucaramanga,RB,28,450000,2026-12-31,28,1945,0,0.2,Colombia,Colombia,right,175,70,no
+L. Berrío,Medellín,"RCMF, AMF",28,450000,2027-12-31,32,2048,6,3.72,Colombia,Colombia,right,172,68,no
+C. Arrieta,Tolima,RB,30,450000,2026-12-31,2,88,0,0.0,Colombia,Colombia,right,171,75,no
+Guillermo Celis,Junior,"LCMF, RCMF",33,450000,2028-06-30,15,995,0,0.73,Colombia,Colombia,right,178,73,no
+E. Mena,Medellín,"RB, RW, RAMF",28,450000,2028-06-30,42,3555,0,1.61,Colombia,Colombia,right,178,63,no
+Eduardo Sosa,Selangor,"AMF, CF",30,450000,2027-06-30,38,2391,3,4.93,Venezuela,Venezuela,right,173,75,no
+Yulian Gomez,Inter Bogotá,LB,28,450000,2027-06-30,36,3070,0,0.69,Colombia,Colombia,left,182,72,no
+J. Marulanda,Fortaleza,RB,30,450000,2026-12-31,25,2289,0,0.37,Colombia,Colombia,right,178,70,no
+A. Ibargüen,Deportivo Pasto,"LAMF, LW, AMF",34,450000,,30,2374,6,2.62,Colombia,Colombia,right,175,67,no
+A. Oliveros,Blooming,"AMF, CF",24,450000,2026-12-31,23,1344,2,1.02,Colombia,Colombia,right,175,65,no
+L. Angulo,Peñarol,"LW, LAMF, AMF",22,450000,2027-12-31,27,1093,1,1.51,Colombia,Colombia,right,174,65,yes
+B. Montaño,Cúcuta Deportivo,LB,24,450000,2026-12-31,2,120,0,0.0,Colombia,Colombia,left,188,80,no
+E. Navarro,Once Caldas,"LB, RB",26,450000,2026-06-30,20,1919,0,0.06,Colombia,Colombia,right,177,68,no
+B. Agrón,Real Potosí,LCB,25,450000,2026-06-30,39,3346,0,0.61,Colombia,Colombia,left,184,0,no
+A. Correa,Deportivo Cali,LB,32,400000,2027-06-30,42,3784,0,0.8,Colombia,Colombia,left,178,73,no
+J. Castillo,Alianza,RB,29,400000,,28,1975,0,0.18,Colombia,Colombia,right,175,70,no
+E. Moreno,Deportivo Pereira,"LCMF, LDMF",32,400000,,36,2584,2,1.63,Colombia,Colombia,left,176,68,no
+Carlos Bacca,Junior,CF,39,400000,2026-12-31,20,1462,9,8.62,Colombia,Colombia,right,181,77,no
+Y. Cabrera,Boyacá Chicó,"AMF, LCMF, RDMF",35,400000,2026-12-31,32,1891,0,2.02,Colombia,Colombia,right,168,62,no
+N. Castrillón,Grêmio Novorizontino,"RB, RCB",30,400000,2026-11-30,24,1610,0,0.47,Colombia,Colombia,right,183,79,no
+I. Alba,Atlético Bucaramanga,RB,31,400000,2026-12-31,42,3498,1,1.34,Colombia,Colombia,right,175,0,no
+O. Vanegas,Club Atlético Güemes,"LCB, RCB",30,400000,,12,951,0,0.41,Colombia,Colombia,right,185,74,no
+J. Cuenú,Operário PR,"RCB, LCB",31,400000,2026-11-30,22,1352,0,0.88,Colombia,Colombia,right,192,86,no
+J. Aja,Unión Española,RCB,33,400000,2026-12-31,18,1574,1,1.03,Uruguay,Uruguay,right,191,84,no
+P. Lima,Academia Puerto Cabello,"RCMF, AMF",35,400000,2026-12-31,45,4223,6,6.8,Uruguay,"Uruguay, Italy",right,181,80,no
+A. Rentería,Jaguares de Córdoba,CF,33,400000,,19,1356,8,9.88,Colombia,"Colombia, Mexico",right,179,82,no
+F. Mosquera,Jaguares de Córdoba,"LCB, RCB, RDMF",31,400000,,23,1586,0,0.4,Colombia,Colombia,right,180,73,no
+S. Orozco,,"LDMF, RCMF, LCMF",30,400000,,35,2267,0,0.86,Colombia,Colombia,right,177,70,no
+D. Moreno,Amed SK,"RB, RW, RAMF",31,400000,2027-06-30,29,1402,1,2.41,Colombia,Colombia,right,179,78,no
+R. Colpa,Jaguares de Córdoba,"RCMF, RDMF, RCB",31,400000,,31,2330,1,1.39,Colombia,Colombia,right,180,76,no
+F. Hinestroza,Atlético Bucaramanga,"LAMF, LW, LWB",36,400000,,30,2491,4,4.68,Colombia,Colombia,left,178,76,no
+H. Castillo,Gimnasia La Plata,GK,32,400000,2026-12-31,41,4043,0,0.0,Colombia,Colombia,right,188,69,no
+V. Mejía,Cúcuta Deportivo,"RDMF, DMF",33,400000,2026-12-31,29,2359,0,0.11,Colombia,Colombia,right,184,70,no
+G. Perea,Olancho,LCB,34,400000,,20,1721,1,0.93,Colombia,Colombia,right,182,76,no
+B. Garcés,Blooming,"LAMF, LW",33,400000,,14,430,1,1.13,Colombia,Colombia,right,174,70,no
+F. Cantillo,Alianza,"LCMF, LDMF, RCMF",28,400000,2026-12-31,30,2176,1,1.82,Colombia,Colombia,right,184,79,yes
+R. Lora,Real Cartagena,"RCB, RCMF, LCB",29,400000,2026-12-31,27,2277,0,0.32,Colombia,Colombia,right,186,81,no
+Iván Scarpeta,Santa Fe,"RCB, CB",30,400000,2027-06-30,33,3148,1,2.4,Colombia,Colombia,right,180,76,no
+L. Pons,Atlético Bucaramanga,CF,36,400000,2028-12-31,49,3714,17,15.8,Argentina,Argentina,right,181,79,no
+Jordy Monroy,Deportivo Pereira,"RB, RW",30,400000,,15,939,0,0.01,Colombia,"Colombia, Armenia",right,185,80,no
+L. Flores,Atlético Bucaramanga,"LCMF, LDMF",30,400000,2027-12-31,23,1678,0,0.21,Venezuela,Venezuela,left,176,70,no
+J. Moya,Deportivo Cali,"LCB, RCB",34,400000,2027-06-30,19,1832,0,0.45,Colombia,Colombia,right,185,77,no
+S. Mosquera,Millonarios,LCB,32,400000,,14,1128,1,0.28,Colombia,Colombia,right,185,77,no
+L. Miranda,Llaneros,"RAMF, CF",28,400000,,37,2080,5,5.23,Colombia,Colombia,right,180,64,no
+R. Bustamante,Jaguares de Córdoba,"LDMF, LCMF, RDMF",26,400000,,35,2906,0,0.34,Colombia,Colombia,right,175,66,no
+J. Palacios,Orenburg,RCB,26,400000,2029-06-30,19,1457,0,0.09,Colombia,Colombia,right,188,81,no
+O. Acosta,Real Soacha Cundinamarca,LB,26,400000,,3,155,0,0.0,Colombia,Colombia,left,178,67,no
+L. Riascos,Llaneros,RB,25,400000,,13,1022,0,0.46,Colombia,Colombia,right,177,70,no
+O. Albornoz,Cúcuta Deportivo,"LAMF, RAMF, RW",30,350000,2027-12-31,24,1027,1,2.37,Colombia,Colombia,left,183,79,no
+Y. Moreno,Estudiantes Río Cuarto,"CF, RAMF",29,350000,2027-12-31,20,418,1,0.53,Colombia,Colombia,right,188,84,no
+D. Silva,Millonarios,"AMF, CF",39,350000,2026-12-31,44,3613,5,8.8,Colombia,Colombia,right,175,74,no
+F. Jaramillo,Monagas,"RDMF, LDMF, RCMF",30,350000,2026-12-31,15,1210,1,0.56,Colombia,Colombia,right,185,80,no
+J. Quintero,Los Chankas,CF,32,350000,2026-12-31,24,1236,2,3.09,Colombia,Colombia,right,188,80,no
+A. Auzmendi,Gimnasia La Plata,"CF, AMF",29,350000,2026-12-31,4,93,0,0.03,Argentina,Argentina,right,181,0,yes
+A. Torralvo,,"LW, LB, LAMF",32,350000,,34,2184,0,0.88,Colombia,Colombia,left,169,67,no
+S. Jiménez,Deportivo Pasto,RB,28,350000,,23,1546,1,0.31,Colombia,Colombia,right,180,70,no
+R. Márquez,Águilas Doradas,CF,28,350000,2027-06-30,29,1743,9,6.77,Colombia,Colombia,right,187,83,yes
+J. Cardona,Once Caldas,"RB, LB",27,350000,2026-12-31,29,2130,0,1.47,Colombia,Colombia,right,184,78,no
+J. Contreras,Llaneros,"LAMF, LW, LWF",27,350000,2027-06-30,26,1275,0,0.43,Colombia,Colombia,left,170,64,yes
+E. Arango,,"LW, LAMF, RW",32,350000,,32,2378,4,3.4,Colombia,Colombia,right,173,63,no
+Jefersson Martínez,Junior,GK,32,350000,2026-12-31,4,390,0,0.0,Colombia,Colombia,right,188,85,no
+F. Sambueza,Atlético Bucaramanga,"AMF, LCMF, RAMF",37,350000,2026-12-31,41,2567,3,3.93,Argentina,Argentina,right,169,65,no
+Y. Gordillo,Barracas Central,"LDMF, DMF, RDMF",34,350000,2026-12-31,16,830,0,0.02,Colombia,Colombia,right,176,73,no
+E. Chaux,Medellín,GK,34,350000,2026-12-31,20,1966,0,0.0,Colombia,Colombia,right,189,79,no
+J. Rodríguez,Real Cartagena,"LCMF, RCMF",33,350000,,39,2288,0,1.71,Colombia,Colombia,left,180,67,no
+C. Blanco,Boyacá Chicó,LB,27,350000,,42,3652,2,0.22,Colombia,Colombia,left,175,70,no
+A. Estupiñán,Millonarios,"LAMF, RAMF, CF",32,350000,2026-12-31,33,1898,8,3.54,Colombia,Colombia,right,175,75,no
+J. Malagón,Jaguares de Córdoba,"RCB, LCB",33,350000,,31,2226,2,2.31,Colombia,Colombia,right,185,77,no
+J. Roa,Águilas Doradas,"RCMF, DMF, RDMF",31,350000,,34,2910,0,0.21,Colombia,Colombia,right,178,65,no
+P. Rojas,Anzoátegui FC,"LW, LAMF, RAMF",34,350000,2026-12-31,26,2369,8,6.1,Colombia,Colombia,right,168,72,no
+G. Banguera,Deportivo Pasto,GK,30,350000,,5,448,0,0.0,Colombia,Colombia,right,187,80,no
+Luis Pérez,ADT,"RDMF, RCMF, DMF",30,350000,2026-12-31,31,2877,1,1.23,Colombia,Colombia,left,176,73,no
+C. De Las Salas,Real Cartagena,LB,28,350000,,36,3259,1,1.45,Colombia,Colombia,left,173,72,no
+C. Sierra,América de Cali,"LCMF, LDMF",35,350000,,38,3475,9,5.32,Colombia,Colombia,left,183,0,no
+N. Giraldo,,LB,33,350000,,37,2427,0,0.79,Colombia,Colombia,left,175,70,no
+A. Domínguez,LDU Quito,GK,39,350000,2026-12-31,9,880,0,0.0,Ecuador,Ecuador,right,196,80,no
+D. Banguero,Millonarios,LB,36,350000,2026-12-31,40,3030,3,2.81,Colombia,Colombia,left,185,85,no
+J. Quiñónes,Deportivo Pasto,RCB,36,350000,,27,2540,1,1.35,Colombia,Colombia,right,195,84,no
+F. Aguilar,Central Córdoba SdE,RCB,33,350000,2027-12-31,10,855,0,0.0,Colombia,Colombia,right,190,82,no
+Jhon Duque,,"RDMF, LDMF, RCMF",34,350000,,20,1014,1,0.51,Colombia,Colombia,left,173,71,no
+K. Valencia,Internacional Palmira,"CF, RAMF",24,350000,2026-12-31,31,1955,2,3.69,Colombia,Colombia,right,184,79,no
+J. Colorado,Monagas,"RB, RDMF, RCMF",25,350000,2026-12-31,27,1756,1,2.24,Colombia,Colombia,right,180,72,yes
+H. Palacios,Medellín,RB,26,350000,2026-12-31,12,600,1,0.93,Colombia,Colombia,right,181,74,yes
+L. Marquinez,Tolima,GK,23,350000,2029-12-31,3,212,0,0.0,Colombia,Colombia,right,191,83,yes
+L. Sánchez,Once Caldas,"LWF, AMF, LW",25,350000,2027-12-31,6,233,1,1.01,Colombia,Colombia,right,173,63,yes
+Y. Quiñones,Deportivo Pereira,"LW, LAMF",23,350000,2028-06-30,24,652,1,1.17,Colombia,Colombia,left,173,65,no
+A. Arroyo,Fortaleza,"AMF, CF, LCMF",24,350000,2027-06-30,16,721,1,1.64,Colombia,Colombia,right,171,68,no
+P. Ortíz,Baník Ostrava,LCB,26,350000,2029-06-30,2,115,0,0.0,Colombia,Colombia,left,190,77,no
+C. Lucumí,Medellín,CF,26,350000,2029-12-31,14,784,1,2.28,Colombia,Colombia,right,186,81,no
+K. Lugo,Pirata,"RAMF, RW, LW",28,325000,2026-12-31,16,735,1,1.51,Colombia,Colombia,right,180,68,no
+R. García,Universidad San Martín,"AMF, LAMF, LW",32,325000,,21,846,1,0.94,Peru,Peru,right,175,71,no
+J. Aguirre,Once Caldas,GK,34,300000,2027-06-30,1,97,0,0.0,Colombia,Colombia,right,180,70,no
+S. Noreña,Envigado,"LCB, RCB",28,300000,2026-12-31,33,2732,0,0.07,Colombia,Colombia,right,182,74,no
+C. Mosquera,FC Cajamarca,GK,31,300000,2026-12-31,19,1851,0,0.0,Colombia,Colombia,right,191,83,no
+P. Grazziani,Alianza,GK,31,300000,,4,344,0,0.0,Colombia,Colombia,right,183,75,no
+J. Agudelo,Cúcuta Deportivo,CF,33,300000,,8,561,2,2.57,Colombia,Colombia,right,180,70,no
+J. Salazar,Changchun Yatai,"LAMF, RAMF, LW",28,300000,2026-12-31,11,642,0,0.77,Colombia,Colombia,right,170,70,no
+L. Ospina,Atlético Huila,"LCB, CB",35,300000,,20,1733,1,0.53,Colombia,Colombia,right,190,80,no
+M. Ortega,,"AMF, RCMF, LW",35,300000,,14,637,0,0.4,Colombia,Colombia,right,172,70,no
+Á. Rodríguez,,CF,37,300000,,29,2239,6,6.7,Colombia,Colombia,right,183,83,no
+K. Salazar,Patriotas Boyacá,"LDMF, RCMF, LCMF",28,300000,,9,575,0,0.0,Colombia,Colombia,right,178,73,no
+E. Serje,Deportivo Pasto,"RCB, RAMF",30,300000,,3,119,0,0.1,Colombia,"Colombia, Spain",right,180,72,no
+I. Rossi,Danubio,"RCMF, LCMF, DMF",32,300000,2026-12-31,8,414,0,0.11,Argentina,"Argentina, Italy",left,183,75,no
+R. Celis,Zamora,"RAMF, LAMF, LW",30,300000,2026-12-31,19,737,1,1.59,Venezuela,Venezuela,right,178,71,no
+E. Aguirre,Defensores de Belgrano,"RAMF, LWF, RWB",34,300000,2026-12-31,9,189,0,0.18,Argentina,Argentina,right,155,53,no
+J. Velásquez,Fortaleza,"AMF, LCMF, LWF",31,300000,,11,632,0,1.63,Colombia,Colombia,right,174,72,no
+A. Plata,Deportivo Pereira,"RAMF, RW",35,300000,,16,1024,6,4.39,Colombia,Colombia,right,172,65,no
+D. Lemos,,"LWF, RAMF, AMF",30,300000,,14,592,1,1.11,Colombia,Colombia,left,178,72,no
+L. Saldaña,Alianza,LB,36,300000,,31,2855,2,1.02,Colombia,Colombia,left,171,66,no
+S. Acosta,Deportivo Pereira,"RW, RAMF, LAMF",31,300000,,22,911,3,1.76,Colombia,Colombia,left,180,78,no
+C. Pérez,,"RCB, CB, LCB",31,300000,,23,2046,0,0.36,Colombia,Colombia,right,185,79,no
+Y. Congo,Unión Magdalena,"LDMF, RCMF, LCMF",28,300000,,21,1438,0,0.23,Colombia,Colombia,right,176,74,no
+M. Medina,Llaneros U18,"LDMF, LCMF",29,300000,,44,2930,0,0.33,Colombia,Colombia,left,178,68,no
+D. Palacio,Yelimay Semey,"LWB, LAMF, LW",29,300000,2026-12-31,26,1166,0,0.35,Colombia,Colombia,left,179,64,no
+F. Meza,Llaneros,RCB,34,300000,,19,1794,0,0.31,Colombia,Colombia,right,184,79,no
+G. Torres,Cúcuta Deportivo,"RAMF, LAMF, CF",30,300000,,18,978,2,2.18,Colombia,Colombia,right,181,78,no
+Jeison Angulo,Santa Fe,LB,30,300000,2026-12-31,21,1609,0,1.18,Colombia,Colombia,left,184,74,no
+A. Angulo,Tolima,"RCB, LCB",30,300000,,7,544,1,0.53,Colombia,Colombia,right,187,80,no
+J. Lloreda,Deportes Quindío,"CF, LW, LAMF",31,300000,,25,1582,3,3.47,Colombia,Colombia,right,178,73,no
+J. Castellanos,Deportivo La Guaira,"AMF, CF",30,300000,2026-12-31,27,1369,3,1.42,Venezuela,Venezuela,left,170,69,no
+V. Hernández,,"LW, LAMF, AMF",37,300000,,48,3684,4,5.06,Colombia,Colombia,right,160,61,no
+Dani Torres,Santa Fe,"RCMF, LCMF",36,300000,2026-12-31,17,854,0,0.34,Colombia,Colombia,right,183,84,no
+A. Ricaurte,Águilas Doradas,"LCMF, LDMF, AMF",34,300000,,38,2831,1,0.46,Colombia,Colombia,left,182,75,no
+R. Flores,Academia Puerto Cabello,"LAMF, LW, RAMF",28,300000,2026-12-31,25,2012,2,4.34,Venezuela,Venezuela,right,179,65,no
+M. Rodas,Inter Bogotá,"RCB, LCB",28,300000,,32,3030,2,2.3,Colombia,Colombia,right,186,84,no
+J. Viveros,,"LAMF, LW, RAMF",34,300000,,34,2799,6,5.24,Colombia,Colombia,right,176,70,no
+E. Velasco,Deportivo Cali,LB,34,300000,2027-06-30,22,1815,1,0.28,Colombia,Colombia,left,179,75,no
+D. Pabón,,"LAMF, RAMF, AMF",38,300000,,42,3353,9,9.02,Colombia,Colombia,right,168,72,no
+A. Andrade,Nacional AM,"AMF, LAMF, LW",37,300000,,42,2433,4,4.75,Colombia,"Colombia, Mexico",right,183,73,no
+D. Quiñones,Inter Bogotá,"DMF, RCMF, RDMF",25,300000,2027-06-30,34,2481,1,2.1,Colombia,Colombia,right,176,69,no
+D. Luna,Mallorca,"AMF, LW, LAMF",23,300000,2028-06-30,23,1129,4,3.47,Colombia,Colombia,left,178,66,no
+K. Mosquera,Cibao,RCB,26,300000,,2,103,0,0.0,Colombia,Colombia,right,187,79,no
+A. Moralez,Llaneros,RCB,25,300000,2026-12-31,3,75,0,0.0,Colombia,Colombia,right,190,77,yes
+J. Franco,,RB,24,300000,,12,712,0,0.0,Colombia,Colombia,right,178,70,no
+J. Valencia,Tolima,CF,26,300000,2026-12-31,42,1571,7,8.37,Colombia,Colombia,left,188,80,no
+J. Díaz,Boyacá Chicó,"RDMF, RCMF, LCMF",25,300000,,9,470,0,0.05,Colombia,Colombia,right,183,74,no
+K. Moreno,Alianza,"RCB, LCB",25,300000,2026-12-31,8,538,0,0.14,Colombia,Colombia,right,187,87,no
+J. Marcelin,Boyacá Chicó,"LAMF, LW, LB",26,300000,,30,1148,3,2.39,Colombia,Colombia,left,164,70,no
+I. Camargo,Atlético Grau,"CF, RAMF, RW",26,300000,2027-06-30,19,765,2,1.49,Colombia,Colombia,right,176,69,yes
+J. Mina,Internacional Palmira,RCB,26,300000,,17,1540,0,0.85,Colombia,Colombia,right,188,0,no
+A. Simarra,Medellín,LCB,26,300000,2028-06-30,4,369,0,0.03,Colombia,Colombia,left,190,86,no
+J. Hernández,Envigado,CF,33,275000,2027-12-31,42,3260,14,11.54,Venezuela,Venezuela,right,182,80,yes
+M. Mier,Alianza,"AMF, LAMF, LW",35,275000,,39,2220,5,6.07,Uruguay,Uruguay,left,182,83,no
+J. Mosquera,Tolima,"RWB, RB, RCB",26,275000,2027-12-31,44,4267,1,0.79,Colombia,Colombia,right,175,72,no
+J. Peñaloza,,"LB, RAMF, RW",26,275000,,14,630,0,0.12,Colombia,Colombia,right,171,73,no
+D. Bueno,Anzoátegui FC,RCB,25,275000,2026-12-31,2,46,0,0.0,Colombia,Colombia,right,190,85,no
+S. Guzmán,Tolima,"LCMF, DMF, RCMF",29,250000,2028-06-30,9,286,0,0.0,Colombia,Colombia,right,186,76,no
+R. Tavera,Bogotá,"LDMF, RDMF, RCMF",30,250000,,23,1088,0,0.06,Colombia,Colombia,right,174,67,no
+D. Pino,Real Cartagena,"RCB, DMF, RCMF",30,250000,2026-12-31,22,1363,0,0.03,Colombia,Colombia,right,173,67,no
+K. Salazar,,"AMF, LW, LAMF",30,250000,,17,496,3,1.34,Colombia,Colombia,right,170,68,no
+F. Arbeláez,Atlético Huila,LB,29,250000,,18,1360,0,0.17,Colombia,Colombia,left,181,71,no
+Stiwart Acuña,Envigado,"AMF, LAMF, CF",27,250000,2026-12-31,5,172,1,0.74,Colombia,Colombia,right,180,0,yes
+Christian Mafla,Santa Fe,LB,33,250000,2027-06-30,26,2091,0,0.11,Colombia,Colombia,left,175,70,no
+Andrés Murillo,Comunicaciones II,"LCB, LB",30,250000,,15,1213,0,0.14,Colombia,Colombia,left,183,75,no
+G. Montes,Estudiantes de Mérida,RB,30,250000,2026-12-31,1,98,0,0.0,Colombia,Colombia,right,179,0,no
+Y. Díaz,Fortaleza,"RCB, LCB",28,250000,,4,166,0,0.0,Colombia,Colombia,right,178,70,no
+E. Perlaza,Monagas,"RB, LB",37,250000,2026-12-31,31,2286,0,0.24,Colombia,Colombia,right,172,75,no
+Jaime Giraldo,Semen Padang,LCB,28,250000,,2,37,0,0.0,Colombia,Colombia,left,187,80,no
+J. Caicedo,Patriotas Boyacá,"RDMF, LCMF, LDMF",28,250000,,11,519,1,0.07,Colombia,Colombia,right,182,0,no
+J. Maza,Jaguares de Córdoba,"LAMF, LW",31,250000,,13,697,0,1.14,Colombia,Colombia,left,174,69,no
+Á. Meléndez,Real Cartagena,"RAMF, RW",29,250000,,16,542,1,1.92,Colombia,Colombia,right,170,62,no
+F. Flórez,Alianza,"RCMF, RDMF, LDMF",33,250000,,29,1776,0,0.07,Colombia,Colombia,right,177,67,no
+J. Valencia,,"LCMF, RCMF",28,250000,,23,1027,1,1.37,Colombia,Colombia,right,185,79,no
+S. Gómez,,RB,28,250000,,1,96,0,0.0,Colombia,Colombia,right,180,0,no
+L. Caicedo,,"DMF, RDMF, RCMF",30,250000,,36,3475,0,0.3,Colombia,Colombia,right,171,69,no
+G. Mera,,LCB,36,250000,,23,2166,0,0.69,Colombia,Colombia,left,187,84,no
+J. Sinisterra,Deportivo Garcilaso,"CF, RAMF, RW",28,250000,2026-12-31,35,1299,1,1.07,Colombia,Colombia,right,171,69,no
+L. Pico,Fortaleza,"DMF, RCMF, LDMF",34,250000,,23,1538,0,0.14,Colombia,Colombia,right,177,77,no
+A. Artunduaga,,LB,28,250000,,29,2254,1,0.67,Colombia,Colombia,left,175,72,no
+W. De La Rosa,Jaguares de Córdoba,"RAMF, CF, RW",33,250000,2026-12-31,25,1335,2,1.45,Colombia,Colombia,right,166,64,no
+D. Quiñones,Llaneros,RB,27,250000,2027-06-30,25,1667,0,0.6,Colombia,Colombia,right,171,67,no
+Iago Falqué,,"AMF, RDMF",36,250000,,15,733,2,1.98,Spain,Spain,left,174,69,no
+J. Pérez,,"LAMF, LW",35,250000,,35,2050,6,5.11,Colombia,Colombia,right,178,75,no
+F. Pardo,Alianza,"RW, RAMF",35,250000,,42,2834,5,3.35,Colombia,Colombia,right,178,80,no
+J. Arboleda,,RB,37,250000,,43,3619,0,0.59,Colombia,Colombia,right,178,70,no
+R. Blanco,PSBS Biak Numfor,CF,27,250000,,20,666,2,4.02,Colombia,Colombia,right,180,74,no
+D. Padilla,,"RDMF, LCMF, RCMF",32,250000,,30,1579,0,0.93,Colombia,Colombia,right,175,70,no
+M. Castaño,Deportes Quindío,LB,32,250000,,38,3391,2,0.96,Colombia,Colombia,left,177,71,no
+D. Martínez,Jaguares de Córdoba,GK,36,250000,2026-12-31,34,3247,0,0.0,Colombia,Colombia,right,180,74,no
+Luis Vásquez,Atlético Bucaramanga,GK,30,250000,2026-12-31,10,961,0,0.0,Colombia,Colombia,right,187,80,no
+M. Pérez,Deportivo Pereira,CF,35,250000,,35,2881,14,18.55,Colombia,Colombia,right,182,76,no
+D. Novoa,Atlético Bucaramanga,GK,37,250000,2027-06-30,20,1953,0,0.0,Colombia,Colombia,right,186,80,no
+J. Rodríguez,Águilas Doradas,"LCB, RCB",25,250000,2026-12-31,23,1687,1,0.61,Colombia,Colombia,right,185,75,no
+Y. Mosquera,,"LB, LW",24,250000,,5,148,0,0.0,Colombia,Colombia,left,178,73,no
+J. Caldera,Deportivo Cali,"RCB, LCB",24,250000,2027-12-31,21,1501,0,1.32,Colombia,Colombia,right,185,77,no
+J. Tello,Deportivo Cali,LB,24,250000,,5,445,0,0.0,Colombia,Colombia,left,179,76,no
+J. Mulato,Posušje,"LAMF, CF",23,250000,2028-06-30,2,30,0,0.0,Colombia,Colombia,left,180,75,yes
+J. Ampudia,Independiente Yumbo,RB,26,250000,,7,563,0,0.12,Colombia,Colombia,right,175,0,no
+A. Orelién,Tauro,"AMF, CF, LCMF",25,250000,2027-06-30,5,278,0,0.14,Panama,Panama,right,169,60,no
+C. Ordóñez,Jaguares de Córdoba,"RCB, LCB",24,250000,,22,1925,2,1.14,Colombia,Colombia,right,186,79,no
+Y. Góez,Deportivo Pasto,"LCMF, RCMF",26,250000,,37,2187,1,0.87,Colombia,Colombia,right,177,75,no
+E. López,Real Cartagena,"RDMF, RCMF, LCMF",26,250000,2029-06-30,4,127,0,0.0,Colombia,Colombia,right,178,74,no
+J. Díaz,CD Universitario,"RDMF, LDMF, RCMF",26,250000,2027-06-30,22,1065,0,0.07,Colombia,Colombia,right,178,70,no
+O. Duarte,Comunicaciones ,CF,30,225000,2026-12-31,11,613,2,1.5,Colombia,Colombia,left,180,75,no
+N. Palacios,,"RCB, LCB",34,225000,,11,453,0,0.0,Colombia,Colombia,right,190,72,no
+A. Rivera,,LB,31,200000,,14,1027,0,0.18,Colombia,Colombia,left,175,70,no
+S. Londoño,,GK,31,200000,,14,1368,0,0.0,Colombia,Colombia,right,184,70,no
+O. Hernández,Deportivo Táchira,"DMF, RCMF, LCMF",33,200000,,6,135,0,0.14,Venezuela,Venezuela,right,170,72,no
+C. Mosquera,,"AMF, RAMF, RWF",35,200000,,28,1261,0,1.38,Colombia,Colombia,right,174,72,no
+B. Fernández,Patriotas Boyacá,CF,34,200000,,28,1852,6,6.36,Colombia,Colombia,right,183,80,no
+D. Rodríguez,Jaguares de Córdoba,"RAMF, RW",30,200000,,27,1100,1,0.92,Venezuela,Venezuela,right,163,61,no
+B. De Alba,Atlántico,"AMF, RCMF",33,200000,,4,212,0,0.25,Colombia,Colombia,left,168,68,no
+A. Vuletich,Comunicaciones ,CF,34,200000,2027-06-30,17,787,1,2.33,Argentina,"Argentina, Croatia",right,185,80,no
+N. Gallardo,San Martín Tucumán,"LB, LW",28,200000,2026-12-31,8,305,0,0.23,Argentina,Argentina,left,179,73,no
+A. Barbaro,XV de Jaú,"AMF, RWF, LCMF",34,200000,,13,422,0,0.44,Argentina,"Argentina, Italy",left,177,72,no
+J. García,,"LCMF, LDMF, RDMF",29,200000,,19,606,0,0.0,Colombia,Colombia,right,184,73,no
+Jorge Ramos,César Vallejo,CF,33,200000,2026-12-31,1,16,0,0.0,Colombia,Colombia,right,183,73,no
+J. Montaño,,"RB, RAMF",33,200000,,13,529,0,0.01,Colombia,Colombia,right,170,69,no
+S. Herrera,Fortaleza,CF,31,200000,,8,579,2,2.0,Colombia,Colombia,right,178,71,no
+F. Báez,Sportivo Ameliano,RCB,34,200000,2026-12-31,32,2985,1,1.19,Paraguay,Paraguay,right,183,70,no
+J. Guevara,Arema,"LCB, LCMF, LDMF",34,200000,2027-06-30,23,1450,1,0.73,Colombia,Colombia,left,193,86,no
+F. Castro,Atlético Bucaramanga,"LCMF, RCMF, RDMF",34,200000,2026-12-31,10,869,0,0.11,Colombia,Colombia,right,183,74,no
+L. Paz,Once Caldas,"RDMF, DMF, RCMF",37,200000,,15,886,0,0.04,Colombia,Colombia,right,175,70,no
+F. Torijano,Deportivo Pasto,RCB,37,200000,2026-12-31,39,3787,2,2.42,Colombia,Colombia,right,182,73,no
+J. Riquett,Once Caldas,LCB,36,200000,2026-12-31,35,2975,0,0.68,Colombia,Colombia,left,188,80,no
+D. Moreno,Once Caldas,CF,40,200000,2026-12-31,42,3861,22,18.82,Colombia,Colombia,right,178,83,no
+S. Cárdenas,,AMF,36,200000,,45,4043,8,5.78,Colombia,Colombia,left,168,68,no
+C. Subero,,RB,35,200000,,35,2932,0,0.23,Colombia,Colombia,right,170,68,no
+J. Chaverra,Alianza,GK,33,200000,,45,4365,0,0.0,Colombia,Colombia,right,185,75,no
+W. Morelo,,CF,39,200000,,44,3818,19,16.67,Colombia,Colombia,right,171,68,no
+J. Barboza,La Luz,"LDMF, RDMF, DMF",35,200000,2026-12-31,13,888,2,0.34,Uruguay,Uruguay,right,178,68,no
+L. Escalante,,"CF, RW, LAMF",34,200000,,33,1874,5,4.5,Colombia,Colombia,left,172,74,no
+J. García,Águilas Doradas,"LCB, RCB",37,200000,,26,2409,0,1.22,Colombia,Colombia,right,186,75,no
+K. Riascos,Charlotte Independence,RCB,31,200000,2026-11-30,37,3577,1,1.92,Colombia,Colombia,right,189,80,no
+C. Vargas,,GK,36,200000,,8,786,0,0.0,Colombia,Colombia,right,184,84,no
+B. Correa,,LB,33,200000,,31,2466,0,0.7,Colombia,Colombia,left,170,65,no
+G. Meléndez,Academia Puerto Cabello,"LCB, RCB",31,200000,2026-12-31,25,2226,0,0.88,Venezuela,Venezuela,right,187,82,no
+M. Castaño,Técnico Universitario,"AMF, RCMF, LCMF",27,200000,2026-12-31,12,416,0,0.38,Colombia,Colombia,right,176,64,no
+D. Loaiza,Medellín,"RCMF, RDMF",32,200000,,22,1387,0,0.21,Colombia,Colombia,right,177,74,no
+J. Valencia,ADT,GK,33,200000,2026-12-31,21,1973,0,0.0,Colombia,Colombia,right,183,75,no
+V. Arboleda,,"RW, RAMF, LW",29,200000,,32,1801,3,3.38,Colombia,Colombia,right,170,65,no
+J. Posada,,RB,30,200000,,37,3211,0,1.34,Colombia,Colombia,right,171,62,no
+J. Andrade,Boca Juniors de Cali,"RCMF, LWF",30,200000,,29,1434,1,1.84,Colombia,Colombia,right,182,0,no
+M. Rangel,Aurora,CF,35,200000,,31,2057,7,6.14,Colombia,Colombia,right,188,77,no
+G. Ramírez,,"CF, AMF",36,200000,,19,658,3,2.88,Paraguay,"Paraguay, Mexico",right,181,74,no
+G. Peña,,CF,26,200000,,16,913,2,4.08,Colombia,Colombia,right,190,68,no
+C. Charris,,"RAMF, LAMF, RWB",24,200000,,7,181,0,0.4,Colombia,Colombia,right,0,0,no
+J. Ditta,Real Cartagena,CF,22,200000,2027-06-30,1,13,0,0.0,Colombia,Colombia,,177,0,no
+C. Mosquera,Bogotá,RB,25,200000,,12,1090,0,0.43,Colombia,Colombia,right,172,70,no
+F. Rodríguez,Municipal Liberia,CF,33,175000,,3,69,0,0.05,Costa Rica,Costa Rica,right,182,80,no
+A. Quintana,Atlanta,CF,34,175000,2026-12-31,24,1080,3,2.01,Argentina,Argentina,right,190,79,no
+J. Infante,,LW,33,175000,,3,82,0,0.0,Venezuela,Venezuela,right,179,62,no
+C. Robles,,"RDMF, RCMF, LCMF",34,175000,,21,1588,2,1.92,Colombia,Colombia,right,185,79,no
+A. Montero,Estudiantes de Mérida,"RW, LW, LAMF",32,175000,2026-12-31,8,404,0,0.28,Venezuela,Venezuela,right,175,61,no
+H. Mojica,,"AMF, RW, CF",33,175000,,19,1218,4,3.08,Colombia,Colombia,left,168,67,no
+A. Del Valle,Alianza,"CF, RW",37,175000,,35,2482,11,10.25,Colombia,Colombia,right,175,67,no
+C. Mancilla,Veraguas,LCB,33,175000,2026-12-31,7,389,0,0.17,Colombia,Colombia,right,184,72,no
+J. Silva,,GK,32,175000,,22,1907,0,0.0,Colombia,Colombia,right,189,80,no
+J. Barragán,Zamora,"CF, RW, LW",26,175000,2026-12-31,26,857,3,1.89,Venezuela,"Venezuela, Colombia",right,178,73,no
+S. Palma,Boyacá Chicó,"LCB, RCB",26,175000,,4,265,0,0.0,Colombia,Colombia,right,189,81,no
+L. Angulo,Hapoel Haifa,RCMF,30,150000,,14,982,1,0.97,Colombia,Colombia,right,188,78,no
+J. Leudo,Real Cartagena,"DMF, RCMF, LDMF",32,150000,2026-12-31,16,1423,0,0.4,Colombia,Colombia,right,183,82,no
+Jefferson Ramos,Aurora,"RAMF, RW, AMF",27,150000,2026-12-31,10,358,0,0.2,Colombia,Colombia,right,175,70,no
+S. Leyton,Antofagasta,"RCMF, RDMF",33,150000,,14,698,2,1.02,Chile,Chile,right,177,74,no
+J. Palacios,Unión Magdalena,"RW, RAMF, LW",29,150000,,11,534,0,0.08,Colombia,Colombia,right,171,67,no
+S. Román,,GK,31,150000,,10,971,0,0.0,Colombia,Colombia,right,190,82,no
+E. Caicedo,,LCB,31,150000,,14,1283,0,0.0,Colombia,Colombia,left,186,74,no
+J. Pajoy,Santa Cruz,"LAMF, RAMF, RW",37,150000,,20,1116,0,1.62,Colombia,Colombia,left,175,74,no
+F. Delgado,Deportivo Pereira,LB,27,150000,2026-12-31,24,2031,0,0.33,Colombia,Colombia,left,174,67,no
+H. Acevedo,Unión Magdalena,GK,29,150000,,26,2561,0,0.0,Colombia,Colombia,right,185,81,no
+D. Valdés,,CF,35,150000,,28,1803,3,6.97,Colombia,Colombia,right,178,76,no
+J. Murillo,Unión Magdalena,RB,32,150000,,29,1923,0,0.7,Colombia,Colombia,right,178,75,no
+D. Díaz,,"AMF, LDMF, RAMF",36,150000,,27,1456,1,0.83,Venezuela,Venezuela,right,170,67,no
+J. Valencia,Firpo,"CF, LAMF",34,150000,,13,340,1,1.23,Colombia,Colombia,right,186,81,no
+D. Gómez,,"RB, LB",38,150000,,26,1710,0,0.2,Colombia,Colombia,left,172,72,no
+Jeferson Rivas,Real Potosí,"CF, LAMF, AMF",29,150000,,22,742,2,1.93,Colombia,Colombia,right,181,77,no
+C. Henao,Jaguares de Córdoba,LCB,37,150000,,30,2596,1,1.14,Colombia,Colombia,left,187,85,no
+J. Mena,Boyacá Chicó,"LCB, RCB",37,150000,2027-06-30,36,2847,1,1.78,Colombia,Colombia,right,183,79,no
+A. Ramos,América de Cali,"CF, AMF",40,150000,,41,3725,11,13.04,Colombia,Colombia,right,185,75,no
+D. Sánchez,Boyacá Chicó,LB,33,150000,,19,1698,0,0.03,Colombia,Colombia,left,182,80,no
+V. Cabezas,Unión Magdalena,GK,28,150000,,6,545,0,0.0,Colombia,Colombia,left,190,79,no
+J. Hernández,Academia Puerto Cabello,"LW, CF, RW",29,150000,2026-12-31,24,761,0,1.28,Venezuela,"Venezuela, Colombia",right,179,73,no
+M. Duarte,Cúcuta Deportivo,LB,34,150000,,35,3133,1,1.6,Colombia,Colombia,left,171,67,no
+D. Ruíz,,"RB, RW",28,150000,,17,1023,0,0.18,Colombia,Colombia,right,0,0,no
+F. Coniglio,Virtus Francavilla,"CF, AMF",34,150000,2027-06-30,17,604,0,0.73,Argentina,"Argentina, Italy",right,184,84,no
+Jefferson Duque,,CF,39,150000,,43,3353,19,16.69,Colombia,Colombia,right,184,86,no
+A. Mejía,,"RDMF, DMF, RCMF",38,150000,,36,1910,1,0.81,Colombia,Colombia,right,177,75,no
+J. Caicedo,Boca Juniors de Cali,CF,37,150000,,24,1456,5,5.55,Colombia,Colombia,right,180,78,no
+W. Cuesta,Internacional Palmira,GK,33,150000,2026-12-31,35,3439,0,0.0,Colombia,Colombia,right,195,87,no
+Y. Rosales,Alianza,"RB, RCB",25,150000,2026-12-31,18,1020,0,0.0,Colombia,Colombia,right,183,76,no
+J. Loaiza,Llaneros,GK,23,150000,,1,94,0,0.0,Colombia,Colombia,,0,0,no
+A. Morales,Firpo,"LAMF, LW, AMF",26,150000,,6,97,0,0.05,Colombia,Colombia,right,171,63,no
+Y. Celedón,9 de Octubre,"LCB, LB",26,150000,2026-12-31,24,1648,0,0.39,Colombia,Colombia,left,168,62,no
+D. Linarez,,LB,34,125000,,12,1105,0,0.01,Venezuela,Venezuela,left,172,64,no
+R. Dinolis,San Francisco,"CF, LAMF",31,125000,2026-12-31,6,193,0,0.62,Panama,Panama,right,170,66,no
+H. Vergara,Chiapas,"CF, AMF",27,125000,,12,271,1,0.21,Colombia,Colombia,left,184,0,no
+D. Riascos,Internacional Palmira,CF,39,125000,,33,2435,12,10.56,Colombia,Colombia,right,182,75,no
+P. Bueno,Estudiantil CNI,CF,36,125000,2026-12-31,14,479,2,2.36,Argentina,Argentina,right,181,77,no
+Hárold Cummings,Malacateco,RCB,34,125000,2027-06-30,12,1152,0,0.33,Panama,Panama,right,183,84,no
+C. Ramírez,Internacional Palmira,LCB,38,125000,,42,4014,12,10.33,Colombia,Colombia,left,182,81,no
+J. Otálvaro,,"AMF, LAMF",28,125000,,8,227,1,0.42,Colombia,Colombia,right,174,68,no
+E. Mosquera,,"LB, LCB",35,120000,,25,1825,0,0.23,Colombia,Colombia,left,183,77,no
+J. Moreno,Dempo,LCB,29,100000,,16,1078,1,0.69,Colombia,Colombia,left,187,78,no
+J. Mahecha,Inter Bogotá,"DMF, RCMF, RDMF",38,100000,,27,1552,0,0.42,Colombia,Colombia,right,176,67,no
+R. Rentería,Deportivo Pereira,RCB,30,100000,,21,1989,1,0.44,Colombia,Colombia,right,181,81,no
+C. Moya,,"LCB, RCB",28,100000,,4,297,0,0.12,Colombia,Colombia,right,194,0,no
+G. Burdisso,,RCB,37,100000,,22,2115,1,1.44,Argentina,"Argentina, Italy",right,189,85,no
+D. Abadia,North District,"CF, AMF",27,100000,,5,74,0,0.35,Colombia,Colombia,right,179,76,no
+R. Quiñónes,,"LAMF, RW, RAMF",31,100000,,6,194,0,0.2,Colombia,Colombia,right,185,75,no
+Y. González,,"LCB, RCB",36,100000,,22,1668,0,1.54,Colombia,"Colombia, Equatorial Guinea",right,178,80,no
+J. Segura,,RCB,35,100000,,7,347,0,0.0,Colombia,Colombia,right,185,76,no
+J. Scott,,"DMF, RDMF, RCMF",31,100000,,7,300,0,0.0,Colombia,Colombia,right,0,0,no
+A. Escobar,Real Cartagena,"LB, LWF",29,100000,2026-12-31,10,576,0,0.07,Colombia,Colombia,left,0,0,no
+F. Banguero,,LB,37,100000,,9,374,0,0.03,Colombia,Colombia,right,180,74,no
+W. Guisao,,"RW, RAMF, RWF",34,100000,,34,2188,2,2.32,Colombia,Colombia,right,177,75,no
+M. Piedrahita,,"RW, RB, RCMF",41,100000,,37,2949,2,3.36,Colombia,Colombia,right,175,72,no
+C. Sánchez,,"DMF, LDMF, RDMF",40,100000,,42,4004,2,2.26,Colombia,Colombia,left,182,80,no
+J. Herrera,Atlético Huila,LB,30,100000,,19,1002,0,0.32,Colombia,Colombia,left,177,67,no
+B. Téliz,Budoni,"LDMF, LCMF, LAMF",34,100000,,36,2040,2,2.54,Uruguay,Uruguay,left,174,67,no
+D. Vega,,"CF, LAMF",30,100000,,28,1225,2,1.83,Colombia,Colombia,right,174,66,no
+H. Castillo,,CF,32,100000,,7,250,0,0.63,Colombia,Colombia,left,182,76,no
+L. Payares,Cúcuta Deportivo,"LCB, CB",36,100000,,25,2411,0,1.25,Colombia,Colombia,left,185,73,no
+J. Rodríguez,Envigado,"LAMF, LW, AMF",30,100000,2027-06-30,7,218,0,0.06,Colombia,Colombia,right,180,71,no
+R. Rosales,Tigres,RB,25,100000,,13,745,0,0.06,Colombia,Colombia,right,181,70,no
+D. Ibarra,Tigres,LCMF,25,100000,,1,50,0,0.02,Colombia,Colombia,right,0,0,no
+J. Estupiñan,Makedonija GjP,"CF, RW, RAMF",26,100000,,21,809,2,2.08,Colombia,Colombia,right,174,67,no
+S. Múñoz,Independiente Rivadavia,"LWF, RAMF",26,100000,2026-06-30,3,110,0,0.1,Colombia,Colombia,right,173,66,no
+Y. Meneses,,"AMF, LW, CF",26,100000,,7,295,1,0.83,Colombia,Colombia,left,182,0,no
+F. García,,CF,24,100000,,1,31,0,0.22,Colombia,Colombia,right,177,72,no
+S. Gularte,,CF,36,75000,,8,281,0,0.63,Uruguay,Uruguay,right,181,78,no
+J. Suárez,,RB,27,75000,,1,99,0,0.0,Colombia,Colombia,,0,0,no
+J. Vacca,Tacna Heroica,"RCB, RB",28,75000,2026-12-31,16,853,0,0.61,Colombia,Colombia,right,186,79,no
+H. Gómez,,RB,34,75000,,27,2118,2,1.81,Colombia,Colombia,right,174,72,no
+G. Gómez,Real Cartagena,GK,30,50000,2026-12-31,4,304,0,0.0,Colombia,Colombia,,184,74,no
+A. Gutiérrez,Deportivo Madryn,"RCB, LCB, RB",31,50000,2026-12-31,8,429,0,0.41,Colombia,Colombia,right,192,0,no
+E. Bolaños,CD Universitario,"CF, LWF",27,50000,2026-12-31,26,1393,3,3.9,Colombia,Colombia,right,184,73,no
+J. Guzmán,,"LAMF, CF",28,50000,,1,19,0,0.0,Colombia,Colombia,,168,62,no
+C. Arboleda,,RB,40,50000,,17,1005,0,0.01,Colombia,Colombia,right,169,60,no
+M. Balanta,,"RW, RAMF, RWF",36,50000,,15,1058,0,0.14,Colombia,Colombia,right,177,76,no
+J. Mora,Real Santander,GK,29,50000,,3,292,0,0.0,Colombia,Colombia,right,190,86,no
+J. Pérez,,RB,29,50000,,11,965,0,0.07,Colombia,Colombia,right,179,0,no
+Leyvin Balanta,,LB,35,50000,,11,760,0,0.06,Colombia,Colombia,left,186,78,no
+J. Rengifo,,RW,29,50000,,2,83,0,0.01,Colombia,Colombia,right,173,60,no
+R. Sánchez,,GK,42,50000,,15,1488,0,0.0,Colombia,Colombia,right,186,80,no
+J. Caicedo,,"CF, LW",30,50000,,2,61,0,0.03,Colombia,Colombia,left,181,76,no
+J. Angulo,Internacional Palmira,RB,37,50000,2026-12-31,13,1239,0,0.1,Colombia,Colombia,right,180,72,no
+Teófilo Gutiérrez,Junior,"AMF, CF",41,50000,2026-12-31,28,2178,5,4.2,Colombia,Colombia,right,177,81,no
+M. Arias,,GK,28,50000,,1,98,0,0.0,Colombia,Colombia,left,188,81,no
+F. Mercado,,"CF, AMF",36,50000,,23,1188,3,6.04,Colombia,Colombia,left,174,74,no
+J. Vásquez,,"DMF, RDMF, RCMF",39,50000,,31,2280,1,0.82,Colombia,Colombia,right,177,76,no
+G. Ortiz,Nacional Asunción,GK,37,50000,2026-12-31,20,1965,0,0.01,Paraguay,Paraguay,right,188,82,no
+F. Rodríguez,Atlético Huila,"LDMF, RDMF, DMF",39,50000,,34,1968,1,0.56,Colombia,Colombia,right,183,88,no
+C. Moreno,,RB,34,50000,,12,908,0,0.01,Colombia,Colombia,right,171,70,no
+C. Ayala,,"RCMF, RDMF, DMF",40,50000,,35,2726,1,1.4,Colombia,Colombia,right,179,74,no
+Y. Tolosa,Deportivo Pasto,"RCMF, LCMF",27,50000,,10,347,0,0.06,Colombia,Colombia,right,177,70,no
+J. Palomino,,"CB, DMF, LDMF",37,50000,,38,3405,1,4.4,Colombia,Colombia,right,182,70,no
+J. Lopera,,"RCB, CB",39,50000,,25,2055,0,0.44,Colombia,Colombia,right,181,79,no
+F. Stáble,,"RW, RAMF, CF",31,50000,,6,134,0,0.2,Argentina,Argentina,right,179,73,no
+N. Tapia,,"LB, RB, AMF",35,50000,,28,1537,0,0.04,Colombia,Colombia,left,170,60,no
+A. Cadavid,,LCB,40,50000,,45,4337,12,10.82,Colombia,Colombia,left,188,86,no
+C. Marrugo,,"AMF, CF",41,50000,,42,3035,5,7.23,Colombia,Colombia,right,176,71,no
+G. Gutiérrez,,LB,36,50000,,24,2099,0,0.5,Colombia,Colombia,left,170,72,no
+I. Rivas,,CF,38,50000,,15,826,5,3.92,Colombia,Colombia,right,177,73,no
+D. López,Jaguares de Córdoba,CF,34,50000,2026-12-31,40,2744,8,8.79,Colombia,Colombia,right,176,74,no
+J. Ávila,,RCB,34,50000,,22,1808,0,0.14,Colombia,Colombia,right,190,85,no
+J. Ramírez,,"LCMF, AMF",35,50000,,35,2869,3,4.72,Colombia,Colombia,left,181,83,no
+A. Otero,,"AMF, CF",30,50000,,2,89,0,0.4,Colombia,Colombia,right,175,70,no
+Q. Danloux,,"LCMF, LDMF, RCMF",24,50000,,13,263,1,0.34,France,France,right,180,0,no
+S. Cubides,Jaguares de Córdoba,"CF, LCMF, AMF",25,50000,,6,113,1,0.21,Colombia,Colombia,right,194,83,no
+J. Méndez,,"CF, RAMF, RW",25,50000,,8,243,0,0.14,Panama,"Panama, El Salvador",left,168,67,no
+D. Mina,Correcaminos UAT,"LAMF, RW, RCMF",23,50000,,5,120,0,0.0,Colombia,Colombia,right,179,70,no
+M. Herrera,,"LCMF, RCMF, LW",24,50000,,9,397,0,0.32,Colombia,Colombia,,182,0,no
+B. Escobar,,RB,26,50000,,6,279,0,0.0,Colombia,Colombia,,0,0,no
+D. Betancourth,,CF,23,50000,,3,102,0,0.05,Colombia,Colombia,,183,78,no
+J. Gallego,,"LCMF, AMF",25,50000,,3,63,0,0.0,Colombia,Colombia,right,173,70,no
+C. Paternina,,"RCMF, RW",25,50000,,1,10,0,0.0,Colombia,Colombia,,166,60,no
+J. Del Río,,"RW, LW, RCMF",24,50000,,6,171,0,0.1,Colombia,Colombia,right,163,59,no
+B. Cundumi,Vega Real,RCB,25,50000,,2,93,0,0.0,Colombia,Colombia,,184,0,no
+Christian Andrade,,RB,26,50000,,4,290,0,0.0,Colombia,Colombia,right,180,77,no
+Y. Martínez,Boyacá Chicó,"LB, LWF, LWB",26,50000,2026-12-31,12,645,0,0.0,Colombia,Colombia,right,173,66,no
+M. Acosta,Paysandu FC,"RCB, RDMF, LDMF",38,25000,,38,2354,2,2.17,Uruguay,"Uruguay, Canada",right,187,84,no
+O. Berrío,,"RAMF, LAMF, CF",35,25000,,14,575,1,0.74,Colombia,Colombia,right,182,80,no
+S. Cortes,,LCMF,25,25000,,2,84,0,0.0,Colombia,Colombia,right,0,0,no
+E. Moreno,Deportivo Pereira,"RB, RCB",24,25000,2027-06-30,24,1875,0,0.07,Colombia,Colombia,right,179,68,no
+L. Randazzo,Deportivo Pereira,AMF,27,0,,1,25,0,0.07,Venezuela,Venezuela,right,179,65,no
+J. Zea,Nogoom,LW,27,0,,1,7,0,0.0,Colombia,Colombia,,0,0,no
+E. Laszo,Llaneros,"RCB, RDMF, LDMF",27,0,,16,956,1,0.74,Colombia,"Colombia, Spain",right,184,81,no
+L. Ruíz,,CF,39,0,,42,3571,16,13.55,Colombia,Colombia,right,181,80,no
+J. Mosquera,Cariari Pococí,"DMF, LDMF, RDMF",35,0,,10,792,0,0.05,Colombia,Colombia,right,172,66,no
+J. Gómez,,RCB,30,0,,16,1372,0,0.0,Colombia,Colombia,right,183,78,no
+M. Cano,,"CF, AMF",28,0,,4,127,0,0.0,Colombia,Colombia,,0,0,no
+Y. Anchico,,"RB, LCMF, RCMF",42,0,,11,606,0,0.01,Colombia,Colombia,right,182,75,no
+D. Cano,,RCB,40,0,,13,1192,0,0.19,Colombia,Colombia,right,180,76,no
+S. Montoya,Barry Buccaneers,AMF,34,0,,13,504,1,0.75,Colombia,Colombia,left,172,63,no
+H. Suárez,Internacional Palmira,"RDMF, LDMF, RCMF",32,0,,23,1491,0,1.0,Colombia,Colombia,right,171,66,no
+J. Vargas,Puebla,LCB,31,0,2027-12-31,33,3099,2,3.66,Costa Rica,Costa Rica,left,192,88,no
+J. Miranda,,"CF, LAMF, RW",29,0,,5,201,0,0.07,Colombia,Colombia,right,174,70,no
+J. Escobar,,"LW, LWF",27,0,,3,125,0,0.0,Colombia,Colombia,right,174,76,no
+A. Ozeri,Bnei Eilat,"RCMF, LCMF",28,0,,2,47,0,0.0,United States,United States,right,0,0,no
+O. Henríquez,,"RCB, LCB",37,0,,15,1205,0,0.12,Colombia,Colombia,right,186,82,no
+C. Tejedor,,AMF,27,0,,1,31,0,0.0,Colombia,Colombia,,0,0,no
+J. Mancilla,,"LCMF, RDMF, RCMF",28,0,,16,741,0,0.49,Colombia,Colombia,right,170,69,no
+J. Arango,Capital Brasilia,"CF, AMF",35,0,,5,165,0,0.02,Colombia,Colombia,right,185,80,no
+P. Mina,,GK,41,0,,10,988,0,0.0,Colombia,Colombia,right,183,81,no
+C. Carrillo,,"LDMF, LCMF, RCMF",33,0,,17,1358,0,0.44,Colombia,Colombia,right,179,65,no
+J. Giraldo,,"RCMF, RDMF",27,0,,4,178,0,0.0,Colombia,Colombia,right,165,75,no
+J. Marsiglia,,LCB,27,0,,16,1566,0,0.28,Colombia,Colombia,right,183,77,no
+F. Uribe,,CF,38,0,,12,731,3,3.16,Colombia,Colombia,left,182,77,no
+M. Nazarit,,RCB,29,0,,4,277,0,0.0,Colombia,Colombia,right,186,78,no
+H. Mosquera,Cerro Porteño,"LW, LAMF, RAMF",31,0,2027-12-31,24,1585,2,3.39,Colombia,Colombia,right,172,70,no
+Y. Martínez,,"RAMF, RW, RWF",30,0,,6,125,0,0.05,Colombia,Colombia,right,165,62,no
+R. Monges,,"LCB, RCB",33,0,,4,371,0,0.1,Paraguay,Paraguay,right,185,80,no
+Bryan Castrillón,Junior,"RAMF, LW, RW",27,0,2027-06-30,15,462,0,0.83,Colombia,Colombia,right,173,67,no
+B. Palacios,Boyacá Chicó,LCB,27,0,,7,528,0,0.51,Colombia,Colombia,left,194,87,no
+D. Polanco,,RCB,27,0,,37,2982,1,0.71,Colombia,Colombia,right,186,82,no
+S. Motta,,"LCMF, LDMF, DMF",42,0,,26,1167,1,1.11,Colombia,Colombia,left,170,68,no
+C. Lizarazo,,AMF,35,0,,3,141,0,0.0,Colombia,Colombia,left,172,65,no
+J. Sánchez,,"AMF, LCMF",38,0,,22,1474,4,2.31,Colombia,"Colombia, Panama",right,177,77,no
+D. Gómez,,RAMF,37,0,,1,18,0,0.42,Colombia,Colombia,right,172,60,no
+C. Rivas,,"LW, RW, CF",32,0,,17,617,2,1.19,Colombia,Colombia,left,174,70,no
+Ethan González,,"CF, AMF",33,0,,14,704,1,1.41,Colombia,Colombia,right,183,89,no
+G. Saunders,,DMF,37,0,,5,64,0,0.0,England,"England, Colombia",right,176,74,no
+M. García,Millonarios,"RCMF, RDMF",27,0,2028-12-30,6,182,0,0.08,Colombia,Colombia,right,178,0,no
+R. Harrys,,LW,30,0,,1,26,0,0.0,Colombia,Colombia,,172,0,no
+C. Arias,,CF,38,0,,8,371,0,0.81,Colombia,Colombia,right,175,77,no
+C. Saiz,2 de Mayo,RCB,34,0,2026-12-31,3,247,0,0.05,Colombia,Colombia,right,186,80,no
+D. Restrepo,,"LDMF, RDMF, RCMF",33,0,,4,169,0,0.17,Colombia,Colombia,right,173,70,no
+H. Urrego,,"LCB, RCB",33,0,,18,1736,2,1.66,Colombia,Colombia,right,187,72,no
+J. Camilo,,GK,28,0,,7,704,0,0.0,Colombia,Colombia,left,185,70,no
+S. Ruiz,Bogotá,LCB,29,0,,16,1227,0,0.97,Colombia,Colombia,left,185,79,no
+G. Murillo,,"RW, LAMF, RAMF",30,0,,11,474,1,1.41,Colombia,Colombia,right,180,78,no
+C. Valencia,,CF,42,0,,36,1575,4,4.82,Colombia,Colombia,right,175,78,no
+J. Millán,Fluminense,LCB,28,0,2029-12-31,38,3568,2,3.84,Colombia,Colombia,left,186,75,no
+J. Lobo,,"LDMF, AMF, LCMF",27,0,,15,573,0,0.52,Colombia,Colombia,left,170,68,no
+H. Rojas,,"AMF, LCMF, LW",39,0,,33,2131,1,2.52,Colombia,Colombia,left,177,69,no
+E. Hernández,Fénix,GK,41,0,2026-12-31,35,3406,0,0.0,Uruguay,Uruguay,right,184,80,no
+J. Pérez,,RB,37,0,,26,2059,0,0.56,Colombia,Colombia,right,179,70,no
+S. Viera,,GK,43,0,,47,4629,1,0.81,Uruguay,"Uruguay, Italy",right,184,0,no
+C. Hidalgo,,CF,40,0,,5,67,0,0.1,Colombia,Colombia,right,184,74,no
+S. Castaño,,GK,31,0,,7,699,0,0.0,United States,"United States, Colombia",left,188,83,no
+J. Quiñónes,Yokohama F. Marinos,LCB,28,0,2026-12-31,38,3532,3,1.67,Colombia,Colombia,left,186,80,no
+M. Gómez,Patriotas Boyacá,"LWF, LAMF, LW",32,0,,10,397,0,0.89,Colombia,Colombia,left,186,72,no
+L. Castellanos,,GK,42,0,,30,2617,0,0.0,Colombia,Colombia,right,179,80,no
+P. Valoyes,El Farolito,LB,28,0,,3,224,0,0.0,Colombia,Colombia,left,178,71,no
+J. Enamorado,Grêmio,"RAMF, LAMF, RW",27,0,2028-12-31,19,1230,0,1.11,Colombia,Colombia,right,170,59,no
+V. Yánez,,LB,27,0,,2,77,0,0.0,Colombia,Colombia,left,182,77,no
+D. Hernández,,"AMF, RW, CF",35,0,,26,1200,1,1.47,Colombia,Colombia,left,176,65,no
+F. Ospitaleche,Deportivo Madryn,"LCMF, LDMF",30,0,2026-12-31,31,2351,2,1.62,Uruguay,Uruguay,left,179,74,no
+J. Medina,Medellín,CF,31,0,2028-06-30,22,1944,4,2.25,Colombia,Colombia,right,180,74,yes
+Carlos Bejarano,,GK,41,0,,25,2351,0,0.0,Colombia,"Colombia, Equatorial Guinea",right,184,83,no
+J. Castro,,RB,41,0,,23,1688,0,0.67,Colombia,Colombia,right,175,75,no
+S. Mena,,LCB,31,0,,23,1913,0,0.72,Colombia,Colombia,left,186,77,no
+A. Román,Atlético Nacional,RB,30,0,2029-06-30,19,1686,3,2.74,Colombia,Colombia,right,183,80,no
+Y. Asprilla,,"RAMF, LW, RCMF",33,0,,6,154,0,0.63,Colombia,Colombia,right,167,64,no
+D. Viáfara,Tigres,LCB,27,0,,12,916,0,0.45,Colombia,Colombia,left,187,0,no
+J. Vásquez,Unión Magdalena,"LB, CF",27,0,,11,622,0,0.13,Colombia,Colombia,left,180,0,no
+G. García,,RB,39,0,,29,2679,0,0.8,Colombia,Colombia,right,180,73,no
+C. Quintero,,"RCMF, RW, RAMF",37,0,,19,769,1,0.64,Colombia,Colombia,right,189,65,no
+D. Cambindo,León,CF,30,0,2028-12-31,46,2946,12,11.8,Colombia,Colombia,right,188,80,no
+J. Contreras,Barcelona,GK,31,0,2026-12-31,21,2062,0,0.0,Venezuela,Venezuela,right,189,83,no
+Jesus Rivas,Junior,"LDMF, LCMF, RDMF",29,0,2028-06-30,38,3237,0,1.06,Colombia,Colombia,right,175,70,no
+L. Hurtado,,GK,32,0,,16,1566,0,0.0,Colombia,Colombia,right,186,83,no
+C. Barrios,Junior,"RWF, RW, LAMF",28,0,2028-12-31,36,3346,9,8.77,Colombia,Colombia,right,166,65,no
+S. Gómez,Coritiba,"LDMF, LCMF, DMF",30,0,2028-12-31,37,3313,3,2.32,Colombia,Colombia,left,172,72,no
+G. Moreno,,"AMF, CF",40,0,,17,865,3,1.94,Colombia,Colombia,left,192,83,no
+B. Rovira,Tolima,"LDMF, RDMF",29,0,2026-12-31,35,3354,2,0.69,Colombia,Colombia,right,177,75,no
+Y. Guzmán,América de Cali,"AMF, RAMF, LAMF",28,0,2028-12-31,38,1829,4,4.09,Colombia,Colombia,right,170,61,yes
+J. Torres,Santa Fe,"RDMF, RCMF, LDMF",20,0,2027-06-30,16,1111,1,0.53,Colombia,Colombia,right,178,70,no
+J. Cabal,,LW,18,0,,2,57,0,0.07,Colombia,Colombia,unknown,0,0,no
+B. Villalobos,Cortuluá U19,"RB, RW, RAMF",19,0,,3,129,0,0.0,Colombia,Colombia,,0,0,no
+Juanan,,LDMF,23,0,,1,14,0,0.0,Spain,Spain,unknown,0,0,no
+J. Trujillo,Atlético Pantoja,LB,23,0,2026-12-31,1,70,0,0.0,Colombia,Colombia,,0,0,no
+P. Bravo,Midtjylland,LDMF,21,0,2030-12-31,2,47,0,0.0,Colombia,Colombia,right,190,84,no
+W. Ordóñez,Deportivo Pasto,"AMF, RW, LAMF",22,0,,13,330,0,0.67,Colombia,Colombia,left,168,0,no
+J. Avalo,Águilas Doradas,"AMF, CF, RAMF",24,0,,20,540,0,1.56,Colombia,Colombia,right,175,70,no
+A. Vásquez,Águilas Doradas,"CF, RW, AMF",24,0,2028-06-30,25,1051,3,1.91,Colombia,Colombia,right,0,0,no
+N. Lara,Águilas Doradas,LCB,23,0,2027-12-31,7,339,0,0.0,Colombia,Colombia,left,183,74,no
+K. Castaño,River Plate,"LDMF, RDMF, RCMF",25,0,2028-12-31,35,2456,0,0.16,Colombia,Colombia,right,177,69,no
+J. Mendoza,Real Soacha Cundinamarca,"CF, RAMF, RW",23,0,,13,226,1,1.22,Colombia,Colombia,right,0,0,no
+S. Mera,Boyacá Chicó,"RWF, LW, RW",25,0,2027-12-31,9,242,0,0.83,Colombia,Colombia,right,0,0,no
+O. Segura,Leones,"RAMF, RW",23,0,,17,865,2,1.24,Colombia,Colombia,right,179,73,no
+E. Camargo,Antigua GFC,"RCMF, RDMF",24,0,2027-06-30,18,1108,0,0.34,Colombia,Colombia,right,179,73,no
+J. Ramírez,,"LCMF, RCMF, LDMF",26,0,,3,73,0,0.0,Colombia,Colombia,,0,0,no
+A. Palacios,Genk,"RCB, LCB, LB",22,0,2028-06-30,5,285,0,0.04,Colombia,"Colombia, Venezuela",left,186,82,no
+M. Sánchez,Potros del Este,GK,23,0,,6,571,0,0.0,Colombia,Colombia,right,184,81,no
+A. Spina,Aucas,"DMF, RCMF",24,0,2027-12-31,19,1611,0,0.13,Argentina,Argentina,right,180,71,no
+B. Palacios,Al Wasl,"RAMF, LAMF, LW",23,0,2030-06-30,5,211,1,0.54,Colombia,Colombia,left,178,74,no
+N. Palacio,Toronto,"RDMF, RB, RCMF",25,0,,37,2323,1,0.68,Colombia,Colombia,right,180,80,no
+K. Palacios,Santos Laguna,"LAMF, LW, LWF",26,0,2029-06-30,26,1272,0,1.64,Colombia,Colombia,left,173,66,no
+B. Gil,Baltika,CF,25,0,2029-05-31,39,2274,8,10.25,Colombia,"Colombia, El Salvador",right,185,78,no
+L. Mosquera,Deportivo Pereira,LDMF,24,0,,4,215,0,0.37,Colombia,Colombia,left,174,68,yes
+C. Copete,Patriotas Boyacá,"CF, RW",26,0,,14,542,0,1.3,Colombia,Colombia,right,175,69,no
+E. Villalobos,Lee Man,"RCMF, RDMF, LDMF",26,0,,19,1545,0,0.95,Colombia,Colombia,right,176,73,no
+C. Garcés,Los Angeles Galaxy,RCB,24,0,,22,1679,0,0.52,Colombia,Colombia,right,186,75,no
+B. Léon,Mamelodi Sundowns,CF,25,0,2028-12-31,43,2964,10,11.52,Colombia,Colombia,right,175,68,no
+Yílmar Velásquez,Santa Fe,"DMF, RCMF",26,0,2027-12-31,25,1579,0,0.95,Colombia,Colombia,right,184,76,no
+D. García,,"AMF, LW, RAMF",24,0,,9,194,0,0.39,Colombia,Colombia,right,175,65,no
+K. Mantilla,Medellín,"LCB, RCB",23,0,2027-12-31,25,1768,0,1.31,Colombia,Colombia,right,191,81,yes
+ Jhojan Torres,Santa Fe,"RDMF, RCMF, LDMF",23,0,2027-06-30,16,1111,1,0.53,Colombia,Colombia,unknown,0,0,no
+J. Perlaza,Deportivo Pasto,"LAMF, LW, RWF",25,0,,11,127,0,0.02,Colombia,Colombia,unknown,173,63,no
+Ederson Cabezas,Deportivo Pasto,GK,26,0,,8,730,0,0.0,Colombia,Colombia,right,191,0,no
+R. Mejía,Once Caldas,"LCMF, LDMF",25,0,,22,1488,1,0.35,Colombia,Colombia,left,173,69,no
+Kilian Toscano,Santa Fe,LDMF,22,0,2028-12-31,1,31,0,0.0,Colombia,Colombia,unknown,180,75,yes
+O. Perea,AVS ,LAMF,20,0,2029-06-30,1,20,0,0.18,Colombia,Colombia,right,174,75,yes
+J. Asprilla,Sheriff,"CF, LAMF, RAMF",23,0,2028-12-31,10,228,0,0.64,Colombia,Colombia,left,185,68,no
+J. Ortíz,Resovia Rzeszów,"CF, LCMF",23,0,,3,106,0,1.27,Colombia,Colombia,right,173,69,no
+E. Batalla,Talleres Córdoba,"LW, LWF, RWF",24,0,2028-12-31,5,401,1,0.73,Colombia,Colombia,left,171,72,no
+A. Cano,Cúcuta Deportivo,"DMF, RDMF",25,0,,1,35,0,0.05,Colombia,Colombia,,0,0,no
+D. Contreras,Real Soacha Cundinamarca,"RAMF, LW, LAMF",23,0,,3,224,0,0.1,Colombia,Colombia,left,167,65,no
+B. Medina,Tondela,"LCB, LB",24,0,2030-06-30,8,533,0,0.0,Colombia,Colombia,unknown,0,0,no
+K. Parra,Inter Bogotá,"LAMF, RAMF, RW",23,0,2027-12-31,3,37,0,0.0,Colombia,Colombia,right,168,60,no
+J. Betancur,,LCMF,22,0,,1,13,0,0.0,Colombia,Colombia,,182,73,no
+A. Gutiérrez,Bogotá,CF,26,0,,1,49,0,0.0,Colombia,Colombia,,0,0,no
+John Araujo,Aurora,"LAMF, LW",23,0,2026-12-31,2,27,0,0.0,Colombia,Colombia,right,172,64,no
+J. Barreto,Junior U20,RW,22,0,,1,19,0,0.0,Colombia,Colombia,,0,0,no
+E. Mercado,,RAMF,23,0,,2,55,0,0.1,Colombia,Colombia,unknown,0,0,no
+J. Cabal,Deportivo Cali,"LAMF, LW, CF",22,0,,5,205,0,0.09,Colombia,Colombia,right,0,0,no
+J. Moreno,Cerro Largo,GK,26,0,,4,358,0,0.0,Colombia,Colombia,right,194,92,no
+Ó. Cortés,Huracán,"AMF, LW",22,0,2029-06-30,8,239,0,0.07,Colombia,Colombia,right,178,76,yes
+S. Asprilla,,LB,22,0,,1,7,0,0.0,Colombia,Colombia,left,182,76,no
+A. Gómez,Vasco da Gama,"RAMF, RW",23,0,2031-01-31,41,3014,9,8.97,Colombia,Colombia,right,171,61,no
+M. Monsalve,Grêmio,"CF, LAMF",22,0,,9,278,1,1.41,Colombia,Colombia,right,178,71,no
+D. Victoria,Millonarios,"LDMF, RDMF, LCMF",25,0,2028-06-30,9,443,0,0.02,Colombia,Colombia,right,176,68,no
+A. Moreno,Millonarios,LCB,24,0,,1,97,0,0.0,Colombia,Colombia,right,185,80,no
+M. Escobar,San Miguel,GK,23,0,2026-12-31,1,49,0,0.0,Colombia,Colombia,,0,0,no
+F. Banguero,,RDMF,22,0,,1,14,0,0.0,Colombia,Colombia,,0,0,no
+J. Fuentes,,LDMF,25,0,,1,13,0,0.0,Colombia,Colombia,,0,0,no
+H. Arango,Orsomarso,GK,23,0,,1,83,0,0.0,Colombia,Colombia,right,0,0,no
+A. Marín,,"LW, RAMF, RW",25,0,,2,67,0,0.07,Colombia,Colombia,unknown,0,0,no
+A. Mosquera,,"RB, RCMF",25,0,,3,122,0,0.0,Colombia,Colombia,unknown,0,0,no
+J. Rojas,Vasco da Gama,"RCMF, LCMF, CF",23,0,2028-06-30,13,330,0,0.88,Colombia,Colombia,right,180,71,yes
+Luis Palacios,Santa Fe,RCB,25,0,2027-12-31,3,219,0,0.0,Colombia,Colombia,right,181,74,no
+J. Moreno,Real Cartagena,"RB, RCMF",25,0,,9,461,1,0.18,Colombia,Colombia,right,184,73,no
+Marcílio,Sergipe,"LWF, RW, LAMF",26,0,2027-06-30,13,645,1,0.68,Brazil,Brazil,left,170,70,no
+M. Vidal,Marítimo,"LW, RW, AMF",26,0,2026-12-31,7,137,0,0.02,Colombia,Colombia,right,156,0,no
+L. González,,AMF,24,0,,1,25,0,0.07,Spain,"Spain, Colombia",unknown,0,0,no
+A. Prisco,Tolima U20,CF,24,0,2028-12-31,3,61,0,0.34,Colombia,Colombia,unknown,182,80,no
+D. Candelo,Tolima U20,LCB,22,0,,1,26,0,0.0,Colombia,Colombia,unknown,0,0,no
+M. Sandoval,Tolima U20,LW,23,0,,1,38,0,0.02,Colombia,Colombia,unknown,0,0,no
+E. Angulo,Tolima U20,"LCMF, RCMF, RB",25,0,,2,74,0,0.0,Colombia,Colombia,unknown,0,0,no
+O. Vallecilla,,LW,23,0,,1,61,0,0.0,Colombia,Colombia,unknown,0,0,no
+K. Palacios,,RB,23,0,,1,11,0,0.0,Colombia,Colombia,unknown,0,0,no
+J. Carabalí,,CF,23,0,,1,73,0,0.01,Colombia,Colombia,right,180,80,no
+J. Rubiano,Independiente Yumbo,RCMF,24,0,,1,33,0,0.0,Colombia,Colombia,right,177,74,no
+J. Mera,Tolima,RCB,24,0,2027-06-30,1,99,0,0.0,Colombia,Colombia,right,185,82,no
+D. Garcia,Boca Juniors de Cali,LAMF,22,0,,1,19,0,0.0,Colombia,Colombia,,0,0,no
+Santiago Tamayo,Santa Fe,RB,23,0,2026-12-31,1,48,0,0.0,Colombia,Colombia,unknown,165,65,no
+E. Martinez,Cortuluá U15,RB,18,0,,1,84,0,0.12,Colombia,Colombia,unknown,0,0,no
+A. Aedo,Boyacá Chicó,RDMF,22,0,,1,11,0,0.0,Colombia,Colombia,unknown,0,0,no
+Mauricio González,Minnesota United,"RW, LW, LAMF",21,0,2030-06-30,2,90,0,0.04,Colombia,Colombia,unknown,0,0,no
+J. Garcia,Atlético Bucaramanga,LCB,23,0,2029-12-31,1,94,0,0.07,Colombia,Colombia,unknown,188,0,no
+B. Villalobos,,"RB, RW, RAMF",21,0,,3,129,0,0.0,Colombia,Colombia,unknown,175,0,no
+J. Cristancho,,"LCMF, RDMF",24,0,,6,198,0,0.0,Colombia,Colombia,right,185,77,no
+S. Jérez,,RCMF,23,0,,1,11,0,0.0,Colombia,Colombia,right,188,75,no
+Ó. Alcocer,Atlético Bucaramanga U20,RCMF,25,0,,1,6,0,0.01,Colombia,Colombia,right,188,79,no
+J. Mosquera,Atlético Bucaramanga,"LB, LW, LAMF",23,0,2029-12-31,5,266,0,0.14,Colombia,Colombia,left,187,0,no
+S. Vergara,Tigres,"LCMF, AMF",23,0,,3,81,0,0.0,Colombia,Colombia,,0,0,no
+S. Valencia,Internacional Palmira,"RCB, LCB",23,0,2026-12-31,12,1082,0,0.0,Colombia,Colombia,,190,0,no
+L. Sinisterra,,"RW, LAMF, RAMF",24,0,,12,330,0,0.5,Colombia,Colombia,,0,0,no
+J. Mejia,Jaguares de Córdoba,"CF, LWF",26,0,,8,263,0,0.48,Colombia,Colombia,right,182,78,yes
+Y. Contreras,Ferro Carril Oeste LP,"RCMF, AMF, CF",26,0,,5,86,0,0.11,Colombia,Colombia,,178,72,no
+Y. Asprilla,Galatasaray,"RCMF, CF, AMF",22,0,2030-06-30,18,1563,1,0.95,Colombia,Colombia,left,185,75,yes
+O. Almanza,UMECIT,"LCMF, LW, RCMF",23,0,2027-06-30,3,24,0,0.04,Colombia,Colombia,right,170,62,no
+A. Guerrero,,"RB, LB",24,0,,14,732,0,0.0,Colombia,Colombia,right,178,69,no
+J. Gómez,,"RB, LB",26,0,,16,1004,0,0.0,Colombia,Colombia,right,186,75,no
+J. Aristizábal,Patriotas Boyacá,RCMF,24,0,,1,13,0,0.0,Colombia,Colombia,,172,65,no
+F. Chaverra,Medellín,"LW, LAMF",26,0,2027-06-30,38,2505,9,4.17,Colombia,Colombia,left,172,64,no
+R. Vanegas,,"LCMF, LDMF, AMF",26,0,,6,91,0,0.16,Nicaragua,Nicaragua,,0,0,no
+R. España,Envigado,"RWF, RW",22,0,,6,208,1,0.31,Colombia,Colombia,right,178,68,no
+J. Torres,,LW,26,0,,1,17,0,0.0,Colombia,Colombia,,0,0,no
+D. Prieto,,AMF,23,0,,1,18,0,0.0,Colombia,Colombia,right,173,68,no
+J. Castro,Tigres,"LCMF, RDMF, RCMF",23,0,,3,38,0,0.0,Colombia,Colombia,,0,0,no
+J. Mercado,Unión Magdalena,"RCMF, DMF, LCMF",22,0,,14,383,0,0.01,Colombia,Colombia,right,0,0,no
+J. Mejía,Camboriú,"LAMF, RW",21,0,,2,17,0,0.02,Colombia,Colombia,,0,0,no
+J. Tegue,,"LW, RW",25,0,,18,672,0,0.36,Colombia,Colombia,unknown,0,0,no
+B. Sinisterra,,"LWF, RAMF, CF",24,0,,11,395,1,0.55,Colombia,Colombia,right,0,0,no
+J. Muñoz,Alianza,"LW, RW",24,0,,13,359,0,0.39,Colombia,Colombia,right,172,66,no
+M. Gil,Deportivo Pasto,"RW, LCB",22,0,2026-12-31,1,19,0,0.01,Colombia,"Colombia, El Salvador",right,175,70,yes
+J. Altamiranda Arrieta,Jaguares de Córdoba,RB,26,0,,1,78,0,0.0,Colombia,Colombia,right,180,72,no
+K. Padilla,Internacional Palmira,"RAMF, AMF, CF",25,0,2026-12-31,10,152,0,0.03,Colombia,Colombia,left,172,65,no
+J. Blanco,Llaneros,CF,25,0,2028-06-30,13,604,1,0.77,Colombia,Colombia,right,185,0,no
+Jhon Solís,Birmingham City,RDMF,21,0,2030-06-30,6,183,0,0.03,Colombia,Colombia,right,186,77,no
+Yilson Mosquera,Tarxien Rainbows,"DMF, LCB, CB",24,0,,9,277,0,0.02,Colombia,Colombia,right,0,0,no
+D. Rodriguez,Nadur Youngsters,"CF, AMF",25,0,,9,224,0,0.02,Colombia,Colombia,right,178,78,no
+J. Martínez,Leones,"RW, AMF",24,0,2029-06-30,5,64,0,0.0,Colombia,Colombia,left,166,70,no
+J. Torres,Atlético Nacional,AMF,22,0,2029-06-30,1,40,0,0.01,Colombia,Colombia,right,170,65,no
+K. Suárez,Inter Bogotá,LB,24,0,2027-06-30,7,494,0,0.05,Colombia,Colombia,left,175,67,yes
+A. Jimenez,,"DMF, RDMF",26,0,,11,342,0,0.0,Colombia,Colombia,unknown,0,0,no
+Henry Mosquera,Red Bull Bragantino,"LW, LAMF, LWF",24,0,2027-12-31,40,2755,2,2.32,Colombia,Colombia,right,175,68,no
+J. Banguera,Lommel SK,LCB,22,0,2028-06-30,4,263,0,0.0,Colombia,Colombia,left,192,86,no
+D. Córdoba,,CF,25,0,,18,422,0,0.42,Colombia,Colombia,,0,0,no
+J. Zapata,Atlético Nacional,RCMF,26,0,2028-06-30,41,3489,4,3.84,Colombia,Colombia,right,179,71,no
+J. Cuesta,UCV,"LW, CF, LAMF",24,0,2028-06-30,6,100,0,0.19,Colombia,Colombia,right,172,71,no
+E. Acevedo,,"RCB, RB",23,0,,4,200,0,0.0,Colombia,Colombia,unknown,183,0,no
+J. Micolta,Deportivo Pasto,"LW, LAMF, LWF",23,0,,17,686,0,0.24,Colombia,Colombia,right,173,0,no
+C. Gamboa,,"RDMF, LB",25,0,,2,38,0,0.01,Colombia,Colombia,,0,0,no
+E. Batalla Martinez,Atlético Bucaramanga,"LW, LWF, RWF",25,0,,5,401,1,0.73,Colombia,Colombia,left,171,0,no
+J. Osorio,,"CF, RW, RAMF",23,0,,7,232,0,0.26,Colombia,Colombia,right,0,0,no
+L. Díaz,Envigado,"RW, RAMF, LW",22,0,2028-12-31,5,116,0,0.07,Colombia,Colombia,left,178,73,no
+L. Segura,Boyacá Chicó,RAMF,22,0,,1,19,0,0.0,Colombia,Colombia,,0,0,no
+E. Martínez,Jaguares de Córdoba,RB,22,0,2027-06-30,1,13,0,0.0,Colombia,Colombia,unknown,0,0,no
+D. Arcila,León,"RWF, RCMF, LCMF",24,0,,16,463,0,0.43,Colombia,Colombia,right,0,0,no
+Y. Rodriguez,UD Oliveirense,CF,21,0,2027-06-30,1,28,0,0.12,Colombia,Colombia,unknown,185,0,no
+J. Arias,Real Salt Lake,RCB,22,0,,1,99,0,0.15,Colombia,Colombia,right,184,80,no
+J. Díaz,Boyacá Chicó,RB,26,0,,17,1480,0,0.27,Colombia,Colombia,right,172,65,no
+K. Mier,Cruz Azul,GK,26,0,2029-06-30,41,3953,0,0.0,Colombia,Colombia,right,190,73,no
+J. Caicedo,Atlético de San Luis,"RDMF, RW, DMF",22,0,2027-12-31,2,31,0,0.0,Colombia,Colombia,right,0,0,no
+J. Mina,New York RB II,RB,22,0,2026-12-31,15,1232,0,0.05,Colombia,Colombia,right,180,76,no

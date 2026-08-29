@@ -15,8 +15,7 @@ from pathlib import Path
 
 import pandas as pd
 
-# ---- set this ----
-SEASON = "2025-2026"
+SEASON = str(input("Season (e.g. 2025-26): ").strip())
 # ------------------
 
 # This script lives in devkit/. The data folder is one level out:

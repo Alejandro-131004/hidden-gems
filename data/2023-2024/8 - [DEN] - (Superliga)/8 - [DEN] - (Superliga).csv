@@ -1,0 +1,362 @@
+﻿Player,Team,Position,Age,Market value,Contract expires,Matches played,Minutes played,Goals,xG,Birth country,Passport country,Foot,Height,Weight,On loan
+K. Grabara,Wolfsburg,GK,27,12000000,2028-06-30,32,3195,0,0.0,Poland,Poland,right,195,85,no
+G. Isaksen,Lazio,"CF, RWF",25,12000000,2028-06-30,2,164,0,2.69,Denmark,Denmark,left,181,65,no
+R. Bardghji,Barcelona,RWF,20,9000000,2029-06-30,23,1271,7,4.41,Sweden,"Sweden, Syria",left,173,70,no
+S. McKenna,Dinamo Zagreb,LCB,29,9000000,2029-06-30,13,1185,0,1.02,Scotland,Scotland,left,189,74,no
+A. Nagalo,PSV,"LCB, RCB",23,7000000,2029-06-30,31,2788,1,2.43,Burkina Faso,"Burkina Faso, Côte d'Ivoire",right,185,75,no
+Y. Suzuki,Freiburg,"RWF, CF, AMF",24,6000000,2027-06-30,26,1673,9,5.45,Japan,Japan,right,175,66,no
+E. Jelert,Galatasaray,"RB, LB",23,5500000,2029-06-30,29,2506,0,0.63,Denmark,Denmark,right,178,71,no
+Diogo Gonçalves,Konyaspor,"RCMF, LCMF, LWF",29,5500000,2028-06-30,22,1369,8,6.61,Portugal,Portugal,right,178,70,no
+O. Óskarsson,Real Sociedad,CF,21,5000000,2030-06-30,27,1791,10,9.43,Iceland,Iceland,right,186,78,no
+D. Vavro,Wolfsburg,RCB,30,5000000,2027-06-30,29,2416,2,0.86,Slovakia,Slovakia,right,189,81,no
+Cho Gue-Sung,Midtjylland,CF,28,4500000,2028-06-30,30,2706,12,14.72,Korea Republic,Korea Republic,right,189,82,no
+V. Claesson,Värnamo,"LCMF, CF",34,4500000,2029-12-31,26,1501,5,4.07,Sweden,Sweden,right,183,80,no
+M. Diomandé,Rangers,"LCMF, RCMF, AMF",24,4000000,2028-06-30,13,1022,0,1.2,Côte d'Ivoire,"Côte d'Ivoire, Ghana",left,175,75,no
+S. Ingason,Panathinaikos,RCB,32,4000000,2028-06-30,24,2296,2,1.63,Iceland,Iceland,right,188,84,no
+K. Diks,Borussia M'gladbach,"LCB, RCB, LB",29,4000000,2030-06-30,32,3043,4,4.65,Netherlands,Netherlands,right,182,73,no
+I. Jóhannesson,Köln,"LWF, RWF",23,3500000,2030-06-30,2,26,0,0.0,England,"England, Iceland",left,184,72,no
+B. Meling,København,"LB, LWB",31,3500000,2027-06-30,19,1135,0,0.35,Norway,Norway,left,173,67,no
+M. Mattsson,København,"LCMF, RWF, RCMF",27,3500000,2028-06-30,13,1149,2,2.33,Denmark,"Denmark, Sweden",right,174,62,no
+E. Achouri,San Diego,"LWF, LW",27,3500000,2029-06-30,29,2343,4,5.54,France,"France, Tunisia",right,177,68,no
+O. Villadsen,Brøndby,RB,24,3000000,2029-06-30,30,2775,1,0.67,Denmark,Denmark,right,173,67,no
+L. Hey,Anderlecht,"LCB, RCB",23,3000000,2029-06-30,23,1262,0,0.82,Denmark,Denmark,right,189,80,no
+A. Gaaei,Ajax,"RB, RWB",23,3000000,2028-06-30,4,376,0,0.31,Denmark,Denmark,right,183,73,no
+L. Lerager,Widzew Łódź,"RCMF, LCMF",33,3000000,2028-06-30,26,1508,2,3.09,Denmark,Denmark,right,188,80,no
+P. Pentz,Brøndby,GK,29,3000000,2028-06-30,27,2686,0,0.0,Austria,Austria,left,184,81,no
+J. Rasmussen,Kaiserslautern,LCB,29,3000000,2027-06-30,29,2879,1,1.78,Denmark,Denmark,left,190,81,no
+O. Brynhildsen,Bodø / Glimt,"CF, RW",27,3000000,2030-06-30,24,1400,5,4.47,Norway,Norway,right,175,70,no
+F. Alves,Brøndby,"CB, RCB",26,2500000,2028-06-30,16,1565,1,1.27,Denmark,"Denmark, Brazil",right,195,78,no
+K. Olsson,,"LCMF, RCMF",31,2500000,,13,1244,0,0.89,Sweden,Sweden,right,178,70,no
+S. Klaiber,Brøndby,"RWB, RB",31,2500000,2027-06-30,23,2028,4,2.41,Netherlands,"Netherlands, Suriname",right,184,76,no
+M. Bech,Midtjylland,"LCB, RCB",27,2500000,2027-06-30,24,2274,4,2.63,Denmark,Denmark,left,189,77,no
+L. Engel,Real Salt Lake,LB,27,2200000,2028-12-31,3,292,0,0.0,Denmark,Denmark,left,178,72,no
+T. Slotsager,Hellas Verona,"RCB, LCB",20,2200000,2028-06-30,30,2853,1,1.43,Denmark,Denmark,right,189,80,no
+F. Bundgaard,Brøndby,"CF, RWF",22,2000000,2029-06-30,32,1764,5,7.18,Denmark,Denmark,left,176,67,no
+A. Gigović,Young Boys,"LCMF, RCMF",24,2000000,2029-06-30,27,1490,0,0.92,Sweden,"Sweden, Bosnia and Herzegovina",right,187,77,no
+O. Sonne,Burnley,RB,25,2000000,2029-06-30,31,2861,1,1.75,Denmark,"Denmark, Peru",right,184,76,no
+A. Daghim,Salzburg,"RWF, LWB, LWF",20,2000000,2028-06-30,3,32,0,0.3,Denmark,"Denmark, Palestine",left,186,80,no
+M. Knudsen,AGF,"RCMF, LCMF",25,2000000,2030-06-30,27,2015,3,0.98,Norway,Norway,right,186,76,no
+J. Vanlerberghe,Brøndby,RCB,30,2000000,2027-06-30,12,1098,1,0.22,Belgium,Belgium,right,189,75,no
+R. Lauritsen,Brøndby,CB,30,2000000,2027-06-30,19,1614,1,0.97,Denmark,Denmark,right,186,79,no
+H. Evjen,Bodø / Glimt,"RCMF, AMF, LCMF",26,2000000,2028-12-31,11,314,1,0.48,Norway,Norway,left,178,68,no
+M. Divković,Brøndby,LWB,27,2000000,2028-06-30,28,2375,2,2.41,Croatia,Croatia,left,181,74,no
+M. Frese,Hellas Verona,LB,28,2000000,2027-06-30,29,2718,4,2.47,Denmark,Denmark,left,179,75,no
+B. Nygren,Celtic,"RCMF, RWF",25,2000000,2029-06-30,20,924,6,2.73,Sweden,Sweden,left,188,80,no
+O. Provstgaard,Lazio,LCB,23,2000000,2029-06-30,32,3179,1,1.48,Denmark,Denmark,left,194,73,no
+C. Rasmussen,Bochum,"RWF, CF, RAMF",23,2000000,2030-06-30,22,996,0,3.06,Denmark,Denmark,left,184,77,no
+W. Clem,København,"DMF, RCMF",22,1800000,2027-06-30,22,1419,0,0.78,Denmark,"Denmark, Norway",right,178,74,no
+S. Thórdarson,Hannover 96,"LCMF, AMF, LWF",27,1800000,2029-06-30,28,1933,9,4.65,Iceland,Iceland,right,189,76,no
+O. Omoijuanfo,Changchun Yatai,CF,32,1800000,2026-12-31,31,2278,10,9.43,Norway,Norway,right,188,75,no
+Ž. Zaletel,Viborg,LCB,26,1800000,2027-12-31,27,2517,1,1.08,Slovenia,Slovenia,right,185,81,no
+I. Jensen,AZ,"LWF, LW, LAMF",22,1700000,2030-06-30,25,1826,7,4.11,Denmark,Denmark,right,186,91,no
+G. Onugkha,Kayserispor,CF,30,1700000,2027-06-30,31,2600,15,11.75,Russia,"Russia, Nigeria",right,193,92,no
+T. Chukwuani,Rangers,LCMF,23,1500000,2029-06-30,31,2409,4,3.57,Denmark,"Denmark, Nigeria",right,187,74,no
+E. Kahl,AGF,"LWB, LB, LCB",24,1500000,2029-06-30,30,2015,1,0.65,Sweden,"Sweden, Thailand",left,181,69,no
+L. Coulibaly,Auxerre,RW,23,1500000,2028-06-30,28,2420,4,3.66,Côte d'Ivoire,Côte d'Ivoire,right,186,70,no
+J. Radošević,Istra 1961,"RCMF, LCMF",32,1500000,2027-06-30,31,1835,2,0.64,Croatia,Croatia,right,180,74,no
+K. Tshiembe,Vålerenga,"RCB, CB",29,1500000,2027-12-31,16,1110,0,0.0,Denmark,"Denmark, Congo DR",right,186,83,no
+S. Kaba,Al Dhafra,CF,30,1500000,,4,159,0,0.5,Guinea,Guinea,right,191,80,no
+E. Chilufya,Midtjylland,"AMF, CF",26,1500000,2028-12-31,3,72,0,0.0,Zambia,Zambia,right,171,65,no
+F. Beijmo,,"RWB, LCB, RCB",28,1500000,,26,2428,2,2.96,Sweden,Sweden,right,185,82,no
+L. Lund,Viborg,GK,26,1500000,2027-06-30,17,1627,0,0.0,Denmark,Denmark,right,195,85,no
+A. Ementa,Zulte-Waregem,CF,24,1500000,2028-06-30,31,2344,8,8.45,Denmark,"Denmark, Nigeria",right,202,84,no
+V. Lund,Molde,LCB,23,1400000,2027-12-31,5,436,1,0.1,Denmark,Denmark,left,193,83,no
+A. Gabriel,Midtjylland,RB,25,1200000,2029-06-30,19,1014,1,2.81,Czech Republic,Czech Republic,right,190,84,no
+O. Schwartau,Norwich City,"CF, AMF",20,1200000,2028-06-30,14,267,0,0.64,Denmark,Denmark,right,186,77,no
+J. Bell,Viking,LDMF,27,1200000,2027-12-31,1,15,0,0.0,England,"England, New Zealand",right,182,77,no
+N. Dyhr,Randers,"LWB, LB",25,1200000,2028-06-30,13,392,0,0.0,Denmark,Denmark,left,179,66,no
+B. Peacock-Farrell,Birmingham City,GK,29,1200000,2027-06-30,21,1998,0,0.0,England,"England, Northern Ireland",left,194,74,no
+N. Mantl,Arouca,GK,26,1200000,2028-06-30,15,1512,0,0.0,Germany,Germany,right,193,88,no
+O. Bundgaard,Viborg,LB,25,1200000,2028-06-30,32,3116,1,1.82,Denmark,Denmark,left,182,72,no
+K. Finnsson,Vålerenga,"LWB, LB",26,1200000,2029-12-31,30,2808,2,2.98,Iceland,Iceland,left,181,77,no
+L. Deedson,Dallas,"RWF, RAMF, RW",25,1200000,2028-12-31,27,1986,8,6.11,Haiti,"Haiti, United States",left,178,70,no
+Z. Sertdemir,Preußen Münster,"RCMF, RDMF",21,1200000,2028-06-30,13,573,0,0.36,Denmark,"Denmark, Türkiye",left,182,76,no
+A. Klynge,Jagiellonia Białystok,"LCMF, AMF, LWF",25,1200000,2029-06-30,28,2499,2,2.01,Denmark,Denmark,right,175,70,no
+Marrony,Atlético GO,"CF, LW",27,1000000,2026-12-31,3,55,0,0.09,Brazil,Brazil,left,181,75,yes
+D. Wass,Brøndby,"LCMF, DMF",37,1000000,2027-06-30,31,2717,3,3.13,Denmark,Denmark,right,178,74,no
+H. Heggheim,Viking,"RCB, LCB",25,1000000,2028-12-31,13,936,0,0.34,Norway,Norway,right,189,77,no
+Lee Han-Beom,Midtjylland,RB,24,1000000,2027-06-30,3,130,1,0.26,Korea Republic,Korea Republic,right,190,84,no
+F. Helander,Häcken,"CB, LCB",33,1000000,2028-12-31,22,1963,1,0.95,Sweden,Sweden,left,192,84,no
+T. Salquist,Nordsjælland,RCB,31,1000000,2028-06-30,16,1504,0,0.54,Denmark,Denmark,right,190,85,no
+M. Brink,Nordsjælland,DMF,28,1000000,2027-06-30,32,3087,0,0.29,Denmark,Denmark,right,174,73,no
+S. Odey,Debrecen,"CF, AMF",28,1000000,,32,2272,4,5.33,Nigeria,Nigeria,right,182,78,no
+M. Enggård,Molde,"RCMF, DMF",22,1000000,2028-06-30,32,2978,1,1.19,Denmark,Denmark,right,179,65,no
+I. Said,Motherwell,"RWF, LWF",24,1000000,2027-06-30,29,1735,3,4.61,Nigeria,Nigeria,right,173,67,no
+M. Hansen,Brommapojkarna,"RCMF, RWF",23,1000000,2028-12-31,19,947,2,2.01,Denmark,Denmark,left,188,79,no
+A. Cornelius,København,CF,33,1000000,2027-06-30,16,728,2,3.11,Denmark,Denmark,left,193,91,no
+Paulinho,,LB,31,1000000,,26,2109,1,1.02,Brazil,Brazil,left,178,71,no
+J. Juninho,Internacional,"LCB, CB",31,1000000,2027-12-31,25,1639,0,1.8,Brazil,Brazil,left,187,80,no
+Charles,Corinthians,"LW, LCMF",30,1000000,2028-12-31,27,1262,3,2.33,Brazil,Brazil,right,187,81,no
+A. Hansen,Nordsjælland,GK,30,1000000,2028-06-30,29,2892,0,0.0,Denmark,Denmark,right,186,74,no
+Mats Knoester,Aberdeen,"LCB, CB",27,1000000,2029-05-31,14,967,0,1.34,Netherlands,Netherlands,left,188,79,no
+D. Čolina,Zagłębie Lubin,"LWB, LB",25,1000000,2028-06-30,12,874,0,0.06,Croatia,Croatia,left,174,66,no
+R. Al Hajj,Silkeborg,"AMF, LCMF, RCMF",24,1000000,2029-06-30,29,2501,3,2.89,Lebanon,"Lebanon, Sweden",right,180,67,no
+N. Trott,Cardiff City,GK,27,1000000,2029-06-30,31,3084,0,0.0,England,"England, Bermuda",left,188,75,no
+O. Antman,Anderlecht,"LWF, RWF, RAMF",24,1000000,2030-06-30,22,957,3,3.06,Finland,Finland,right,185,75,no
+A. Rømer,KA,"LCMF, RCMF",33,1000000,2027-12-31,23,1432,0,0.5,Denmark,Denmark,right,186,78,no
+W. Kumado,San Diego,"RB, RWB",23,900000,2026-12-31,27,1831,0,0.02,Ghana,Ghana,right,167,63,no
+C. Winther,Lyngby,"RCMF, LCMF",23,900000,2027-06-30,27,1810,1,1.09,Denmark,Denmark,right,177,67,no
+S. Tengstedt,Go Ahead Eagles,"AMF, RWF",26,900000,2027-06-30,17,969,4,5.9,Denmark,Denmark,left,187,82,no
+A. Pyndt,Sirius,"DMF, RCMF, LCMF",25,900000,2027-06-30,6,65,0,0.04,Denmark,Denmark,right,175,68,no
+J. Gomez,OB,LCB,24,900000,2028-12-31,12,890,0,0.54,Gambia,Gambia,right,189,80,no
+F. Tongya,Gençlerbirliği,"RW, RAMF, LAMF",24,900000,2027-06-30,6,332,1,1.2,Italy,"Italy, Cameroon",right,175,71,no
+T. Adamsen,Rapid Wien,"CF, AMF, RWF",31,900000,2028-06-30,28,2056,5,5.85,Denmark,Denmark,left,180,74,no
+M. Anderson,AGF,"LCMF, LWF, AMF",28,900000,2030-06-30,30,2657,1,4.22,Iceland,"Iceland, Denmark",right,180,69,no
+D. Anyembe,Viborg,"RB, LCB, RCB",27,900000,2028-06-30,24,2129,1,0.37,Denmark,"Denmark, Kenya",right,189,77,no
+M. Søndergaard,Viborg,"LCMF, DMF",23,900000,2027-06-30,27,1909,2,2.05,Denmark,Denmark,right,178,65,no
+F. Đukić,Hvidovre,GK,26,900000,2028-06-30,25,2461,0,0.0,Montenegro,"Montenegro, Denmark",right,181,72,no
+S. Ezatolahi,Shabab Al Ahli Dubai,"RCMF, LCMF",29,900000,2028-06-30,11,711,1,1.69,Iran,Iran,right,190,78,no
+C. McCowatt,Silkeborg,"AMF, LWF, RWF",27,850000,2027-12-31,32,1635,5,6.31,New Zealand,New Zealand,right,179,73,no
+R. Falk,OB,"DMF, LCMF",34,850000,2028-06-30,30,2313,3,1.69,Denmark,Denmark,right,177,65,no
+J. Andersson,Ludogorets,"RB, LB, LWB",29,850000,2028-06-30,9,296,0,0.02,Sweden,Sweden,right,178,68,no
+N. Bürgy,Thun,RCB,30,850000,2028-06-30,24,2323,1,0.84,Switzerland,Switzerland,right,185,80,no
+J. Mbom,Bochum,"DMF, RCMF, LCMF",26,850000,2029-06-30,24,1916,0,0.84,Germany,"Germany, Cameroon",right,183,80,no
+M. Juwara,Pogoń Szczecin,"LWF, RWF, LW",24,850000,2028-06-30,31,1588,3,4.53,Gambia,Gambia,left,170,65,no
+O. Zandén,Brommapojkarna,LB,24,800000,2027-12-31,9,464,0,0.09,Sweden,Sweden,left,183,75,no
+P. Carlgren,Nantes,GK,34,800000,,33,3250,0,0.49,Sweden,Sweden,right,188,84,no
+M. Greve,Randers,RCMF,31,800000,2028-06-30,24,1466,1,1.72,Denmark,Denmark,right,186,77,no
+Júnior Brumado,Midtjylland,"CF, AMF",27,800000,2026-12-31,2,147,0,0.63,Brazil,Brazil,right,190,88,no
+M. Emil Madsen,København,"LCMF, DMF, RCMF",28,800000,2028-06-30,20,1696,3,1.52,Denmark,Denmark,left,189,80,no
+S. Radić,MTK,"RCB, LCB",26,800000,2027-06-30,10,815,0,0.0,Croatia,Croatia,right,190,83,no
+S. Sebulonsen,Köln,RWB,26,750000,2028-06-30,14,606,1,0.48,Norway,Norway,right,181,78,no
+V. Myhra,OB,GK,29,750000,2028-12-31,15,1499,0,0.0,Norway,Norway,right,194,94,no
+J. Serra,AGF,CF,28,750000,2027-06-30,19,585,2,1.77,Germany,Germany,left,193,83,no
+G. Links,AGF,"LWB, RB, LB",27,750000,2029-06-30,27,1751,0,0.97,South Africa,South Africa,left,170,60,no
+J. Björkengren,Randers,LCMF,27,750000,2027-06-30,29,2763,2,2.1,Sweden,Sweden,left,180,78,no
+M. Elvius,Hvidovre,"RWB, RB",24,750000,2028-06-30,28,1508,0,0.57,Denmark,Denmark,right,185,78,no
+Gylfi Sigurdsson,Víkingur Reykjavík,"LCMF, AMF",36,750000,2027-12-31,5,299,0,0.24,Iceland,Iceland,right,186,77,no
+T. Storm,NEC,"RWB, RB",22,700000,2030-06-30,26,1380,0,0.38,Denmark,Denmark,right,182,72,no
+O. Højlund,Eintracht Frankfurt,"LCMF, RCMF",21,700000,2029-06-30,11,439,0,0.34,Denmark,Denmark,right,184,74,no
+A. Busch,Silkeborg,"LCB, RCB",22,700000,2028-12-31,17,1659,0,1.37,Denmark,Denmark,right,190,75,no
+S. Gartenmann,Sampdoria,"RCB, CB",29,700000,2028-06-30,3,197,0,0.0,Denmark,Denmark,right,185,75,no
+C. Cappis,Dallas,"LB, LCMF",26,700000,2027-12-31,2,18,0,0.0,United States,United States,both,185,72,no
+N. Poulsen,AGF,"DMF, LCMF, RCMF",32,700000,2028-06-30,25,2096,2,3.5,Denmark,Denmark,right,176,79,no
+T. Mølgaard,AGF,RCB,29,700000,2028-06-30,18,1715,0,0.03,Denmark,Denmark,right,182,75,no
+N. Thomas,ADO Den Haag,"LWF, RAMF, CF",25,700000,2027-06-30,16,612,1,0.78,Netherlands,"Netherlands, Curaçao",right,177,77,no
+M. Kikkenborg,Molde,GK,26,700000,2028-12-31,17,1681,0,0.0,Denmark,Denmark,right,197,93,no
+A. Adelgaard,Twente,LB,22,700000,2030-06-30,18,1110,0,0.33,Denmark,Denmark,left,175,65,no
+S. Köhler,,"RCMF, RDMF, LCMF",29,700000,,22,2026,0,0.77,Germany,Germany,right,185,83,no
+T. Sander,Elfsborg,GK,21,700000,2030-06-30,1,100,0,0.0,Denmark,"Denmark, France",right,189,80,no
+W. Dammers,Randers,LCB,31,650000,2030-06-30,30,2808,3,2.36,Netherlands,Netherlands,right,185,81,no
+J. Felix,Arminia Bielefeld,LCB,28,650000,2027-06-30,14,1031,0,0.11,St. Lucia,"St. Lucia, Denmark",left,190,73,no
+P. Mattsson,Norwich City,RCMF,24,650000,2028-06-30,28,2520,2,3.06,Denmark,"Denmark, Sweden",right,181,74,no
+I. Fossum,Rosenborg,"RCMF, AMF",30,650000,2027-12-31,4,165,0,0.21,Norway,Norway,right,180,73,no
+L. Owusu,,"RB, RWB",29,650000,,28,2484,0,0.76,Netherlands,"Netherlands, Ghana",right,174,68,no
+T. Francois,,"LCMF, RCMF",26,600000,,15,1296,0,0.69,Australia,"Australia, England",left,173,60,no
+L. Lissens,Randers,"LCB, RCB",24,600000,2028-06-30,13,1009,0,0.3,Belgium,Belgium,right,184,74,no
+R. Østrøm,Silkeborg,"LB, LCB",23,600000,2028-12-31,20,1279,0,0.01,Denmark,"Denmark, Norway",right,188,80,no
+Renato Júnior,Al Wasl,"CF, LWF, RWF",24,600000,,19,845,1,1.58,Brazil,Brazil,right,190,82,no
+M. Abubakari,Lyngby,CF,26,600000,2027-06-30,13,419,2,2.54,Ghana,Ghana,right,184,82,no
+J. Tverskov,San Diego,"DMF, RDMF",33,600000,2027-12-31,32,2978,4,3.19,Denmark,Denmark,right,188,85,no
+N. Baden Frederiksen,WSG Swarovski Tirol,RCMF,26,600000,,1,6,0,0.0,Denmark,Denmark,left,179,70,no
+J. Žambůrek,ADO Den Haag,"LCMF, RCMF",25,600000,2029-06-30,3,120,0,0.0,Czech Republic,Czech Republic,left,182,70,no
+O. Olsen,Bochum,"RB, LB",25,550000,2030-06-30,29,2386,1,0.99,Denmark,Denmark,right,190,78,no
+L. Kjerrumgaard,Udinese,CF,23,550000,2030-06-30,14,690,4,3.83,Denmark,Denmark,left,190,77,no
+F. Carlsen,Ingolstadt,AMF,24,500000,2027-06-30,16,625,0,0.29,Denmark,Denmark,right,193,80,no
+L. Musonda,Magdeburg,LB,31,500000,2027-06-30,24,1445,0,0.87,Zambia,Zambia,both,171,75,no
+H. Andersson,Värnamo,RCB,27,500000,2027-12-31,18,1031,1,1.16,Sweden,Sweden,right,196,86,no
+A. Poulsen,Silkeborg,LB,26,500000,2027-06-30,16,837,0,0.31,Denmark,Denmark,left,188,80,no
+C. Sørensen,Vejle,LB,33,500000,2028-06-30,19,1088,0,0.29,Denmark,Denmark,left,179,74,no
+J. Bonde,OB,"LCMF, RCMF",32,500000,2027-06-30,25,1965,2,3.73,Denmark,Denmark,left,186,75,no
+M. Kallesøe,AaB,RB,29,500000,2027-06-30,17,1263,0,0.05,Denmark,Denmark,right,193,80,no
+M. Brajanac,Esbjerg,CF,25,500000,2029-06-30,15,478,0,1.79,Denmark,"Denmark, Bosnia and Herzegovina",right,189,87,no
+J. Amon,St. Pölten,"CF, LWF, AMF",27,500000,2027-06-30,25,1057,0,2.33,United States,United States,right,175,71,no
+Tyler Burey,Zrinjski,"LW, LAMF, LWF",25,500000,2027-05-31,6,214,0,0.3,England,"England, Jamaica",right,187,78,no
+S. Velkov,Vejle,RCB,29,500000,2027-06-30,26,2082,0,0.48,Bulgaria,Bulgaria,right,192,86,no
+D. Kolinger,Persija,RCB,32,500000,2028-06-30,19,1256,0,0.48,Croatia,Croatia,right,199,92,no
+M. Nielsen,AaB,LB,25,450000,2028-06-30,21,1748,0,0.23,Denmark,Denmark,left,0,0,no
+A. Iljazovski,Hvidovre,"RB, LB",28,450000,2026-12-31,28,2312,0,1.48,Denmark,"Denmark, North Macedonia",right,185,67,no
+L. Qamili,Sønderjyske,"RWF, RAMF, CF",28,450000,2027-06-30,28,2400,6,7.16,Denmark,"Denmark, Albania",left,191,74,no
+J. Gammelby,Silkeborg,"RB, LB",31,450000,2028-06-30,14,292,0,1.46,Denmark,Denmark,both,192,81,no
+T. Klysner,Sønderjyske,"RW, LW, RB",25,450000,2027-06-30,5,188,0,0.39,Denmark,Denmark,right,183,69,no
+V. Byskov,Midtjylland,"RW, RCMF, RWF",21,450000,2030-06-30,5,106,0,0.35,Denmark,Denmark,right,0,0,no
+M. Westergaard,Vålerenga,"RCMF, LCMF",28,450000,2029-12-31,23,1276,2,2.72,Denmark,Denmark,right,187,75,no
+M. Duelund,Vejle,"RWF, CF, AMF",29,450000,2027-06-30,17,736,1,1.12,Denmark,Denmark,right,178,74,no
+J. Gemmer,Helsingør,"DMF, RDMF",30,450000,,27,2164,0,0.44,Denmark,Denmark,right,179,76,no
+M. Jensen,Sønderjyske,"CB, LCB",29,450000,2029-06-30,23,1788,2,3.4,Denmark,Denmark,right,196,85,no
+T. Lauritsen,Vejle,"RCMF, LCMF, CF",22,450000,2027-06-30,22,1004,1,0.5,Denmark,Denmark,right,181,75,no
+B. Kadrii,,"CF, AMF",35,450000,,31,2432,7,7.16,Denmark,"Denmark, North Macedonia",left,177,74,no
+K. Kirkegaard,Horsens,"RWF, LWF, CF",28,400000,2027-06-30,18,1114,2,1.93,Denmark,Denmark,right,174,63,no
+M. Lindberg,Sirius,"LCMF, CF, LWF",26,400000,2028-06-30,14,1028,0,0.96,Denmark,Denmark,right,181,74,no
+J. Lössl,,GK,37,400000,,26,2569,0,0.0,Denmark,Denmark,right,195,89,no
+H. Dalsgaard,,RB,36,400000,,25,1774,3,2.52,Denmark,Denmark,right,192,81,no
+N. Larsen,Vejle,GK,35,400000,2028-06-30,32,3123,0,0.0,Denmark,Denmark,right,187,83,no
+M. Larsen,Silkeborg,"RCMF, LCMF, AMF",24,400000,2027-12-31,15,653,0,1.11,Denmark,Denmark,right,183,74,no
+R. Ascone,Halmstad,"LCMF, LWF, RCMF",22,400000,2029-12-31,6,116,0,0.09,France,"France, Italy",left,177,68,no
+P. Rödin,Silkeborg,RCB,25,400000,2027-12-31,13,1271,0,0.0,Sweden,Sweden,right,189,80,no
+J. Jensen-Abbew,AGF,"LCB, RCB",24,400000,2028-12-31,10,848,1,0.52,Denmark,"Denmark, Ghana",right,187,80,no
+M. Fraisl,Mafra,GK,33,400000,2028-06-30,7,634,0,0.0,Austria,Austria,right,187,79,no
+P. Mortensen,Brøndby,CF,37,400000,2028-06-30,32,3024,13,12.56,Denmark,Denmark,right,188,78,no
+M. Kiilerich,Hvidovre,RCB,30,400000,,19,1792,0,0.68,Denmark,Denmark,right,188,0,no
+Y. N''Gbakoto,Sedan,"LWF, RWF, LW",34,400000,,17,1099,2,1.28,France,"France, Congo DR",right,173,69,no
+F. Gytkjær,Lyngby,CF,33,400000,2027-06-30,28,2023,5,5.52,Denmark,Denmark,right,180,75,no
+P. Gregor,Halmstad,RCB,32,400000,2027-12-31,30,2791,1,0.91,Denmark,Denmark,right,189,80,no
+D. Emmanouilidis,Levadiakos,"LWF, LW, AMF",25,400000,2027-06-30,10,499,2,0.66,Greece,Greece,right,175,71,no
+H. Barry,Al Zulfi,"RCMF, LCMF",31,400000,,30,2509,1,0.44,Gambia,Gambia,right,175,73,no
+N. Mickelson,Elversberg,"LWB, LB, RB",27,400000,2027-06-30,22,1486,2,0.44,Norway,"Norway, Thailand",right,185,80,no
+A. Manneh,Hibernian,"LDMF, RCMF",28,400000,2028-05-31,21,1565,2,1.11,Gambia,Gambia,left,170,61,no
+P. Ortíz,Baník Ostrava,LCB,26,350000,2029-06-30,3,203,0,0.0,Colombia,Colombia,left,190,77,no
+T. Trybull,,"LCMF, DMF, RCMF",33,350000,,20,1570,1,1.78,Germany,Germany,right,181,72,no
+M. Egho,Hvidovre,CF,32,350000,2027-06-30,9,538,0,0.6,Austria,Austria,right,187,80,no
+N. Mouritsen,B.93,"LWB, LB, LCB",31,350000,2028-06-30,23,1218,0,0.45,Denmark,Denmark,left,180,73,no
+J. Vester,Sandefjord,"RCMF, RB",21,350000,2029-12-31,11,346,2,1.18,Denmark,Denmark,right,182,79,no
+J. Beck,Elfsborg,"RCMF, LCMF",21,350000,2029-06-30,7,185,0,0.0,Denmark,Denmark,right,178,61,yes
+K. Barslund,Brommapojkarna,"RB, LCMF",22,350000,2027-06-30,3,48,0,0.15,Denmark,Denmark,right,182,75,no
+S. Berger,Silkeborg,LWF,23,350000,2028-12-31,1,15,0,0.0,Denmark,Denmark,left,175,0,no
+J. Grønning,Viborg,"DMF, LCMF, LDMF",35,350000,2027-06-30,25,1680,0,1.86,Denmark,Denmark,right,182,67,no
+F. Tingager,AGF,CB,33,350000,2028-06-30,30,3003,2,1.85,Denmark,Denmark,right,198,94,no
+T. Anker,Sirius,LCB,25,350000,2029-06-30,13,458,2,1.0,Denmark,Denmark,left,193,84,no
+P. Bjur,Esbjerg,"LCMF, LWB, CF",26,350000,2027-06-30,6,117,0,0.03,Denmark,Denmark,left,180,77,no
+T. Thomsen,HB Køge,CF,33,350000,2028-06-30,30,1866,8,8.06,Denmark,Denmark,right,183,81,no
+M. Kaalund,Hvidovre,"DMF, LCMF, RCMF",29,350000,,7,387,1,0.54,Denmark,Denmark,right,183,75,no
+Matti Olsen,Fremad Amager,"RCB, LCB",31,350000,,29,2738,0,1.13,Denmark,Denmark,right,0,0,no
+T. Gundelund,Vejle,"RWB, RB",24,350000,2028-06-30,19,1577,0,0.22,Denmark,Denmark,right,178,68,no
+G. Grubbe,Esbjerg,"RCMF, RB",23,350000,2030-06-30,8,134,0,0.31,Denmark,Denmark,right,179,74,no
+Jasin Assehnoun,,"LWF, LW, CF",27,350000,,13,353,1,0.16,Finland,"Finland, Morocco",both,175,68,no
+M. Sauer,Sandefjord,"LW, DMF, RW",22,350000,2030-12-31,5,63,0,0.0,Denmark,Denmark,left,181,74,no
+M. Jensen,Nacional,"LWF, CF, RAMF",21,350000,2030-06-30,21,555,0,0.71,Denmark,Denmark,right,0,0,no
+A. Jatta,Notts County,CF,27,325000,2027-06-30,13,196,1,0.39,Gambia,Gambia,right,192,75,no
+M. Andreasen,Næstved,"CF, AMF",22,300000,,15,296,0,0.57,Denmark,Denmark,right,0,0,no
+J. Adjei-Broni,Kolding IF,"LWF, RWF, LW",22,300000,2028-06-30,23,995,1,1.32,Ghana,"Ghana, Denmark",left,0,0,no
+N. Shamoun,Randers,"LW, LWF",23,300000,2027-06-30,4,128,0,0.27,Sweden,Sweden,right,175,65,no
+A. Smed,Hvidovre,"LWF, LAMF",29,300000,,27,1384,3,1.89,Denmark,Denmark,right,182,73,no
+N. Nartey,Olympique Lyonnais,"RCMF, LWF",20,300000,2030-06-30,9,245,0,0.01,Denmark,"Denmark, Ghana",right,180,69,no
+E. Højlund,Schalke 04,CF,21,300000,2028-06-30,1,6,0,0.0,Denmark,Denmark,right,191,87,no
+K. Kusk,Vendsyssel,"AMF, RWF, LWF",34,300000,,22,520,0,0.43,Denmark,Denmark,left,180,67,no
+M. Pedersen,Hobro,"RCMF, LW",30,300000,2027-06-30,15,500,0,0.03,Denmark,Denmark,left,182,80,no
+A. Mustafić,Komárno,"RCMF, LDMF",27,300000,2027-06-30,4,174,0,0.01,Bosnia and Herzegovina,Bosnia and Herzegovina,right,185,76,no
+W. Kaastrup,,LB,22,300000,,5,275,0,0.0,Denmark,Denmark,left,178,69,no
+A. Gülstorff,Nordsjælland,GK,23,300000,,1,98,0,0.0,Denmark,Denmark,left,185,75,no
+P. Ankersen,Nordsjælland,"RB, RWB",35,300000,2027-06-30,21,1333,1,0.99,Denmark,Denmark,right,180,73,no
+N. Boilesen,,LCB,34,300000,,6,309,0,0.09,Denmark,Denmark,left,186,75,no
+K. Hansen,,"RCB, LCB",37,300000,,29,2728,1,1.83,Denmark,Denmark,right,184,74,no
+C. Eriksson,Sarpsborg 08,GK,31,300000,2026-12-31,2,199,0,0.0,Finland,Finland,right,191,88,no
+F. Brandhof,Horsens,"RCMF, DMF",30,300000,2028-06-30,18,1039,0,0.63,Denmark,Denmark,right,182,77,no
+J. Jacobs,Almere City,"LCMF, RCMF",28,300000,2027-06-30,9,325,0,0.15,Netherlands,Netherlands,left,182,74,no
+P. Rejnhold,,"LB, RB",30,300000,,8,474,0,0.32,Denmark,Denmark,both,177,0,no
+A. Jacobsen,,"CF, RWF",36,300000,,15,657,0,1.82,Denmark,Denmark,right,182,77,no
+D. Høegh,Randers,"RCB, LCB",35,300000,2027-06-30,28,2682,2,3.12,Denmark,Denmark,right,190,79,no
+R. Corlu,Hillerød,"RCMF, CF",28,300000,2028-06-30,8,247,0,0.26,Denmark,"Denmark, Türkiye",left,171,70,no
+F. Lauenborg,Randers,"RCMF, LW",29,300000,2028-06-30,5,144,0,0.1,Denmark,Denmark,left,181,74,no
+H. Bernat,Karlsruher SC,GK,25,300000,,8,757,0,0.0,Denmark,"Denmark, Poland",right,192,88,no
+M. Ivančević,Corvinul Hunedoara,"CB, LCB, RCB",27,300000,2027-06-30,7,379,0,0.0,Serbia,Serbia,right,187,80,no
+M. Ejdum,Brøndby,"LCMF, RCMF",21,300000,2031-06-30,10,455,1,0.47,Denmark,Denmark,left,168,58,no
+K. Mensah,,"RWB, LWB",35,250000,,18,902,0,0.33,Denmark,"Denmark, Ghana",right,173,72,no
+E. Babayan,,"LW, RW, LWF",30,250000,,9,405,0,0.03,Denmark,"Denmark, Armenia",left,180,73,no
+A. Dahl,Fredericia,RB,24,250000,2027-06-30,1,20,0,0.0,Denmark,Denmark,right,176,63,no
+A. Kamara,,CF,32,250000,,10,150,0,0.09,Sierra Leone,Sierra Leone,right,182,75,no
+A. Finnbogason,,CF,37,250000,,4,355,2,2.64,Iceland,Iceland,right,184,80,no
+M. Rømer,HB Køge,"DMF, RCMF, LCMF",34,250000,,29,2401,1,1.56,Denmark,Denmark,right,181,80,no
+B. Paulsen,,"RCB, CB, RWB",35,250000,,24,1790,0,0.67,Denmark,Denmark,right,191,85,no
+Gilli Sörensen,KÍ,"RWB, RB",33,250000,2028-12-31,6,389,0,0.04,Faroe Islands,Faroe Islands,right,187,82,no
+I. Vekič,Vejle,GK,28,250000,2027-06-30,1,95,0,0.0,Slovenia,Slovenia,right,192,88,no
+G. Fraulo,Lyngby,DMF,21,250000,2029-06-30,6,232,0,0.0,Denmark,"Denmark, Italy",right,183,73,no
+E. Ofori,Atyrau,"LCMF, DMF, RCMF",31,250000,2026-12-31,21,1180,0,0.07,Ghana,Ghana,left,172,74,no
+S. Ngabo,Häcken,"RW, LCMF",22,200000,2029-12-31,2,17,0,0.0,Denmark,"Denmark, Burundi",right,174,66,no
+G. Mortensen,Standard Liège,"LWB, LCB, RB",22,200000,2030-06-30,3,51,0,0.01,Denmark,Denmark,left,0,0,no
+P. Bizoza,Panevėžys,"RAMF, LCMF",27,200000,2027-12-31,3,38,0,0.0,Norway,"Norway, Burundi",right,186,80,no
+C. Gammelgaard,Vejle,"RWF, CF, RW",23,200000,2028-06-30,5,66,0,0.11,Denmark,Denmark,left,185,74,no
+B. Kopplin,,"LB, RB",37,200000,,28,2027,2,1.06,Germany,Germany,right,184,80,no
+A. Bøndergaard,Lyngby,CF,22,200000,2030-12-31,3,34,0,0.01,Denmark,Denmark,right,0,0,no
+E. Marxen,,LCB,35,200000,,2,48,0,0.0,Denmark,Denmark,left,185,80,no
+M. Akoto,KR,RCB,28,200000,2027-12-31,11,470,0,0.1,Germany,"Germany, Ghana",right,188,72,no
+Nils Mortimer,Académico de Viseu F.C.,RWF,25,200000,2028-06-30,1,35,0,0.15,Spain,Spain,left,178,72,no
+A. Kappenberger,Brøndby,GK,29,200000,2027-06-30,7,697,0,0.0,Denmark,"Denmark, Switzerland",right,194,85,no
+D. Jensen,,GK,34,200000,,8,787,0,0.0,Denmark,Denmark,right,195,92,no
+M. Drammeh,Universitatea Cluj,"LWF, RCMF, RWF",27,200000,2027-06-30,3,79,0,0.0,France,"France, Gambia",left,188,80,no
+L. Hetemi,Vejle,"LCMF, RCMF",26,200000,2028-06-30,3,79,0,0.02,Albania,"Albania, Denmark",right,170,67,no
+M. Albornoz,,"LWB, LB",35,200000,,25,1997,0,0.48,Sweden,"Sweden, Chile",left,180,80,no
+A. Bušuladžić,,"RCMF, LCMF",34,200000,,13,471,0,0.38,Denmark,"Denmark, Bosnia and Herzegovina",right,187,77,no
+Z. Dalügge,Skive,CF,23,175000,2028-06-30,1,11,0,0.0,Denmark,Denmark,right,185,71,no
+M. Fredslund,,"RB, DMF, LDMF",33,150000,,27,1658,1,1.07,Denmark,Denmark,right,0,0,no
+J. Pryts,Start,GK,28,150000,2026-12-31,1,38,0,0.0,Denmark,Denmark,left,191,88,no
+B. Hvidt,Esbjerg,RCMF,26,150000,2027-06-30,1,3,0,0.0,Denmark,Denmark,right,185,78,no
+M. Gehrt,,"LCMF, RCMF",34,150000,,11,441,0,0.0,Denmark,Denmark,right,174,75,no
+M. Hansen,OB,GK,36,150000,2027-06-30,10,949,0,0.0,Denmark,Denmark,right,188,85,no
+Raúl Albentosa,,CB,37,150000,,30,2968,2,1.67,Spain,Spain,right,192,89,no
+R. Sukuta-Pasu,Eintracht Hohkeppel,"CF, LW",36,125000,,2,38,0,0.11,Germany,"Germany, Congo DR",right,190,93,no
+L. Sandgrav,Lyngby,"AMF, CF",21,100000,2028-06-30,2,40,0,0.0,Denmark,Denmark,right,184,76,no
+J. Meyer,Start,"CB, RCB",22,100000,2028-12-31,7,137,0,0.0,Denmark,Denmark,right,192,80,no
+M. Albæk,Weiche Flensburg,"DMF, RCMF, LW",36,100000,,15,416,0,0.3,Denmark,Denmark,left,182,77,no
+J. Hansen,AGF,GK,41,100000,2027-06-30,13,1201,0,0.0,Denmark,Denmark,right,188,78,no
+S. Makienok,,CF,35,100000,,19,1015,2,3.22,Denmark,Denmark,right,201,94,no
+N. Clausen,Hvidovre,LB,31,100000,,1,65,0,0.0,Denmark,Denmark,left,0,0,no
+B. Hamalainen,,"LCB, LB, LWB",37,100000,,20,940,0,0.07,Denmark,"Denmark, Finland",left,176,69,no
+D. Stenderup,Hvidovre,LCB,37,100000,,21,1970,0,0.0,Denmark,Denmark,right,183,71,no
+J. Storch,Randers,GK,33,100000,2028-06-30,7,686,0,0.0,Denmark,Denmark,right,189,79,no
+A. Bredahl,Fremad Amager,RWF,23,75000,,1,30,0,0.0,Denmark,Denmark,right,182,0,no
+A. Bjelland,,CB,38,75000,,25,1770,1,0.91,Denmark,Denmark,left,188,85,no
+J. Andersen,AGF,RWB,19,50000,2025-06-30,1,13,0,0.0,Denmark,Denmark,right,186,78,no
+M. Spelmann,Hvidovre,"RCMF, RB, DMF",39,50000,,26,1741,0,1.01,Denmark,Denmark,right,175,72,no
+T. Mikkelsen,,GK,42,25000,,5,488,0,0.0,Denmark,Denmark,right,190,83,no
+E. Chambo,Lyngby U19,CF,19,0,,1,13,0,0.0,Cameroon,Cameroon,unknown,0,0,no
+N. Gammelgaard,Vejle U15,CF,15,0,,2,19,0,0.11,Denmark,Denmark,unknown,0,0,no
+M. Fuseini,Union Saint-Gilloise,CF,24,0,2028-06-30,16,1285,9,8.7,Ghana,Ghana,right,169,60,no
+Magnus Lysholm,Roskilde,"LB, LWB",24,0,2027-06-30,8,470,0,0.19,Denmark,Denmark,both,198,85,no
+M. Themsen,Randers,"LW, LAMF, LWF",20,0,2028-06-30,6,269,1,0.39,Denmark,Denmark,right,0,0,no
+M. Olsen,Holbæk B&I,AMF,27,0,2027-06-30,1,16,0,0.0,Denmark,Denmark,right,0,0,no
+M. Papuga,Hvidovre,"DMF, LDMF, LAMF",21,0,2026-12-31,4,104,0,0.0,Denmark,Denmark,right,0,0,no
+E. Chambo,,CF,20,0,,1,13,0,0.0,Denmark,Denmark,,0,0,no
+M. Opoku,Sarpsborg 08,"CF, LAMF, RWF",20,0,2029-12-31,5,59,0,0.39,Denmark,Denmark,right,181,0,no
+T. Bany,West Bromwich Albion,CF,22,0,,8,358,0,0.19,Denmark,Denmark,,177,0,no
+E. Yeboah,Corvinul Hunedoara,CF,23,0,,1,9,0,0.0,Ghana,Ghana,right,188,77,no
+N. Vallys,Brøndby,"LWF, LCMF, AMF",29,0,2027-06-30,31,2938,13,6.63,Denmark,Denmark,right,189,82,no
+Y. Salech,Cardiff City,CF,24,0,2030-06-30,3,42,0,0.0,Denmark,"Denmark, Palestine",right,195,83,no
+M. Kvistgaarden,Norwich City,"CF, RWF",24,0,2029-06-30,24,1660,8,6.91,Denmark,Denmark,right,175,68,no
+E. Martínez,Palmeiras,"LCMF, RCMF, DMF",26,0,2029-12-31,16,980,0,0.24,Uruguay,"Uruguay, Italy",right,184,64,no
+O. Sørensen,Parma,"RCMF, RW",24,0,2030-06-30,30,2865,6,5.22,Denmark,Denmark,left,180,78,no
+M. Kowalczyk,Katowice,LCMF,22,0,2028-06-30,1,4,0,0.0,Poland,Poland,right,181,72,no
+C. Bischoff,Salzburg,"LWB, RWB",20,0,2029-06-30,4,63,0,0.01,Denmark,Denmark,unknown,0,0,no
+Franculino Djú,Midtjylland,CF,22,0,2029-12-31,27,1628,11,9.27,Guinea-Bissau,"Guinea-Bissau, Portugal",left,182,77,no
+D. Osorio,Midtjylland,RW,22,0,2030-06-30,23,1379,8,3.37,Chile,Chile,left,184,67,no
+V. Froholdt,Porto,"RWF, RW, LWF",20,0,2030-06-30,5,91,1,0.3,Denmark,Denmark,right,187,0,no
+A. Priske,Birmingham City,"CF, RW",22,0,2031-06-30,1,26,0,0.0,Denmark,Denmark,right,187,79,no
+M. Fenger,IFK Göteborg,"CF, LWF, RCMF",24,0,2027-12-31,13,975,3,1.48,Denmark,Denmark,right,182,75,no
+S. Nordli,Rosenborg,LW,26,0,2029-12-31,26,1749,5,8.22,Norway,Norway,right,181,74,no
+E. Agyiri,Randers,"RW, LW, LAMF",28,0,2027-06-30,21,777,1,0.95,Ghana,Ghana,left,176,69,no
+O. Boesen,Esbjerg,"RCMF, LWF",21,0,2030-06-30,7,194,0,0.0,Denmark,"Denmark, Spain",,0,0,no
+S. Egeli,Ipswich Town,"RWF, RW",20,0,2030-06-30,3,27,0,0.06,Norway,Norway,left,0,0,no
+A. Schjelderup,Benfica,"LWF, LCMF",22,0,2028-06-30,26,2113,9,7.62,Norway,Norway,right,176,70,no
+C. Harder,RB Leipzig,"CF, RWF",21,0,,23,715,5,2.97,Denmark,Denmark,left,181,71,no
+E. Otoo,Levadia,"CF, LCMF, AMF",22,0,2026-12-31,4,158,0,0.18,Ghana,Ghana,,0,0,no
+J. Kudsk,Fredericia,"RB, RCB, LB",23,0,,8,146,0,0.0,Denmark,Denmark,right,188,80,no
+F. Rieper,Fredericia,"RCB, LCB",27,0,,5,351,0,0.0,Denmark,Denmark,right,196,0,no
+A. Lind,Nordsjælland,CF,24,0,2030-06-30,28,1910,10,7.6,Denmark,Denmark,right,185,84,no
+E. Nuamah,Olympique Lyonnais,"RWF, CF",22,0,,4,282,4,1.34,Ghana,Ghana,left,178,71,no
+T. Bach,Vejle,"CF, LB",23,0,,11,423,0,0.78,Denmark,Denmark,,0,0,no
+F. Emmery,AGF,LB,19,0,2030-06-30,1,19,0,0.02,Denmark,Denmark,unknown,0,0,no
+L. Callø Carstensen,AGF,RCB,20,0,2028-06-30,3,209,0,0.0,Denmark,Denmark,,0,0,no
+K. Kiilerich,Viborg,GK,20,0,2028-12-31,1,60,0,0.0,Denmark,Denmark,right,198,78,no
+M. Krüger-Johnsen,Midtjylland,RB,19,0,2029-12-31,1,20,0,0.0,Denmark,"Denmark, France",,0,0,no
+D. Svensson,Borussia Dortmund,"LCMF, LB, LDMF",24,0,2029-06-30,32,2914,2,0.64,Sweden,Sweden,left,178,72,no
+S. Kuzmić,Viborg,RB,22,0,2027-06-30,21,1278,1,0.69,Slovenia,Slovenia,right,183,75,no
+Serginho,Al Wasl,"RWF, LWF",25,0,,29,1776,2,3.66,Portugal,Portugal,right,183,69,no
+Mario Dorgeles,Sporting Braga,"RCMF, LCMF",21,0,2030-06-30,23,745,1,1.38,Côte d'Ivoire,Côte d'Ivoire,left,177,67,no
+M. Agnarsson,Mjällby,LB,22,0,2030-12-31,1,7,0,0.0,Faroe Islands,Faroe Islands,left,172,67,no
+T. Kristensen,Udinese,LCB,24,0,,6,583,0,0.57,Denmark,Denmark,right,198,85,no
+V. Bak Jensen,Midtjylland,LB,22,0,2030-06-30,10,640,0,0.0,Denmark,Denmark,left,180,71,no
+I. Osman,Brighton,"CF, LWF",21,0,,29,2209,6,9.35,Ghana,Ghana,right,177,68,no
+D. Khocholava,,RCB,33,0,,1,62,0,0.0,Georgia,Georgia,right,192,88,no
+M. Elyounoussi,København,"RWF, LCMF, LWF",31,0,2029-06-30,30,2434,10,11.79,Norway,Norway,right,178,70,no
+S. Hedlund,Elfsborg,CF,33,0,2026-12-31,1,13,0,0.0,Sweden,Sweden,right,173,66,no
+B. Riveros,Cerro Porteño,"LWB, LB",28,0,2026-12-31,5,434,0,0.4,Paraguay,Paraguay,left,178,68,no
+M. Ingvartsen,San Diego,"CF, RWF",30,0,2027-12-31,28,2066,9,9.61,Denmark,Denmark,left,187,82,no
+J. Andersen,AGF,"RB, RWB",22,0,2028-06-30,19,956,0,0.75,Denmark,Denmark,right,186,78,no
+T. Bech,AGF,"CF, RWF",24,0,2028-06-30,30,2041,7,7.09,Denmark,Denmark,left,189,77,no
+C. Jakobsen,Thór,"LCMF, RCMF, LWF",33,0,2027-06-30,30,2383,4,4.47,Denmark,Denmark,right,189,84,no
+N. Geertsen,,"CB, CF",35,0,,10,649,0,0.2,Denmark,Denmark,right,185,81,no
+M. Ramkilde,AB,"CF, LWF, LW",28,0,2027-06-30,6,128,0,0.67,Denmark,Denmark,right,187,74,no
+M. Lund Nielsen,,"RCMF, DMF, RB",38,0,,3,43,0,0.0,Denmark,Denmark,right,184,74,no
+Muniesa,,LCB,34,0,,10,771,0,0.33,Spain,Spain,left,180,74,no
+S. Magnússon,Brann,"RCMF, AMF, CF",26,0,2029-12-31,32,2207,5,2.82,Iceland,Iceland,right,171,65,no
+A. Gudjohnsen,Blackburn Rovers,CF,24,0,2028-06-30,28,2552,13,12.71,England,"England, Iceland",right,188,78,no
+J. Selvén,Vestri,"LAMF, RW, RWF",23,0,,9,472,1,0.85,Sweden,Sweden,right,175,68,no
+C. Nouck,Viborg,"LW, LAMF, LWF",22,0,2029-06-30,24,1252,1,2.51,Denmark,"Denmark, Cameroon",both,184,76,no
+M. Buya Turay,Zhetysu,CF,31,0,,13,486,1,1.25,Sierra Leone,Sierra Leone,right,180,75,no
+V. Lind,Hammarby,"RWF, LWF",23,0,2029-12-31,12,488,0,0.66,Denmark,Denmark,left,182,70,no
+M. Ubandoma,La Louvière,"RW, LW, RWF",22,0,2029-06-30,5,104,0,0.29,Nigeria,Nigeria,right,0,0,no
+T. Jørgensen,Viborg,"RCMF, LCMF, RDMF",20,0,2030-06-30,15,1300,0,0.9,Denmark,Denmark,left,177,68,no
+S. Hansen,Randers,"RCMF, RDMF",20,0,2029-06-30,6,196,0,0.04,Denmark,Denmark,right,0,0,no
+A. Şimşir,Trabzonspor,LW,24,0,2030-06-30,25,1581,4,4.7,Denmark,"Denmark, Türkiye",right,175,71,no
+Sauli Väisänen,Ilves,LCB,32,0,2028-12-31,3,31,0,0.0,Finland,Finland,right,191,77,no
+J. Larsson,København,"RWF, CF, LWF",29,0,2029-06-30,23,1057,3,2.79,Netherlands,"Netherlands, Sweden",left,175,68,no
