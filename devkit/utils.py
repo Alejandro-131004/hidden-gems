@@ -81,7 +81,8 @@ def mkSeasonDf(folder_name, root="../data", league_from=parse_league,
         print(f"\nTotal: {len(combined)} rows, "
               f"{combined['league'].nunique() if not combined.empty else 0} leagues")
 
-    print(f"\nFLAGGED [{folder_name}]: under {min_cols} columns! ({len(flagged)}):")
-    for sub, name, n in flagged: print(f"  ! {sub}  :  {n} cols (missing {min_cols - n})")
+    if len(flagged) > 0:
+        print(f"\nFLAGGED [{folder_name}]: under {min_cols} columns! ({len(flagged)}):")
+        for sub, name, n in flagged: print(f"  ! {sub}  :  {n} cols (missing {min_cols - n})")
 
     return combined
