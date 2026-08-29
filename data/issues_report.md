@@ -1,5 +1,17 @@
 # Skipped Leagues - Season - Reason
 
+## Instructions
+
+In order to properly download everything consistently, please ensure:
+
+ 1. Columns view is set to `All Columns`, only 16 columns will be downloaded instead of 115 unless you enable this option
+ 2. Language is set to `English`
+ 3. `Age` filter is already enabled
+ 4. Full size is checked whenever `Age` filter spans its full size (usually 0-60)
+ 5. Text file name corresponds to the correct file size
+ 6. If the dataset presents any issues, use identifiers below
+    1. If issue is not marked yet, create it
+
 ## Disclaimer
 
 **Any player with no `Age` feature (age not disclosed) is automatically ignored by the filter. We apologize for this inconvenience, but it is unavoidable unless we take 2x longer to download, which is already a very slow process.**
