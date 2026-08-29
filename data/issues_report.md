@@ -31,11 +31,12 @@ In order to properly download everything consistently, please ensure:
  2. 11 - [ESP] - (Segunda Division RFEF): **NaN**
  3. 14 - [FRA] - (National 1): **NaN**
 
-
 ## 2024-2025
 
 ### Green Priority
 
+ 1. 11 - [ESP] - (Segunda Division RFEF): **IS**
+ 2. 22 - [POR] - (Campeonato de Portugal): **NaN**
 
 
 
@@ -44,17 +45,23 @@ In order to properly download everything consistently, please ensure:
 ### Green Priority
 
  1. 11 - [ESP] - (Segunda Division RFEF): **IS**
-
+ 2. 16 - [GRE] - (Super League 2): **NaN**
+ 3. 22 - [POR] - (Campeonato de Portugal): **NaN**
 
 ## 2022-2023
 
 ### Green Priority
 
  1. 11 - [ESP] - (Segunda Division RFEF): **NaN**
-
+ 2. 14 - [FRA] - (National 1): **NaN**
+ 3. 16 - [GRE] - (Super League 2): **NaN**
+ 4. 22 - [POR] - (Campeonato de Portugal): **NaN**
 
 ## 2021-2022
 
 ### Green Priority
 
  1. 11 - [ESP] - (Segunda Division RFEF): **NaN**
+ 2. 14 - [FRA] - (National 1): **NaN**
+ 3. 16 - [GRE] - (Super League 2): **NaN**
+ 4. 22 - [POR] - (Campeonato de Portugal): **NaN**
