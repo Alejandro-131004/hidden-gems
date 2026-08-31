@@ -22,13 +22,26 @@ each section starts on its own page. No extra dependency; the browser makes the 
 Run:
     python generate.py                     # uses ../data/sample.xlsx, writes ./dashboard.html
     python generate.py --data path.csv --out out.html
+
+Auto-deploy to Netlify (needs `pip install requests`):
+    Put two plain-text files ONE LEVEL ABOVE the repo (kept out of git):
+        netlify.txt   -> your Netlify personal access token (nfp_...)
+        site_id.txt   -> the Netlify site id to deploy to
+    Then every run deploys automatically:
+        python generate.py                 # builds AND deploys to that site
+        python generate.py --no-deploy     # build only, skip the deploy
+    Environment variables NETLIFY_AUTH_TOKEN / NETLIFY_SITE_ID override the files.
 """
 
 from __future__ import annotations
 
 import argparse
+import io
 import json
+import os
 import unicodedata
+import zipfile
+from datetime import datetime
 from pathlib import Path
 
 import numpy as np
@@ -176,6 +189,76 @@ def compute(att: pd.DataFrame) -> dict:
 def render_html(data: dict) -> str:
     payload = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
     return HTML_TEMPLATE.replace("/*__DATA__*/", payload)
+
+
+# ---------------------------------------------------------------- deploy
+
+def deploy_netlify(html_path: Path, token: str, site_id: str | None = None,
+                   site_name: str | None = None) -> dict:
+    """Deploy the HTML to Netlify via the file-digest API.
+
+    We declare the file by its SHA1 and PUT it to the path `/index.html`, so
+    Netlify serves it with the correct `text/html` content type (a raw zip
+    upload can end up served as text/plain — the "raw HTML" bug this fixes).
+
+    Needs a Netlify personal access token — never hard-code it. With no site_id
+    a new site is created.
+    """
+    import hashlib
+    import requests  # local import so the generator runs without it when not deploying
+
+    base = "https://api.netlify.com/api/v1"
+    hdr = {"Authorization": f"Bearer {token}"}
+
+    if not site_id:
+        body = {"name": site_name} if site_name else {}
+        r = requests.post(f"{base}/sites", headers=hdr, json=body, timeout=60)
+        r.raise_for_status()
+        site_id = r.json()["id"]
+
+    payload = Path(html_path).read_bytes()
+    sha1 = hashlib.sha1(payload).hexdigest()
+
+    # 1) declare the deploy: map the served path -> file digest
+    r = requests.post(f"{base}/sites/{site_id}/deploys",
+                      headers={**hdr, "Content-Type": "application/json"},
+                      json={"files": {"/index.html": sha1}}, timeout=60)
+    r.raise_for_status()
+    dep = r.json()
+    dep_id = dep["id"]
+
+    # 2) upload the file bytes if Netlify says it needs them (served type comes
+    #    from the .html path, giving text/html)
+    if sha1 in (dep.get("required") or []):
+        u = requests.put(f"{base}/deploys/{dep_id}/files/index.html",
+                         headers={**hdr, "Content-Type": "application/octet-stream"},
+                         data=payload, timeout=180)
+        u.raise_for_status()
+
+    return {
+        "site_id": site_id,
+        "url": dep.get("ssl_url") or dep.get("url"),               # site's live URL
+        "deploy_url": dep.get("deploy_ssl_url") or dep.get("deploy_url"),  # this build's permalink
+    }
+
+
+def _read_secret(path: Path) -> str | None:
+    """Read a one-line secret file; return None if missing or empty."""
+    try:
+        val = path.read_text(encoding="utf-8").strip()
+        return val or None
+    except OSError:
+        return None
+
+
+def resolve_secrets(script_dir: Path):
+    """Token + site id: environment variables win, else the two files one level
+    above the repo. `script_dir` is the folder holding this script (…/project),
+    so the repo root is its parent and the secrets sit in the repo's parent."""
+    secrets_dir = script_dir.parent.parent          # project/ -> repo -> one above repo
+    token = os.environ.get("NETLIFY_AUTH_TOKEN") or _read_secret(secrets_dir / "netlify.txt")
+    site_id = os.environ.get("NETLIFY_SITE_ID") or _read_secret(secrets_dir / "site_id.txt")
+    return token, site_id, secrets_dir
 
 
 HTML_TEMPLATE = r"""<!DOCTYPE html>
@@ -606,7 +689,7 @@ $('themeBtn').onclick=()=>{light=!light;document.documentElement.style.colorSche
   else{['--bg','--card','--card2','--ink','--ink2','--muted','--line','--grid'].forEach(v=>r.removeProperty(v));$('themeBtn').textContent='Light';}
   render();renderStatic();};
 
-$('foot').textContent=`Demo dashboard · ${M.nAttackers} attackers from the sample · "AI recommendations" = top-N by the chosen sort. Not a valuation.`;
+$('foot').textContent=`Demo dashboard · ${M.nAttackers} attackers from the sample · "AI recommendations" = top-N by the chosen sort. Not a valuation.`+(M.built?`  ·  Generated & deployed: ${M.built}`:'');
 render();renderStatic();
 </script>
 </body>
@@ -619,14 +702,31 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--data", default=str(here.parent / "data" / "sample.xlsx"))
     ap.add_argument("--out", default=str(here / "dashboard.html"))
+    ap.add_argument("--no-deploy", action="store_true", help="build only, do not deploy")
     args = ap.parse_args()
 
     df = load(Path(args.data))
     att = build_frame(df)
     data = compute(att)
+    data["meta"]["built"] = datetime.now().astimezone().strftime("%Y-%m-%d %H:%M %Z")
     html = render_html(data)
     Path(args.out).write_text(html, encoding="utf-8")
     print(f"wrote {args.out}  ({len(att)} attackers, {len(html)//1024} KB)")
+
+    if args.no_deploy:
+        return
+
+    token, site_id, secrets_dir = resolve_secrets(here)
+    if not token or not site_id:
+        missing = ", ".join(f for f, v in [("netlify.txt", token), ("site_id.txt", site_id)] if not v)
+        print(f"! deploy skipped — missing {missing} in {secrets_dir}")
+        return
+    try:
+        info = deploy_netlify(Path(args.out), token, site_id)
+        print(f"deployed  → {info['url']}")
+        print(f"this build → {info['deploy_url']}")
+    except Exception as e:  # noqa: BLE001
+        print(f"! deploy failed: {e}")
 
 
 if __name__ == "__main__":
