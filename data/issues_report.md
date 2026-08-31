@@ -31,12 +31,26 @@ In order to properly download everything consistently, please ensure:
  2. 11 - [ESP] - (Segunda Division RFEF): **NaN**
  3. 14 - [FRA] - (National 1): **NaN**
 
+### Yellow Priority
+
+ 1. 36 - [CRO] - (First NL): **NaN**
+ 2. 41 - [USA] - (Major League Soccer): It can be considered **NaN**, the league is not even in the wyscout
+ 3. 42 - [USA] - (USL Championship): It can be considered **NaN**, the league is not even in the wyscout
+ 4. 46 - [ITA] - (Serie C): **IS**
+
 ## 2024-2025
 
 ### Green Priority
 
  1. 11 - [ESP] - (Segunda Division RFEF): **IS**
  2. 22 - [POR] - (Campeonato de Portugal): **NaN**
+
+### Yellow Priority
+
+ 1. 36 - [CRO] - (First NL): **NaN**
+ 2. 41 - [USA] - (Major League Soccer): It can be considered **NaN**, the league is not even in the wyscout
+ 3. 42 - [USA] - (USL Championship): It can be considered **NaN**, the league is not even in the wyscout
+ 4. 46 - [ITA] - (Serie C): **IS**
 
 
 
@@ -48,6 +62,14 @@ In order to properly download everything consistently, please ensure:
  2. 16 - [GRE] - (Super League 2): **NaN**
  3. 22 - [POR] - (Campeonato de Portugal): **NaN**
 
+### Yellow Priority
+
+ 1. 36 - [CRO] - (First NL): **NaN**
+ 2. 41 - [USA] - (Major League Soccer): It can be considered **NaN**, the league is not even in the wyscout
+ 3. 42 - [USA] - (USL Championship): It can be considered **NaN**, the league is not even in the wyscout
+ 4. 46 - [ITA] - (Serie C): **IS**
+
+
 ## 2022-2023
 
 ### Green Priority
@@ -56,6 +78,14 @@ In order to properly download everything consistently, please ensure:
  2. 14 - [FRA] - (National 1): **NaN**
  3. 16 - [GRE] - (Super League 2): **NaN**
  4. 22 - [POR] - (Campeonato de Portugal): **NaN**
+ 
+### Yellow Priority
+
+ 1. 36 - [CRO] - (First NL): **NaN**
+ 2. 41 - [USA] - (Major League Soccer): It can be considered **NaN**, the league is not even in the wyscout
+ 3. 42 - [USA] - (USL Championship): It can be considered **NaN**, the league is not even in the wyscout
+ 4. 46 - [ITA] - (Serie C): **IS**
+
 
 ## 2021-2022
 
@@ -65,3 +95,10 @@ In order to properly download everything consistently, please ensure:
  2. 14 - [FRA] - (National 1): **NaN**
  3. 16 - [GRE] - (Super League 2): **NaN**
  4. 22 - [POR] - (Campeonato de Portugal): **NaN**
+
+### Yellow Priority
+
+ 1. 36 - [CRO] - (First NL): **NaN**
+ 2. 41 - [USA] - (Major League Soccer): It can be considered **NaN**, the league is not even in the wyscout
+ 3. 42 - [USA] - (USL Championship): It can be considered **NaN**, the league is not even in the wyscout
+ 4. 46 - [ITA] - (Serie C): **IS**
