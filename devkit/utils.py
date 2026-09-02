@@ -3,6 +3,7 @@
 import re
 from pathlib import Path
 import pandas as pd
+import textwrap
 
 LEAGUE_RE = re.compile(r"\(([^)]+)\)")
 COUNTRY_RE = re.compile(r"\[([^\]]+)\]")
@@ -86,3 +87,57 @@ def mkSeasonDf(folder_name, root="../data", league_from=parse_league,
         for sub, name, n in flagged: print(f"  ! {sub}  :  {n} cols (missing {min_cols - n})")
 
     return combined
+
+# Identify NaN
+
+def nan_groups(df, name="", verbose=1, drop_zero=False, ax=None):
+    """Group columns by identical NaN counts. Plot group sizes vs % NaN, then list members."""
+    n_rows = len(df)
+    nan_count = df.isna().sum()
+    if drop_zero:
+        nan_count = nan_count[nan_count > 0]
+    if nan_count.empty:
+        print(f"{name}: no NaNs anywhere")
+        return {}
+
+    pct = (nan_count / n_rows * 100).round(2)
+    groups = {p: list(pct.index[pct == p]) for p in sorted(pct.unique(), reverse=False)}
+
+    # ---------- plot ----------
+    if ax is None:
+        _, ax = plt.subplots(figsize=(10, 4))
+    xs = [f"{p:.2f}%" for p in groups]
+    ys = [len(v) for v in groups.values()]
+    pos = range(len(xs))
+
+    bars = ax.bar(pos, ys, color="steelblue", width=0.75)
+    top = max(ys)
+    for b, y in zip(bars, ys):
+        inside = b.get_height() >= top * 0.08          # too short to hold a label
+        ax.text(b.get_x() + b.get_width() / 2,
+                b.get_height() - top * 0.03 if inside else b.get_height() + top * 0.015,
+                str(y),
+                ha="center", va="top" if inside else "bottom",
+                fontsize=8, fontweight="bold",
+                color="white" if inside else "black")
+
+    ax.set_xticks(pos, xs, rotation=90, fontsize=8)
+    ax.set_ylim(0, top * 1.12)
+    ax.set_xlabel("% NaN")
+    ax.set_ylabel("columns in group")
+    ax.set_title(f"{name}  —  {len(pct)} columns, {len(groups)} distinct NaN levels")
+    ax.grid(axis="y", alpha=0.3)
+    ax.set_axisbelow(True)
+
+    # ---------- print ----------
+    if verbose:
+        width = max(len(f"{p:.2f}") for p in groups)
+        print(f"\n{'=' * 70}\n{name}   ({n_rows} rows, {len(pct)} columns)\n{'=' * 70}")
+        for p, cols in groups.items():
+            members = cols if verbose >= 2 else [df.columns.get_loc(c) for c in cols]
+            body = ", ".join(map(str, members))
+            head = f"{p:>{width}.2f}%  n={len(cols):<4}"
+            print(textwrap.fill(body, width=100, initial_indent=head + " [",
+                    subsequent_indent=" " * (len(head) + 2)) + "]")
+    pos_of = {c: i for i, c in enumerate(df.columns)}
+    return {f"{p:.2f}": [pos_of[c] for c in cols] for p, cols in groups.items()}
