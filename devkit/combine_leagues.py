@@ -57,9 +57,9 @@ def combine_one(folder):
 
     dest = folder / f"{folder.name}.csv"
     df.to_csv(dest, index=False, encoding="utf-8-sig")
-    print(f"  {folder.name}")
-    print(f"      {len(xlsx)} file(s) -> {len(df)} rows "
-          f"({removed} duplicate{'s' if removed != 1 else ''} removed) -> {dest.name}")
+    #print(f"  {folder.name}")
+    #print(f"      {len(xlsx)} file(s) -> {len(df)} rows "
+    #      f"({removed} duplicate{'s' if removed != 1 else ''} removed) -> {dest.name}")
 
     # verify against SIZE.txt (the Wyscout result count you recorded)
     verify(folder, len(df))
@@ -86,11 +86,13 @@ def verify(folder, n_rows):
         return
 
     t, expected = numbered[0]
-    if expected == n_rows:
-        print(f"      VERIFY OK  ({n_rows} rows = {t.name})")
-    else:
+    if expected != n_rows:
+        print(f"  {folder.name}")
         print(f"      VERIFY FAIL  csv has {n_rows} rows but {t.name} says {expected} "
               f"(off by {n_rows - expected:+d})")
+
+
+    # print(f"      VERIFY OK  ({n_rows} rows = {t.name})")
 
 
 def main():
