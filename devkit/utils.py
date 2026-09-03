@@ -4,10 +4,23 @@ import re
 from pathlib import Path
 import pandas as pd
 import textwrap
+import numpy as np
 
 LEAGUE_RE = re.compile(r"\(([^)]+)\)")
 COUNTRY_RE = re.compile(r"\[([^\]]+)\]")
 
+# Maps Wyscout primary position code -> role bucket
+ROLE = {}
+for p in ["GK"]:                         ROLE[p] = "GK"
+for p in ["CB","RCB","LCB"]:             ROLE[p] = "CB"
+for p in ["RB","LB","RWB","LWB"]:        ROLE[p] = "FB"
+for p in ["DMF","RDMF","LDMF"]:          ROLE[p] = "DM"
+for p in ["CMF","RCMF","LCMF"]:          ROLE[p] = "CM"
+for p in ["AMF"]:                        ROLE[p] = "AM"
+for p in ["LW","RW","LWF","RWF","LAMF","RAMF"]: ROLE[p] = "W"
+for p in ["CF"]:                         ROLE[p] = "CF"
+
+LEADS = set(k for k in ROLE.values())
 
 #-------------------- Functions --------------------------#
 
@@ -88,7 +101,7 @@ def mkSeasonDf(folder_name, root="../data", league_from=parse_league,
 
     return combined
 
-# Identify NaN
+# Identify NaN (Global, with Plots)
 
 def nan_groups(df, name="", verbose=1, drop_zero=False, ax=None):
     """Group columns by identical NaN counts. Plot group sizes vs % NaN, then list members."""
@@ -141,3 +154,8 @@ def nan_groups(df, name="", verbose=1, drop_zero=False, ax=None):
                     subsequent_indent=" " * (len(head) + 2)) + "]")
     pos_of = {c: i for i, c in enumerate(df.columns)}
     return {f"{p:.2f}": [pos_of[c] for c in cols] for p, cols in groups.items()}
+
+
+
+# Identify NaN (Role Specific)
+
