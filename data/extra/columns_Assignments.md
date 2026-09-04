@@ -1,56 +1,117 @@
-# Simplification 1
+# Simplification I: Separating Essentials & Extras, as well as Major Groups 
 
-## All
+## Some Clarifications
 
-league
+ - `xG`: expected Goals, a statistical model provided by the Wyscout platform that measures the quality and probability of a football shot resulting in a goal
+ - `xA`: expected Assists, a statistical model provided by the Wyscout platform that measures the quality and probability of a football shot resulting in an assist
+
+## Features that Might Introduce Bias
+
 Player
 Team
 Team within selected timeframe
+
+## Potential Target Features
+
+xG 
+xG per 90
+
+xA
+
+
+### Hypothetical Feature Combinations
+
+ - a ratio between xG and Goals / xA and Assists for strikers and midfield for the following seasons (can be computed any time, but t+1 must be predicted)
+
+## Essentials
+
+### Personal Information
+
+league
 Position
 Age
 Market value
 Contract expires
-Matches played
-Minutes played
-Goals
-xG
-Assists
-xA
-Duels per 90
-Duels won, %
 Birth country
 Passport country
 Foot
 Height
 Weight
 On loan
-Successful defensive actions per 90
-Defensive duels per 90
-Defensive duels won, %
-Aerial duels per 90
-Aerial duels won, %
+Matches played
+Minutes played
+
+### Important for the Algorithm
+
+#### Performance 
+
+Assists
+Assists per 90
+
+Duels per 90
+Duels won, %
+
+Shots on target, %
+
+#### Rule-Breaking & Behaviour
+
 Sliding tackles per 90
-PAdj Sliding tackles
-Shots blocked per 90
-Interceptions per 90
-PAdj Interceptions
+
 Fouls per 90
+Fouls suffered per 90
+
 Yellow cards
 Yellow cards per 90
+
 Red cards
 Red cards per 90
+
+
+## Defensive
+
+Successful defensive actions per 90
+
+Shots blocked per 90
+Interceptions per 90
+
+Defensive duels per 90
+Defensive duels won, %
+
+## Attacking
+
 Successful attacking actions per 90
+
+Goals
 Goals per 90
+
 Non-penalty goals
 Non-penalty goals per 90
-xG per 90
+
 Head goals
 Head goals per 90
+
+
+Goal conversion, %
+
+xG 
+xG per 90
+
+xA
+
+
+### Extra Information
+
+PAdj Sliding tackles
+PAdj Interceptions
+
 Shots
 Shots per 90
-Shots on target, %
-Goal conversion, %
-Assists per 90
+
+
+Aerial duels per 90
+Aerial duels won, %
+
+
 Crosses per 90
 Accurate crosses, %
 Crosses from left flank per 90
@@ -58,16 +119,21 @@ Accurate crosses from left flank, %
 Crosses from right flank per 90
 Accurate crosses from right flank, %
 Crosses to goalie box per 90
+
 Dribbles per 90
 Successful dribbles, %
 Offensive duels per 90
 Offensive duels won, %
+
 Touches in box per 90
+
 Progressive runs per 90
 Accelerations per 90
+
 Received passes per 90
 Received long passes per 90
-Fouls suffered per 90
+
+
 Passes per 90
 Accurate passes, %
 Forward passes per 90
@@ -106,24 +172,11 @@ Corners per 90
 Penalties taken
 Penalty conversion, %
 
+### Can Ignore 
+
 ## GK
 
-league
-Player
-Team
-Team within selected timeframe
-Position
-Age
-Market value
-Contract expires
-Matches played
-Minutes played
-Birth country
-Passport country
-Foot
-Height
-Weight
-On loan
+
 Conceded goals
 Conceded goals per 90
 against per 90
@@ -137,8 +190,4 @@ Prevented goals per 90
 Back passes received as GK per 90
 Exits per 90
 Aerial duels per 90.
-
-## Code
-
-Splits between Goalkeepers and Non Goalkeepers:
 
